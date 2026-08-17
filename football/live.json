@@ -1,9 +1,103 @@
 {
   "category_name": "Football Live",
-  "total_items": 2,
-  "updated_time_bd": "2026-08-17 | 22:59:44",
+  "total_items": 6,
+  "updated_time_bd": "2026-08-17 | 23:08:18",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "brondby-vs-sonderjyske-football-1548995",
+      "title": "Brondby vs Sonderjyske",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "17 Aug 2026, 05:00 PM (BD Time)",
+      "poster": "https://streamed.pk/favicon.ico",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "total_streams": 1,
+      "streams": [
+        {
+          "streamNo": 1,
+          "channel_name": "Brondby vs Sonderjyske (HD)",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/eomgyhbToUOxxhbRrKNfxFXiGMlsYvXv/echo/stream/brondby-vs-sonderjyske-football-1548995/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "felgueiras-vs-avs-2512940",
+      "title": "Felgueiras vs AVS",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "17 Aug 2026, 05:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoLCkQMYAAZOIXiCwgz0kyGo6jIRPBZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "total_streams": 1,
+      "streams": [
+        {
+          "streamNo": 1,
+          "channel_name": "Felgueiras vs AVS (HD)",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/iiQKwOsjElnOBgpxKQavEThmRgFJWZFA/echo/stream/felgueiras-1932-vs-avs-football-1576452/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "sporting-de-gij-n-vs-sabadell-2505713",
+      "title": "Sporting de Gijón vs Sabadell",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "17 Aug 2026, 05:00 PM (BD Time)",
+      "poster": "https://streamed.pk/favicon.ico",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "total_streams": 1,
+      "streams": [
+        {
+          "streamNo": 1,
+          "channel_name": "Sporting de Gijón vs Sabadell (HD)",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/cotGUrEOwDJlVxTwlWXSMZmuFDwxVxvL/echo/stream/sporting-gijon-vs-sabadell-football-1569876/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "h-cken-vs-halmstad-2477934",
+      "title": "Häcken vs Halmstad",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "17 Aug 2026, 05:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBIhahGHJDcQUkHxBbjIbZZMgFTJBT7DZ9FJrYoum8vSyzPTLRg7vSiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "total_streams": 2,
+      "streams": [
+        {
+          "streamNo": 1,
+          "channel_name": "Swedish - TV4 Fotboll (HD)",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/jMcCHOMUXYNwmatqzwRolHbSBiOrFIpu/rtmp/stream/_BMeVwH9prHWHHtrGigNIuXy6EB0BCCGFsJHsgRXxwYXC33TXkAhTEwtdvs_GzRr-C2b-Hc0zNjw/1/playlist.m3u8"
+        },
+        {
+          "streamNo": 2,
+          "channel_name": "Swedish - TV4 Fotboll (SD)",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/yeNcOuLSQWgTzzmXzkZuIGSDsMCbGvqO/rtmp/stream/cE2ku6vIHsAI0itgojTODr1vlpmC-pLCDSl-j6HtWlCPzqtRByCDiXtH4CA_OdhGKvZ5Uq84iJ3pQsQ5MA/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "sassuolo-vs-cesena-2502882",
       "title": "Sassuolo vs Cesena",
@@ -22,13 +116,13 @@
           "streamNo": 1,
           "channel_name": "Sassuolo vs Cesena (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/KrJgcxCLcaKdjosRZQkkKxBbwmLqSTwO/delta/stream/live_coppa-italia_sassuolo-cesena-live-streaming-605117088/1/playlist.m3u8"
+          "direct_stream_url": "https://lb8.strmd.st/secure/zPJnxfHCDZmNAFtTKLxuWWKxHZtKEXTl/delta/stream/live_coppa-italia_sassuolo-cesena-live-streaming-605117088/1/playlist.m3u8"
         },
         {
           "streamNo": 1,
           "channel_name": "Sassuolo vs Cesena (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/WDHmdKhDVppxKhnarnNEWaDNzLcNEsgA/echo/stream/sassuolo-vs-cesena-football-1564803/1/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/GeqbxIVdZsqEijMoQZszEWgeMQgpMgsY/echo/stream/sassuolo-vs-cesena-football-1564803/1/playlist.m3u8"
         }
       ]
     },
@@ -50,13 +144,13 @@
           "streamNo": 1,
           "channel_name": "Pisa vs Empoli (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/LrRNmlSoFHdWDUmFUHaKQrtZdzJwwUYj/delta/stream/live_coppa-italia_pisa-empoli-live-streaming-605116656/1/playlist.m3u8"
+          "direct_stream_url": "https://lb13.strmd.st/secure/DLxRrNFYAHsBSmjJFIGaVbumalWXAAJT/delta/stream/live_coppa-italia_pisa-empoli-live-streaming-605116656/1/playlist.m3u8"
         },
         {
           "streamNo": 1,
           "channel_name": "Pisa vs Empoli (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/nmMbRgehpLrxCtQTORVSaTrLOhhGmdEG/echo/stream/pisa-vs-empoli-football-1564802/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/SVRcuCUylsmBiHWkCXsSdWwdAFKTKYmT/echo/stream/pisa-vs-empoli-football-1564802/1/playlist.m3u8"
         }
       ]
     }
