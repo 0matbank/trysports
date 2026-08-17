@@ -1,7 +1,7 @@
 {
   "category_name": "Cricket Live",
-  "total_items": 1,
-  "updated_time_bd": "2026-08-17 | 23:42:23",
+  "total_items": 6,
+  "updated_time_bd": "2026-08-17 | 23:42:39",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -22,37 +22,37 @@
           "streamNo": 1,
           "channel_name": "Willow Cricket - Stream 1 (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/zowuMkmKILXVXErlIXXkEXQoeWMzZKGl/rtmp/stream/streamed-willow_720/1/playlist.m3u8"
+          "direct_stream_url": "https://lb13.strmd.st/secure/UWZdlPtZsmSmuzFDPJiyxPFVtXrdTxYv/rtmp/stream/streamed-willow_720/1/playlist.m3u8"
         },
         {
           "streamNo": 2,
           "channel_name": "Willow 2 (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/zznfgTSKXOiqcqFNPJogsfJVNnqamIrR/rtmp/stream/streamed-willow2_720/1/playlist.m3u8"
+          "direct_stream_url": "https://lb9.strmd.st/secure/cySUHNJTFxAQPujgxPjDcKsWUmFJEnjk/rtmp/stream/streamed-willow2_720/1/playlist.m3u8"
         },
         {
           "streamNo": 3,
           "channel_name": "Willow Sports (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/vVzHILFDQhsCCvBCXgFptHayoAcOEyHn/rtmp/stream/streamed-willowsports_720/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/GUltIxGGTPbVcEbYbApDCoJPbuhbqRKr/rtmp/stream/streamed-willowsports_720/1/playlist.m3u8"
         },
         {
           "streamNo": 4,
           "channel_name": "Willow Cricket - Stream 4 (SD)",
           "hd": false,
-          "direct_stream_url": "https://lb4.strmd.st/secure/ZzeFBVGtXZNgquxipcBHhLZQpmMkwiBE/rtmp/stream/streamed-willow_low/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/etWbRBDSiDSSAXQqHeCaedaFTECdvdze/rtmp/stream/streamed-willow_low/1/playlist.m3u8"
         },
         {
           "streamNo": 5,
           "channel_name": "Willow 2 (SD)",
           "hd": false,
-          "direct_stream_url": "https://lb13.strmd.st/secure/hcHLwdyWtnlWUhHTJaIYpQXhGxdaVMXT/rtmp/stream/streamed-willow2_low/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/yKpkrhvpzlvMkHdJIZindfWwWXDioHeQ/rtmp/stream/streamed-willow2_low/1/playlist.m3u8"
         },
         {
           "streamNo": 6,
           "channel_name": "Willow Sports (SD)",
           "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/tNnKykktgSkZGsiXChXmsAgJCZtykHxa/rtmp/stream/streamed-willowsports_low/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/zxnZKqsZpwTWyJguixPXQRnYSRCsyMcD/rtmp/stream/streamed-willowsports_low/1/playlist.m3u8"
         }
       ]
     }
