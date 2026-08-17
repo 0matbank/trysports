@@ -12,9 +12,9 @@ on:
 permissions:
   contents: write
 
-# Node 20 deprecation warning রিমুভ করার এনভায়রনমেন্ট
+# Node.js 24 এ ফোর্স করে ইয়েলো অ্যানোটেশন ওয়ার্নিং সম্পূর্ণ রিমুভ করা
 env:
-  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: "true"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
   STREAM_SITE_URL: ${{ secrets.STREAM_SITE_URL }}
 
 jobs:
