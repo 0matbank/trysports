@@ -12,6 +12,11 @@ on:
 permissions:
   contents: write
 
+# Node 20 deprecation warning রিমুভ করার এনভায়রনমেন্ট
+env:
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: "true"
+  STREAM_SITE_URL: ${{ secrets.STREAM_SITE_URL }}
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
@@ -53,8 +58,6 @@ jobs:
           playwright install-deps chromium
 
       - name: Scan & Fetch Direct Streams
-        env:
-          STREAM_SITE_URL: ${{ secrets.STREAM_SITE_URL }}
         run: |
           python collect_data.py
 
