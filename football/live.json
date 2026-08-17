@@ -1,9 +1,81 @@
 {
   "category_name": "Football Live",
-  "total_items": 9,
-  "updated_time_bd": "2026-08-17 | 23:42:43",
+  "total_items": 10,
+  "updated_time_bd": "2026-08-18 | 00:50:46",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "cremonese-vs-sampdoria-2502883",
+      "title": "Cremonese vs Sampdoria",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "17 Aug 2026, 06:45 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMDCgQveJB0g+IY1JCnjKYyBIh4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "total_streams": 2,
+      "streams": [
+        {
+          "streamNo": 1,
+          "channel_name": "Cremonese vs Sampdoria (HD)",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/BaevVuCrowPNKqlbsYSVYghElTjuwSNQ/delta/stream/live_coppa-italia_cremonese-sampdoria-live-streaming-605117520/1/playlist.m3u8"
+        },
+        {
+          "streamNo": 1,
+          "channel_name": "Cremonese vs Sampdoria (HD)",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/YTeZwmkhtKOvxekNnXWyXtuQWZBdXXMB/echo/stream/cremonese-vs-sampdoria-football-1564804/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "samsunspor-vs-g-ztepe-2527732",
+      "title": "Samsunspor vs Göztepe",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "17 Aug 2026, 06:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFAnYhuYMhG0g+IY1MMgYIU4lMwCwJBT7DZ9DSpRdd5ellkemtGC6YqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "total_streams": 1,
+      "streams": [
+        {
+          "streamNo": 1,
+          "channel_name": "Samsunspor vs Göztepe (HD)",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/IYnBAeVgzHvDcWvqmsdzUePlWFBhnThD/echo/stream/samsunspor-vs-goztepe-football-1584375/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "estudiantes-de-rio-cuarto-vs-atletico-tucuman-football-1493067",
+      "title": "Estudiantes de Rio Cuarto vs Atletico Tucuman",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "17 Aug 2026, 05:45 PM (BD Time)",
+      "poster": "https://streamed.pk/favicon.ico",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "total_streams": 1,
+      "streams": [
+        {
+          "streamNo": 1,
+          "channel_name": "Estudiantes de Rio Cuarto vs Atletico Tucuman (HD)",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/OVYKZlUZRvNsDoavNeJpXMVVgUrircjo/echo/stream/estudiantes-de-rio-cuarto-vs-atletico-tucuman-football-1493067/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "brondby-vs-sonderjyske-football-1548995",
       "title": "Brondby vs Sonderjyske",
@@ -22,7 +94,7 @@
           "streamNo": 1,
           "channel_name": "Brondby vs Sonderjyske (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/IfZRsLzvlBhEPAVErNFzDVpQlrtqMCqL/echo/stream/brondby-vs-sonderjyske-football-1548995/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/oOYeEKQzRlljFqEZgvsaNSFgpXkUXnfO/echo/stream/brondby-vs-sonderjyske-football-1548995/1/playlist.m3u8"
         }
       ]
     },
@@ -32,7 +104,7 @@
       "category": "football",
       "status": "LIVE_NOW",
       "start_time_bd": "17 Aug 2026, 05:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoLCkQMYAAZOIXiCwgz0kyGo6jIRPBZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAWFIgYwAAzsQ3EHxCmpx3NsMhE8AsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -44,7 +116,7 @@
           "streamNo": 1,
           "channel_name": "Felgueiras vs AVS (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/VmaBOEfjQogFzutGLQOFmRvIGuFUnUxg/echo/stream/felgueiras-1932-vs-avs-football-1576452/1/playlist.m3u8"
+          "direct_stream_url": "https://lb4.strmd.st/secure/tSSYvEaAZmnXkGyiLTtqhKJgYQXuTHZi/echo/stream/felgueiras-1932-vs-avs-football-1576452/1/playlist.m3u8"
         }
       ]
     },
@@ -66,7 +138,7 @@
           "streamNo": 1,
           "channel_name": "Sporting de Gijón vs Sabadell (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/xNrhOmVhEVffhaIyJSlLKEjovHDFVikR/echo/stream/sporting-gijon-vs-sabadell-football-1569876/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/jBnUjzCBnNIduTbrPHXidIvqCaSJMBXY/echo/stream/sporting-gijon-vs-sabadell-football-1569876/1/playlist.m3u8"
         }
       ]
     },
@@ -88,41 +160,13 @@
           "streamNo": 1,
           "channel_name": "Swedish - TV4 Fotboll (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/fBRoXTpFGGrGShbforkQUXxcLDNrNWTZ/rtmp/stream/mTBZMCJnBJUrUD2zlP4l0rd-RD-2Xm2oV1eXAPXz_IT5vP6_zNjAj2jSxoCBDPuqv2BI_4SBvHdy/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/WalwJveleboEgBWeIwBTKOjBgFkFdOLo/rtmp/stream/GlEqzCkKjSmowoBFuy290vU6u9ZkLBKTtp9Lszpso5g5YnR9fHmkhvKIX6OOluMgPeEESfQTxdcr/1/playlist.m3u8"
         },
         {
           "streamNo": 2,
           "channel_name": "Swedish - TV4 Fotboll (SD)",
           "hd": false,
-          "direct_stream_url": "https://lb12.strmd.st/secure/ojBxHOSxOyZJQlDFFPIvmgAqKRUDkqDI/rtmp/stream/7z0D7T0GgsWFCsszZya8kPA8FFnguZDR6zgL0b9NmRKFNHUhmMCttj-ceox0bjQThDYcbKsF8DNSNK_rDA/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "sassuolo-vs-cesena-2502882",
-      "title": "Sassuolo vs Cesena",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "17 Aug 2026, 04:30 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBikQIViDG8QhrDpDSzplKZIhm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "total_streams": 2,
-      "streams": [
-        {
-          "streamNo": 1,
-          "channel_name": "Sassuolo vs Cesena (HD)",
-          "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/LJRJAsclqQMoSBXUSYQIMYsnmKofFlMa/delta/stream/live_coppa-italia_sassuolo-cesena-live-streaming-605117088/1/playlist.m3u8"
-        },
-        {
-          "streamNo": 1,
-          "channel_name": "Sassuolo vs Cesena (HD)",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/EUQomnvUTUTrFOQIrRGDnvaGDEidbfuq/echo/stream/sassuolo-vs-cesena-football-1564803/1/playlist.m3u8"
+          "direct_stream_url": "https://lb9.strmd.st/secure/TPucupCkqoIHmrBbksuVLQPgTPDVntpO/rtmp/stream/NvJ8LdT0P0vezC31RgkdpBUPX7YutAK6-kdvuq3jpRgshLuzmoaSflZcer8frBQnZmERyfzcKKPZv__pLA/1/playlist.m3u8"
         }
       ]
     },
@@ -132,25 +176,19 @@
       "category": "football",
       "status": "LIVE_NOW",
       "start_time_bd": "17 Aug 2026, 04:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBSV5IKLIgheILCFPSQ50ylMgShlkgpYRcxijCqtHD+UbU5WviswGAe4mIQQA.webp",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECkpyQUGRBDcQfECakgzJlCZAkDBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
         "Origin": "https://embed.st"
       },
-      "total_streams": 2,
+      "total_streams": 1,
       "streams": [
         {
           "streamNo": 1,
           "channel_name": "Pisa vs Empoli (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/hxCNLoiHqNmmAIMwcibMotyhHKWDvCDO/delta/stream/live_coppa-italia_pisa-empoli-live-streaming-605116656/1/playlist.m3u8"
-        },
-        {
-          "streamNo": 1,
-          "channel_name": "Pisa vs Empoli (HD)",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/TkoskNTJLoDPCVetxPtFCPHmqihfDRlE/echo/stream/pisa-vs-empoli-football-1564802/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/hMdZdHJCaVVUOkJWragswiQevqyUXVLk/echo/stream/pisa-vs-empoli-football-1564802/1/playlist.m3u8"
         }
       ]
     }
