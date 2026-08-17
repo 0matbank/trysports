@@ -1,9 +1,31 @@
 {
   "category_name": "Football Live",
-  "total_items": 14,
-  "updated_time_bd": "2026-08-18 | 03:33:52",
+  "total_items": 4,
+  "updated_time_bd": "2026-08-18 | 04:31:47",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "v-lez-sarsfield-vs-defensa-y-justicia-2398025",
+      "title": "Vélez Sarsfield vs Defensa y Justicia",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "17 Aug 2026, 10:15 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRHxBl6wMCBDcQmqSBQgTmzTjNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "total_streams": 1,
+      "streams": [
+        {
+          "streamNo": 1,
+          "channel_name": "Vélez Sarsfield vs Defensa y Justicia (HD)",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/vYlLAiJTPmYESIOvvuftOthfHytFwNmC/echo/stream/velez-sarsfield-vs-defensa-y-justicia-football-1493076/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "atl-tico-bucaramanga-vs-deportivo-pasto-2481127",
       "title": "Atlético Bucaramanga vs Deportivo Pasto",
@@ -22,51 +44,7 @@
           "streamNo": 1,
           "channel_name": "Atlético Bucaramanga vs Deportivo Pasto (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/ZPaVSCHkdYvuxeFDpaeqfqrmOASovRcZ/echo/stream/bucaramanga-vs-deportivo-pasto-football-1549725/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "lanus-vs-independiente-football-1493069",
-      "title": "Lanus vs Independiente",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "17 Aug 2026, 08:00 PM (BD Time)",
-      "poster": "https://streamed.pk/favicon.ico",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "total_streams": 1,
-      "streams": [
-        {
-          "streamNo": 1,
-          "channel_name": "Lanus vs Independiente (HD)",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/vpXbmGxQVDDkMRYOUznqaeIPEAgzihOP/echo/stream/lanus-vs-independiente-football-1493069/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "almeria-vs-eldense-football-1569871",
-      "title": "Almeria vs Eldense",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "17 Aug 2026, 07:30 PM (BD Time)",
-      "poster": "https://streamed.pk/favicon.ico",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "total_streams": 1,
-      "streams": [
-        {
-          "streamNo": 1,
-          "channel_name": "Almeria vs Eldense (HD)",
-          "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/jdpGrkIvqWhSHaBObqAgKgsCpHbSJLFT/echo/stream/almeria-vs-eldense-football-1569871/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/ZHQKRkAxLZRslCpzRoLYFiPqzsxQtmnp/echo/stream/bucaramanga-vs-deportivo-pasto-football-1549725/1/playlist.m3u8"
         }
       ]
     },
@@ -88,93 +66,7 @@
           "streamNo": 1,
           "channel_name": "Palermo vs Lecce (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/cEaHRAVKeZgXMZwmHnySzcGHALegKFSm/delta/stream/live_coppa-italia_palermo-lecce-live-streaming-605117952/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "deportivo-de-a-coru-a-vs-elche-2506177",
-      "title": "Deportivo de A Coruña vs Elche",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "17 Aug 2026, 07:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELTDkUYEiG76QfECYggUIGCDNmDMAsCQU+w2fR0qUXXeXpZZXkyaumKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "total_streams": 6,
-      "streams": [
-        {
-          "streamNo": 1,
-          "channel_name": "English - ESPN+ (HD)",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/FrMFpyceMcrqvhAlTmjJtKyFdWYzPmwD/rtmp/stream/BSL0KEn56OjS4TIlsAN5_uERydvYjABAhxd01TgZGDMhrS78BTQhX-1F4AYK5N-N2cq2wQ_v6yg/1/playlist.m3u8"
-        },
-        {
-          "streamNo": 2,
-          "channel_name": "English - ESPN+ (SD)",
-          "hd": false,
-          "direct_stream_url": "https://lb12.strmd.st/secure/BqTKkveRDFVFQgRxENWvNcMzneMbvTdw/rtmp/stream/zPfct_VggfPvvy82bb0scQGEVYyGtnsEEnesoOgBn6m6cU69wM3ecAoFRW2cR-e36ZvCFy89Nm4TIvad/1/playlist.m3u8"
-        },
-        {
-          "streamNo": 3,
-          "channel_name": "Spanish - ESPN Deportes (HD)",
-          "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/tgrEpUvDRiCbHofwbjawkakEjWHITwLO/rtmp/stream/HE0XQk8gKSkr4My9DjnhMjA7LqHBMSKzqdTySKvkTJk2jlTtHoTecRJiQsPG08GlFZjkK1ZM_HDJ/1/playlist.m3u8"
-        },
-        {
-          "streamNo": 4,
-          "channel_name": "Spanish - ESPN Deportes (SD)",
-          "hd": false,
-          "direct_stream_url": "https://lb3.strmd.st/secure/frYkUwbJtPtNNtaIAbQOBoXMWjQHEjdm/rtmp/stream/6NVOMKFiLZiVGQImLMFNwSU-SlJoG3_bGp6g_KoFSdfeSdMDgWGYFfX5V5UbzZx4V737WXCLlCW3CFSQeg/1/playlist.m3u8"
-        },
-        {
-          "streamNo": 5,
-          "channel_name": "Spanish - DAZN LaLiga (HD)",
-          "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/BPrfEcijgIfRVyTqcefkxbkJyVQjfaSW/rtmp/stream/L2bakLBrn6eLGJngMaE9peTD2muzh1Sh3aMWoBaWb9x97TR5S5wlCaAiljzckJzHeAvuzKGO2_vA/1/playlist.m3u8"
-        },
-        {
-          "streamNo": 6,
-          "channel_name": "Spanish - DAZN LaLiga (SD)",
-          "hd": false,
-          "direct_stream_url": "https://lb13.strmd.st/secure/EFptzUgOnfovanMwpZRlvTPfzEvVVoFD/rtmp/stream/KN8GAaV8HBJiBfWkyl1QbNDp00Z0JFByEziz0Ng-dPqUzrTslUDuBlr-_2v3TiaSlhE9Vnv7lW9-UTs4mA/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "cardiff-city-vs-wrexham-2501260",
-      "title": "Cardiff City vs Wrexham",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "17 Aug 2026, 07:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGVxB8t2ENy0hDOCCCkHDKXAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "total_streams": 3,
-      "streams": [
-        {
-          "streamNo": 1,
-          "channel_name": "English - Paramount+ (HD)",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/ADJvAWowGTxXBZUdZepYiiblukAbPsjv/rtmp/stream/rYc8BsNtdzQn_OgQKI-zL_kMSqZQwmg24bIxD5qU_JzvN7gEstzjwLSQYR7HyMrh1oujtXdh8a7B/1/playlist.m3u8"
-        },
-        {
-          "streamNo": 2,
-          "channel_name": "English - Paramount+ (SD)",
-          "hd": false,
-          "direct_stream_url": "https://lb5.strmd.st/secure/YpVGQwRMhjPGaodGjEoUhucsbFAPVSPp/rtmp/stream/RXHkIc90t31wLan0cqzb2sTrhWmo7yEPLVfuQSWUGiyZUohjyigi1nJ-UCQo0mbvrG5XHObS4eyJcf4i6Q/1/playlist.m3u8"
-        },
-        {
-          "streamNo": 1,
-          "channel_name": "Cardiff City vs Wrexham - Stream 1 (HD)",
-          "hd": true,
-          "direct_stream_url": "https://cdn15.zohanayaan.com:1686/hls/ncardiffcity.m3u8?md5=w1enTunGY3RzT3FNBxgBgg&expires=1787009622"
+          "direct_stream_url": "https://lb6.strmd.st/secure/eYMlwqAIuKoLkGhLUyEOkNLeofQHRVtE/delta/stream/live_coppa-italia_palermo-lecce-live-streaming-605117952/1/playlist.m3u8"
         }
       ]
     },
@@ -196,7 +88,7 @@
           "streamNo": 1,
           "channel_name": "Pisa vs Empoli (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/lVKezMesEIMfBABMGkrqFFuUCmVPnWOu/echo/stream/pisa-vs-empoli-football-1564802/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/OdrbCsvDoUuuzgNqrTZFVXRwZwHOArhU/echo/stream/pisa-vs-empoli-football-1564802/1/playlist.m3u8"
         }
       ]
     }

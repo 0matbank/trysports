@@ -1,104 +1,34 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 14
-# UPDATED Time and date BD: 2026-08-18 | 03:33:52
+# TOTAL-ITEMS: 4
+# UPDATED Time and date BD: 2026-08-18 | 04:31:47
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Vélez Sarsfield vs Defensa y Justicia (HD)" tvg-name="Vélez Sarsfield vs Defensa y Justicia (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRHxBl6wMCBDcQmqSBQgTmzTjNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Vélez Sarsfield vs Defensa y Justicia (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb11.strmd.st/secure/vYlLAiJTPmYESIOvvuftOthfHytFwNmC/echo/stream/velez-sarsfield-vs-defensa-y-justicia-football-1493076/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Atlético Bucaramanga vs Deportivo Pasto (HD)" tvg-name="Atlético Bucaramanga vs Deportivo Pasto (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWBRsQWsihDcQUkHxAkQEA7iPXGwJBT7DZ9FGBVa278vSyytTLRg7mKiEEA.webp" group-title="Football", Atlético Bucaramanga vs Deportivo Pasto (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/ZPaVSCHkdYvuxeFDpaeqfqrmOASovRcZ/echo/stream/bucaramanga-vs-deportivo-pasto-football-1549725/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Lanus vs Independiente (HD)" tvg-name="Lanus vs Independiente (HD)" tvg-logo="https://streamed.pk/favicon.ico" group-title="Football", Lanus vs Independiente (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/vpXbmGxQVDDkMRYOUznqaeIPEAgzihOP/echo/stream/lanus-vs-independiente-football-1493069/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Almeria vs Eldense (HD)" tvg-name="Almeria vs Eldense (HD)" tvg-logo="https://streamed.pk/favicon.ico" group-title="Football", Almeria vs Eldense (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/jdpGrkIvqWhSHaBObqAgKgsCpHbSJLFT/echo/stream/almeria-vs-eldense-football-1569871/1/playlist.m3u8
+https://lb7.strmd.st/secure/ZHQKRkAxLZRslCpzRoLYFiPqzsxQtmnp/echo/stream/bucaramanga-vs-deportivo-pasto-football-1549725/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Palermo vs Lecce (HD)" tvg-name="Palermo vs Lecce (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGxACQzMChDctIY1JCnj+4yRDwCwJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp" group-title="Football", Palermo vs Lecce (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb9.strmd.st/secure/cEaHRAVKeZgXMZwmHnySzcGHALegKFSm/delta/stream/live_coppa-italia_palermo-lecce-live-streaming-605117952/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="English - ESPN+ (HD)" tvg-name="English - ESPN+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELTDkUYEiG76QfECYggUIGCDNmDMAsCQU+w2fR0qUXXeXpZZXkyaumKiEEA.webp" group-title="Football", English - ESPN+ (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb9.strmd.st/secure/FrMFpyceMcrqvhAlTmjJtKyFdWYzPmwD/rtmp/stream/BSL0KEn56OjS4TIlsAN5_uERydvYjABAhxd01TgZGDMhrS78BTQhX-1F4AYK5N-N2cq2wQ_v6yg/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="English - ESPN+ (SD)" tvg-name="English - ESPN+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELTDkUYEiG76QfECYggUIGCDNmDMAsCQU+w2fR0qUXXeXpZZXkyaumKiEEA.webp" group-title="Football", English - ESPN+ (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb12.strmd.st/secure/BqTKkveRDFVFQgRxENWvNcMzneMbvTdw/rtmp/stream/zPfct_VggfPvvy82bb0scQGEVYyGtnsEEnesoOgBn6m6cU69wM3ecAoFRW2cR-e36ZvCFy89Nm4TIvad/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Spanish - ESPN Deportes (HD)" tvg-name="Spanish - ESPN Deportes (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELTDkUYEiG76QfECYggUIGCDNmDMAsCQU+w2fR0qUXXeXpZZXkyaumKiEEA.webp" group-title="Football", Spanish - ESPN Deportes (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb5.strmd.st/secure/tgrEpUvDRiCbHofwbjawkakEjWHITwLO/rtmp/stream/HE0XQk8gKSkr4My9DjnhMjA7LqHBMSKzqdTySKvkTJk2jlTtHoTecRJiQsPG08GlFZjkK1ZM_HDJ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Spanish - ESPN Deportes (SD)" tvg-name="Spanish - ESPN Deportes (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELTDkUYEiG76QfECYggUIGCDNmDMAsCQU+w2fR0qUXXeXpZZXkyaumKiEEA.webp" group-title="Football", Spanish - ESPN Deportes (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb3.strmd.st/secure/frYkUwbJtPtNNtaIAbQOBoXMWjQHEjdm/rtmp/stream/6NVOMKFiLZiVGQImLMFNwSU-SlJoG3_bGp6g_KoFSdfeSdMDgWGYFfX5V5UbzZx4V737WXCLlCW3CFSQeg/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Spanish - DAZN LaLiga (HD)" tvg-name="Spanish - DAZN LaLiga (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELTDkUYEiG76QfECYggUIGCDNmDMAsCQU+w2fR0qUXXeXpZZXkyaumKiEEA.webp" group-title="Football", Spanish - DAZN LaLiga (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/BPrfEcijgIfRVyTqcefkxbkJyVQjfaSW/rtmp/stream/L2bakLBrn6eLGJngMaE9peTD2muzh1Sh3aMWoBaWb9x97TR5S5wlCaAiljzckJzHeAvuzKGO2_vA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Spanish - DAZN LaLiga (SD)" tvg-name="Spanish - DAZN LaLiga (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELTDkUYEiG76QfECYggUIGCDNmDMAsCQU+w2fR0qUXXeXpZZXkyaumKiEEA.webp" group-title="Football", Spanish - DAZN LaLiga (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/EFptzUgOnfovanMwpZRlvTPfzEvVVoFD/rtmp/stream/KN8GAaV8HBJiBfWkyl1QbNDp00Z0JFByEziz0Ng-dPqUzrTslUDuBlr-_2v3TiaSlhE9Vnv7lW9-UTs4mA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="English - Paramount+ (HD)" tvg-name="English - Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGVxB8t2ENy0hDOCCCkHDKXAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football", English - Paramount+ (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/ADJvAWowGTxXBZUdZepYiiblukAbPsjv/rtmp/stream/rYc8BsNtdzQn_OgQKI-zL_kMSqZQwmg24bIxD5qU_JzvN7gEstzjwLSQYR7HyMrh1oujtXdh8a7B/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="English - Paramount+ (SD)" tvg-name="English - Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGVxB8t2ENy0hDOCCCkHDKXAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football", English - Paramount+ (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb5.strmd.st/secure/YpVGQwRMhjPGaodGjEoUhucsbFAPVSPp/rtmp/stream/RXHkIc90t31wLan0cqzb2sTrhWmo7yEPLVfuQSWUGiyZUohjyigi1nJ-UCQo0mbvrG5XHObS4eyJcf4i6Q/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cardiff City vs Wrexham - Stream 1 (HD)" tvg-name="Cardiff City vs Wrexham - Stream 1 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGVxB8t2ENy0hDOCCCkHDKXAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football", Cardiff City vs Wrexham - Stream 1 (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://cdn15.zohanayaan.com:1686/hls/ncardiffcity.m3u8?md5=w1enTunGY3RzT3FNBxgBgg&expires=1787009622
+https://lb6.strmd.st/secure/eYMlwqAIuKoLkGhLUyEOkNLeofQHRVtE/delta/stream/live_coppa-italia_palermo-lecce-live-streaming-605117952/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pisa vs Empoli (HD)" tvg-name="Pisa vs Empoli (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECkpyQUGRBDcQfECakgzJlCZAkDBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp" group-title="Football", Pisa vs Empoli (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/lVKezMesEIMfBABMGkrqFFuUCmVPnWOu/echo/stream/pisa-vs-empoli-football-1564802/1/playlist.m3u8
+https://lb6.strmd.st/secure/OdrbCsvDoUuuzgNqrTZFVXRwZwHOArhU/echo/stream/pisa-vs-empoli-football-1564802/1/playlist.m3u8
 
