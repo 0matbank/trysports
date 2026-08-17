@@ -8,9 +8,13 @@ from playwright.sync_api import sync_playwright
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 REFERER_HEADER = "https://embed.st/"
 ORIGIN_HEADER = "https://embed.st"
-BASE_URL = "https://streamed.pk"
 
-def fetch_json(url, referer="https://streamed.pk/"):
+# GitHub Secrets / Environment Variable থেকে সাইট ইউআরএল লোড করা (ডিফল্ট ফলব্যাক সহ)
+BASE_URL = os.environ.get("STREAM_SITE_URL", os.environ.get("BASE_URL", "https://streamed.pk")).rstrip("/")
+
+def fetch_json(url, referer=None):
+    if not referer:
+        referer = f"{BASE_URL}/"
     headers = {"User-Agent": USER_AGENT, "Referer": referer}
     req = urllib.request.Request(url, headers=headers)
     try:
@@ -33,7 +37,7 @@ def extract_direct_m3u8(browser_context, embed_url):
 
     page.on("request", on_req)
     try:
-        page.goto(embed_url, referer="https://streamed.pk/", timeout=15000)
+        page.goto(embed_url, referer=f"{BASE_URL}/", timeout=15000)
         page.wait_for_timeout(3500)
         if not captured_links:
             page.mouse.click(300, 300)
@@ -99,7 +103,7 @@ def build_m3u_file(category_name, items_list):
 
 def run_collector():
     print("=" * 60)
-    print("  [*] SPORTS STREAM SCANNER (ALL CHANNELS DIRECT STREAMS)")
+    print("  [*] SPORTS STREAM SCANNER (SECURE ENVIRONMENT CONFIG)")
     print("=" * 60)
 
     base_dir = os.path.dirname(__file__)
@@ -168,7 +172,6 @@ def run_collector():
 
                 start_time_bd = "24/7 Live Channel" if date_ms == 0 else datetime.fromtimestamp(date_ms / 1000.0, tz=timezone.utc).strftime("%d %b %Y, %I:%M %p (BD Time)")
 
-                # লাইভ ম্যাচের সবকটি স্ট্রিম সোর্স বের করা
                 all_streams_info = []
                 for s in m.get("sources", []):
                     s_name = s.get("source", "admin")
@@ -194,7 +197,6 @@ def run_collector():
                     hd_label = "HD" if st_hd else "SD"
                     st_lang = st.get("language", "")
                     
-                    # ক্লিন চ্যানেল নেইম তৈরি করা: e.g. "Willow Cricket (HD)", "Willow 2 (HD)"
                     if st_lang and st_lang.lower() not in ["english", "main", "live", "default"]:
                         clean_name = f"{st_lang} ({hd_label})"
                     else:
@@ -231,7 +233,6 @@ def run_collector():
             return processed
 
         def process_upcoming_matches(matches_list):
-            """আপকামিং ম্যাচে কোনো এম্বেড লিঙ্ক থাকবে না—শুধুমাত্র ম্যাচের সঠিক ইনফরমেশন থাকবে"""
             processed = []
             for m in matches_list:
                 date_ms = m.get("date", 0)
@@ -287,23 +288,18 @@ def run_collector():
     with open(os.path.join(football_dir, "upcoming.json"), "w", encoding="utf-8") as f:
         json.dump(build_json_file("Football Upcoming", football_upcoming), f, indent=2, ensure_ascii=False)
 
-    # ৩. All Live Sports Combined M3U
-    all_live_items = cricket_live + football_live
-    with open(os.path.join(base_dir, "live.m3u"), "w", encoding="utf-8") as f:
-        f.write(build_m3u_file("All Live Sports (Cricket & Football)", all_live_items))
-
     total_cricket_channels = sum(len(m.get("streams", [])) for m in cricket_live)
     total_football_channels = sum(len(m.get("streams", [])) for m in football_live)
 
     print("\n" + "=" * 60)
     print(f"[*] cricket/live.m3u       ({total_cricket_channels} total stream channels)")
     print(f"[*] cricket/live.json      ({len(cricket_live)} matches)")
-    print(f"[*] cricket/upcoming.json  ({len(cricket_upcoming)} upcoming matches, 0 embed links)")
+    print(f"[*] cricket/upcoming.json  ({len(cricket_upcoming)} upcoming matches)")
     print(f"[*] football/live.m3u      ({total_football_channels} total stream channels)")
     print(f"[*] football/live.json     ({len(football_live)} matches)")
-    print(f"[*] football/upcoming.json ({len(football_upcoming)} upcoming matches, 0 embed links)")
+    print(f"[*] football/upcoming.json ({len(football_upcoming)} upcoming matches)")
     print("=" * 60)
-    print("  [SUCCESS] PERFECT DIRECT STREAMS & CLEAN CHANNELS GENERATED!")
+    print("  [SUCCESS] PROCESSED WITH DYNAMIC SECRET URL!")
     print("=" * 60)
 
 if __name__ == "__main__":
