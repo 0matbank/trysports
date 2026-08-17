@@ -9,7 +9,6 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 REFERER_HEADER = "https://embed.st/"
 ORIGIN_HEADER = "https://embed.st"
 
-# GitHub Secrets / Environment Variable থেকে সাইট ইউআরএল লোড করা (ডিফল্ট ফলব্যাক সহ)
 BASE_URL = os.environ.get("STREAM_SITE_URL", os.environ.get("BASE_URL", "https://streamed.pk")).rstrip("/")
 
 def fetch_json(url, referer=None):
@@ -55,23 +54,32 @@ def get_current_bd_time():
     bst_dt = utc_dt + timedelta(hours=6)
     return bst_dt.strftime("%Y-%m-%d | %H:%M:%S")
 
-def build_json_file(category_name, items_list):
-    """কাস্টম হেডার সহ ফ্রেশ ও ক্লিন JSON তৈরি করা"""
+def count_total_channels(items_list, is_live=True):
+    """সঠিক মোট আইটেম সংখ্যা বের করা (লাইভের জন্য মোট চ্যানেল সংখ্যা, আপকামিংয়ের জন্য মোট ম্যাচ)"""
+    if is_live:
+        return sum(len(m.get("streams", [])) for m in items_list)
+    return len(items_list)
+
+def build_json_file(category_name, items_list, is_live=True):
+    """সঠিক TOTAL-ITEMS কাউন্ট সহ JSON তৈরি করা"""
+    total_count = count_total_channels(items_list, is_live=is_live)
     return {
         "category_name": category_name,
-        "total_items": len(items_list),
+        "total_items": total_count,
         "updated_time_bd": get_current_bd_time(),
         "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
         "matches": items_list
     }
 
 def build_m3u_file(category_name, items_list):
-    """ক্লিন চ্যানেল নাম সহ M3U প্লেলিস্ট তৈরি করা"""
+    """সঠিক TOTAL-ITEMS চ্যানেল কাউন্ট সহ M3U প্লেলিস্ট তৈরি করা"""
     bd_time = get_current_bd_time()
+    total_channels = count_total_channels(items_list, is_live=True)
+    
     lines = [
         "#EXTM3U\n",
         f"# CATEGORY NAME: {category_name}\n",
-        f"# TOTAL-ITEMS: {len(items_list)}\n",
+        f"# TOTAL-ITEMS: {total_channels}\n",
         f"# UPDATED Time and date BD: {bd_time}\n",
         "# NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.\n\n"
     ]
@@ -103,7 +111,7 @@ def build_m3u_file(category_name, items_list):
 
 def run_collector():
     print("=" * 60)
-    print("  [*] SPORTS STREAM SCANNER (SECURE ENVIRONMENT CONFIG)")
+    print("  [*] SPORTS STREAM SCANNER (ACCURATE ITEM COUNTS)")
     print("=" * 60)
 
     base_dir = os.path.dirname(__file__)
@@ -274,32 +282,32 @@ def run_collector():
 
     # ১. Cricket Files
     with open(os.path.join(cricket_dir, "live.json"), "w", encoding="utf-8") as f:
-        json.dump(build_json_file("Cricket Live", cricket_live), f, indent=2, ensure_ascii=False)
+        json.dump(build_json_file("Cricket Live", cricket_live, is_live=True), f, indent=2, ensure_ascii=False)
     with open(os.path.join(cricket_dir, "live.m3u"), "w", encoding="utf-8") as f:
         f.write(build_m3u_file("Cricket Live", cricket_live))
     with open(os.path.join(cricket_dir, "upcoming.json"), "w", encoding="utf-8") as f:
-        json.dump(build_json_file("Cricket Upcoming", cricket_upcoming), f, indent=2, ensure_ascii=False)
+        json.dump(build_json_file("Cricket Upcoming", cricket_upcoming, is_live=False), f, indent=2, ensure_ascii=False)
 
     # ২. Football Files
     with open(os.path.join(football_dir, "live.json"), "w", encoding="utf-8") as f:
-        json.dump(build_json_file("Football Live", football_live), f, indent=2, ensure_ascii=False)
+        json.dump(build_json_file("Football Live", football_live, is_live=True), f, indent=2, ensure_ascii=False)
     with open(os.path.join(football_dir, "live.m3u"), "w", encoding="utf-8") as f:
         f.write(build_m3u_file("Football Live", football_live))
     with open(os.path.join(football_dir, "upcoming.json"), "w", encoding="utf-8") as f:
-        json.dump(build_json_file("Football Upcoming", football_upcoming), f, indent=2, ensure_ascii=False)
+        json.dump(build_json_file("Football Upcoming", football_upcoming, is_live=False), f, indent=2, ensure_ascii=False)
 
-    total_cricket_channels = sum(len(m.get("streams", [])) for m in cricket_live)
-    total_football_channels = sum(len(m.get("streams", [])) for m in football_live)
+    total_cricket_channels = count_total_channels(cricket_live, is_live=True)
+    total_football_channels = count_total_channels(football_live, is_live=True)
 
     print("\n" + "=" * 60)
-    print(f"[*] cricket/live.m3u       ({total_cricket_channels} total stream channels)")
-    print(f"[*] cricket/live.json      ({len(cricket_live)} matches)")
-    print(f"[*] cricket/upcoming.json  ({len(cricket_upcoming)} upcoming matches)")
-    print(f"[*] football/live.m3u      ({total_football_channels} total stream channels)")
-    print(f"[*] football/live.json     ({len(football_live)} matches)")
-    print(f"[*] football/upcoming.json ({len(football_upcoming)} upcoming matches)")
+    print(f"[*] cricket/live.m3u       (TOTAL-ITEMS: {total_cricket_channels} channels)")
+    print(f"[*] cricket/live.json      (TOTAL-ITEMS: {total_cricket_channels} channels)")
+    print(f"[*] cricket/upcoming.json  (TOTAL-ITEMS: {len(cricket_upcoming)} matches)")
+    print(f"[*] football/live.m3u      (TOTAL-ITEMS: {total_football_channels} channels)")
+    print(f"[*] football/live.json     (TOTAL-ITEMS: {total_football_channels} channels)")
+    print(f"[*] football/upcoming.json (TOTAL-ITEMS: {len(football_upcoming)} matches)")
     print("=" * 60)
-    print("  [SUCCESS] PROCESSED WITH DYNAMIC SECRET URL!")
+    print("  [SUCCESS] EXACT ACCURATE TOTAL-ITEMS COUNT SET!")
     print("=" * 60)
 
 if __name__ == "__main__":
