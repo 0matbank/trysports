@@ -1,0 +1,38 @@
+name: Auto Update Sports Data & Streams
+
+on:
+  schedule:
+    # প্রতি ১ ঘণ্টা পর পর স্বয়ংক্রিয়ভাবে রান হবে (UTC)
+    - cron: '0 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies & Playwright Chromium
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium
+
+      - name: Scan & Fetch Direct Streams
+        run: |
+          python collect_data.py
+
+      - name: Commit and Push Changes to GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add cricket/ football/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update live streams & playlists [skip ci]" && git push)
