@@ -9,6 +9,10 @@ on:
     branches:
       - main
 
+# GitHub-এ ফাইল অটো-কমিট ও পুশ করার পারমিশন
+permissions:
+  contents: write
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
