@@ -62,10 +62,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset origin/main
           git add cricket/ football/
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Auto-update live streams & playlists [skip ci]"
-            git pull --rebase origin main
             git push origin main
           else
             echo "No changes to commit"
