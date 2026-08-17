@@ -1,1 +1,31 @@
-#
+{
+  "category_name": "Cricket Live",
+  "total_items": 1,
+  "updated_time_bd": "2026-08-17 | 22:31:19",
+  "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
+  "matches": [
+    {
+      "id": "admin-willow-cricket",
+      "title": "Willow Cricket",
+      "category": "cricket",
+      "status": "LIVE_NOW",
+      "start_time_bd": "24/7 Live Channel",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "total_streams": 1,
+      "streams": [
+        {
+          "streamNo": 1,
+          "source": "admin",
+          "language": "English / Multi-Audio",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/vYKmXDrZsDIWonJzyrcTFTwAJIqftVhs/rtmp/stream/streamed-willow_720/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
+}
