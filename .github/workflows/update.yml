@@ -9,7 +9,6 @@ on:
     branches:
       - main
 
-# GitHub-এ ফাইল অটো-কমিট ও পুশ করার পারমিশন
 permissions:
   contents: write
 
@@ -19,6 +18,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -38,5 +39,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add cricket/ football/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update live streams & playlists [skip ci]" && git push)
+          git add cricket/ football/ live.m3u
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Auto-update live streams & playlists [skip ci]"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
