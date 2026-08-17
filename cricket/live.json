@@ -1,7 +1,7 @@
 {
   "category_name": "Cricket Live",
   "total_items": 1,
-  "updated_time_bd": "2026-08-17 | 22:31:19",
+  "updated_time_bd": "2026-08-17 | 22:43:12",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -20,10 +20,8 @@
       "streams": [
         {
           "streamNo": 1,
-          "source": "admin",
-          "language": "English / Multi-Audio",
           "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/vYKmXDrZsDIWonJzyrcTFTwAJIqftVhs/rtmp/stream/streamed-willow_720/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/NLHuOPZHmzQLaFTPEDDvNAdtEwXsdxex/rtmp/stream/streamed-willow_720/1/playlist.m3u8"
         }
       ]
     }
