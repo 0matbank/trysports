@@ -62,7 +62,7 @@ def build_json_file(category_name, items_list):
     }
 
 def build_m3u_file(category_name, items_list):
-    """স্ট্যান্ডার্ড ও ক্লিন M3U প্লেলিস্ট তৈরি করা"""
+    """ক্লিন চ্যানেল নাম সহ M3U প্লেলিস্ট তৈরি করা"""
     bd_time = get_current_bd_time()
     lines = [
         "#EXTM3U\n",
@@ -78,13 +78,11 @@ def build_m3u_file(category_name, items_list):
             if not stream_url:
                 continue
 
-            hd_str = "HD" if s.get("hd") else "SD"
-            num_str = s.get("streamNo", 1)
-            channel_title = f"{m['title']} | Stream {num_str} [{hd_str}]"
+            channel_title = s.get("channel_name", m["title"])
 
-            # IPTV Tag
+            # Clean Standard IPTV Tag
             lines.append(
-                f'#EXTINF:-1 tvg-id="{m["title"]}" '
+                f'#EXTINF:-1 tvg-id="{channel_title}" '
                 f'tvg-name="{channel_title}" '
                 f'tvg-logo="{m["poster"]}" '
                 f'group-title="{m["category"].capitalize()}", {channel_title}\n'
@@ -101,7 +99,7 @@ def build_m3u_file(category_name, items_list):
 
 def run_collector():
     print("=" * 60)
-    print("  [*] SPORTS STREAM SCANNER (CLEAN STREAMS)")
+    print("  [*] SPORTS STREAM SCANNER (ALL CHANNELS DIRECT STREAMS)")
     print("=" * 60)
 
     base_dir = os.path.dirname(__file__)
@@ -114,7 +112,8 @@ def run_collector():
     live_ids = set(l.get("id") for l in live_data if isinstance(l, dict))
 
     all_data = fetch_json(f"{BASE_URL}/api/matches/all") or []
-    print(f"[+] Total Matches: {len(all_data)} | Active Live: {len(live_data)}\n")
+    print(f"[+] Total Matches in Schedule: {len(all_data)}")
+    print(f"[+] Currently Active Live Matches: {len(live_data)}\n")
 
     now_ms = time.time() * 1000
 
@@ -143,7 +142,7 @@ def run_collector():
             else:
                 football_upcoming_raw.append(m)
 
-    print("[*] Extracting direct live streams...")
+    print("[*] Extracting ALL direct live streams with Playwright...")
 
     with sync_playwright() as p:
         browser = p.chromium.launch(
@@ -152,7 +151,87 @@ def run_collector():
         )
         context = browser.new_context(user_agent=USER_AGENT)
 
-        def process_match_list(matches_list, is_live=False):
+        def process_live_matches(matches_list):
+            processed = []
+            for m in matches_list:
+                date_ms = m.get("date", 0)
+                match_id = m.get("id", "")
+                match_title = m.get("title", "").strip()
+                
+                poster = m.get("poster")
+                if poster and poster.startswith("/"):
+                    poster_url = f"{BASE_URL}{poster}"
+                elif poster:
+                    poster_url = poster
+                else:
+                    poster_url = f"{BASE_URL}/favicon.ico"
+
+                start_time_bd = "24/7 Live Channel" if date_ms == 0 else datetime.fromtimestamp(date_ms / 1000.0, tz=timezone.utc).strftime("%d %b %Y, %I:%M %p (BD Time)")
+
+                # লাইভ ম্যাচের সবকটি স্ট্রিম সোর্স বের করা
+                all_streams_info = []
+                for s in m.get("sources", []):
+                    s_name = s.get("source", "admin")
+                    s_id = s.get("id", match_id)
+                    streams_api = f"{BASE_URL}/api/stream/{s_name}/{s_id}"
+                    stream_data = fetch_json(streams_api)
+                    if stream_data and isinstance(stream_data, list):
+                        all_streams_info.extend(stream_data)
+                    else:
+                        all_streams_info.append({
+                            "streamNo": 1,
+                            "language": "Main",
+                            "hd": True,
+                            "embedUrl": f"https://embed.st/embed/{s_name}/{s_id}/1"
+                        })
+
+                extracted_streams = []
+                print(f"[*] Scanning {len(all_streams_info)} stream channels for: {match_title}")
+
+                for st in all_streams_info:
+                    st_num = st.get("streamNo", 1)
+                    st_hd = st.get("hd", True)
+                    hd_label = "HD" if st_hd else "SD"
+                    st_lang = st.get("language", "")
+                    
+                    # ক্লিন চ্যানেল নেইম তৈরি করা: e.g. "Willow Cricket (HD)", "Willow 2 (HD)"
+                    if st_lang and st_lang.lower() not in ["english", "main", "live", "default"]:
+                        clean_name = f"{st_lang} ({hd_label})"
+                    else:
+                        clean_name = f"{match_title} ({hd_label})" if len(all_streams_info) <= 2 else f"{match_title} - Stream {st_num} ({hd_label})"
+
+                    embed_url = st.get("embedUrl", "")
+                    direct_url = extract_direct_m3u8(context, embed_url) if embed_url else None
+                    
+                    if direct_url:
+                        print(f"    [+] {clean_name}: {direct_url}")
+                        extracted_streams.append({
+                            "streamNo": st_num,
+                            "channel_name": clean_name,
+                            "hd": st_hd,
+                            "direct_stream_url": direct_url
+                        })
+
+                processed.append({
+                    "id": match_id,
+                    "title": match_title,
+                    "category": m.get("category", ""),
+                    "status": "LIVE_NOW",
+                    "start_time_bd": start_time_bd,
+                    "poster": poster_url,
+                    "headers": {
+                        "User-Agent": USER_AGENT,
+                        "Referer": REFERER_HEADER,
+                        "Origin": ORIGIN_HEADER
+                    },
+                    "total_streams": len(extracted_streams),
+                    "streams": extracted_streams
+                })
+
+            return processed
+
+        def process_upcoming_matches(matches_list):
+            """আপকামিং ম্যাচে কোনো এম্বেড লিঙ্ক থাকবে না—শুধুমাত্র ম্যাচের সঠিক ইনফরমেশন থাকবে"""
             processed = []
             for m in matches_list:
                 date_ms = m.get("date", 0)
@@ -170,58 +249,22 @@ def run_collector():
                     bst_dt = datetime.fromtimestamp(date_ms / 1000.0, tz=timezone.utc) + timedelta(hours=6)
                     start_time_bd = bst_dt.strftime("%d %b %Y, %I:%M %p (BD Time)")
                 else:
-                    start_time_bd = "24/7 Live Channel"
-
-                sources = []
-                raw_sources = m.get("sources", [])
-                
-                if is_live:
-                    print(f"[*] Scanning Stream for: {m.get('title')}")
-                    for idx, s in enumerate(raw_sources, 1):
-                        s_name = s.get("source", "admin")
-                        s_id = s.get("id", match_id)
-                        embed_url = f"https://embed.st/embed/{s_name}/{s_id}/{idx}"
-                        
-                        direct_m3u8 = extract_direct_m3u8(context, embed_url)
-                        if direct_m3u8:
-                            print(f"    [+] Stream {idx} Direct URL: {direct_m3u8}")
-                            sources.append({
-                                "streamNo": idx,
-                                "hd": True,
-                                "direct_stream_url": direct_m3u8
-                            })
-                else:
-                    for idx, s in enumerate(raw_sources, 1):
-                        s_name = s.get("source", "admin")
-                        s_id = s.get("id", match_id)
-                        sources.append({
-                            "streamNo": idx,
-                            "hd": True,
-                            "embedUrl": f"https://embed.st/embed/{s_name}/{s_id}/{idx}"
-                        })
+                    start_time_bd = "Upcoming"
 
                 processed.append({
                     "id": match_id,
                     "title": m.get("title", "").strip(),
                     "category": m.get("category", ""),
-                    "status": "LIVE_NOW" if is_live else "UPCOMING",
+                    "status": "UPCOMING",
                     "start_time_bd": start_time_bd,
-                    "poster": poster_url,
-                    "headers": {
-                        "User-Agent": USER_AGENT,
-                        "Referer": REFERER_HEADER,
-                        "Origin": ORIGIN_HEADER
-                    },
-                    "total_streams": len(sources),
-                    "streams": sources
+                    "poster": poster_url
                 })
-
             return processed
 
-        cricket_live = process_match_list(cricket_live_raw, is_live=True)
-        football_live = process_match_list(football_live_raw, is_live=True)
-        cricket_upcoming = process_match_list(cricket_upcoming_raw, is_live=False)
-        football_upcoming = process_match_list(football_upcoming_raw, is_live=False)
+        cricket_live = process_live_matches(cricket_live_raw)
+        football_live = process_live_matches(football_live_raw)
+        cricket_upcoming = process_upcoming_matches(cricket_upcoming_raw)
+        football_upcoming = process_upcoming_matches(football_upcoming_raw)
 
         browser.close()
 
@@ -249,16 +292,18 @@ def run_collector():
     with open(os.path.join(base_dir, "live.m3u"), "w", encoding="utf-8") as f:
         f.write(build_m3u_file("All Live Sports (Cricket & Football)", all_live_items))
 
-    print(f"[*] cricket/live.m3u       ({len(cricket_live)} live items)")
-    print(f"[*] cricket/live.json      ({len(cricket_live)} live items)")
-    print(f"[*] cricket/upcoming.json  ({len(cricket_upcoming)} upcoming items)")
-    print(f"[*] football/live.m3u      ({len(football_live)} live items)")
-    print(f"[*] football/live.json     ({len(football_live)} live items)")
-    print(f"[*] football/upcoming.json ({len(football_upcoming)} upcoming items)")
-    print(f"[*] live.m3u (Combined)    ({len(all_live_items)} total live items)")
+    total_cricket_channels = sum(len(m.get("streams", [])) for m in cricket_live)
+    total_football_channels = sum(len(m.get("streams", [])) for m in football_live)
 
+    print("\n" + "=" * 60)
+    print(f"[*] cricket/live.m3u       ({total_cricket_channels} total stream channels)")
+    print(f"[*] cricket/live.json      ({len(cricket_live)} matches)")
+    print(f"[*] cricket/upcoming.json  ({len(cricket_upcoming)} upcoming matches, 0 embed links)")
+    print(f"[*] football/live.m3u      ({total_football_channels} total stream channels)")
+    print(f"[*] football/live.json     ({len(football_live)} matches)")
+    print(f"[*] football/upcoming.json ({len(football_upcoming)} upcoming matches, 0 embed links)")
     print("=" * 60)
-    print("  [SUCCESS] CLEANED STREAMS GENERATED!")
+    print("  [SUCCESS] PERFECT DIRECT STREAMS & CLEAN CHANNELS GENERATED!")
     print("=" * 60)
 
 if __name__ == "__main__":

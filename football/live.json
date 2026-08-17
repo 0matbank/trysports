@@ -1,7 +1,7 @@
 {
   "category_name": "Football Live",
   "total_items": 2,
-  "updated_time_bd": "2026-08-17 | 22:43:12",
+  "updated_time_bd": "2026-08-17 | 22:49:07",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -9,7 +9,7 @@
       "title": "Sassuolo vs Cesena",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "17 Aug 2026, 10:30 PM (BD Time)",
+      "start_time_bd": "17 Aug 2026, 04:30 PM (BD Time)",
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBikQIViDG8QhrDpDSzplKZIhm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -20,13 +20,15 @@
       "streams": [
         {
           "streamNo": 1,
+          "channel_name": "Sassuolo vs Cesena (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/LaNJDLsUZsyJAlBYVZjVmQmoglHorgdg/delta/stream/live_coppa-italia_sassuolo-cesena-live-streaming-605117088/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/UWAoMWeZiAijCLFaAIyknnarMjSEtfwJ/delta/stream/live_coppa-italia_sassuolo-cesena-live-streaming-605117088/1/playlist.m3u8"
         },
         {
-          "streamNo": 2,
+          "streamNo": 1,
+          "channel_name": "Sassuolo vs Cesena (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/ZQuniUOiAKbTLzoWWvKVoNHlpaZbWLjt/echo/stream/sassuolo-vs-cesena-football-1564803/2/playlist.m3u8"
+          "direct_stream_url": "https://lb12.strmd.st/secure/adTrBmztrVMzNWQKsrfZKedDsRLiXCvy/echo/stream/sassuolo-vs-cesena-football-1564803/1/playlist.m3u8"
         }
       ]
     },
@@ -35,7 +37,7 @@
       "title": "Pisa vs Empoli",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "17 Aug 2026, 10:00 PM (BD Time)",
+      "start_time_bd": "17 Aug 2026, 04:00 PM (BD Time)",
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBSV5IKLIgheILCFPSQ50ylMgShlkgpYRcxijCqtHD+UbU5WviswGAe4mIQQA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -46,13 +48,15 @@
       "streams": [
         {
           "streamNo": 1,
+          "channel_name": "Pisa vs Empoli (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/GoTTNClWDyYELMgQbSPWyTDzEQItDkDC/delta/stream/live_coppa-italia_pisa-empoli-live-streaming-605116656/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/OycijzdkAjbSHenNThWRvtXwIzOdDuhx/delta/stream/live_coppa-italia_pisa-empoli-live-streaming-605116656/1/playlist.m3u8"
         },
         {
-          "streamNo": 2,
+          "streamNo": 1,
+          "channel_name": "Pisa vs Empoli (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/JgXokVbZzELdXIFSyEpslfOANDYCeiwW/echo/stream/pisa-vs-empoli-football-1564802/2/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/KrZeVwaZCgGIpEYNQhPDAsnaiXuZplHt/echo/stream/pisa-vs-empoli-football-1564802/1/playlist.m3u8"
         }
       ]
     }

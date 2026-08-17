@@ -1,0 +1,30 @@
+[
+  {
+    "id": "pisa-vs-empoli-2502881",
+    "title": "Pisa vs Empoli",
+    "category": "football",
+    "status": "LIVE_NOW",
+    "date_timestamp": 1786982400000,
+    "start_time_utc": "2026-08-17 16:00:00 UTC",
+    "start_time_bst": "17 Aug 2026, 10:00 PM (BST)",
+    "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBSV5IKLIgheILCFPSQ50ylMgShlkgpYRcxijCqtHD+UbU5WviswGAe4mIQQA.webp",
+    "popular": false,
+    "total_streams": 2,
+    "streams": [
+      {
+        "streamNo": 1,
+        "source": "delta",
+        "language": "English / Multi-Audio",
+        "hd": true,
+        "embedUrl": "https://embed.st/embed/delta/live_coppa-italia_pisa-empoli-live-streaming-605116656/1"
+      },
+      {
+        "streamNo": 2,
+        "source": "echo",
+        "language": "English / Multi-Audio",
+        "hd": true,
+        "embedUrl": "https://embed.st/embed/echo/pisa-vs-empoli-football-1564802/2"
+      }
+    ]
+  }
+]

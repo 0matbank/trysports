@@ -1,0 +1,23 @@
+[
+  {
+    "id": "admin-willow-cricket",
+    "title": "Willow Cricket",
+    "category": "cricket",
+    "status": "LIVE_NOW",
+    "date_timestamp": 0,
+    "start_time_utc": "24/7 Channel",
+    "start_time_bst": "24/7 Live Stream",
+    "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
+    "popular": true,
+    "total_streams": 1,
+    "streams": [
+      {
+        "streamNo": 1,
+        "source": "admin",
+        "language": "English / Multi-Audio",
+        "hd": true,
+        "embedUrl": "https://embed.st/embed/admin/admin-willow-cricket/1"
+      }
+    ]
+  }
+]
