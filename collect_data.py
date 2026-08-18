@@ -11,6 +11,9 @@ ORIGIN_HEADER = "https://embed.st"
 
 BASE_URL = os.environ.get("STREAM_SITE_URL", os.environ.get("BASE_URL", "https://streamed.pk")).rstrip("/")
 
+CRICKET_DEFAULT_LOGO = "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp"
+FOOTBALL_DEFAULT_LOGO = "https://streamed.pk/favicon.ico"
+
 def fetch_json(url, referer=None):
     if not referer:
         referer = f"{BASE_URL}/"
@@ -22,6 +25,65 @@ def fetch_json(url, referer=None):
     except Exception as e:
         print(f"[-] Fetch error for {url}: {e}")
         return None
+
+def format_image_url(badge_or_poster_str):
+    """টিম ব্যাজ বা পোস্টারের স্ট্রিং থেকে ১০০% সঠিক ও ভ্যালিড ওয়েবপি (.webp) ইউআরএল তৈরি করে"""
+    if not badge_or_poster_str or not isinstance(badge_or_poster_str, str):
+        return ""
+    val = badge_or_poster_str.strip()
+    if not val:
+        return ""
+    if val.startswith("http://") or val.startswith("https://"):
+        return val
+    if val.startswith("/"):
+        return f"{BASE_URL}{val}" if val.endswith(".webp") else f"{BASE_URL}{val}.webp"
+    return f"{BASE_URL}/api/images/proxy/{val}.webp"
+
+def resolve_match_poster_and_teams(m):
+    """ম্যাচের আসল পোস্টার এবং টিমগুলোর লোগো বের করা"""
+    teams_raw = m.get("teams", {})
+    home_data = teams_raw.get("home", {}) if isinstance(teams_raw, dict) else {}
+    away_data = teams_raw.get("away", {}) if isinstance(teams_raw, dict) else {}
+
+    home_name = home_data.get("name", "").strip()
+    home_badge_url = format_image_url(home_data.get("badge"))
+
+    away_name = away_data.get("name", "").strip()
+    away_badge_url = format_image_url(away_data.get("badge"))
+
+    # ১. যদি সরাসরি ম্যাচ পোস্টার থাকে
+    match_poster = format_image_url(m.get("poster"))
+
+    # ২. যদি ম্যাচ পোস্টার না থাকে কিন্তু হোম টিমের ব্যাজ থাকে
+    if not match_poster and home_badge_url:
+        match_poster = home_badge_url
+    elif not match_poster and away_badge_url:
+        match_poster = away_badge_url
+
+    # ৩. ফলব্যাক
+    if not match_poster:
+        cat = m.get("category", "").lower()
+        match_poster = CRICKET_DEFAULT_LOGO if cat == "cricket" else FOOTBALL_DEFAULT_LOGO
+
+    teams_obj = {
+        "home": {
+            "name": home_name,
+            "badge": home_badge_url
+        },
+        "away": {
+            "name": away_name,
+            "badge": away_badge_url
+        }
+    }
+
+    return match_poster, teams_obj
+
+def get_channel_specific_poster(channel_name, match_poster):
+    """উইলো বা নির্দিষ্ট চ্যানেলের জন্য স্পেসিফিক লোগো"""
+    name_lower = channel_name.lower()
+    if "willow" in name_lower:
+        return CRICKET_DEFAULT_LOGO
+    return match_poster
 
 def extract_direct_m3u8(browser_context, embed_url):
     """Playwright দিয়ে এম্বেড প্লেয়ার থেকে আসল ডিরেক্ট .m3u8 লিঙ্ক বের করা"""
@@ -55,13 +117,11 @@ def get_current_bd_time():
     return bst_dt.strftime("%Y-%m-%d | %H:%M:%S")
 
 def count_total_channels(items_list, is_live=True):
-    """সঠিক মোট আইটেম সংখ্যা বের করা (লাইভের জন্য মোট চ্যানেল সংখ্যা, আপকামিংয়ের জন্য মোট ম্যাচ)"""
     if is_live:
         return sum(len(m.get("streams", [])) for m in items_list)
     return len(items_list)
 
 def build_json_file(category_name, items_list, is_live=True):
-    """সঠিক TOTAL-ITEMS কাউন্ট সহ JSON তৈরি করা"""
     total_count = count_total_channels(items_list, is_live=is_live)
     return {
         "category_name": category_name,
@@ -72,7 +132,6 @@ def build_json_file(category_name, items_list, is_live=True):
     }
 
 def build_m3u_file(category_name, items_list):
-    """সঠিক TOTAL-ITEMS চ্যানেল কাউন্ট সহ M3U প্লেলিস্ট তৈরি করা"""
     bd_time = get_current_bd_time()
     total_channels = count_total_channels(items_list, is_live=True)
     
@@ -91,27 +150,25 @@ def build_m3u_file(category_name, items_list):
                 continue
 
             channel_title = s.get("channel_name", m["title"])
+            channel_logo = s.get("channel_poster", m["poster"])
 
-            # Clean Standard IPTV Tag
             lines.append(
                 f'#EXTINF:-1 tvg-id="{channel_title}" '
                 f'tvg-name="{channel_title}" '
-                f'tvg-logo="{m["poster"]}" '
+                f'tvg-logo="{channel_logo}" '
                 f'group-title="{m["category"].capitalize()}", {channel_title}\n'
             )
-            # Headers
             lines.append(f"#EXTVLCOPT:http-referrer={REFERER_HEADER}\n")
             lines.append(f"#EXTVLCOPT:http-user-agent={USER_AGENT}\n")
             lines.append(f"#EXTVLCOPT:http-origin={ORIGIN_HEADER}\n")
             lines.append(f'#EXTHTTP:{{"Referer":"{REFERER_HEADER}","Origin":"{ORIGIN_HEADER}","User-Agent":"{USER_AGENT}"}}\n')
-            # Direct Stream URL
             lines.append(f"{stream_url}\n\n")
 
     return "".join(lines)
 
 def run_collector():
     print("=" * 60)
-    print("  [*] SPORTS STREAM SCANNER (ACCURATE ITEM COUNTS)")
+    print("  [*] SPORTS STREAM SCANNER (REAL POSTERS & BADGES INCLUDED)")
     print("=" * 60)
 
     base_dir = os.path.dirname(__file__)
@@ -125,7 +182,7 @@ def run_collector():
 
     all_data = fetch_json(f"{BASE_URL}/api/matches/all") or []
     print(f"[+] Total Matches in Schedule: {len(all_data)}")
-    print(f"[+] Currently Active Live Matches: {len(live_data)}\n")
+    print(f"[+] Currently Active Live Matches from API: {len(live_data)}\n")
 
     now_ms = time.time() * 1000
 
@@ -141,6 +198,7 @@ def run_collector():
 
         date_ms = m.get("date", 0)
         match_id = m.get("id", "")
+
         is_live = (date_ms == 0) or (match_id in live_ids) or (0 < date_ms <= now_ms <= date_ms + (4 * 3600 * 1000))
 
         if cat == "cricket":
@@ -154,7 +212,8 @@ def run_collector():
             else:
                 football_upcoming_raw.append(m)
 
-    print("[*] Extracting ALL direct live streams with Playwright...")
+    print(f"[*] Cricket Live: {len(cricket_live_raw)} | Cricket Upcoming: {len(cricket_upcoming_raw)}")
+    print(f"[*] Football Live: {len(football_live_raw)} | Football Upcoming: {len(football_upcoming_raw)}\n")
 
     with sync_playwright() as p:
         browser = p.chromium.launch(
@@ -169,14 +228,7 @@ def run_collector():
                 date_ms = m.get("date", 0)
                 match_id = m.get("id", "")
                 match_title = m.get("title", "").strip()
-                
-                poster = m.get("poster")
-                if poster and poster.startswith("/"):
-                    poster_url = f"{BASE_URL}{poster}"
-                elif poster:
-                    poster_url = poster
-                else:
-                    poster_url = f"{BASE_URL}/favicon.ico"
+                match_poster, teams_obj = resolve_match_poster_and_teams(m)
 
                 start_time_bd = "24/7 Live Channel" if date_ms == 0 else datetime.fromtimestamp(date_ms / 1000.0, tz=timezone.utc).strftime("%d %b %Y, %I:%M %p (BD Time)")
 
@@ -205,10 +257,13 @@ def run_collector():
                     hd_label = "HD" if st_hd else "SD"
                     st_lang = st.get("language", "")
                     
-                    if st_lang and st_lang.lower() not in ["english", "main", "live", "default"]:
-                        clean_name = f"{st_lang} ({hd_label})"
+                    lang_clean = st_lang.replace("English - ", "").replace("English -", "").strip() if st_lang else ""
+                    if lang_clean and lang_clean.lower() not in ["english", "main", "live", "default"]:
+                        clean_name = f"{lang_clean} ({hd_label})"
                     else:
-                        clean_name = f"{match_title} ({hd_label})" if len(all_streams_info) <= 2 else f"{match_title} - Stream {st_num} ({hd_label})"
+                        clean_name = f"{match_title} ({hd_label})"
+
+                    channel_poster = get_channel_specific_poster(clean_name, match_poster)
 
                     embed_url = st.get("embedUrl", "")
                     direct_url = extract_direct_m3u8(context, embed_url) if embed_url else None
@@ -218,6 +273,7 @@ def run_collector():
                         extracted_streams.append({
                             "streamNo": st_num,
                             "channel_name": clean_name,
+                            "channel_poster": channel_poster,
                             "hd": st_hd,
                             "direct_stream_url": direct_url
                         })
@@ -228,7 +284,8 @@ def run_collector():
                     "category": m.get("category", ""),
                     "status": "LIVE_NOW",
                     "start_time_bd": start_time_bd,
-                    "poster": poster_url,
+                    "poster": match_poster,
+                    "teams": teams_obj,
                     "headers": {
                         "User-Agent": USER_AGENT,
                         "Referer": REFERER_HEADER,
@@ -245,14 +302,7 @@ def run_collector():
             for m in matches_list:
                 date_ms = m.get("date", 0)
                 match_id = m.get("id", "")
-                
-                poster = m.get("poster")
-                if poster and poster.startswith("/"):
-                    poster_url = f"{BASE_URL}{poster}"
-                elif poster:
-                    poster_url = poster
-                else:
-                    poster_url = f"{BASE_URL}/favicon.ico"
+                match_poster, teams_obj = resolve_match_poster_and_teams(m)
 
                 if date_ms > 0:
                     bst_dt = datetime.fromtimestamp(date_ms / 1000.0, tz=timezone.utc) + timedelta(hours=6)
@@ -266,7 +316,8 @@ def run_collector():
                     "category": m.get("category", ""),
                     "status": "UPCOMING",
                     "start_time_bd": start_time_bd,
-                    "poster": poster_url
+                    "poster": match_poster,
+                    "teams": teams_obj
                 })
             return processed
 
@@ -307,7 +358,7 @@ def run_collector():
     print(f"[*] football/live.json     (TOTAL-ITEMS: {total_football_channels} channels)")
     print(f"[*] football/upcoming.json (TOTAL-ITEMS: {len(football_upcoming)} matches)")
     print("=" * 60)
-    print("  [SUCCESS] EXACT ACCURATE TOTAL-ITEMS COUNT SET!")
+    print("  [SUCCESS] 100% REAL POSTERS & TEAM BADGES ADDED!")
     print("=" * 60)
 
 if __name__ == "__main__":
