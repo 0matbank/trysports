@@ -1,36 +1,7 @@
 {
   "category_name": "Football Live",
-  "total_items": 2,
-  "updated_time_bd": "2026-08-18 | 11:39:16",
+  "total_items": 0,
+  "updated_time_bd": "2026-08-18 | 13:06:21",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "pachuca-vs-puebla-2487487",
-      "title": "Pachuca vs Puebla",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "18 Aug 2026, 03:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBRgQYpLBDcQfECYggzMECRCXDCpnpj9hs+lpUouYMhvpZZnky0YN5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "total_streams": 2,
-      "streams": [
-        {
-          "streamNo": 1,
-          "channel_name": "Spanish - TUDN (HD)",
-          "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/kFPOjXeRrSLYGSUbVwDzCEfxwAvsHLPu/rtmp/stream/e8dYX295kCcGDlthhSwdUOKM5ZhXk3z-nQoIG0eTIp7ePpoILn3DkUfZqqA47-GLMxr44PsN-Aw/1/playlist.m3u8"
-        },
-        {
-          "streamNo": 2,
-          "channel_name": "Spanish - TUDN (SD)",
-          "hd": false,
-          "direct_stream_url": "https://lb3.strmd.st/secure/hrXUxfdUNfncAXkNCHnadUZunDxdqdPz/admin/stream/ppv-pachuca-vs-puebla/2/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
