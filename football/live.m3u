@@ -1,7 +1,7 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 3
-# UPDATED Time and date BD: 2026-08-18 | 10:43:04
+# TOTAL-ITEMS: 2
+# UPDATED Time and date BD: 2026-08-18 | 11:39:16
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
 #EXTINF:-1 tvg-id="Spanish - TUDN (HD)" tvg-name="Spanish - TUDN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBRgQYpLBDcQfECYggzMECRCXDCpnpj9hs+lpUouYMhvpZZnky0YN5iohBAA.webp" group-title="Football", Spanish - TUDN (HD)
@@ -9,19 +9,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb1.strmd.st/secure/mKAcFhpoBZWwXlJhBQbSFPgEBbzqiRco/rtmp/stream/68WfkzMljTXJgss8V4Ha-MshQcuqp6_ILfA2czlq1pVTnuXttLlR3YSk2KNclGgVKqjMG9snpaw/1/playlist.m3u8
+https://lb1.strmd.st/secure/kFPOjXeRrSLYGSUbVwDzCEfxwAvsHLPu/rtmp/stream/e8dYX295kCcGDlthhSwdUOKM5ZhXk3z-nQoIG0eTIp7ePpoILn3DkUfZqqA47-GLMxr44PsN-Aw/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Spanish - TUDN (SD)" tvg-name="Spanish - TUDN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBRgQYpLBDcQfECYggzMECRCXDCpnpj9hs+lpUouYMhvpZZnky0YN5iohBAA.webp" group-title="Football", Spanish - TUDN (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb3.strmd.st/secure/IunTZyyiHQrDmOlANqVtPlaTPVkTmYNp/rtmp/stream/hnj_CEmU97SfT1W_9AYpTaa4Chhu0mUPXsWafRh7e5fI7pWlKkpBG0asUZBABw0v9FQIAdLlr5xb5geb/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Pachuca vs Puebla - Stream 1 (HD)" tvg-name="Pachuca vs Puebla - Stream 1 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBRgQYpLBDcQfECYggzMECRCXDCpnpj9hs+lpUouYMhvpZZnky0YN5iohBAA.webp" group-title="Football", Pachuca vs Puebla - Stream 1 (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb11.strmd.st/secure/bGKGvmepsYZgxUuYwCfKWXaYrFrPSGZj/echo/stream/cf-pachuca-vs-puebla-football-1550929/1/playlist.m3u8
+https://lb3.strmd.st/secure/hrXUxfdUNfncAXkNCHnadUZunDxdqdPz/admin/stream/ppv-pachuca-vs-puebla/2/playlist.m3u8
 

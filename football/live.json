@@ -1,7 +1,7 @@
 {
   "category_name": "Football Live",
-  "total_items": 3,
-  "updated_time_bd": "2026-08-18 | 10:43:04",
+  "total_items": 2,
+  "updated_time_bd": "2026-08-18 | 11:39:16",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -16,25 +16,19 @@
         "Referer": "https://embed.st/",
         "Origin": "https://embed.st"
       },
-      "total_streams": 3,
+      "total_streams": 2,
       "streams": [
         {
           "streamNo": 1,
           "channel_name": "Spanish - TUDN (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/mKAcFhpoBZWwXlJhBQbSFPgEBbzqiRco/rtmp/stream/68WfkzMljTXJgss8V4Ha-MshQcuqp6_ILfA2czlq1pVTnuXttLlR3YSk2KNclGgVKqjMG9snpaw/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/kFPOjXeRrSLYGSUbVwDzCEfxwAvsHLPu/rtmp/stream/e8dYX295kCcGDlthhSwdUOKM5ZhXk3z-nQoIG0eTIp7ePpoILn3DkUfZqqA47-GLMxr44PsN-Aw/1/playlist.m3u8"
         },
         {
           "streamNo": 2,
           "channel_name": "Spanish - TUDN (SD)",
           "hd": false,
-          "direct_stream_url": "https://lb3.strmd.st/secure/IunTZyyiHQrDmOlANqVtPlaTPVkTmYNp/rtmp/stream/hnj_CEmU97SfT1W_9AYpTaa4Chhu0mUPXsWafRh7e5fI7pWlKkpBG0asUZBABw0v9FQIAdLlr5xb5geb/1/playlist.m3u8"
-        },
-        {
-          "streamNo": 1,
-          "channel_name": "Pachuca vs Puebla - Stream 1 (HD)",
-          "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/bGKGvmepsYZgxUuYwCfKWXaYrFrPSGZj/echo/stream/cf-pachuca-vs-puebla-football-1550929/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/hrXUxfdUNfncAXkNCHnadUZunDxdqdPz/admin/stream/ppv-pachuca-vs-puebla/2/playlist.m3u8"
         }
       ]
     }
