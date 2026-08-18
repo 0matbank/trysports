@@ -1,43 +1,9 @@
 {
   "category_name": "Football Live",
-  "total_items": 6,
-  "updated_time_bd": "2026-08-18 | 09:03:33",
+  "total_items": 3,
+  "updated_time_bd": "2026-08-18 | 10:43:04",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "necaxa-vs-le-n-2487486",
-      "title": "Necaxa vs León",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "18 Aug 2026, 01:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECQ1yQAwjm46QRiCBMwNIcwfgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "total_streams": 3,
-      "streams": [
-        {
-          "streamNo": 1,
-          "channel_name": "Spanish - FOX Deportes (HD)",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/DbCCkkpIeZgQQCajcZBYZBgDKcfFxYCZ/rtmp/stream/JnlBaMoipm5mkLgCxa71McpXOwTdrZmfnbbOEBXAuHiNCYKYiRkA7Xn7yvzyUTiitmBYyooI6ho/1/playlist.m3u8"
-        },
-        {
-          "streamNo": 2,
-          "channel_name": "Spanish - FOX Deportes (SD)",
-          "hd": false,
-          "direct_stream_url": "https://lb3.strmd.st/secure/lWtThtMVkFdzlTZdcyLbALnTiuqpokyV/rtmp/stream/NBTsBLDd45HcGqfOM-cKZmC9oOpeeqHiXi1LmJ2VwhDxcmypTqUiMsYHCbf2tDjuCEkiUnEqHxiA7f4R/1/playlist.m3u8"
-        },
-        {
-          "streamNo": 1,
-          "channel_name": "Necaxa vs León - Stream 1 (HD)",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/UCncibTYhuLFGzVtXzUOmufwRmaFCSON/echo/stream/necaxa-vs-leon-football-1550928/1/playlist.m3u8"
-        }
-      ]
-    },
     {
       "id": "pachuca-vs-puebla-2487487",
       "title": "Pachuca vs Puebla",
@@ -56,19 +22,19 @@
           "streamNo": 1,
           "channel_name": "Spanish - TUDN (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/FaLgaPkjegvJxtjopRRQESjaCCHgUJSd/rtmp/stream/zYCEKdLVLFc2oYvtwWbsxjlDrI90SAIynHn-_C_XkByP4KQqylvmp_dSKSGctnqdOpRG0xWHrF8/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/mKAcFhpoBZWwXlJhBQbSFPgEBbzqiRco/rtmp/stream/68WfkzMljTXJgss8V4Ha-MshQcuqp6_ILfA2czlq1pVTnuXttLlR3YSk2KNclGgVKqjMG9snpaw/1/playlist.m3u8"
         },
         {
           "streamNo": 2,
           "channel_name": "Spanish - TUDN (SD)",
           "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/wAPymqdOKDJYLvOGsUMOmrPNTznkShUY/rtmp/stream/hOrBXcU4BBeLyhSlFkuNOziNZ6roOFnvSKgX-QzIftGyusCmGqxf1k--s8vg-0AKnPa73Ib_b4BzbLvv/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/IunTZyyiHQrDmOlANqVtPlaTPVkTmYNp/rtmp/stream/hnj_CEmU97SfT1W_9AYpTaa4Chhu0mUPXsWafRh7e5fI7pWlKkpBG0asUZBABw0v9FQIAdLlr5xb5geb/1/playlist.m3u8"
         },
         {
           "streamNo": 1,
           "channel_name": "Pachuca vs Puebla - Stream 1 (HD)",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/LelgOdGfQOTFKqUezbgfFjvsDMaiVuHa/echo/stream/cf-pachuca-vs-puebla-football-1550929/1/playlist.m3u8"
+          "direct_stream_url": "https://lb11.strmd.st/secure/bGKGvmepsYZgxUuYwCfKWXaYrFrPSGZj/echo/stream/cf-pachuca-vs-puebla-football-1550929/1/playlist.m3u8"
         }
       ]
     }
