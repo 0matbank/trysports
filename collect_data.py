@@ -26,37 +26,38 @@ def fetch_json(url, referer=None):
         print(f"[-] Fetch error for {url}: {e}")
         return None
 
-def format_image_url(val_str):
-    """টিম ব্যাজ বা পোস্টারের স্ট্রিং থেকে ১০০% সঠিক ও ভ্যালিড ওয়েবপি (.webp) ইউআরএল তৈরি করে"""
-    if not val_str or not isinstance(val_str, str):
-        return ""
-    val = val_str.strip()
-    if not val:
-        return ""
-    if val.startswith("http://") or val.startswith("https://"):
-        return val
-    if val.startswith("/"):
-        return f"{BASE_URL}{val}" if val.endswith(".webp") else f"{BASE_URL}{val}.webp"
-    return f"{BASE_URL}/api/images/proxy/{val}.webp"
-
 def resolve_single_poster(m):
-    """একটি ম্যাচের জন্য মাত্র একটি সঠিক ও প্রধান পোস্টার/লোগো নির্ধারণ করা"""
-    # ১. সরাসরি পোস্টার থাকলে
-    poster = format_image_url(m.get("poster"))
-    if poster:
-        return poster
+    """
+    streamed.pk এর আসল অফিশিয়াল পোস্টার লিঙ্ক তৈরি করা:
+    ১. ম্যাচ পোস্টার থাকলে -> /api/images/proxy/{poster}.webp
+    ২. দুই দলের ব্যাজ থাকলে -> /api/images/poster/{home_badge}/{away_badge}.webp
+    """
+    # ১. সরাসরি ম্যাচ পোস্টার থাকলে
+    poster = m.get("poster")
+    if poster and isinstance(poster, str) and poster.strip():
+        poster = poster.strip()
+        if poster.startswith("http://") or poster.startswith("https://"):
+            return poster
+        if poster.startswith("/"):
+            return f"{BASE_URL}{poster}" if poster.endswith(".webp") else f"{BASE_URL}{poster}.webp"
+        return f"{BASE_URL}/api/images/proxy/{poster}.webp"
 
-    # ২. হোম টিমের লোগো থাকলে
-    teams_raw = m.get("teams", {})
-    if isinstance(teams_raw, dict):
-        home_badge = format_image_url(teams_raw.get("home", {}).get("badge"))
-        if home_badge:
-            return home_badge
-        away_badge = format_image_url(teams_raw.get("away", {}).get("badge"))
-        if away_badge:
-            return away_badge
+    # ২. উভয় দলের ব্যাজ থেকে অফিশিয়াল ফুল ডুয়াল-টিম ম্যাচ পোস্টার তৈরি করা
+    teams = m.get("teams", {})
+    if isinstance(teams, dict):
+        hb = teams.get("home", {}).get("badge", "")
+        ab = teams.get("away", {}).get("badge", "")
+        hb = hb.strip() if isinstance(hb, str) else ""
+        ab = ab.strip() if isinstance(ab, str) else ""
+        
+        if hb and ab:
+            return f"{BASE_URL}/api/images/poster/{hb}/{ab}.webp"
+        elif hb:
+            return f"{BASE_URL}/api/images/proxy/{hb}.webp"
+        elif ab:
+            return f"{BASE_URL}/api/images/proxy/{ab}.webp"
 
-    # ৩. ক্যাটাগরি ডিফল্ট লোগো
+    # ৩. ক্যাটাগরি ডিফল্ট
     cat = m.get("category", "").lower()
     return CRICKET_DEFAULT_LOGO if cat == "cricket" else FOOTBALL_DEFAULT_LOGO
 
@@ -150,7 +151,7 @@ def build_m3u_file(category_name, items_list):
 
 def run_collector():
     print("=" * 60)
-    print("  [*] SPORTS STREAM SCANNER (CLEAN & SINGLE POSTER FORMAT)")
+    print("  [*] SPORTS STREAM SCANNER (OFFICIAL COMPOSITE POSTER FORMAT)")
     print("=" * 60)
 
     base_dir = os.path.dirname(__file__)
@@ -335,7 +336,7 @@ def run_collector():
     print(f"[*] football/live.json     (TOTAL-ITEMS: {total_football_channels} channels)")
     print(f"[*] football/upcoming.json (TOTAL-ITEMS: {len(football_upcoming)} matches)")
     print("=" * 60)
-    print("  [SUCCESS] 100% CLEAN JSON & SINGLE POSTER FORMAT APPLIED!")
+    print("  [SUCCESS] EXACT MATCH POSTER FORMAT APPLIED!")
     print("=" * 60)
 
 if __name__ == "__main__":
