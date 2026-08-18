@@ -1,30 +1,7 @@
 {
   "category_name": "Football Live",
-  "total_items": 1,
-  "updated_time_bd": "2026-08-18 | 16:36:56",
+  "total_items": 0,
+  "updated_time_bd": "2026-08-18 | 17:00:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "illescas-vs-ss-reyes-ii-football-1629009",
-      "title": "Illescas vs SS Reyes II",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "18 Aug 2026, 08:00 AM (BD Time)",
-      "poster": "https://streamed.pk/favicon.ico",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "total_streams": 1,
-      "streams": [
-        {
-          "streamNo": 1,
-          "channel_name": "Illescas vs SS Reyes II (HD)",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/KJqPngAlDgzxBivczcifIKgJrNBWwyje/echo/stream/illescas-vs-ss-reyes-ii-football-1629009/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }

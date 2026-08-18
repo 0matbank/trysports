@@ -1,7 +1,7 @@
 {
   "category_name": "Cricket Live",
   "total_items": 8,
-  "updated_time_bd": "2026-08-18 | 16:36:56",
+  "updated_time_bd": "2026-08-18 | 17:00:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -11,6 +11,16 @@
       "status": "LIVE_NOW",
       "start_time_bd": "18 Aug 2026, 04:30 AM (BD Time)",
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMCogAxiJBkaEbCGEg1IYErJlhpFTJAR5K4PFKmTWEXt1KtE-mEHWC2emELAkuaRKFPWJV0yCVczMCdNcwggA.webp",
+      "teams": {
+        "home": {
+          "name": "India",
+          "badge": ""
+        },
+        "away": {
+          "name": "Sri Lanka - 1st Test",
+          "badge": ""
+        }
+      },
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -20,15 +30,17 @@
       "streams": [
         {
           "streamNo": 1,
-          "channel_name": "English - Fox Cricket (HD)",
+          "channel_name": "Fox Cricket (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMCogAxiJBkaEbCGEg1IYErJlhpFTJAR5K4PFKmTWEXt1KtE-mEHWC2emELAkuaRKFPWJV0yCVczMCdNcwggA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/LTKTdFgdTJCFrayiByxYQzQJfUPUIglF/rtmp/stream/Ao1vN_waKoi9hq_nRJn0UUzymWfTlKrLCqzVjcFg3nOhERUt2AiCNX_Gi6FpmtGqRjepxaqUyyEvhA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/uYnsSXleiFyvYjgLVsyDvPdzvWhXLmkR/rtmp/stream/KHEeycAX1331xKzT___Ch5hWvgRCTDcNo46lb4NPHxcuk9R7_9nfVjQQIDqrzlHLciWkLV9KMpW4gA/1/playlist.m3u8"
         },
         {
           "streamNo": 2,
-          "channel_name": "English - Fox Cricket (SD)",
+          "channel_name": "Fox Cricket (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMCogAxiJBkaEbCGEg1IYErJlhpFTJAR5K4PFKmTWEXt1KtE-mEHWC2emELAkuaRKFPWJV0yCVczMCdNcwggA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/wTZGqUpeTLWYekwxoVBCwnpkVjqojWmI/rtmp/stream/Vz1v1piEgxKSso8_b1fi5fCNSf1BEvRpfNi5yopaPDztMQq6cGutTXZJGy9CznglAlR2LRRsQC_xg6295N0/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/GbvFscqMHCqmTuQwkkIrbpdGgdUZWZsU/rtmp/stream/gMUli67mkBXFd24zxA5rvyX3VoyWI22GkK5BNNc_GU-OibIN2XVrmrKKn6sc1xQvgNBdJajaYWcM9CbfiCw/1/playlist.m3u8"
         }
       ]
     },
@@ -39,6 +51,16 @@
       "status": "LIVE_NOW",
       "start_time_bd": "24/7 Live Channel",
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
+      "teams": {
+        "home": {
+          "name": "",
+          "badge": ""
+        },
+        "away": {
+          "name": "",
+          "badge": ""
+        }
+      },
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -48,39 +70,45 @@
       "streams": [
         {
           "streamNo": 1,
-          "channel_name": "Willow Cricket - Stream 1 (HD)",
+          "channel_name": "Willow Cricket (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/EwjCaCoLyyIMhLBNOhWIQhCOyFFbsUcr/rtmp/stream/streamed-willow_720/1/playlist.m3u8"
+          "direct_stream_url": "https://lb4.strmd.st/secure/fXoNugcHJrPRFgLHYVHZbBlCYifULxGU/rtmp/stream/streamed-willow_720/1/playlist.m3u8"
         },
         {
           "streamNo": 2,
           "channel_name": "Willow 2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/rhofETZFpgkDLiyKylKELUmfrOXnjZYo/rtmp/stream/streamed-willow2_720/1/playlist.m3u8"
+          "direct_stream_url": "https://lb14.strmd.st/secure/ByqMoPJmdGbvdcIiiCETamzQBERgmsDi/rtmp/stream/streamed-willow2_720/1/playlist.m3u8"
         },
         {
           "streamNo": 3,
           "channel_name": "Willow Sports (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/CspdFDDJmUPsVVNwMUJhfEekTcLLHOTp/rtmp/stream/streamed-willowsports_720/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/OlGYuCGTAcUbaKnilvxTPxfCItlEnEYf/rtmp/stream/streamed-willowsports_720/1/playlist.m3u8"
         },
         {
           "streamNo": 4,
-          "channel_name": "Willow Cricket - Stream 4 (SD)",
+          "channel_name": "Willow Cricket (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb1.strmd.st/secure/ewlhAlPhVQuYPYsaqWOCrNBBFaSamJlj/rtmp/stream/streamed-willow_low/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/joSZnEevhspvOynMqfHYmudWkAWQezGj/rtmp/stream/streamed-willow_low/1/playlist.m3u8"
         },
         {
           "streamNo": 5,
           "channel_name": "Willow 2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb12.strmd.st/secure/qbnfTihJAzDeQvXBetycGHKUOEMgPFfj/rtmp/stream/streamed-willow2_low/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/xRPbuvWCCjqjeMtfiHnaxzdIJWmPiCJq/rtmp/stream/streamed-willow2_low/1/playlist.m3u8"
         },
         {
           "streamNo": 6,
           "channel_name": "Willow Sports (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb12.strmd.st/secure/RRxsWyhGPJXaAJLOliennpaaOvbIiHXL/rtmp/stream/streamed-willowsports_low/1/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/KKtaEhvmgVLLOlPwJJUyPRcQmgsujktZ/rtmp/stream/streamed-willowsports_low/1/playlist.m3u8"
         }
       ]
     }
