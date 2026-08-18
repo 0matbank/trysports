@@ -1,48 +1,62 @@
 #EXTM3U
 # CATEGORY NAME: Cricket Live
-# TOTAL-ITEMS: 6
-# UPDATED Time and date BD: 2026-08-18 | 15:40:56
+# TOTAL-ITEMS: 8
+# UPDATED Time and date BD: 2026-08-18 | 16:36:56
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="English - Fox Cricket (HD)" tvg-name="English - Fox Cricket (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMCogAxiJBkaEbCGEg1IYErJlhpFTJAR5K4PFKmTWEXt1KtE-mEHWC2emELAkuaRKFPWJV0yCVczMCdNcwggA.webp" group-title="Cricket", English - Fox Cricket (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/LTKTdFgdTJCFrayiByxYQzQJfUPUIglF/rtmp/stream/Ao1vN_waKoi9hq_nRJn0UUzymWfTlKrLCqzVjcFg3nOhERUt2AiCNX_Gi6FpmtGqRjepxaqUyyEvhA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="English - Fox Cricket (SD)" tvg-name="English - Fox Cricket (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMCogAxiJBkaEbCGEg1IYErJlhpFTJAR5K4PFKmTWEXt1KtE-mEHWC2emELAkuaRKFPWJV0yCVczMCdNcwggA.webp" group-title="Cricket", English - Fox Cricket (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/wTZGqUpeTLWYekwxoVBCwnpkVjqojWmI/rtmp/stream/Vz1v1piEgxKSso8_b1fi5fCNSf1BEvRpfNi5yopaPDztMQq6cGutTXZJGy9CznglAlR2LRRsQC_xg6295N0/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Willow Cricket - Stream 1 (HD)" tvg-name="Willow Cricket - Stream 1 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket - Stream 1 (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/UrdHwmeVuHILEbKdFcMKeXlxRmlEOpON/rtmp/stream/streamed-willow_720/1/playlist.m3u8
+https://lb12.strmd.st/secure/EwjCaCoLyyIMhLBNOhWIQhCOyFFbsUcr/rtmp/stream/streamed-willow_720/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Willow 2 (HD)" tvg-name="Willow 2 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow 2 (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/wDBvGGUyrkxEScgGecWiTSpOaXjqIhEF/rtmp/stream/streamed-willow2_720/1/playlist.m3u8
+https://lb3.strmd.st/secure/rhofETZFpgkDLiyKylKELUmfrOXnjZYo/rtmp/stream/streamed-willow2_720/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Willow Sports (HD)" tvg-name="Willow Sports (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Sports (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb7.strmd.st/secure/mcZRpJWpxAtEcoDzxsXrjSuFntEApldv/rtmp/stream/streamed-willowsports_720/1/playlist.m3u8
+https://lb10.strmd.st/secure/CspdFDDJmUPsVVNwMUJhfEekTcLLHOTp/rtmp/stream/streamed-willowsports_720/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Willow Cricket - Stream 4 (SD)" tvg-name="Willow Cricket - Stream 4 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Cricket - Stream 4 (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb3.strmd.st/secure/gKDhOHOeILwkGrtbyIZsGZnvscicFAyp/rtmp/stream/streamed-willow_low/1/playlist.m3u8
+https://lb1.strmd.st/secure/ewlhAlPhVQuYPYsaqWOCrNBBFaSamJlj/rtmp/stream/streamed-willow_low/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Willow 2 (SD)" tvg-name="Willow 2 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow 2 (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/aQLxRJuAtbCOGCDgVEDRoEJGbkHHtwdL/rtmp/stream/streamed-willow2_low/1/playlist.m3u8
+https://lb12.strmd.st/secure/qbnfTihJAzDeQvXBetycGHKUOEMgPFfj/rtmp/stream/streamed-willow2_low/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Willow Sports (SD)" tvg-name="Willow Sports (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="Cricket", Willow Sports (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/IvustGUvtyABBCmkBCEPJlkqCWLcsAOe/rtmp/stream/streamed-willowsports_low/1/playlist.m3u8
+https://lb12.strmd.st/secure/RRxsWyhGPJXaAJLOliennpaaOvbIiHXL/rtmp/stream/streamed-willowsports_low/1/playlist.m3u8
 
