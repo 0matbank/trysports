@@ -26,11 +26,11 @@ def fetch_json(url, referer=None):
         print(f"[-] Fetch error for {url}: {e}")
         return None
 
-def format_image_url(badge_or_poster_str):
+def format_image_url(val_str):
     """টিম ব্যাজ বা পোস্টারের স্ট্রিং থেকে ১০০% সঠিক ও ভ্যালিড ওয়েবপি (.webp) ইউআরএল তৈরি করে"""
-    if not badge_or_poster_str or not isinstance(badge_or_poster_str, str):
+    if not val_str or not isinstance(val_str, str):
         return ""
-    val = badge_or_poster_str.strip()
+    val = val_str.strip()
     if not val:
         return ""
     if val.startswith("http://") or val.startswith("https://"):
@@ -39,44 +39,26 @@ def format_image_url(badge_or_poster_str):
         return f"{BASE_URL}{val}" if val.endswith(".webp") else f"{BASE_URL}{val}.webp"
     return f"{BASE_URL}/api/images/proxy/{val}.webp"
 
-def resolve_match_poster_and_teams(m):
-    """ম্যাচের আসল পোস্টার এবং টিমগুলোর লোগো বের করা"""
+def resolve_single_poster(m):
+    """একটি ম্যাচের জন্য মাত্র একটি সঠিক ও প্রধান পোস্টার/লোগো নির্ধারণ করা"""
+    # ১. সরাসরি পোস্টার থাকলে
+    poster = format_image_url(m.get("poster"))
+    if poster:
+        return poster
+
+    # ২. হোম টিমের লোগো থাকলে
     teams_raw = m.get("teams", {})
-    home_data = teams_raw.get("home", {}) if isinstance(teams_raw, dict) else {}
-    away_data = teams_raw.get("away", {}) if isinstance(teams_raw, dict) else {}
+    if isinstance(teams_raw, dict):
+        home_badge = format_image_url(teams_raw.get("home", {}).get("badge"))
+        if home_badge:
+            return home_badge
+        away_badge = format_image_url(teams_raw.get("away", {}).get("badge"))
+        if away_badge:
+            return away_badge
 
-    home_name = home_data.get("name", "").strip()
-    home_badge_url = format_image_url(home_data.get("badge"))
-
-    away_name = away_data.get("name", "").strip()
-    away_badge_url = format_image_url(away_data.get("badge"))
-
-    # ১. যদি সরাসরি ম্যাচ পোস্টার থাকে
-    match_poster = format_image_url(m.get("poster"))
-
-    # ২. যদি ম্যাচ পোস্টার না থাকে কিন্তু হোম টিমের ব্যাজ থাকে
-    if not match_poster and home_badge_url:
-        match_poster = home_badge_url
-    elif not match_poster and away_badge_url:
-        match_poster = away_badge_url
-
-    # ৩. ফলব্যাক
-    if not match_poster:
-        cat = m.get("category", "").lower()
-        match_poster = CRICKET_DEFAULT_LOGO if cat == "cricket" else FOOTBALL_DEFAULT_LOGO
-
-    teams_obj = {
-        "home": {
-            "name": home_name,
-            "badge": home_badge_url
-        },
-        "away": {
-            "name": away_name,
-            "badge": away_badge_url
-        }
-    }
-
-    return match_poster, teams_obj
+    # ৩. ক্যাটাগরি ডিফল্ট লোগো
+    cat = m.get("category", "").lower()
+    return CRICKET_DEFAULT_LOGO if cat == "cricket" else FOOTBALL_DEFAULT_LOGO
 
 def get_channel_specific_poster(channel_name, match_poster):
     """উইলো বা নির্দিষ্ট চ্যানেলের জন্য স্পেসিফিক লোগো"""
@@ -168,7 +150,7 @@ def build_m3u_file(category_name, items_list):
 
 def run_collector():
     print("=" * 60)
-    print("  [*] SPORTS STREAM SCANNER (REAL POSTERS & BADGES INCLUDED)")
+    print("  [*] SPORTS STREAM SCANNER (CLEAN & SINGLE POSTER FORMAT)")
     print("=" * 60)
 
     base_dir = os.path.dirname(__file__)
@@ -228,7 +210,7 @@ def run_collector():
                 date_ms = m.get("date", 0)
                 match_id = m.get("id", "")
                 match_title = m.get("title", "").strip()
-                match_poster, teams_obj = resolve_match_poster_and_teams(m)
+                match_poster = resolve_single_poster(m)
 
                 start_time_bd = "24/7 Live Channel" if date_ms == 0 else datetime.fromtimestamp(date_ms / 1000.0, tz=timezone.utc).strftime("%d %b %Y, %I:%M %p (BD Time)")
 
@@ -252,7 +234,6 @@ def run_collector():
                 print(f"[*] Scanning {len(all_streams_info)} stream channels for: {match_title}")
 
                 for st in all_streams_info:
-                    st_num = st.get("streamNo", 1)
                     st_hd = st.get("hd", True)
                     hd_label = "HD" if st_hd else "SD"
                     st_lang = st.get("language", "")
@@ -271,7 +252,6 @@ def run_collector():
                     if direct_url:
                         print(f"    [+] {clean_name}: {direct_url}")
                         extracted_streams.append({
-                            "streamNo": st_num,
                             "channel_name": clean_name,
                             "channel_poster": channel_poster,
                             "hd": st_hd,
@@ -285,13 +265,11 @@ def run_collector():
                     "status": "LIVE_NOW",
                     "start_time_bd": start_time_bd,
                     "poster": match_poster,
-                    "teams": teams_obj,
                     "headers": {
                         "User-Agent": USER_AGENT,
                         "Referer": REFERER_HEADER,
                         "Origin": ORIGIN_HEADER
                     },
-                    "total_streams": len(extracted_streams),
                     "streams": extracted_streams
                 })
 
@@ -302,7 +280,7 @@ def run_collector():
             for m in matches_list:
                 date_ms = m.get("date", 0)
                 match_id = m.get("id", "")
-                match_poster, teams_obj = resolve_match_poster_and_teams(m)
+                match_poster = resolve_single_poster(m)
 
                 if date_ms > 0:
                     bst_dt = datetime.fromtimestamp(date_ms / 1000.0, tz=timezone.utc) + timedelta(hours=6)
@@ -316,8 +294,7 @@ def run_collector():
                     "category": m.get("category", ""),
                     "status": "UPCOMING",
                     "start_time_bd": start_time_bd,
-                    "poster": match_poster,
-                    "teams": teams_obj
+                    "poster": match_poster
                 })
             return processed
 
@@ -358,7 +335,7 @@ def run_collector():
     print(f"[*] football/live.json     (TOTAL-ITEMS: {total_football_channels} channels)")
     print(f"[*] football/upcoming.json (TOTAL-ITEMS: {len(football_upcoming)} matches)")
     print("=" * 60)
-    print("  [SUCCESS] 100% REAL POSTERS & TEAM BADGES ADDED!")
+    print("  [SUCCESS] 100% CLEAN JSON & SINGLE POSTER FORMAT APPLIED!")
     print("=" * 60)
 
 if __name__ == "__main__":
