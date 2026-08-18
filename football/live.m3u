@@ -1,13 +1,48 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 1
-# UPDATED Time and date BD: 2026-08-18 | 22:46:15
+# TOTAL-ITEMS: 6
+# UPDATED Time and date BD: 2026-08-18 | 23:37:17
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Mutilvera vs Peña Sport (HD)" tvg-name="Mutilvera vs Peña Sport (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3pJckEABMwa7lpAoQMI-r4gzxiYRjAmfFFzBl4ReaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDFE9HBBDcQfEPq0wQKEIn0mUBCkz4ouYMvCLzRdprTAOxoiEA.webp" group-title="Football", Mutilvera vs Peña Sport (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb4.strmd.st/secure/MrFSqUweHHqAnbgjIllOhttMkfPZVelS/echo/stream/mutilvera-vs-pena-sport-football-1627009/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sporting Gijón II vs Llanera (HD)" tvg-name="Sporting Gijón II vs Llanera (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbCADGa+uQarm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIfiCogAxvXINNWcT3giq3Al1ZgwufFaA.webp" group-title="Football", Sporting Gijón II vs Llanera (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb14.strmd.st/secure/AceTBzCnVVeXJFsiwOLJhWwWZmQPfiYn/echo/stream/sporting-gijon-ii-vs-llanera-football-1627008/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Laredo vs Athletic Club II (HD)" tvg-name="Laredo vs Athletic Club II (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIREoj1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbCADGi+uQarm4nvBFVuBLqzBhc+S0A.webp" group-title="Football", Laredo vs Athletic Club II (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb1.strmd.st/secure/saACJTHToqbTeuFdnrLAPKdHaoVmoCoF/echo/stream/laredo-vs-athletic-club-ii-football-1629010/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Unionistas de Salamanca vs Alcorcón (HD)" tvg-name="Unionistas de Salamanca vs Alcorcón (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz5huuBMDAIQ6kiD4gjhiCH0wQAEyMEKTPii5gy8IvNGOmtbaKl0gA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgSIFMCZ8w3EHvWI+IYzkQh9JghW2a2a8vXmjNTWmDVjREIA.webp" group-title="Football", Unionistas de Salamanca vs Alcorcón (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb11.strmd.st/secure/fmJUoOpcrBnjYThRCBAVdNptZvKzCrLb/echo/stream/unionistas-de-salamanca-vs-alcorcon-football-1618945/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spelle-Venhaus vs Osnabrück (HD)" tvg-name="Spelle-Venhaus vs Osnabrück (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzD8wSatxB8QWnSBAwQKEABNcIEsdwEKTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOBIEuEABMQ3HSBJb9elCER8QEEHwIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title="Football", Spelle-Venhaus vs Osnabrück (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb13.strmd.st/secure/lhSZTJoFnfVJyAgzXZOLuXwvXUnrUuHa/echo/stream/spelle-venhaus-vs-vfl-osnabruck-football-1618944/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Heidenheim vs Bayern Munich (HD)" tvg-name="Heidenheim vs Bayern Munich (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzANgSEAL4gYIbiAAmOkCZyIjKEyYIUmfFFzBl4ReaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQvVgIAModSD56AJiBQhjaiHsYUmfFFzBl4ReaPtNaYR2NEQgA.webp" group-title="Football", Heidenheim vs Bayern Munich (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/tEzITxzXLWbeeEVrzMtInjNRNAMLgNik/echo/stream/1-fc-heidenheim-vs-bayern-munchen-football-1618943/1/playlist.m3u8
+https://lb13.strmd.st/secure/TYeZScHSUBxalzSDIytRIgCrhvhhumPA/echo/stream/1-fc-heidenheim-vs-bayern-munchen-football-1618943/1/playlist.m3u8
 
