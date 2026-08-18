@@ -1,29 +1,7 @@
 {
   "category_name": "Football Live",
-  "total_items": 1,
-  "updated_time_bd": "2026-08-18 | 19:52:08",
+  "total_items": 0,
+  "updated_time_bd": "2026-08-18 | 20:41:34",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "persib-bandung-vs-bali-united-2573946",
-      "title": "Persib Bandung vs Bali United",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "18 Aug 2026, 12:30 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSd4YVQAZSIbiD4hEiEiBQgYukFYmEYwJn1VswZdfXmjVTWmBdjREEA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksOBMAJsCQgIIPiG67tuEDBAkQakCjNWCFJnxRcwZeEXminTWmBdjREEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Persib Bandung vs Bali United (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSd4YVQAZSIbiD4hEiEiBQgYukFYmEYwJn1VswZdfXmjVTWmBdjREEA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksOBMAJsCQgIIPiG67tuEDBAkQakCjNWCFJnxRcwZeEXminTWmBdjREEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/qDbvHONmmFXmwdczMjOKUrJXvidrzFdW/echo/stream/persib-bandung-vs-bali-united-football-1627007/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
