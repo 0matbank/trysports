@@ -1,7 +1,7 @@
 {
   "category_name": "Football Upcoming",
   "total_items": 147,
-  "updated_time_bd": "2026-08-18 | 17:00:41",
+  "updated_time_bd": "2026-08-18 | 17:05:41",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -1085,6 +1085,24 @@
       }
     },
     {
+      "id": "ppv-colorado-rapids-vs-lafc",
+      "title": "Colorado Rapids vs. LAFC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "20 Aug 2026, 07:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52ILCAjZSwCCBDBEKEPFkgSIGLOA0JVcaXnThIzdnEhl+kxIDGllOSkChIptMdhCwJLluOhMG5OKRMyRwJFciDtMgggA.webp",
+      "teams": {
+        "home": {
+          "name": "Colorado Rapids",
+          "badge": ""
+        },
+        "away": {
+          "name": "LAFC",
+          "badge": ""
+        }
+      }
+    },
+    {
       "id": "ppv-seattle-sounders-fc-vs-austin-fc",
       "title": "Seattle Sounders FC vs. Austin FC",
       "category": "football",
@@ -1121,19 +1139,19 @@
       }
     },
     {
-      "id": "ppv-colorado-rapids-vs-lafc",
-      "title": "Colorado Rapids vs. LAFC",
+      "id": "ppv-la-galaxy-vs-san-jose-earthquakes",
+      "title": "LA Galaxy vs. San Jose Earthquakes",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "20 Aug 2026, 07:30 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52ILCAjZSwCCBDBEKEPFkgSIGLOA0JVcaXnThIzdnEhl+kxIDGllOSkChIptMdhCwJLluOhMG5OKRMyRwJFciDtMgggA.webp",
+      "start_time_bd": "20 Aug 2026, 08:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCwhhk2VRAL5EbCHikQMFRA3rEUtfIlkswQ9hEjpG8SnLKBQiwXO2whYElwBjW0LDdOZWFSemc1MH9gZTIIIA.webp",
       "teams": {
         "home": {
-          "name": "Colorado Rapids",
+          "name": "LA Galaxy",
           "badge": ""
         },
         "away": {
-          "name": "LAFC",
+          "name": "San Jose Earthquakes",
           "badge": ""
         }
       }
@@ -1152,24 +1170,6 @@
         },
         "away": {
           "name": "San Diego FC",
-          "badge": ""
-        }
-      }
-    },
-    {
-      "id": "ppv-la-galaxy-vs-san-jose-earthquakes",
-      "title": "LA Galaxy vs. San Jose Earthquakes",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Aug 2026, 08:30 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCwhhk2VRAL5EbCHikQMFRA3rEUtfIlkswQ9hEjpG8SnLKBQiwXO2whYElwBjW0LDdOZWFSemc1MH9gZTIIIA.webp",
-      "teams": {
-        "home": {
-          "name": "LA Galaxy",
-          "badge": ""
-        },
-        "away": {
-          "name": "San Jose Earthquakes",
           "badge": ""
         }
       }
@@ -1265,24 +1265,6 @@
       }
     },
     {
-      "id": "ppv-arsenal-vs-coventry-city",
-      "title": "Arsenal vs. Coventry City",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Aug 2026, 01:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGDxgVECRBYQMEDQilxU9YqxSVMjYrJr5wkRtM1pslKRv8wgkU2z0whYElwBjG0Ies1UzIbAk0wB2BjSKA.webp",
-      "teams": {
-        "home": {
-          "name": "Arsenal",
-          "badge": ""
-        },
-        "away": {
-          "name": "Coventry City",
-          "badge": ""
-        }
-      }
-    },
-    {
       "id": "ppv-real-betis-vs-real-sociedad",
       "title": "Real Betis vs. Real Sociedad",
       "category": "football",
@@ -1301,19 +1283,19 @@
       }
     },
     {
-      "id": "ppv-lincoln-city-vs-portsmouth",
-      "title": "Lincoln City vs. Portsmouth",
+      "id": "ppv-arsenal-vs-coventry-city",
+      "title": "Arsenal vs. Coventry City",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "22 Aug 2026, 05:30 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBIgAxjJDCZwCCBQgaNKfBHztIEMuVkpIbKX1maWJcCqLlWFOQigwgkU1OOwhYElzTHIVdWZ2FSegJgLTBXazIIIA.webp",
+      "start_time_bd": "22 Aug 2026, 01:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGDxgVECRBYQMEDQilxU9YqxSVMjYrJr5wkRtM1pslKRv8wgkU2z0whYElwBjG0Ies1UzIbAk0wB2BjSKA.webp",
       "teams": {
         "home": {
-          "name": "Lincoln City",
+          "name": "Arsenal",
           "badge": ""
         },
         "away": {
-          "name": "Portsmouth",
+          "name": "Coventry City",
           "badge": ""
         }
       }
@@ -1373,6 +1355,24 @@
       }
     },
     {
+      "id": "ppv-lincoln-city-vs-portsmouth",
+      "title": "Lincoln City vs. Portsmouth",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "22 Aug 2026, 05:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBIgAxjJDCZwCCBQgaNKfBHztIEMuVkpIbKX1maWJcCqLlWFOQigwgkU1OOwhYElzTHIVdWZ2FSegJgLTBXazIIIA.webp",
+      "teams": {
+        "home": {
+          "name": "Lincoln City",
+          "badge": ""
+        },
+        "away": {
+          "name": "Portsmouth",
+          "badge": ""
+        }
+      }
+    },
+    {
       "id": "ppv-tigres-uanl-vs-atlante",
       "title": "Tigres UANL vs. Atlante",
       "category": "football",
@@ -1391,24 +1391,6 @@
       }
     },
     {
-      "id": "ppv-blackburn-rovers-vs-middlesbrough",
-      "title": "Blackburn Rovers vs. Middlesbrough",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Aug 2026, 08:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcHiTgEGSADGIJbMRKQ2BSFWkdEECmBUt4kSBhrze1Wqz6D-MIJFNs9MIWBJc8g0MetZCTIDAmkwRxldIA.webp",
-      "teams": {
-        "home": {
-          "name": "Blackburn Rovers",
-          "badge": ""
-        },
-        "away": {
-          "name": "Middlesbrough",
-          "badge": ""
-        }
-      }
-    },
-    {
       "id": "ppv-everton-vs-crystal-palace",
       "title": "Everton vs. Crystal Palace",
       "category": "football",
@@ -1422,6 +1404,24 @@
         },
         "away": {
           "name": "Crystal Palace",
+          "badge": ""
+        }
+      }
+    },
+    {
+      "id": "ppv-preston-north-end-vs-wolverhampton-wanderers",
+      "title": "Preston North End vs. Wolverhampton Wanderers",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "22 Aug 2026, 08:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCziQIbMAnCQMGeODwRICMAgh1wtZt0hFixDROb5RxLIkBjFOS0ChIpnMdhCwJLgeuwbk4tfTJHAjVyQO1SbSA.webp",
+      "teams": {
+        "home": {
+          "name": "Preston North End",
+          "badge": ""
+        },
+        "away": {
+          "name": "Wolverhampton Wanderers",
           "badge": ""
         }
       }
@@ -1463,19 +1463,19 @@
       }
     },
     {
-      "id": "ppv-preston-north-end-vs-wolverhampton-wanderers",
-      "title": "Preston North End vs. Wolverhampton Wanderers",
+      "id": "ppv-blackburn-rovers-vs-middlesbrough",
+      "title": "Blackburn Rovers vs. Middlesbrough",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "22 Aug 2026, 08:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCziQIbMAnCQMGeODwRICMAgh1wtZt0hFixDROb5RxLIkBjFOS0ChIpnMdhCwJLgeuwbk4tfTJHAjVyQO1SbSA.webp",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcHiTgEGSADGIJbMRKQ2BSFWkdEECmBUt4kSBhrze1Wqz6D-MIJFNs9MIWBJc8g0MetZCTIDAmkwRxldIA.webp",
       "teams": {
         "home": {
-          "name": "Preston North End",
+          "name": "Blackburn Rovers",
           "badge": ""
         },
         "away": {
-          "name": "Wolverhampton Wanderers",
+          "name": "Middlesbrough",
           "badge": ""
         }
       }
@@ -1841,24 +1841,6 @@
       }
     },
     {
-      "id": "ppv-austin-fc-vs-philadelphia-union",
-      "title": "Austin FC vs. Philadelphia Union",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "23 Aug 2026, 06:30 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRMJApSIGCADGwCMCogSUkFhAQQkxDCXBE82bMOSTNRDusg7qmiWn8wgkU2z0whYElzzpIVdWZWFSegIjcldDMgggA.webp",
-      "teams": {
-        "home": {
-          "name": "Austin FC",
-          "badge": ""
-        },
-        "away": {
-          "name": "Philadelphia Union",
-          "badge": ""
-        }
-      }
-    },
-    {
       "id": "ppv-nashville-sc-vs-columbus-crew",
       "title": "Nashville SC vs. Columbus Crew",
       "category": "football",
@@ -1872,6 +1854,24 @@
         },
         "away": {
           "name": "Columbus Crew",
+          "badge": ""
+        }
+      }
+    },
+    {
+      "id": "ppv-austin-fc-vs-philadelphia-union",
+      "title": "Austin FC vs. Philadelphia Union",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "23 Aug 2026, 06:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRMJApSIGCADGwCMCogSUkFhAQQkxDCXBE82bMOSTNRDusg7qmiWn8wgkU2z0whYElzzpIVdWZWFSegIjcldDMgggA.webp",
+      "teams": {
+        "home": {
+          "name": "Austin FC",
+          "badge": ""
+        },
+        "away": {
+          "name": "Philadelphia Union",
           "badge": ""
         }
       }
@@ -1931,6 +1931,24 @@
       }
     },
     {
+      "id": "ppv-angers-vs-lille",
+      "title": "Angers vs. Lille",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "23 Aug 2026, 07:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCJDDgEYFRAkQ8lMESIIIdapAaaiPTJAhsIFCADGpbTBAxVchTpX8wgkU2z0whYElzmVIVdWWWkyFQJ7MFcZKwggA.webp",
+      "teams": {
+        "home": {
+          "name": "Angers",
+          "badge": ""
+        },
+        "away": {
+          "name": "Lille",
+          "badge": ""
+        }
+      }
+    },
+    {
       "id": "ppv-brighton-hove-albion-vs-aston-villa",
       "title": "Brighton & Hove Albion vs. Aston Villa",
       "category": "football",
@@ -1967,24 +1985,6 @@
       }
     },
     {
-      "id": "ppv-angers-vs-lille",
-      "title": "Angers vs. Lille",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "23 Aug 2026, 07:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCJDDgEYFRAkQ8lMESIIIdapAaaiPTJAhsIFCADGpbTBAxVchTpX8wgkU2z0whYElzmVIVdWWWkyFQJ7MFcZKwggA.webp",
-      "teams": {
-        "home": {
-          "name": "Angers",
-          "badge": ""
-        },
-        "away": {
-          "name": "Lille",
-          "badge": ""
-        }
-      }
-    },
-    {
       "id": "ppv-vancouver-whitecaps-vs-fc-dallas",
       "title": "Vancouver Whitecaps vs. FC Dallas",
       "category": "football",
@@ -1998,6 +1998,24 @@
         },
         "away": {
           "name": "FC Dallas",
+          "badge": ""
+        }
+      }
+    },
+    {
+      "id": "ppv-san-jose-earthquakes-vs-minnesota-united-fc",
+      "title": "San Jose Earthquakes vs. Minnesota United FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "23 Aug 2026, 08:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkBBABjECRDwRpbNhCqUs4BGAKFWafM0gYRjcJV7xVUyDNySKcloFDFBZQ7CFgSXFIdCwbk4tW3o3BTBAzSUIIA.webp",
+      "teams": {
+        "home": {
+          "name": "San Jose Earthquakes",
+          "badge": ""
+        },
+        "away": {
+          "name": "Minnesota United FC",
           "badge": ""
         }
       }
@@ -2034,24 +2052,6 @@
         },
         "away": {
           "name": "Colorado Rapids",
-          "badge": ""
-        }
-      }
-    },
-    {
-      "id": "ppv-san-jose-earthquakes-vs-minnesota-united-fc",
-      "title": "San Jose Earthquakes vs. Minnesota United FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "23 Aug 2026, 08:30 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkBBABjECRDwRpbNhCqUs4BGAKFWafM0gYRjcJV7xVUyDNySKcloFDFBZQ7CFgSXFIdCwbk4tW3o3BTBAzSUIIA.webp",
-      "teams": {
-        "home": {
-          "name": "San Jose Earthquakes",
-          "badge": ""
-        },
-        "away": {
-          "name": "Minnesota United FC",
           "badge": ""
         }
       }
@@ -2183,6 +2183,24 @@
       }
     },
     {
+      "id": "ppv-parma-vs-cagliari",
+      "title": "Parma vs. Cagliari",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "23 Aug 2026, 12:45 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCGGkQMYBBlyQZeSEUBjbMCogd2kjJ3BEwkNpg7JCxGUTyUIXuQigwgkU00pyhYElxqvIVdWZykyLwIjclc5UjkgA.webp",
+      "teams": {
+        "home": {
+          "name": "Parma",
+          "badge": ""
+        },
+        "away": {
+          "name": "Cagliari",
+          "badge": ""
+        }
+      }
+    },
+    {
       "id": "ppv-genoa-vs-napoli",
       "title": "Genoa vs. Napoli",
       "category": "football",
@@ -2214,24 +2232,6 @@
         },
         "away": {
           "name": "Paris FC",
-          "badge": ""
-        }
-      }
-    },
-    {
-      "id": "ppv-parma-vs-cagliari",
-      "title": "Parma vs. Cagliari",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "23 Aug 2026, 12:45 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCGGkQMYBBlyQZeSEUBjbMCogd2kjJ3BEwkNpg7JCxGUTyUIXuQigwgkU00pyhYElxqvIVdWZykyLwIjclc5UjkgA.webp",
-      "teams": {
-        "home": {
-          "name": "Parma",
-          "badge": ""
-        },
-        "away": {
-          "name": "Cagliari",
           "badge": ""
         }
       }
@@ -2327,24 +2327,6 @@
       }
     },
     {
-      "id": "ppv-atlanta-united-fc-vs-sporting-kansas-city",
-      "title": "Atlanta United FC vs. Sporting Kansas City",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Aug 2026, 05:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52wKiBggJElCADGwCCGXKSkkGWHZNCpSJ3zpxiYhTB4IkNuEKQvchFBhBBgtnphCwJLnnmhF1YnbTJzd0swF30yCCA.webp",
-      "teams": {
-        "home": {
-          "name": "Atlanta United FC",
-          "badge": ""
-        },
-        "away": {
-          "name": "Sporting Kansas City",
-          "badge": ""
-        }
-      }
-    },
-    {
       "id": "ppv-atl-tico-de-san-luis-vs-pachuca",
       "title": "Atlético de San Luis vs. Pachuca",
       "category": "football",
@@ -2358,6 +2340,24 @@
         },
         "away": {
           "name": "Pachuca",
+          "badge": ""
+        }
+      }
+    },
+    {
+      "id": "ppv-atlanta-united-fc-vs-sporting-kansas-city",
+      "title": "Atlanta United FC vs. Sporting Kansas City",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "24 Aug 2026, 05:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52wKiBggJElCADGwCCGXKSkkGWHZNCpSJ3zpxiYhTB4IkNuEKQvchFBhBBgtnphCwJLnnmhF1YnbTJzd0swF30yCCA.webp",
+      "teams": {
+        "home": {
+          "name": "Atlanta United FC",
+          "badge": ""
+        },
+        "away": {
+          "name": "Sporting Kansas City",
           "badge": ""
         }
       }
@@ -2417,24 +2417,6 @@
       }
     },
     {
-      "id": "ppv-atalanta-vs-sassuolo",
-      "title": "Atalanta vs. Sassuolo",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Aug 2026, 12:45 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IccJBkqISZInjZIeCOUgswGjMQoQEEDPExgOqaUUrE4gMbAIKchFBhBIptnphCwJLmsOhF1YnYVJ6AhNyFzswiCA.webp",
-      "teams": {
-        "home": {
-          "name": "Atalanta",
-          "badge": ""
-        },
-        "away": {
-          "name": "Sassuolo",
-          "badge": ""
-        }
-      }
-    },
-    {
       "id": "ppv-torino-vs-ac-milan",
       "title": "Torino vs. AC Milan",
       "category": "football",
@@ -2448,6 +2430,24 @@
         },
         "away": {
           "name": "AC Milan",
+          "badge": ""
+        }
+      }
+    },
+    {
+      "id": "ppv-atalanta-vs-sassuolo",
+      "title": "Atalanta vs. Sassuolo",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "24 Aug 2026, 12:45 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IccJBkqISZInjZIeCOUgswGjMQoQEEDPExgOqaUUrE4gMbAIKchFBhBIptnphCwJLmsOhF1YnYVJ6AhNyFzswiCA.webp",
+      "teams": {
+        "home": {
+          "name": "Atalanta",
+          "badge": ""
+        },
+        "away": {
+          "name": "Sassuolo",
           "badge": ""
         }
       }
@@ -2579,37 +2579,19 @@
       }
     },
     {
-      "id": "ppv-aek-athens-vs-levski-sofia",
-      "title": "AEK Athens vs. Levski Sofia",
+      "id": "ppv-viking-fk-vs-dinamo-zagreb",
+      "title": "Viking FK vs. Dinamo Zagreb",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCogQIkDGCJpUrJJDwF2ccAggdM9SukBjVVk2IpRhXO2kQWFOQigwgkU2z0whYElxHHIVdWZ2FSegINMFdbMgggA.webp",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBggUIKuJAkFSiCOAqa8bMDko1ITXKzyJE4bNXr98uSV38wg1QS13CwJLgDGuoQ9YrhUnpnTTAHNSCIIA.webp",
       "teams": {
         "home": {
-          "name": "AEK Athens",
+          "name": "Viking FK",
           "badge": ""
         },
         "away": {
-          "name": "Levski Sofia",
-          "badge": ""
-        }
-      }
-    },
-    {
-      "id": "ppv-lyon-vs-fenerbahce",
-      "title": "Lyon vs. Fenerbahce",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMakQEaSHEgSCkPGwgsIGCCprg27fMSJNIbLuAzFiRSDm2IwXuXsChIpqZTlCwJLnGehMG5Oe2FSegIHciDzcIggA.webp",
-      "teams": {
-        "home": {
-          "name": "Lyon",
-          "badge": ""
-        },
-        "away": {
-          "name": "Fenerbahce",
+          "name": "Dinamo Zagreb",
           "badge": ""
         }
       }
@@ -2633,19 +2615,37 @@
       }
     },
     {
-      "id": "ppv-viking-fk-vs-dinamo-zagreb",
-      "title": "Viking FK vs. Dinamo Zagreb",
+      "id": "ppv-lyon-vs-fenerbahce",
+      "title": "Lyon vs. Fenerbahce",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBggUIKuJAkFSiCOAqa8bMDko1ITXKzyJE4bNXr98uSV38wg1QS13CwJLgDGuoQ9YrhUnpnTTAHNSCIIA.webp",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMakQEaSHEgSCkPGwgsIGCCprg27fMSJNIbLuAzFiRSDm2IwXuXsChIpqZTlCwJLnGehMG5Oe2FSegIHciDzcIggA.webp",
       "teams": {
         "home": {
-          "name": "Viking FK",
+          "name": "Lyon",
           "badge": ""
         },
         "away": {
-          "name": "Dinamo Zagreb",
+          "name": "Fenerbahce",
+          "badge": ""
+        }
+      }
+    },
+    {
+      "id": "ppv-aek-athens-vs-levski-sofia",
+      "title": "AEK Athens vs. Levski Sofia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCogQIkDGCJpUrJJDwF2ccAggdM9SukBjVVk2IpRhXO2kQWFOQigwgkU2z0whYElxHHIVdWZ2FSegINMFdbMgggA.webp",
+      "teams": {
+        "home": {
+          "name": "AEK Athens",
+          "badge": ""
+        },
+        "away": {
+          "name": "Levski Sofia",
           "badge": ""
         }
       }
