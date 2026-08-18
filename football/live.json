@@ -1,16 +1,16 @@
 {
   "category_name": "Football Live",
-  "total_items": 6,
-  "updated_time_bd": "2026-08-18 | 23:37:17",
+  "total_items": 17,
+  "updated_time_bd": "2026-08-19 | 00:52:02",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "mutilvera-vs-pe-a-sport-2573948",
-      "title": "Mutilvera vs Peña Sport",
+      "id": "barnet-vs-arsenal-u21-2531852",
+      "title": "Barnet vs Arsenal U21",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "18 Aug 2026, 05:30 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3pJckEABMwa7lpAoQMI-r4gzxiYRjAmfFFzBl4ReaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDFE9HBBDcQfEPq0wQKEIn0mUBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+      "start_time_bd": "18 Aug 2026, 06:45 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKuCRgUILCF5gk+3SFN6YIRBBOJ4LLTAEi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -18,10 +18,181 @@
       },
       "streams": [
         {
-          "channel_name": "Mutilvera vs Peña Sport (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3pJckEABMwa7lpAoQMI-r4gzxiYRjAmfFFzBl4ReaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDFE9HBBDcQfEPq0wQKEIn0mUBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+          "channel_name": "Barnet vs Arsenal U21 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKuCRgUILCF5gk+3SFN6YIRBBOJ4LLTAEi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/MrFSqUweHHqAnbgjIllOhttMkfPZVelS/echo/stream/mutilvera-vs-pena-sport-football-1627009/1/playlist.m3u8"
+          "direct_stream_url": "https://lb11.strmd.st/secure/AtGjEEOuqMtOIhPddeGCFmEkKQHrfUeF/echo/stream/barnet-vs-arsenal-u21-football-1588897/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "northampton-vs-brighton-u21-football-1588904",
+      "title": "Northampton vs Brighton U21",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "18 Aug 2026, 06:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRIgDG9cg3VZxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIgUK+uQaLm4nvBFVuBLqzBhc+S0A.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Northampton vs Brighton U21 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRIgDG9cg3VZxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIgUK+uQaLm4nvBFVuBLqzBhc+S0A.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/OxRIGvHiBdITbVwRoIxRLaVzjZrVHitJ/echo/stream/northampton-vs-brighton-u21-football-1588904/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "marchamalo-vs-guadalajara-2573949",
+      "title": "Marchamalo vs Guadalajara",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "18 Aug 2026, 06:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmPMCmJVE3ECtx6DfEMZgmQKAhSZ9NbMGXhF5ozU1pgHY0RCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6RcxAAwht3EHxAk9IACYgYJiyhATCMYEz4ouYMvCLzRTprTAuxoiCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Marchamalo vs Guadalajara (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmPMCmJVE3ECtx6DfEMZgmQKAhSZ9NbMGXhF5ozU1pgHY0RCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6RcxAAwht3EHxAk9IACYgYJiyhATCMYEz4ouYMvCLzRTprTAuxoiCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/lVZrprEDhEnKqNVDmLwCzsjBTdmPjZrt/echo/stream/marchamalo-vs-guadalajara-football-1627010/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "lisse-vs-aalsmeer-2566566",
+      "title": "Lisse vs Aalsmeer",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "18 Aug 2026, 06:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEQQosKWBIQ3EABNcBkIhAg1eviBgEKTPii5gy8IvNGOmtMM7GqgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwi5gABg3AAJthDcQfECRCmUIGCG0hVqkAQpM+KLmDLwi80S6a0wbsVEIIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Lisse vs Aalsmeer (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEQQosKWBIQ3EABNcBkIhAg1eviBgEKTPii5gy8IvNGOmtMM7GqgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwi5gABg3AAJthDcQfECRCmUIGCG0hVqkAQpM+KLmDLwi80S6a0wbsVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/fTBzXOBpuRzZlIIwdBErKBrXnczdMTqO/echo/stream/fc-lisse-vs-aalsmeer-football-1618946/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "stockport-county-vs-everton-u21-2531871",
+      "title": "Stockport County vs Everton U21",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "18 Aug 2026, 06:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHhgy9XiEGI9WECeMxNICPssmWSClhFzGKbRxQ9t5RtTkf8rMBgboxiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Stockport County vs Everton U21 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHhgy9XiEGI9WECeMxNICPssmWSClhFzGKbRxQ9t5RtTkf8rMBgboxiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/nkeLAXxEteVmBLPEVOhVyvFRViTrwnKB/echo/stream/stockport-county-vs-everton-u21-football-1588841/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "leyton-orient-vs-afc-wimbledon-2531796",
+      "title": "Leyton Orient vs AFC Wimbledon",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "18 Aug 2026, 06:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSTAkIeGFmheILCFMmYukBBDTTulkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSTAkIeGFmheILCFMmYukBBDTTulkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/TExACcOGrETkLnLWBPmKnAeNmTMjtFao/rtmp/stream/9uGc1PJGmC1yq6EUVdR1MISs4cgYNO1t_Gu9gwxbaYTnCywAhrnBipTtS66__4jX26v91by1JuJl/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSTAkIeGFmheILCFMmYukBBDTTulkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/UxxOXtwjZBYvrTiUTUJWzJwBCTBJeBfT/rtmp/stream/rDl4Bw2fbZJ4JC1kQdOErKo_GklP42KTBq63WLQx9LArFqRZdwLPoVyKwpo3GKKWBZ3-QLdgdz-ryF7i5A/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Leyton Orient vs AFC Wimbledon (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmSTAkIeGFmheILCFMmYukBBDTTulkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/PKgxbXYBvysggQzPvsELfOpsFHhJiRRl/echo/stream/leyton-orient-vs-afc-wimbledon-football-1588894/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "wigan-athletic-vs-aston-villa-u21-2531783",
+      "title": "Wigan Athletic vs Aston Villa U21",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "18 Aug 2026, 06:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH7xYYcLRiaQWECeMHEEENKMhm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Wigan Athletic vs Aston Villa U21 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH7xYYcLRiaQWECeMHEEENKMhm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/uqJOVMeSkYzLpAtSaCGexnbHnJjqueTi/echo/stream/wigan-vs-aston-villa-u21-football-1588826/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "reading-vs-wycombe-wanderers-2531781",
+      "title": "Reading vs Wycombe Wanderers",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "18 Aug 2026, 06:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtQFh+tCCBgheILCFMmDiPdOP6WSClhFzGKMKpQ835RprEf8rMBgbuJiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "EFL Trophy (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtQFh+tCCBgheILCFMmDiPdOP6WSClhFzGKMKpQ835RprEf8rMBgbuJiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/OCbhjtQBFFlciQiQskyHaPrzfqnJPyHx/rtmp/stream/u0MCCS16kEyM8ceozMOTJAMjQMRb83BxzxRKvmVD1u6gHKIr4KhNuoPui4eyEqU5XaLLgtFx_Rjm/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "EFL Trophy (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtQFh+tCCBgheILCFMmDiPdOP6WSClhFzGKMKpQ835RprEf8rMBgbuJiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb8.strmd.st/secure/YMjooDWvTiHRAbwUwfaFzuDTakziUPiu/rtmp/stream/oT-XvqFkx4bgAZT2_qoxfiHZnqgtooKbslQOV-HKRxzzMt2YFNhACrA_VI19CQQ8HnH_sHWlnziSaxdbcg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Reading vs Wycombe Wanderers (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtQFh+tCCBgheILCFMmDiPdOP6WSClhFzGKMKpQ835RprEf8rMBgbuJiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/HyxzIYsodofzrvjFPmRrkPGeWWKvRAFq/echo/stream/reading-vs-wycombe-football-1588878/1/playlist.m3u8"
         }
       ]
     },
@@ -42,7 +213,7 @@
           "channel_name": "Sporting Gijón II vs Llanera (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbCADGa+uQarm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIfiCogAxvXINNWcT3giq3Al1ZgwufFaA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/AceTBzCnVVeXJFsiwOLJhWwWZmQPfiYn/echo/stream/sporting-gijon-ii-vs-llanera-football-1627008/1/playlist.m3u8"
+          "direct_stream_url": "https://lb9.strmd.st/secure/ebUjTbYPKDqTrlKXuFLMtuIHUxViFCtw/echo/stream/sporting-gijon-ii-vs-llanera-football-1627008/1/playlist.m3u8"
         }
       ]
     },
@@ -63,7 +234,28 @@
           "channel_name": "Laredo vs Athletic Club II (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIREoj1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbCADGi+uQarm4nvBFVuBLqzBhc+S0A.webp",
           "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/saACJTHToqbTeuFdnrLAPKdHaoVmoCoF/echo/stream/laredo-vs-athletic-club-ii-football-1629010/1/playlist.m3u8"
+          "direct_stream_url": "https://lb4.strmd.st/secure/jSbIXgcuyROvQbCuzSNApJcXkapEQTlP/echo/stream/laredo-vs-athletic-club-ii-football-1629010/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "mutilvera-vs-pe-a-sport-2573948",
+      "title": "Mutilvera vs Peña Sport",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "18 Aug 2026, 05:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3pJckEABMwa7lpAoQMI-r4gzxiYRjAmfFFzBl4ReaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDFE9HBBDcQfEPq0wQKEIn0mUBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Mutilvera vs Peña Sport (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3pJckEABMwa7lpAoQMI-r4gzxiYRjAmfFFzBl4ReaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDFE9HBBDcQfEPq0wQKEIn0mUBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/CnNRtCeWHbSCsjbixmdGTcwPbUTsWQmY/echo/stream/mutilvera-vs-pena-sport-football-1627009/1/playlist.m3u8"
         }
       ]
     },
@@ -84,7 +276,7 @@
           "channel_name": "Unionistas de Salamanca vs Alcorcón (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz5huuBMDAIQ6kiD4gjhiCH0wQAEyMEKTPii5gy8IvNGOmtbaKl0gA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgSIFMCZ8w3EHvWI+IYzkQh9JghW2a2a8vXmjNTWmDVjREIA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/fmJUoOpcrBnjYThRCBAVdNptZvKzCrLb/echo/stream/unionistas-de-salamanca-vs-alcorcon-football-1618945/1/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/lVgPUjrvvHJeROOREnXIOCSkhNZTjKhv/echo/stream/unionistas-de-salamanca-vs-alcorcon-football-1618945/1/playlist.m3u8"
         }
       ]
     },
@@ -105,28 +297,7 @@
           "channel_name": "Spelle-Venhaus vs Osnabrück (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzD8wSatxB8QWnSBAwQKEABNcIEsdwEKTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOBIEuEABMQ3HSBJb9elCER8QEEHwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/lhSZTJoFnfVJyAgzXZOLuXwvXUnrUuHa/echo/stream/spelle-venhaus-vs-vfl-osnabruck-football-1618944/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "heidenheim-vs-bayern-munich-2566563",
-      "title": "Heidenheim vs Bayern Munich",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "18 Aug 2026, 04:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzANgSEAL4gYIbiAAmOkCZyIjKEyYIUmfFFzBl4ReaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQvVgIAModSD56AJiBQhjaiHsYUmfFFzBl4ReaPtNaYR2NEQgA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Heidenheim vs Bayern Munich (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzANgSEAL4gYIbiAAmOkCZyIjKEyYIUmfFFzBl4ReaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQvVgIAModSD56AJiBQhjaiHsYUmfFFzBl4ReaPtNaYR2NEQgA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/TYeZScHSUBxalzSDIytRIgCrhvhhumPA/echo/stream/1-fc-heidenheim-vs-bayern-munchen-football-1618943/1/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/imonqEEBopotmJufLjmdlgRFKIoHtrrK/echo/stream/spelle-venhaus-vs-vfl-osnabruck-football-1618944/1/playlist.m3u8"
         }
       ]
     }
