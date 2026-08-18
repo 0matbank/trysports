@@ -1,6 +1,13 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-08-18 | 13:46:13
+# TOTAL-ITEMS: 1
+# UPDATED Time and date BD: 2026-08-18 | 14:46:54
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Illescas vs SS Reyes II (HD)" tvg-name="Illescas vs SS Reyes II (HD)" tvg-logo="https://streamed.pk/favicon.ico" group-title="Football", Illescas vs SS Reyes II (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb1.strmd.st/secure/jjNZAqZVgGmIWnHAqzTvALxtLulsDphC/echo/stream/illescas-vs-ss-reyes-ii-football-1629009/1/playlist.m3u8
 
