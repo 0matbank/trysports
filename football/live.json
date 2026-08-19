@@ -1,9 +1,51 @@
 {
   "category_name": "Football Live",
-  "total_items": 2,
-  "updated_time_bd": "2026-08-19 | 21:39:04",
+  "total_items": 3,
+  "updated_time_bd": "2026-08-19 | 22:39:36",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "aquila-montevarchi-vs-figline-2573951",
+      "title": "Aquila Montevarchi vs Figline",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Aug 2026, 04:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRcwIbiFooNIACYgSuviFMwQ504wpM+KNWXhF5o+01pgwoqXSA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoeIKDGAATMCBDcQfXBpCIIR-aqMEKTPmrZgy8IvNFqmtMM7GiIQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Aquila Montevarchi vs Figline (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRcwIbiFooNIACYgSuviFMwQ504wpM+KNWXhF5o+01pgwoqXSA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoeIKDGAATMCBDcQfXBpCIIR-aqMEKTPmrZgy8IvNFqmtMM7GiIQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/iUxXhAGDXZwZNWaWYLYldILlaVSocNar/echo/stream/montevarchi-calcio-vs-figline-football-1627013/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "krasava-odintsovo-vs-ael-limassol-2578499",
+      "title": "Krasava Odintsovo vs AEL Limassol",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Aug 2026, 04:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnD0ADGBBawKENxAATXIZMRj+s4wpM+KLmDLwi80Xaa0wDsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMnJJRAQQJENx0g+IFCBghEuk4hgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Krasava Odintsovo vs AEL Limassol (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnD0ADGBBawKENxAATXIZMRj+s4wpM+KLmDLwi80Xaa0wDsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMnJJRAQQJENx0g+IFCBghEuk4hgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/HceystgKjkNlnWGqHwVEyPwmjTlOfKSA/echo/stream/krasava-odintsovo-vs-ael-football-1629014/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "sampdoria-u20-vs-sestri-levante-football-1627012",
       "title": "Sampdoria U20 vs Sestri Levante",
@@ -21,28 +63,7 @@
           "channel_name": "Sampdoria U20 vs Sestri Levante (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqICCADGykDHrkGq5uJ7wRVbgS6swYXPmtA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIAMYg1S7PXINlzcT3giq3Al1ZgwufFaA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/VJRrzjyQxKGDtXJlfhtvRymHdJwmCtPB/echo/stream/sampdoria-u20-vs-sestri-levante-football-1627012/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "oud-heverlee-leuven-ii-vs-krc-genk-ii-football-1604794",
-      "title": "Oud-Heverlee Leuven II vs KRC Genk II",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "19 Aug 2026, 11:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIFMpDYQAY3rkGWrOJ7wRVbgS6swYXPmtA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIFCBggIIbPXIMAxs3E94IqtwJdWYMLnw2gA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Oud-Heverlee Leuven II vs KRC Genk II (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIFMpDYQAY3rkGWrOJ7wRVbgS6swYXPmtA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIFCBggIIbPXIMAxs3E94IqtwJdWYMLnw2gA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/GxSyjeMJaLJdlcZKbSXBKqDiGYpxSnUX/echo/stream/oud-heverlee-leuven-ii-vs-krc-genk-ii-football-1604794/1/playlist.m3u8"
+          "direct_stream_url": "https://lb12.strmd.st/secure/pgLSrVnNhPkGPlMoIPUhYnUyCaLCOogN/echo/stream/sampdoria-u20-vs-sestri-levante-football-1627012/1/playlist.m3u8"
         }
       ]
     }

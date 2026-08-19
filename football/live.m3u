@@ -1,20 +1,27 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 2
-# UPDATED Time and date BD: 2026-08-19 | 21:39:04
+# TOTAL-ITEMS: 3
+# UPDATED Time and date BD: 2026-08-19 | 22:39:36
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Aquila Montevarchi vs Figline (HD)" tvg-name="Aquila Montevarchi vs Figline (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRcwIbiFooNIACYgSuviFMwQ504wpM+KNWXhF5o+01pgwoqXSA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoeIKDGAATMCBDcQfXBpCIIR-aqMEKTPmrZgy8IvNFqmtMM7GiIQA.webp" group-title="Football", Aquila Montevarchi vs Figline (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb2.strmd.st/secure/iUxXhAGDXZwZNWaWYLYldILlaVSocNar/echo/stream/montevarchi-calcio-vs-figline-football-1627013/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Krasava Odintsovo vs AEL Limassol (HD)" tvg-name="Krasava Odintsovo vs AEL Limassol (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnD0ADGBBawKENxAATXIZMRj+s4wpM+KLmDLwi80Xaa0wDsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMnJJRAQQJENx0g+IFCBghEuk4hgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Football", Krasava Odintsovo vs AEL Limassol (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb2.strmd.st/secure/HceystgKjkNlnWGqHwVEyPwmjTlOfKSA/echo/stream/krasava-odintsovo-vs-ael-football-1629014/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sampdoria U20 vs Sestri Levante (HD)" tvg-name="Sampdoria U20 vs Sestri Levante (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqICCADGykDHrkGq5uJ7wRVbgS6swYXPmtA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIAMYg1S7PXINlzcT3giq3Al1ZgwufFaA.webp" group-title="Football", Sampdoria U20 vs Sestri Levante (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/VJRrzjyQxKGDtXJlfhtvRymHdJwmCtPB/echo/stream/sampdoria-u20-vs-sestri-levante-football-1627012/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Oud-Heverlee Leuven II vs KRC Genk II (HD)" tvg-name="Oud-Heverlee Leuven II vs KRC Genk II (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIFMpDYQAY3rkGWrOJ7wRVbgS6swYXPmtA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIFCBggIIbPXIMAxs3E94IqtwJdWYMLnw2gA.webp" group-title="Football", Oud-Heverlee Leuven II vs KRC Genk II (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/GxSyjeMJaLJdlcZKbSXBKqDiGYpxSnUX/echo/stream/oud-heverlee-leuven-ii-vs-krc-genk-ii-football-1604794/1/playlist.m3u8
+https://lb12.strmd.st/secure/pgLSrVnNhPkGPlMoIPUhYnUyCaLCOogN/echo/stream/sampdoria-u20-vs-sestri-levante-football-1627012/1/playlist.m3u8
 
