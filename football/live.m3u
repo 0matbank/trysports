@@ -1,41 +1,55 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 5
-# UPDATED Time and date BD: 2026-08-20 | 04:32:31
+# TOTAL-ITEMS: 7
+# UPDATED Time and date BD: 2026-08-20 | 05:30:12
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Cucuta vs Internacional de Bogota (HD)" tvg-name="Cucuta vs Internacional de Bogota (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiICCADGIGPXINVzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIgj1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title="Football", Cucuta vs Internacional de Bogota (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb14.strmd.st/secure/BOYgoiHeUnPNbDEGGWfSGtbXVBwjAhTO/echo/stream/cucuta-vs-internacional-de-bogota-football-1549696/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Forge vs Supra du Québec (HD)" tvg-name="Forge vs Supra du Québec (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNLmAzuIKWD4gdBkCAggYIRCkOXzBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Forge vs Supra du Québec (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/AypRrPwGmjTgPrNgaxOODRtxwqpLXMJf/echo/stream/forge-vs-supra-du-quebec-football-1517330/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Atlético Ottawa vs Vancouver FC (HD)" tvg-name="Atlético Ottawa vs Vancouver FC (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXlLCaUzLSG4g+IYxBAwQiFPtwgUBYEgp9hs+ijAqdbD+XpZZOky0YB5iohBAA.webp" group-title="Football", Atlético Ottawa vs Vancouver FC (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb4.strmd.st/secure/uOlhdDqEpMJTCjlKbbQQXvxRwVxGpwZW/echo/stream/atletico-ottawa-vs-vancouver-fc-football-1517329/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Racing Club vs Belgrano (HD)" tvg-name="Racing Club vs Belgrano (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm7EPWBgSGkNxAqQKEDr4hEEIyaMEKTPii7by9eaMdNaYbWNEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwoAvmCTsQ3ECV0g+RkABMQFmBaMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Football", Racing Club vs Belgrano (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/aCZyDjjuzODfMsJVOqwsKIvBqpfQngoM/echo/stream/racing-club-vs-belgrano-cordoba-football-1593678/1/playlist.m3u8
+https://lb5.strmd.st/secure/AQVriQdUXDhMfjulPJZdpdACGPFjnXfI/echo/stream/racing-club-vs-belgrano-cordoba-football-1593678/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Atletico-MG vs RB Bragantino (HD)" tvg-name="Atletico-MG vs RB Bragantino (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCH4gmdcgwDGzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQgI9cg0XNxPeCKrcCXVmDC58FoA.webp" group-title="Football", Atletico-MG vs RB Bragantino (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/YcbMlRpqejWYHnieTJOxpZuibgzDVmjF/echo/stream/atletico-mg-vs-rb-bragantino-football-1607200/1/playlist.m3u8
+https://lb8.strmd.st/secure/ukQgPXPovsKbAyAZnBiSlhKoUQSZOclh/echo/stream/atletico-mg-vs-rb-bragantino-football-1607200/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Coquimbo Unido vs Platense (HD)" tvg-name="Coquimbo Unido vs Platense (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBtE566kiG4g+GkBEO4QKM1JMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Coquimbo Unido vs Platense (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb5.strmd.st/secure/vQwytdCOumEuoKmLtjjrPDHGLrzILzMz/echo/stream/coquimbo-unido-vs-platense-football-1547766/1/playlist.m3u8
+https://lb10.strmd.st/secure/jQHaptRHNwjcTLnTcRyVymvtZXXYtbYE/echo/stream/coquimbo-unido-vs-platense-football-1547766/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cerro Porteño vs Palmeiras (HD)" tvg-name="Cerro Porteño vs Palmeiras (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBFwgUwMNjYhuIPiFOaTOFMZBSQ8AsCQU+w2fRRgVOtp-L0ssjpMtHqi9GFAA.webp" group-title="Football", Cerro Porteño vs Palmeiras (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb12.strmd.st/secure/wWkiiaspJTXTzReZfRbCbearAGMYiWsA/echo/stream/cerro-porteno-vs-palmeiras-football-1547765/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rionegro Águilas vs Llaneros (HD)" tvg-name="Rionegro Águilas vs Llaneros (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8revhBRaYMNxD6+IYxBBHj5kIgVMkFPsNn0UYFSi6vy9LLPdMdrmKiEEA.webp" group-title="Football", Rionegro Águilas vs Llaneros (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb9.strmd.st/secure/DqrVXFnhmALHysgrtMpHScZYFLwbFZao/echo/stream/aguilas-doradas-vs-llaneros-football-1549713/1/playlist.m3u8
+https://lb3.strmd.st/secure/dNixJUVjTprmSfaFUOcRzdqFwpnXxoZS/echo/stream/cerro-porteno-vs-palmeiras-football-1547765/1/playlist.m3u8
 
