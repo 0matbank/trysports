@@ -1,9 +1,93 @@
 {
   "category_name": "Football Live",
-  "total_items": 38,
-  "updated_time_bd": "2026-08-20 | 03:35:19",
+  "total_items": 5,
+  "updated_time_bd": "2026-08-20 | 04:32:31",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "racing-club-vs-belgrano-2540102",
+      "title": "Racing Club vs Belgrano",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Aug 2026, 10:15 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm7EPWBgSGkNxAqQKEDr4hEEIyaMEKTPii7by9eaMdNaYbWNEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwoAvmCTsQ3ECV0g+RkABMQFmBaMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Racing Club vs Belgrano (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm7EPWBgSGkNxAqQKEDr4hEEIyaMEKTPii7by9eaMdNaYbWNEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwoAvmCTsQ3ECV0g+RkABMQFmBaMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/aCZyDjjuzODfMsJVOqwsKIvBqpfQngoM/echo/stream/racing-club-vs-belgrano-cordoba-football-1593678/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "atletico-mg-vs-rb-bragantino-football-1607200",
+      "title": "Atletico-MG vs RB Bragantino",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Aug 2026, 10:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCH4gmdcgwDGzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQgI9cg0XNxPeCKrcCXVmDC58FoA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Atletico-MG vs RB Bragantino (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCH4gmdcgwDGzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQgI9cg0XNxPeCKrcCXVmDC58FoA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/YcbMlRpqejWYHnieTJOxpZuibgzDVmjF/echo/stream/atletico-mg-vs-rb-bragantino-football-1607200/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "coquimbo-unido-vs-platense-2478544",
+      "title": "Coquimbo Unido vs Platense",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Aug 2026, 10:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBtE566kiG4g+GkBEO4QKM1JMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Coquimbo Unido vs Platense (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBtE566kiG4g+GkBEO4QKM1JMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/vQwytdCOumEuoKmLtjjrPDHGLrzILzMz/echo/stream/coquimbo-unido-vs-platense-football-1547766/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "cerro-porte-o-vs-palmeiras-2478543",
+      "title": "Cerro Porteño vs Palmeiras",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Aug 2026, 10:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBFwgUwMNjYhuIPiFOaTOFMZBSQ8AsCQU+w2fRRgVOtp-L0ssjpMtHqi9GFAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Cerro Porteño vs Palmeiras (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBFwgUwMNjYhuIPiFOaTOFMZBSQ8AsCQU+w2fRRgVOtp-L0ssjpMtHqi9GFAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/wWkiiaspJTXTzReZfRbCbearAGMYiWsA/echo/stream/cerro-porteno-vs-palmeiras-football-1547765/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "rionegro--guilas-vs-llaneros-2481124",
       "title": "Rionegro Águilas vs Llaneros",
@@ -21,319 +105,7 @@
           "channel_name": "Rionegro Águilas vs Llaneros (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8revhBRaYMNxD6+IYxBBHj5kIgVMkFPsNn0UYFSi6vy9LLPdMdrmKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/NEMQROkScprGFQlpRezefdgPOqdKiLSW/echo/stream/aguilas-doradas-vs-llaneros-football-1549713/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "slovan-bratislava-vs-celje-2570478",
-      "title": "Slovan Bratislava vs Celje",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "19 Aug 2026, 07:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrzApgABhDVdYEiF4gsIC+ZghEEMyGMkWSClhFzGKIx20cj5RgMxbXxWYDBvRjEIIA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT Sports 4 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrzApgABhDVdYEiF4gsIC+ZghEEMyGMkWSClhFzGKIx20cj5RgMxbXxWYDBvRjEIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/EVIsmSjFtSjFBqLAiyRqEMRVEnOnxLLX/rtmp/stream/9FCgg1zo58bufeAIVEhizOJH4MfzYPG4h8JK2j1Wrp6JGfbDvXdICtyOHj6Gp5fCvxrzbJVHhXC2MQ/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "TNT Sports 4 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrzApgABhDVdYEiF4gsIC+ZghEEMyGMkWSClhFzGKIx20cj5RgMxbXxWYDBvRjEIIA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb10.strmd.st/secure/zEkpHtttZGjbpwOhASNsDprXnofWhKsR/rtmp/stream/TUEm_PEWL4m5KIykBQ9aF_Wy0_MOFv1qIJ1efwhcaZwVFL4OzxjkLL6l6UIYQrf2kCvXYN01HgNNoW5ST1c/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrzApgABhDVdYEiF4gsIC+ZghEEMyGMkWSClhFzGKIx20cj5RgMxbXxWYDBvRjEIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/QhUkUsdnSjCqapSuxDybyiqyBEmsuMIA/rtmp/stream/knxHdZbc3MRJLscbZAP4gqDwyHkcedyDwALk7aOr-EwxOC1FwR00aRsZ2ey4_EwzjhhINewvXT32WkE/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrzApgABhDVdYEiF4gsIC+ZghEEMyGMkWSClhFzGKIx20cj5RgMxbXxWYDBvRjEIIA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb5.strmd.st/secure/VtolMXfuygAgZpTcCjmeFvHOUPAElUXZ/rtmp/stream/g1bP-tr5Hr0SRr3RCmT_YO_pM95OfiIPVGkG7JWa5fqEPan1HDTrKXtiiGCT6fZP293sbazQCg3q_rKGRBGr/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Czech - Nova Sport 5 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrzApgABhDVdYEiF4gsIC+ZghEEMyGMkWSClhFzGKIx20cj5RgMxbXxWYDBvRjEIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/ZQvNQLJiWFXrVjONzjYIAVqZhCETjRxo/rtmp/stream/EMXyezfH8-AnhRYo2lVaAmlnvSJSMNK0pC00ozOOaHsQre3h0ygATqilUq5vf7yVjIsGWMy5x5LCfWw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Czech - Nova Sport 5 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrzApgABhDVdYEiF4gsIC+ZghEEMyGMkWSClhFzGKIx20cj5RgMxbXxWYDBvRjEIIA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb1.strmd.st/secure/RYGQSWuwQNIziFkjfIeJTmnOkvlzOwlU/rtmp/stream/p5Ip_ADV0NWkQ1YXOJex_kJEOj97NX81azgiCyT1zRmxaaIddTHhvyg_BNkBXKShNDsafigK7baMIR78WWGj/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - Sky Sport Austria 3 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrzApgABhDVdYEiF4gsIC+ZghEEMyGMkWSClhFzGKIx20cj5RgMxbXxWYDBvRjEIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/UPhKhIgAWLewtuhJBioMALBXBSCxkVWh/rtmp/stream/NkKU_Cq6-Y_en8QEtMIMr6RgVzdOFjdUlHlacj1yrNTtPbs0nSbHHMlmPCfEIOOl_0wXGO9NKoOJWKA/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - Sky Sport Austria 3 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrzApgABhDVdYEiF4gsIC+ZghEEMyGMkWSClhFzGKIx20cj5RgMxbXxWYDBvRjEIIA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb15.strmd.st/secure/GKYiDafxyVxWknHaKajiYlcwWCCwNddP/rtmp/stream/c1gSU_VVuOmIzVl4ZbN84_K6h53ZjOLejMGdbILiuonU2KISvrV9fkc9ahoXwLmjH4fFNDJaCnNCWIxq9qK2/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "hapoel-be-er-sheva-vs-sabah-baku-2570477",
-      "title": "Hapoel Be'er Sheva vs Sabah Baku",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "19 Aug 2026, 07:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtJDSa0VSF4gsIY0ZghEEQyBIhF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtJDSa0VSF4gsIY0ZghEEQyBIhF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/cDEOGCzeJNKfqgFXJsNVWikUjOUOnGtJ/rtmp/stream/Jdi357lsmCRn2TG2XrYXOMhH_wNcni6dkO-zHznbPkT0_jlxEezq1BfzLft7zVuiHh5_dS-gf6VfMw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtJDSa0VSF4gsIY0ZghEEQyBIhF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb1.strmd.st/secure/eOzsBWqjZiZFFqnwbQTIlDwXmbIQsZXx/rtmp/stream/Zd-b-tjYqMugYrjEIzZ4AL20IdeDpz7yBadbzJniM8ZD84j61SQTcs9xRbx8b4un1ymxgr_g8vRhfyWwvJg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - Sky Sport Austria 4 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtJDSa0VSF4gsIY0ZghEEQyBIhF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/HBHboDmXZnWHFsaXotWDZLmwcobLFQBa/rtmp/stream/6xxenmDbalJ2WGSzRaRwexKdfYyI_Mt5oP4pDT48QBF0ohzDEvnj3VPzF7QlxfEQMkVyGmGATq1Ksbo/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - Sky Sport Austria 4 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtJDSa0VSF4gsIY0ZghEEQyBIhF+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb14.strmd.st/secure/EPQdPAMfjyRolUzOMGKkxduuXgJQOOrM/rtmp/stream/uo9yS-s2C1W5X4krYv9lAuxTMAmnok5GLuN4FtCClBRA0q5EWTARlnpLSMnbgwxtlLrzZb7zLYHYLU6vvgTn/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "nec-nijmegen-vs-bod--glimt-2570476",
-      "title": "NEC Nijmegen vs Bodø/Glimt",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "19 Aug 2026, 07:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihA4QwAAziwIXlpCmsIGCEQQTJKyyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT Sports 2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihA4QwAAziwIXlpCmsIGCEQQTJKyyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/bgxuTqFDaRmpqUqAufZCCNODVuxOBASi/rtmp/stream/LEV93SN64T69TsVm7v-CACwXykzyZOVQ5uBEKcDmaIb_OdCvVzWkE86Z-TSQYidg2wr376wocDN1zA/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "TNT Sports 2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihA4QwAAziwIXlpCmsIGCEQQTJKyyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/gWinzCSTASrXQPjqEnhbhdZjsOwgenpE/rtmp/stream/wRxWhjkXDqbpzkErDM6cvVRLgkWusP9935l3fXWnLssAabQ4JDvMiNVTcAu8AvkUGec70j_yMvlOC2qCypw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihA4QwAAziwIXlpCmsIGCEQQTJKyyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/kJFaTQMwxPnBwlKgGnAPJoMJPXmFMFQe/rtmp/stream/3MZtD8VrUw_eI6-EYqbp7Gev_Z_rsGxhsiWzjdVLDqPSd7fpbmdN7k1Ghhvn5iFQ8yFZKcYXeSZcTwU/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihA4QwAAziwIXlpCmsIGCEQQTJKyyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/MiYaiFWMzxcKmGlTtGSNNTgXdTitxZUp/rtmp/stream/nxNMGAbzEWlZ7tlfX7_Wmg-rwznyvUCQACIx5COG-r1T1aiUTHwDKr_S_wklcFovc41EqR5nZXp7sK2NlNj4/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Czech - Nova Sport 4 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihA4QwAAziwIXlpCmsIGCEQQTJKyyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/rNsprsglWjasaUJsXWCOOWwSLHYBbVZB/rtmp/stream/Pq9Gu9OwuulRwQslZCeOAoyPm1Y4W33gHPTE0EdULJkoXfCoTBNbozLerkjKSTMMopD9gqvXIRID4iA/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Czech - Nova Sport 4 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihA4QwAAziwIXlpCmsIGCEQQTJKyyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/QvFIqUsXMYrecjmIZMOgyHlbVLwALVHn/rtmp/stream/LWcjJJQIcA-brGE7ZgRTTOrpsp6AWqdHA-d5_NIQbCL5NaiFMUyv_JCz2ltbwbePhmdESbG9fxSTxXaT0RgB/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - Sky Sport Austria 2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihA4QwAAziwIXlpCmsIGCEQQTJKyyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/NurUivjOfaNbIutiHklWjLOkWWNOQRWm/rtmp/stream/3-695Ge1JBCjDq91RPWr_db_esIcUgUCCc6WhVjzypggj0WXNVNvT1k9ziI-LCcN6Qw6TDuq5RcuZUQ/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - Sky Sport Austria 2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihA4QwAAziwIXlpCmsIGCEQQTJKyyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/nLtsGaoFiLDkkyVBmAyMSaqdqXRTIJne/rtmp/stream/TqMMrkkS-RZ6ZQ7Gcv2413sfOFlhvLyQ7l0dO54t9EYuavM2p3Eipb5bBbd46YFUoDQoFVYkRl-EqdkmZK8U/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "celtic-vs-lask-2558133",
-      "title": "Celtic vs LASK",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "19 Aug 2026, 07:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSFpJgABln4Q3EHxCmSpkOcQ4IIBUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT Sports 1 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSFpJgABln4Q3EHxCmSpkOcQ4IIBUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/VgpkSjexgbEBYamEtflPGPbtRkNiwusR/rtmp/stream/qTjiF0-PXX5MQRLZ0PdGAGvklhkW9Nm9Gufb_HmzcYVEyFNfpN_vOJaQ2ONLt5vefC1QqmDZZ4uvCQ/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "TNT Sports 1 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSFpJgABln4Q3EHxCmSpkOcQ4IIBUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb4.strmd.st/secure/CoVQzRpWJicaLeduXQQsQtghfbfHHTFp/rtmp/stream/RTw5qXdQVqZi7UWFjYDz-L_Br5EqBDFFHirQExE_KQNMjz3m-kxG5hEoF1VARFSdQorblsquJEsr3JcNlbI/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSFpJgABln4Q3EHxCmSpkOcQ4IIBUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/JmNacYosCfPntGQFVtdVygHcxUCDglXT/rtmp/stream/QgQW5P1ZGdGVZ8M3EwwwfVCT7yW73DLA64JUdVz2fGYlUz_FjbAaelmahwuyjPrP761Ilxvv9ZW8WCQ/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSFpJgABln4Q3EHxCmSpkOcQ4IIBUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb2.strmd.st/secure/tiAFHnPwtTfNtwtObomXqHZlfmzJiPQC/rtmp/stream/20Y_M3ObQ5T_ZGjiW6AEGMnwLBZP26QMCs-XGRQpnCHT_ae_apWApWEAdV-wD2ThOdlW-aM0KFJRvGoJrJJv/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - DAZN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSFpJgABln4Q3EHxCmSpkOcQ4IIBUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/frGGRwNINXKhBDxqcZThGlnYvmptjdLP/rtmp/stream/qi-kKmh4PV9kh59cYLU6IZX5YtRbds2hb9qTEDS-abwiQmTyFIjoT7IjYxeoMcRWiYmJNimBVOgLF-k/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - DAZN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSFpJgABln4Q3EHxCmSpkOcQ4IIBUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb12.strmd.st/secure/lemwhugdlDKPmDDufDvTHDkhKCFmSesl/rtmp/stream/6dUz8ax7UGO9OK_UP4WSen0OwWSnTaAj1gyKv9R2h-5RZlgW-IsyT3Exc_spMh7FKXURZk_clMw50inGdHeV/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "atl-tico-madrid-vs-m-laga-2506170",
-      "title": "Atlético Madrid vs Málaga",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "19 Aug 2026, 07:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCDgRcIMhu4g+IY9pSaQ27QYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCDgRcIMhu4g+IY9pSaQ27QYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/XolPQPaYkmZkvoVKTmCahsepZiKqbTgw/rtmp/stream/TuyLi4cP2RGiDa_YWUuSlcTHunpfrgad_by5ivMzZQAR9f2N0TACW3JXbEpDUlCafgWwCZYiqOQ/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCDgRcIMhu4g+IY9pSaQ27QYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb5.strmd.st/secure/mUhcPxwasyQRJaJmWvoIWoSoIwQkpNPM/rtmp/stream/niuMIbXjfoOu1-TnzrXXo_RGsRdE7D1DdQjPereq4jFhZjfJxUkc_7KuMd0T2rqxthM5wajTQ6ReWX_b/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCDgRcIMhu4g+IY9pSaQ27QYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/mqFuVyyCFibTqYXXJofFTKmtPigpsiLO/rtmp/stream/wwxv9wXxsNy96gT0cnbVOd312loJFQTd9KhBY30-KmlTJcZLIqtiCmporqxEm8CzTnQZaQY9Llct/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCDgRcIMhu4g+IY9pSaQ27QYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb12.strmd.st/secure/aSInrtNysXygqhUDkiguXEKOQwiZaQNt/rtmp/stream/VdXXTaF8FoHA_1_nh_16xIaN4bXWss8BIVf5RL2J5KcaSXS-almJ8s3ltJ737H0rveLW6caO9n60WpDRGw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - DAZN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCDgRcIMhu4g+IY9pSaQ27QYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/aVrGMlxAWgWClJdWChFDprAfSVOrJOZH/rtmp/stream/AfrORCzIhmhGY0e9WdgwrfQcJWBIFG1bnJR0J_26a_PM1y1wbdClbDIowAPcqh7aiVbZcLqoZVWN/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - DAZN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCDgRcIMhu4g+IY9pSaQ27QYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb10.strmd.st/secure/PSvfcgzWTBNiVZZwGzAicuKMNpxxhRzC/rtmp/stream/5N9l7W8PyRj9vKUAdqxhF2TWH-s8Uidmu4bE_f9m9Xf3p_lLkUWq2eAqt0bmunFMPOBNB8qGL2z898d_7A/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "French - DAZN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCDgRcIMhu4g+IY9pSaQ27QYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/ImlMSQaxvUaUiJrlFPNiykSjOVQkNXDk/rtmp/stream/qEyjqrxxIshBqm0sJHi6I4IQ4i9yuqPvIGIS1YQ4kyVfLIW9UfgnssXhYzIMm2PzwK4jyfmDAVmZ/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "French - DAZN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCDgRcIMhu4g+IY9pSaQ27QYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb1.strmd.st/secure/CQdBFaZGzKGyTHGAVkuokaqpLNSDdvxH/rtmp/stream/Wr14hB38BOzPxlLUVQgE4AUanjKfygHvvEV7wJjNwl5hG28T7dP3hnyRVFpq4qBWJ_mZU6hhtSInB9dukg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Italian - DAZN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCDgRcIMhu4g+IY9pSaQ27QYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/mambVYtCqIXqmLTMbTSGOSyflicBjvhn/rtmp/stream/SzOfgoQZH5O6Sf6fMnCMsL6Y3ryhPp26wNl2FH_teEj2HPbFkY8zUV0h1kLPc0G2Zwde9ScovurY/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Italian - DAZN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCDgRcIMhu4g+IY9pSaQ27QYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb14.strmd.st/secure/GxFBGVWPNfCBbaBqoAbzOfneQKithmGO/rtmp/stream/46l-GjCPVME6d7akxsmUHXf5om190GdwdYpTNv88oSqSJ1pzEfMIfsWiHfzS2x3YDZ67k1yBp3RGYIBwHg/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "aquila-montevarchi-vs-figline-2573951",
-      "title": "Aquila Montevarchi vs Figline",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "19 Aug 2026, 04:30 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRcwIbiFooNIACYgSuviFMwQ504wpM+KNWXhF5o+01pgwoqXSA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoeIKDGAATMCBDcQfXBpCIIR-aqMEKTPmrZgy8IvNFqmtMM7GiIQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Aquila Montevarchi vs Figline (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRcwIbiFooNIACYgSuviFMwQ504wpM+KNWXhF5o+01pgwoqXSA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoeIKDGAATMCBDcQfXBpCIIR-aqMEKTPmrZgy8IvNFqmtMM7GiIQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/lrgbPrFLmtKMrdaCHnNSyanwZlIODukU/echo/stream/montevarchi-calcio-vs-figline-football-1627013/1/playlist.m3u8"
+          "direct_stream_url": "https://lb9.strmd.st/secure/DqrVXFnhmALHysgrtMpHScZYFLwbFZao/echo/stream/aguilas-doradas-vs-llaneros-football-1549713/1/playlist.m3u8"
         }
       ]
     }
