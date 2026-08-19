@@ -1,7 +1,7 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 5
-# UPDATED Time and date BD: 2026-08-19 | 07:43:52
+# TOTAL-ITEMS: 2
+# UPDATED Time and date BD: 2026-08-19 | 09:09:08
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
 #EXTINF:-1 tvg-id="Cartaginés vs Verdes (HD)" tvg-name="Cartaginés vs Verdes (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN0ghaJEFIQaQfECd2IYIXbpS4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Cartaginés vs Verdes (HD)
@@ -9,33 +9,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb11.strmd.st/secure/kHDTNuFOkNbQkTsHdvsOyJnnQVETdpBW/delta/stream/live_concacaf-central-american-cup-group-d_cartagines-verdes-live-streaming-605730528/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="U. Catolica vs Estudiantes L.P. (HD)" tvg-name="U. Catolica vs Estudiantes L.P. (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFMpAR65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCBj1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title="Football", U. Catolica vs Estudiantes L.P. (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb9.strmd.st/secure/DqVzbZxdqBOqoyckXttvKzeVwvwpaKLR/echo/stream/u-catolica-vs-estudiantes-lp-football-1547772/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="São Paulo vs Bolívar (HD)" tvg-name="São Paulo vs Bolívar (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGFEowIHiCkhuIPiFMGIuY6ZAX4BYBpj9hs+tpUoum8vSyzPTLRgmmKiEEA.webp" group-title="Football", São Paulo vs Bolívar (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/AFOOJTWsEyvkCWUyZrEHdENfYnEcXKnz/echo/stream/sao-paulo-vs-bolivar-football-1607653/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Deportes Tolima vs Independiente del Valle (HD)" tvg-name="Deportes Tolima vs Independiente del Valle (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJNln1a3ELr4hDEEAZwoTIEoYLANMfsK3swKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football", Deportes Tolima vs Independiente del Valle (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/LXFmEMKXOSUKQyJgnobzLciFWlQdYUAD/echo/stream/deportes-tolima-vs-independiente-del-valle-football-1547758/1/playlist.m3u8
+https://lb10.strmd.st/secure/PPiEEShLZvfRpPQYkrVGKCHNzJhipOFT/delta/stream/live_concacaf-central-american-cup-group-d_cartagines-verdes-live-streaming-605730528/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Banfield vs Ferrocarril Midland (HD)" tvg-name="Banfield vs Ferrocarril Midland (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0TzpIGCG5aQfXSBL7DAEx2aIBCkz4ouYMvCJrOTWmHtjREIA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAgAJmDVckIGCG4g+IRHqMgQEECWMWCFJnxRcwZeEXminTWmBdjREEA.webp" group-title="Football", Banfield vs Ferrocarril Midland (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/nFSxAhXZcqpumjCwKKkNfdsyAYsmlAvO/echo/stream/banfield-vs-midland-football-1549146/1/playlist.m3u8
+https://lb3.strmd.st/secure/SCPSOphMOwpPVdOTdvAjErCJqcYvvvWj/echo/stream/banfield-vs-midland-football-1549146/1/playlist.m3u8
 
