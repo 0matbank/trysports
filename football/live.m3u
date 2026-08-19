@@ -1,27 +1,48 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 3
-# UPDATED Time and date BD: 2026-08-19 | 22:39:36
+# TOTAL-ITEMS: 6
+# UPDATED Time and date BD: 2026-08-19 | 23:33:34
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Guijuelo vs Ribert (HD)" tvg-name="Guijuelo vs Ribert (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIRCFX1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIAMYhsIFCHj1yDZc3E94IqtwJdWYMLnw2gA.webp" group-title="Football", Guijuelo vs Ribert (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/VsXkYJHhdFNBEUvIfDRFJKdVdkOzPear/echo/stream/guijuelo-vs-ribert-football-1627014/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="La Calzada vs Mirandes (HD)" tvg-name="La Calzada vs Mirandes (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIZfxABjeuQYas4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQr65Boubie8EVW4EurMGFz5zQA.webp" group-title="Football", La Calzada vs Mirandes (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb12.strmd.st/secure/bUWRWqbeCQdGmyLXWvqEUmkjYyMthjrr/echo/stream/la-calzada-vs-mirandes-football-1618949/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sant Andreu vs Manresa (HD)" tvg-name="Sant Andreu vs Manresa (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIRLQghe+bSDUgQJECj2G13EwQpM+KLmDLwi80faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmDYAAZytPiG4hdIEBBAwQKEIgsljBCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title="Football", Sant Andreu vs Manresa (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/rvZcxnzlBNeeUVErxjqMemLiTahIqOuy/echo/stream/sant-andreu-vs-manresa-football-1618948/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Aquila Montevarchi vs Figline (HD)" tvg-name="Aquila Montevarchi vs Figline (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRcwIbiFooNIACYgSuviFMwQ504wpM+KNWXhF5o+01pgwoqXSA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoeIKDGAATMCBDcQfXBpCIIR-aqMEKTPmrZgy8IvNFqmtMM7GiIQA.webp" group-title="Football", Aquila Montevarchi vs Figline (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/iUxXhAGDXZwZNWaWYLYldILlaVSocNar/echo/stream/montevarchi-calcio-vs-figline-football-1627013/1/playlist.m3u8
+https://lb1.strmd.st/secure/PoNwEwyViQuZDnRuYfiicTLEUFnvcPWQ/echo/stream/montevarchi-calcio-vs-figline-football-1627013/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Krasava Odintsovo vs AEL Limassol (HD)" tvg-name="Krasava Odintsovo vs AEL Limassol (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnD0ADGBBawKENxAATXIZMRj+s4wpM+KLmDLwi80Xaa0wDsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMnJJRAQQJENx0g+IFCBghEuk4hgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Football", Krasava Odintsovo vs AEL Limassol (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/HceystgKjkNlnWGqHwVEyPwmjTlOfKSA/echo/stream/krasava-odintsovo-vs-ael-football-1629014/1/playlist.m3u8
+https://lb11.strmd.st/secure/mKdXlzyCSHUnzkXMpttLdOHOLtbcLCms/echo/stream/krasava-odintsovo-vs-ael-football-1629014/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sampdoria U20 vs Sestri Levante (HD)" tvg-name="Sampdoria U20 vs Sestri Levante (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqICCADGykDHrkGq5uJ7wRVbgS6swYXPmtA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIAMYg1S7PXINlzcT3giq3Al1ZgwufFaA.webp" group-title="Football", Sampdoria U20 vs Sestri Levante (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb12.strmd.st/secure/pgLSrVnNhPkGPlMoIPUhYnUyCaLCOogN/echo/stream/sampdoria-u20-vs-sestri-levante-football-1627012/1/playlist.m3u8
+https://lb7.strmd.st/secure/fsfpIUhfuUcSBGKUNZPZZmkeKEsxSMox/echo/stream/sampdoria-u20-vs-sestri-levante-football-1627012/1/playlist.m3u8
 
