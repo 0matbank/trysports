@@ -12,7 +12,6 @@ on:
 permissions:
   contents: write
 
-# Node.js 24 এ ফোর্স করে ইয়েলো অ্যানোটেশন ওয়ার্নিং সম্পূর্ণ রিমুভ করা
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
   STREAM_SITE_URL: ${{ secrets.STREAM_SITE_URL }}
@@ -20,6 +19,7 @@ env:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -50,12 +50,7 @@ jobs:
       - name: Install Playwright Chromium (Only on Cache Miss)
         if: steps.playwright-cache.outputs.cache-hit != 'true'
         run: |
-          playwright install --with-deps chromium
-
-      - name: Ensure OS Dependencies are installed
-        if: steps.playwright-cache.outputs.cache-hit == 'true'
-        run: |
-          playwright install-deps chromium
+          playwright install chromium
 
       - name: Scan & Fetch Direct Streams
         run: |
