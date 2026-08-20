@@ -2,8 +2,8 @@ name: Auto Update Sports Data & Streams
 
 on:
   schedule:
-    # প্রতি ১ ঘণ্টা পর পর স্বয়ংক্রিয়ভাবে রান হবে (UTC)
-    - cron: '0 * * * *'
+    # প্রতি ২০ মিনিট পর পর স্বয়ংক্রিয়ভাবে রান হবে
+    - cron: '*/20 * * * *'
   workflow_dispatch:
   push:
     branches:
