@@ -54,7 +54,11 @@ jobs:
 
       - name: Scan & Fetch Direct Streams
         run: |
-          python scanner/collect_data.py
+          if [ -f "scanner/collect_data.py" ]; then
+            python scanner/collect_data.py
+          else
+            python collect_data.py
+          fi
 
       - name: Commit and Push Changes to GitHub
         run: |
