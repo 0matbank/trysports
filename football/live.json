@@ -1,7 +1,29 @@
 {
   "category_name": "Football Live",
-  "total_items": 0,
-  "updated_time_bd": "2026-08-20 | 16:48:15",
+  "total_items": 1,
+  "updated_time_bd": "2026-08-20 | 17:15:51",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "india-u20-vs-yemen-u20-football-1628990",
+      "title": "India U20 vs Yemen U20",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "20 Aug 2026, 11:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCBggUIAMb1yDbVnE94IqtwJdWYMLnw2gA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIFCH4hE8euQYBjZuJ7wRVbgS6swYXPmtA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "India U20 vs Yemen U20 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCBggUIAMb1yDbVnE94IqtwJdWYMLnw2gA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIFCH4hE8euQYBjZuJ7wRVbgS6swYXPmtA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/FcIguAAfxeBpzMxIAgCzJHbwoxhSIBzO/echo/stream/india-u20-vs-yemen-u20-football-1628990/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
