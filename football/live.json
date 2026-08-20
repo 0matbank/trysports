@@ -1,7 +1,7 @@
 {
   "category_name": "Football Live",
-  "total_items": 3,
-  "updated_time_bd": "2026-08-21 | 03:40:36",
+  "total_items": 6,
+  "updated_time_bd": "2026-08-21 | 04:02:55",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -21,7 +21,7 @@
           "channel_name": "Rayo Vallecano vs Deportivo Alavés (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJNW5gQIKWCkhuIPjpAQQKEDDM2jjYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/hmguGEmWgcTbwihboRiefKfpUfVCQZiq/delta/stream/live_laliga_rayo-vallecano-alaves-live-streaming-607109040/1/playlist.m3u8"
+          "direct_stream_url": "https://lb4.strmd.st/secure/ZTxtmYufjoaGugtveRXAlaPLoULqRfZc/delta/stream/live_laliga_rayo-vallecano-alaves-live-streaming-607109040/1/playlist.m3u8"
         }
       ]
     },
@@ -42,7 +42,7 @@
           "channel_name": "Vikingur Reykjavik vs Borac Banja Luka (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIAMYgQ9cg2XNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEifiAj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/VBYODPDAhmbUOhKZTaAlkIFhinCFEVvc/echo/stream/vikingur-reykjavik-vs-borac-banja-luka-football-1623408/1/playlist.m3u8"
+          "direct_stream_url": "https://lb4.strmd.st/secure/ToATJJRbfnPcgbBUgSspXyhkIYTlpZGv/echo/stream/vikingur-reykjavik-vs-borac-banja-luka-football-1623408/1/playlist.m3u8"
         }
       ]
     },
@@ -63,7 +63,70 @@
           "channel_name": "Real Madrid II vs Zamora (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbCADGy+uQarm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUICCCIhFdcgwDGzcT3giq3Al1ZgwufFaA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/iwTGIrDYraAmTTHGNYeNtDANNbhVNrPe/echo/stream/real-madrid-ii-vs-zamora-football-1604798/1/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/UYlXJKdsxEJFoXwLsbNRxQFXAZDNqLVT/echo/stream/real-madrid-ii-vs-zamora-football-1604798/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "club-olimpia-vs-vasco-da-gama-2553252",
+      "title": "Club Olimpia vs Vasco da Gama",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "20 Aug 2026, 10:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMKRBSw3ELUS6+IY1JARcII8fMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Club Olimpia vs Vasco da Gama (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMKRBSw3ELUS6+IY1JARcII8fMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/nfKjkrTOXsBATilHfosuoEjolgVwcEME/echo/stream/olimpia-vs-vasco-da-gama-football-1607202/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "macar--vs-santos-2550867",
+      "title": "Macará vs Santos",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "20 Aug 2026, 10:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFJBAzuCfiG4g+IY1JARch4yEQkCwJBT7DZ9DSpRcwZeESyyPTLRgXmKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Macará vs Santos (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFJBAzuCfiG4g+IY1JARch4yEQkCwJBT7DZ9DSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/pTLbeCqOLUdTVBhHdlGRhzAiaRUDarkA/echo/stream/macara-vs-santos-football-1606078/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ldu-quito-vs-mirassol-2478542",
+      "title": "LDU Quito vs Mirassol",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "20 Aug 2026, 10:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKDBAo5PYGBDcQfECYhHcW81JDwCwJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "LDU Quito vs Mirassol (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKDBAo5PYGBDcQfECYhHcW81JDwCwJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/wcQHvVlTvFksOsbxcLDsgOoZwTzlszPc/echo/stream/ldu-de-quito-vs-mirassol-football-1547771/1/playlist.m3u8"
         }
       ]
     }
