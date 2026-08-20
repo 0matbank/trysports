@@ -1,16 +1,16 @@
 {
   "category_name": "Football Live",
   "total_items": 1,
-  "updated_time_bd": "2026-08-20 | 19:36:46",
+  "updated_time_bd": "2026-08-20 | 20:20:24",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "india-u20-vs-yemen-u20-football-1628990",
-      "title": "India U20 vs Yemen U20",
+      "id": "brazil-u17-vs-venezuela-u17-2578502",
+      "title": "Brazil U17 vs Venezuela U17",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "20 Aug 2026, 11:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCBggUIAMb1yDbVnE94IqtwJdWYMLnw2gA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIFCH4hE8euQYBjZuJ7wRVbgS6swYXPmtA.webp",
+      "start_time_bd": "20 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGpNN2TZxC8QWECekgUJ80ZCJF+YEgpYRcxijCqUPD+UZaxXvb0YB7iYhBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -18,10 +18,10 @@
       },
       "streams": [
         {
-          "channel_name": "India U20 vs Yemen U20 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCBggUIAMb1yDbVnE94IqtwJdWYMLnw2gA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIFCH4hE8euQYBjZuJ7wRVbgS6swYXPmtA.webp",
+          "channel_name": "Brazil U17 vs Venezuela U17 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGpNN2TZxC8QWECekgUJ80ZCJF+YEgpYRcxijCqUPD+UZaxXvb0YB7iYhBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/sfhPbhRXyrcDNsLqSOgsdjlSBiwtnSOl/echo/stream/india-u20-vs-yemen-u20-football-1628990/1/playlist.m3u8"
+          "direct_stream_url": "https://lb11.strmd.st/secure/nClsqEKCrQLCRovkNYpaZJYDSangYZuz/echo/stream/brazil-u17-vs-venezuela-u17-football-1628991/1/playlist.m3u8"
         }
       ]
     }
