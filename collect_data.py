@@ -154,7 +154,14 @@ def run_collector():
     print("  [*] SPORTS STREAM SCANNER (OFFICIAL COMPOSITE POSTER FORMAT)")
     print("=" * 60)
 
-    base_dir = os.path.dirname(__file__)
+    # প্রজেক্ট রুট ডিরেক্টরি বের করা
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    # যদি scanner/ ফোল্ডারের ভেতরে থাকে তবে এক লেভেল উপরে যাবে
+    if os.path.basename(current_dir).lower() == "scanner":
+        base_dir = os.path.dirname(current_dir)
+    else:
+        base_dir = current_dir
+
     cricket_dir = os.path.join(base_dir, "cricket")
     football_dir = os.path.join(base_dir, "football")
     os.makedirs(cricket_dir, exist_ok=True)
