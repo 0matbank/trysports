@@ -2,8 +2,8 @@ name: Auto Update Sports Data & Streams
 
 on:
   schedule:
-    # প্রতি ২০ মিনিট পর পর স্বয়ংক্রিয়ভাবে রান হবে
-    - cron: '*/20 * * * *'
+    # প্রতি ১০ মিনিট পর পর স্বয়ংক্রিয়ভাবে রান হবে
+    - cron: '*/10 * * * *'
   workflow_dispatch:
   push:
     branches:
@@ -54,7 +54,7 @@ jobs:
 
       - name: Scan & Fetch Direct Streams
         run: |
-          python collect_data.py
+          python scanner/collect_data.py
 
       - name: Commit and Push Changes to GitHub
         run: |
