@@ -1,7 +1,7 @@
 {
   "category_name": "Football Live",
-  "total_items": 9,
-  "updated_time_bd": "2026-08-20 | 11:38:22",
+  "total_items": 3,
+  "updated_time_bd": "2026-08-20 | 12:57:14",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -18,22 +18,10 @@
       },
       "streams": [
         {
-          "channel_name": "Apple TV (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBIgYYgaG4g+IKSAMRDIRFo0kCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/qxOzbYkWraHkNOlCfLPfDCQQbemyVKtx/rtmp/stream/l_z60DoWyQSzsiMs3uA_9girV8sw1wuEMXpoqiv0jyRRhr82x9j1IF7RMe9yb_XVIRnN417Ju9I7/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Apple TV (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBIgYYgaG4g+IKSAMRDIRFo0kCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/MrdukccShJoTEYjYXUgcsWUzgNPNBoGL/rtmp/stream/YS9DYVFVphGG6oue9Ga3TmIn-cV0jOjKy0sjemNGL027dwu0tPJSmWGXzfzh0SWCHE0YOsUJS22s4_mzmw/1/playlist.m3u8"
-        },
-        {
           "channel_name": "Portland Timbers vs San Diego FC (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBIgYYgaG4g+IKSAMRDIRFo0kCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/IwZMtMNSfSisEEWucfufRbbvepJcOutL/delta/stream/live_mls_portland-san-diego-live-streaming-538751088/1/playlist.m3u8"
+          "direct_stream_url": "https://lb8.strmd.st/secure/MlzxaoLKcNSnbbaWEvWmvJiSWYUssDMo/delta/stream/live_mls_portland-san-diego-live-streaming-538751088/1/playlist.m3u8"
         }
       ]
     },
@@ -51,22 +39,10 @@
       },
       "streams": [
         {
-          "channel_name": "Apple TV (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VenxDhaordxCaYIKQZD7EiHCALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/QIhMZHBCLoWbovHNsrlgWfopYkjhtcln/rtmp/stream/7aK9jiqh0ComR_vBmFNoFMQghF3YsE3IWMzPFrEdoUnuUbs_4EVbxq3VkzlbN1aHKaR8qlIxrAl0/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Apple TV (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VenxDhaordxCaYIKQZD7EiHCALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb2.strmd.st/secure/sdpsEZAHtrYOqWhSiAWfukapHjeOicSc/rtmp/stream/Q7WDMbCWJir2kB4XD9YNwfUHrhIIj__3SATjExSs3jO9Ou7wOWNnvTtwAnfiXBO6KTSjYV0uNSJncZm7AA/1/playlist.m3u8"
-        },
-        {
           "channel_name": "Vancouver Whitecaps vs Houston Dynamo (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VenxDhaordxCaYIKQZD7EiHCALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/algTbAlEggkHjRxNeENhzSCcmRfjUFiG/delta/stream/live_mls_vancouver-houston-live-streaming-538751520/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/OVNuhCdtDFmNESgzwlxowYAnLDaQmGRF/delta/stream/live_mls_vancouver-houston-live-streaming-538751520/1/playlist.m3u8"
         }
       ]
     },
@@ -84,22 +60,10 @@
       },
       "streams": [
         {
-          "channel_name": "Apple TV (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAJm8ADCBiUQ3DcaN8QJEIkQgQKAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/xautsruKdMPANEMpNioGFRoiJKpaLTkS/rtmp/stream/UWghrnSOYW72D16x6O3zpmlEVl9oFPeaaxE8LJkO-e6RXpcJapQPPUNPxHTI5G7nN0VGP9jUpZ0/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Apple TV (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAJm8ADCBiUQ3DcaN8QJEIkQgQKAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb12.strmd.st/secure/XKaAIVGDXNIJKJYwsOAnEwSpAwtFzvUm/rtmp/stream/a26FXKrmJD8_-WPPuiUAgk41XmwCMQTxdQu-QUxLgIq70nKnIV4UZKY2n8j-2fI8CwT9cnd4r49QIk-0/1/playlist.m3u8"
-        },
-        {
           "channel_name": "LA Galaxy vs San Jose Earthquakes (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAJm8ADCBiUQ3DcaN8QJEIkQgQKAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/diKAHhpyQRYooFvdugHRJpMcjkTXJhGG/delta/stream/live_mls_la-galaxy-san-jose-live-streaming-538750656/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/cnxyGgnwtJYfySlUBcLTuwZlMjHGSrrq/delta/stream/live_mls_la-galaxy-san-jose-live-streaming-538750656/1/playlist.m3u8"
         }
       ]
     }
