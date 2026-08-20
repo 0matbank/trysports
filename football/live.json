@@ -1,16 +1,16 @@
 {
   "category_name": "Football Live",
-  "total_items": 7,
-  "updated_time_bd": "2026-08-20 | 05:30:12",
+  "total_items": 49,
+  "updated_time_bd": "2026-08-20 | 07:44:59",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "cucuta-vs-internacional-de-bogota-football-1549696",
-      "title": "Cucuta vs Internacional de Bogota",
+      "id": "ppv-colorado-rapids-vs-lafc",
+      "title": "Colorado Rapids vs. LAFC",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "19 Aug 2026, 11:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiICCADGIGPXINVzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIgj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+      "start_time_bd": "20 Aug 2026, 01:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52ILCAjZSwCCBDBEKEPFkgSIGLOA0JVcaXnThIzdnEhl+kxIDGllOSkChIptMdhCwJLluOhMG5OKRMyRwJFciDtMgggA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -18,20 +18,26 @@
       },
       "streams": [
         {
-          "channel_name": "Cucuta vs Internacional de Bogota (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiICCADGIGPXINVzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIgj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52ILCAjZSwCCBDBEKEPFkgSIGLOA0JVcaXnThIzdnEhl+kxIDGllOSkChIptMdhCwJLluOhMG5OKRMyRwJFciDtMgggA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/BOYgoiHeUnPNbDEGGWfSGtbXVBwjAhTO/echo/stream/cucuta-vs-internacional-de-bogota-football-1549696/1/playlist.m3u8"
+          "direct_stream_url": "https://lb9.strmd.st/secure/TdifkAcFRlJIyKmEctjxQMDREtTWsLIe/rtmp/stream/tn5Qhd1M6BqU2hnZTkiVsabh5jZV5HBsH37UGgmaaawcYFcNcymOGGhdJcLlV6GyIU8Chwoi1QEl/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52ILCAjZSwCCBDBEKEPFkgSIGLOA0JVcaXnThIzdnEhl+kxIDGllOSkChIptMdhCwJLluOhMG5OKRMyRwJFciDtMgggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb13.strmd.st/secure/typendSBjjUpelUQZwiVkNOjsOptgJFQ/rtmp/stream/a2avxD1iyorvj2xxnhP2LsFIg3J31hcxzgh9mFbE3JTXobPf96enSX_zHkBozQln78pBlGri61FOA3-Hiw/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "forge-vs-supra-du-qu-bec-2427394",
-      "title": "Forge vs Supra du Québec",
+      "id": "real-salt-lake-vs-fc-dallas-2407004",
+      "title": "Real Salt Lake vs FC Dallas",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "19 Aug 2026, 11:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNLmAzuIKWD4gdBkCAggYIRCkOXzBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "start_time_bd": "20 Aug 2026, 01:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFJQbAwbEDBDcQfPSClGDIRImMkCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -39,20 +45,38 @@
       },
       "streams": [
         {
-          "channel_name": "Forge vs Supra du Québec (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNLmAzuIKWD4gdBkCAggYIRCkOXzBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFJQbAwbEDBDcQfPSClGDIRImMkCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/AypRrPwGmjTgPrNgaxOODRtxwqpLXMJf/echo/stream/forge-vs-supra-du-quebec-football-1517330/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/tTWjOoTWCXlENfnKPpPTZxRiPVBnoGyC/rtmp/stream/ifp7djSbe0Pb4X5ZXN6QCTfTNbRVkunxS37Jjaa3cGS-XbeRo72RBDsievlYDcAG-4KaUxVNxNZ1/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFJQbAwbEDBDcQfPSClGDIRImMkCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb3.strmd.st/secure/RgtVBnVTVNHtGHgyniTRZRAmLOZKyegG/rtmp/stream/4PezAYrdjDIJFOfhPZ745r1-r4GKgYUpOzHqHsFqfXzCzTP_QVaOObpzi9u7F4jkqH2aAdn_QvQJXQ9-rg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Real Salt Lake vs FC Dallas (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFJQbAwbEDBDcQfPSClGDIRImMkCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/psEWfrhTYKJokEoiRHaNCavDobshagwg/delta/stream/live_mls_salt-lake-dallas-live-streaming-538749792/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Real Salt Lake vs FC Dallas (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFJQbAwbEDBDcQfPSClGDIRImMkCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/nDbLldeXLCekElQOajcVpNUuJHXpoiVx/echo/stream/real-salt-lake-vs-fc-dallas-football-1490402/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "atl-tico-ottawa-vs-vancouver-fc-2427393",
-      "title": "Atlético Ottawa vs Vancouver FC",
+      "id": "seattle-sounders-vs-austin-fc-2407003",
+      "title": "Seattle Sounders vs Austin FC",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "19 Aug 2026, 11:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXlLCaUzLSG4g+IYxBAwQiFPtwgUBYEgp9hs+ijAqdbD+XpZZOky0YB5iohBAA.webp",
+      "start_time_bd": "20 Aug 2026, 01:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQAYQSkIhzcQfQyANGSuiyCsFgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -60,20 +84,38 @@
       },
       "streams": [
         {
-          "channel_name": "Atlético Ottawa vs Vancouver FC (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXlLCaUzLSG4g+IYxBAwQiFPtwgUBYEgp9hs+ijAqdbD+XpZZOky0YB5iohBAA.webp",
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQAYQSkIhzcQfQyANGSuiyCsFgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/uOlhdDqEpMJTCjlKbbQQXvxRwVxGpwZW/echo/stream/atletico-ottawa-vs-vancouver-fc-football-1517329/1/playlist.m3u8"
+          "direct_stream_url": "https://lb14.strmd.st/secure/xhhydUzOMknuWQujCOSfHNuSzpoMibTX/rtmp/stream/3Tw1arun1nxqQBCTSS1FgUgQ6eYEZxa3HxKHINFqc161ibIfUB2TsQBkiL1TNNzlY2FKDmHjTNcf/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQAYQSkIhzcQfQyANGSuiyCsFgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/SKwLlslXlgSmQupqyRdWWwBNpMmRhIDJ/rtmp/stream/BWWPR6vyEgc784c-UYhbfCX1IJ93IUnjM1JwjyluLjwuL4QxgiMQXMdc_Pzkhgjmg2cAXy54Y3o_oE6DPw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Seattle Sounders vs Austin FC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQAYQSkIhzcQfQyANGSuiyCsFgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/zxkQAyPKlFNzAPOFcxfDVpKOuuXodPJy/delta/stream/live_mls_seattle-austin-live-streaming-538750224/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Seattle Sounders vs Austin FC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQAYQSkIhzcQfQyANGSuiyCsFgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/cdJTWwkIpBmtAKBbSkqosCbdGISrfQrv/echo/stream/seattle-sounders-vs-austin-football-1490401/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "racing-club-vs-belgrano-2540102",
-      "title": "Racing Club vs Belgrano",
+      "id": "atletico-torque-vs-tigre-football-1606079",
+      "title": "Atletico Torque vs Tigre",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "19 Aug 2026, 10:15 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm7EPWBgSGkNxAqQKEDr4hEEIyaMEKTPii7by9eaMdNaYbWNEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwoAvmCTsQ3ECV0g+RkABMQFmBaMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+      "start_time_bd": "20 Aug 2026, 12:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRPxDZ65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCCZ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -81,20 +123,20 @@
       },
       "streams": [
         {
-          "channel_name": "Racing Club vs Belgrano (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm7EPWBgSGkNxAqQKEDr4hEEIyaMEKTPii7by9eaMdNaYbWNEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwoAvmCTsQ3ECV0g+RkABMQFmBaMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+          "channel_name": "Atletico Torque vs Tigre (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRPxDZ65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCCZ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/AQVriQdUXDhMfjulPJZdpdACGPFjnXfI/echo/stream/racing-club-vs-belgrano-cordoba-football-1593678/1/playlist.m3u8"
+          "direct_stream_url": "https://lb8.strmd.st/secure/UeuTiAGvbkZxIIdyMwyCcSSHRXRFMLgd/echo/stream/atletico-torque-vs-tigre-football-1606079/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "atletico-mg-vs-rb-bragantino-football-1607200",
-      "title": "Atletico-MG vs RB Bragantino",
+      "id": "independiente-santa-fe-vs-river-plate-2554150",
+      "title": "Independiente Santa Fe vs River Plate",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "19 Aug 2026, 10:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCH4gmdcgwDGzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQgI9cg0XNxPeCKrcCXVmDC58FoA.webp",
+      "start_time_bd": "20 Aug 2026, 12:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzB1IKSBggQ7ENxB8DOkBFynzVxsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -102,20 +144,20 @@
       },
       "streams": [
         {
-          "channel_name": "Atletico-MG vs RB Bragantino (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCH4gmdcgwDGzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQgI9cg0XNxPeCKrcCXVmDC58FoA.webp",
+          "channel_name": "Independiente Santa Fe vs River Plate (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzB1IKSBggQ7ENxB8DOkBFynzVxsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/ukQgPXPovsKbAyAZnBiSlhKoUQSZOclh/echo/stream/atletico-mg-vs-rb-bragantino-football-1607200/1/playlist.m3u8"
+          "direct_stream_url": "https://lb15.strmd.st/secure/WAgcxwIvCxOdlztUibtFqSOzZzDJCvDQ/echo/stream/santa-fe-vs-river-plate-football-1607650/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "coquimbo-unido-vs-platense-2478544",
-      "title": "Coquimbo Unido vs Platense",
+      "id": "flamengo-vs-cruzeiro-2478538",
+      "title": "Flamengo vs Cruzeiro",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "19 Aug 2026, 10:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBtE566kiG4g+GkBEO4QKM1JMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "start_time_bd": "20 Aug 2026, 12:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEA2pSwM-CG4g+IYxEO4QKMyQsFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -123,20 +165,20 @@
       },
       "streams": [
         {
-          "channel_name": "Coquimbo Unido vs Platense (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBtE566kiG4g+GkBEO4QKM1JMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "channel_name": "Flamengo vs Cruzeiro (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEA2pSwM-CG4g+IYxEO4QKMyQsFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/jQHaptRHNwjcTLnTcRyVymvtZXXYtbYE/echo/stream/coquimbo-unido-vs-platense-football-1547766/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/eHxmZMXUSygYOAXrnqHlWziTTOBdIdZi/echo/stream/flamengo-vs-cruzeiro-football-1547768/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "cerro-porte-o-vs-palmeiras-2478543",
-      "title": "Cerro Porteño vs Palmeiras",
+      "id": "minnesota-united-vs-atlanta-united-2407001",
+      "title": "Minnesota United vs Atlanta United",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "19 Aug 2026, 10:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBFwgUwMNjYhuIPiFOaTOFMZBSQ8AsCQU+w2fRRgVOtp-L0ssjpMtHqi9GFAA.webp",
+      "start_time_bd": "20 Aug 2026, 12:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMOzC9RhHNxB8DIfYZIhEiEAYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -144,10 +186,340 @@
       },
       "streams": [
         {
-          "channel_name": "Cerro Porteño vs Palmeiras (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBFwgUwMNjYhuIPiFOaTOFMZBSQ8AsCQU+w2fRRgVOtp-L0ssjpMtHqi9GFAA.webp",
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMOzC9RhHNxB8DIfYZIhEiEAYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/dNixJUVjTprmSfaFUOcRzdqFwpnXxoZS/echo/stream/cerro-porteno-vs-palmeiras-football-1547765/1/playlist.m3u8"
+          "direct_stream_url": "https://lb12.strmd.st/secure/CDMisMeRHJcNKhuhaBkMEyXhhfbyXpVc/rtmp/stream/S0H91a8xsGCR1D54HW9rv-yKfJMvBAvCTot5C0XURxffZtoxcV35aSn9A9Erp4UGEKgCXB248QV5/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMOzC9RhHNxB8DIfYZIhEiEAYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb6.strmd.st/secure/nnrXjbmjjgIJaoeXBXejidAtGLKMxryy/rtmp/stream/hrnh_dKe1Wl2pfZSpHrlLYQo7n3oSMKfiJCkcD7Tey28qX3-9AFccgPIF2YIrYtXNwAopqp7nflBRKaSbg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Minnesota United vs Atlanta United (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMOzC9RhHNxB8DIfYZIhEiEAYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/KBWstGSxsUMhSyVfvUiHPHltdnmbSRhH/delta/stream/live_mls_minnesota-atlanta-live-streaming-538748928/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Minnesota United vs Atlanta United (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMOzC9RhHNxB8DIfYZIhEiEAYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/hvPWZKyxUQapXeWFnhYJYChTGwcfkLwv/echo/stream/minnesota-united-fc-vs-atlanta-united-fc-football-1490399/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "sporting-kansas-city-vs-st--louis-city-sc-2407000",
+      "title": "Sporting Kansas City vs St. Louis City SC",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "20 Aug 2026, 12:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUfTJks7ENxB8DeoyRCJEIEFILAkFPsNn0UYFSi6vy9HaPdNaYK5iGkA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUfTJks7ENxB8DeoyRCJEIEFILAkFPsNn0UYFSi6vy9HaPdNaYK5iGkA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/oujBSwSXZgRyKrDtuwQbDNqNOLOnbDwx/rtmp/stream/r7EKbEC7ykJh2RC99YA-Vy28yza4Qg-g09o2I6QU53v9bSRPHDbaKFI9VKYOm8odVdB8YYMMJ32B/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUfTJks7ENxB8DeoyRCJEIEFILAkFPsNn0UYFSi6vy9HaPdNaYK5iGkA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/ewivVesvUbcvPADCPfmYngtOXckTtgZk/rtmp/stream/k1KsQS03_NEsNhE9IKfxfb3QwcV2s7c89rvLAcBpnfQwPFU8Bkcl6F5BtQ5CTrainmvvr0E5XHGlp1PISA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sporting Kansas City vs St. Louis City SC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUfTJks7ENxB8DeoyRCJEIEFILAkFPsNn0UYFSi6vy9HaPdNaYK5iGkA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/qcCqzSSRyLtaNylUZZTHjcuGvEezSPIz/delta/stream/live_mls_kansas-city-st-louis-live-streaming-538748496/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sporting Kansas City vs St. Louis City SC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUfTJks7ENxB8DeoyRCJEIEFILAkFPsNn0UYFSi6vy9HaPdNaYK5iGkA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/iwjVJLSfnIgCjqyGCaEEwZxFQMqmgqAq/echo/stream/sporting-kansas-city-vs-st-louis-city-football-1490398/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "dc-united-vs-new-england-revolution-2406999",
+      "title": "DC United vs New England Revolution",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Aug 2026, 11:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGAGEpIDTm4g+hkAaMkQiRCBAkCwJBT7DZ9DSpRcwZeESyyPTLRgXmKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGAGEpIDTm4g+hkAaMkQiRCBAkCwJBT7DZ9DSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/EDtYMJwCUQLwpRIEjuNBReQcGFMiQjgV/rtmp/stream/r12Qt0glOuQKqayvbAAAFEuFgh6W7e1cG51dqQufL9xqoOXLm7DBCM-Hpy5BaNELomVCG2hZ-eo/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGAGEpIDTm4g+hkAaMkQiRCBAkCwJBT7DZ9DSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/hhFYBiYUcVNdcmjQhZCuixJftJIvdDcx/rtmp/stream/J1CBXVXu5YQ1FVkULW4AUnsT2kH6T40JJPFgD2EIPRk1S7umixDfAEyavjYpKvruzoE8YcOejXgVffBt/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DC United vs New England Revolution (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGAGEpIDTm4g+hkAaMkQiRCBAkCwJBT7DZ9DSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/GwlcQdcleHJwCgtOcRgtlbPTRYAtIzsg/delta/stream/live_mls_dc-united-new-england-live-streaming-538745904/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DC United vs New England Revolution (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGAGEpIDTm4g+hkAaMkQiRCBAkCwJBT7DZ9DSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/ufInaNJesgBvpAFnOaQltYFwIdtsGTSD/echo/stream/dc-united-vs-new-england-revolution-football-1490397/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "toronto-fc-vs-charlotte-fc-2406998",
+      "title": "Toronto FC vs Charlotte FC",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Aug 2026, 11:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL24h4YFMBlINIPiBggpxo4i1n4BYEgp9hs+ijAq9bD+XpZZeky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL24h4YFMBlINIPiBggpxo4i1n4BYEgp9hs+ijAq9bD+XpZZeky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/GvGOKYEGwKzpZPJbFGDQCiJlBHrnTBxT/rtmp/stream/ftA4u406_YTg5GKPhoZl4beyyq2gzTMtrcz_0BNvVYBXz-snQu_Zwh53KZW6U8FrtCJxcY6jIIZs/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL24h4YFMBlINIPiBggpxo4i1n4BYEgp9hs+ijAq9bD+XpZZeky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb6.strmd.st/secure/zDtsEzxkoQbHwLkwPeOntIWKOzhkfraN/rtmp/stream/KqnL8DLnun3VQipUmsXRalaXCBkPgUP5Trh83sINbI-gw_ecVj04W2KVYTPstWlkits55JDpXcoBy0L8Vw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Toronto FC vs Charlotte FC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL24h4YFMBlINIPiBggpxo4i1n4BYEgp9hs+ijAq9bD+XpZZeky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/JhfQyHSaLkMYkKYZZSEojTrPzbWfYVou/delta/stream/live_mls_toronto-charlotte-live-streaming-538748064/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Toronto FC vs Charlotte FC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL24h4YFMBlINIPiBggpxo4i1n4BYEgp9hs+ijAq9bD+XpZZeky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/hYWAapTWFJAVadtCWQbXAjpOINTBwPeI/echo/stream/toronto-fc-vs-charlotte-football-1490396/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "orlando-city-vs-chicago-fire-2406997",
+      "title": "Orlando City vs Chicago Fire",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Aug 2026, 11:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMCQgUwAAyaQUkNxB8QMQ6eMhEOIygKaKfYbPoowKnW0-l6WWR0mWjBPMVEIIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMCQgUwAAyaQUkNxB8QMQ6eMhEOIygKaKfYbPoowKnW0-l6WWR0mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/qWsKekAMTIDzNlmVMSfrygRglfthLCWM/rtmp/stream/nDivmfhIkG7dm-gIOEMN135cPuWpOgn_0QUbTkhqCFR3yUcD-NgqIS8fc9wczTKIx-bx58wTMg_O/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMCQgUwAAyaQUkNxB8QMQ6eMhEOIygKaKfYbPoowKnW0-l6WWR0mWjBPMVEIIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb5.strmd.st/secure/FraXmMagfHrGXhzuHmtuRHMyGLQHyEih/rtmp/stream/h_AybVWGEXUTCubbICsxXBRbbJ8yXQ-5v6jXx0BD3zxhSVCJcFGofxofV3cNK7cmmv9YRKEolFOqoaE4yg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Orlando City vs Chicago Fire (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMCQgUwAAyaQUkNxB8QMQ6eMhEOIygKaKfYbPoowKnW0-l6WWR0mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/GmOPjpwsGkAgbqJjVQjsNlbRqPUnyWzl/delta/stream/live_mls_orlando-chicago-live-streaming-538747200/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Orlando City vs Chicago Fire (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMCQgUwAAyaQUkNxB8QMQ6eMhEOIygKaKfYbPoowKnW0-l6WWR0mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/ODkKxFMiHLNKjpPzqGsyPZuQVrGRXPfd/echo/stream/orlando-city-sc-vs-chicago-fire-football-1490395/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "new-york-red-bulls-vs-nashville-sc-2406996",
+      "title": "New York Red Bulls vs Nashville SC",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Aug 2026, 11:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDa5BKEIm4g+IGCCmGQBxDhJ6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDa5BKEIm4g+IGCCmGQBxDhJ6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/BVIKaEJbxfqfsdZpDFhztcdMzFIeXBuS/rtmp/stream/pVlA7SGVhNqJXdz7L6mNhGct-8qfBbgXDPUsoZmuldonptii4_FqFJH0tVkK7ihEWofG73Gl4qT-7g/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDa5BKEIm4g+IGCCmGQBxDhJ6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/cZBSzRPHlVVvtEUClynQbiqntvrofBPL/rtmp/stream/iS6B__cYgylvM4X0I80LRNQr0OjuTYimHQGiTiEcsDvRE7nCufnFPfrNwV_irJk2Qcr6v6m6AyAd3vEgsOQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "New York Red Bulls vs Nashville SC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDa5BKEIm4g+IGCCmGQBxDhJ6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/NSlwmDRkIxdzfutFRpkxruRWRugxFPYY/delta/stream/live_mls_ny-red-bulls-nashville-live-streaming-538746768/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "New York Red Bulls vs Nashville SC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDa5BKEIm4g+IGCCmGQBxDhJ6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/zKvFfmzzRRkFtonOPnZxZuKydHKyFGbP/echo/stream/new-york-red-bulls-vs-nashville-sc-football-1490394/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "columbus-crew-vs-cf-montr-al-2406995",
+      "title": "Columbus Crew vs CF Montréal",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Aug 2026, 11:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHFLCiswJGxDcQfEDBBSjBkIkPGFTJBT7DZ9FFrYouW8vR2jPTLRg7vSiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHFLCiswJGxDcQfEDBBSjBkIkPGFTJBT7DZ9FFrYouW8vR2jPTLRg7vSiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/EIXBmPjnCEoXeRjwOcPlrYELAggXsvYt/rtmp/stream/RMDciFUdWxEf76SCmNO5e85USm1qyXUfml7loHs2-GJ_dqHdTOzM3z9JPfXpKUlC3zgwRYKNagS8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHFLCiswJGxDcQfEDBBSjBkIkPGFTJBT7DZ9FFrYouW8vR2jPTLRg7vSiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/qyCNLlRZDfsvwOTpoTCQLvvseffoygge/rtmp/stream/9wmTyaZQx3abgF-5vCpGH6jQNanRlwnQP72UzsbCCLA3giu7YM9JIBDnRCOd6NKNrq3zS9zXjhOCZJEJdA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Columbus Crew vs CF Montréal (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHFLCiswJGxDcQfEDBBSjBkIkPGFTJBT7DZ9FFrYouW8vR2jPTLRg7vSiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/UpJPABOxrhJQdiffoFBmbMIDwRZtzwkX/delta/stream/live_mls_columbus-montreal-live-streaming-538745472/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Columbus Crew vs CF Montréal (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHFLCiswJGxDcQfEDBBSjBkIkPGFTJBT7DZ9FFrYouW8vR2jPTLRg7vSiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/mxervwnvxLCyiTEDcGKeHBisdybfxCTI/echo/stream/columbus-crew-vs-cf-montreal-football-1490393/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "fc-cincinnati-vs-new-york-city-fc-2406994",
+      "title": "FC Cincinnati vs New York City FC",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Aug 2026, 11:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXoiwUqJENxB8QMEFIN6QifTngFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXoiwUqJENxB8QMEFIN6QifTngFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/ZPNjwFXGmlhqyAKGtlNSOEufejmLgGOC/rtmp/stream/Fet7Ol3FRzZM6gKzGyT5LryQiDr4b5p8197Piw7fWpolPifBYXIH4--MfGreKAu4XcRaHigXd3Kk/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXoiwUqJENxB8QMEFIN6QifTngFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb6.strmd.st/secure/DmXkhkBTAMkkHxgFAXyctqTITOxcmQCI/rtmp/stream/G7ijAUUjSMzI9nYkjH_zCWNNPprG9YvZ77oBQ2a2DO9HeCYggcHvXMIjWn08auK6KW-C-dW0dAPieSxzKg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "FC Cincinnati vs New York City FC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXoiwUqJENxB8QMEFIN6QifTngFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/EpivEdsFRadYIUFXLSCEdFqFRtBypbEU/delta/stream/live_mls_cincinnati-ny-city-live-streaming-538746336/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "FC Cincinnati vs New York City FC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXoiwUqJENxB8QMEFIN6QifTngFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/qAYKkSluHeUwKhGcWNOpOKdJEDhhkkCz/echo/stream/fc-cincinnati-vs-new-york-city-fc-football-1490392/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "philadelphia-union-vs-inter-miami-2406993",
+      "title": "Philadelphia Union vs Inter Miami",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Aug 2026, 11:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGJIiIYAAYQ3EHw0gpxwyEQ4SIBU22a+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGJIiIYAAYQ3EHw0gpxwyEQ4SIBU22a+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/vrLMAqSerucHRIeYnrYgTzSieIpVcUna/rtmp/stream/zbQwgEgewxW06XzHYDMPoTYmXsc4J2sjGxqaeHuBYt-BO1l6p5rV_BVQFLKnLKdOJqoEPdL66ofD/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGJIiIYAAYQ3EHw0gpxwyEQ4SIBU22a+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb12.strmd.st/secure/uKEVkxNdgAcHJXCuXPMNRvISWRoLgZqc/rtmp/stream/PtbcXiVkEd0DDRAWX9r7qpBtFCgnV6q-NYAFlqizUPMojFgzXX_kuKNVJyDg1fYod4FakqUs8IlUp9n2Uw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Philadelphia Union vs Inter Miami (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGJIiIYAAYQ3EHw0gpxwyEQ4SIBU22a+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/OPFSniCzxXtzRcBnpcUXnEIqegXqtobA/delta/stream/live_mls_philadelphia-inter-miami-live-streaming-538747632/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Philadelphia Union vs Inter Miami (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGJIiIYAAYQ3EHw0gpxwyEQ4SIBU22a+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/cgzadArVwhutPkfPnbXhsEgGSOVLWpVr/echo/stream/philadelphia-union-vs-inter-miami-football-1490391/1/playlist.m3u8"
         }
       ]
     }
