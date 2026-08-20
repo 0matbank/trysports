@@ -1,7 +1,7 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 1
-# UPDATED Time and date BD: 2026-08-20 | 20:20:24
+# TOTAL-ITEMS: 5
+# UPDATED Time and date BD: 2026-08-20 | 21:01:22
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
 #EXTINF:-1 tvg-id="Brazil U17 vs Venezuela U17 (HD)" tvg-name="Brazil U17 vs Venezuela U17 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGpNN2TZxC8QWECekgUJ80ZCJF+YEgpYRcxijCqUPD+UZaxXvb0YB7iYhBAA.webp" group-title="Football", Brazil U17 vs Venezuela U17 (HD)
@@ -9,5 +9,33 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb11.strmd.st/secure/nClsqEKCrQLCRovkNYpaZJYDSangYZuz/echo/stream/brazil-u17-vs-venezuela-u17-football-1628991/1/playlist.m3u8
+https://lb12.strmd.st/secure/gYVyUVhRWKoadajfyZSTeZDtlgbSaOFo/echo/stream/brazil-u17-vs-venezuela-u17-football-1628991/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN+ (HD)" tvg-name="ESPN+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEQwQ-FBVC8QWECePbEEEyG2T8wJBSwi5jPapQ8wZeEWpyPdvRgXuJiEEA.webp" group-title="Football", ESPN+ (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb2.strmd.st/secure/tKCMHlVukXRJLpTzfQxxfnlaSPxxotEO/rtmp/stream/82ZwhrOixjdaF2WuaLHwdOkjzL62edRQogthD54s84V3TW4CgR0q6N7HNGU9BLe3j5EGmPtweJTxFw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN+ (SD)" tvg-name="ESPN+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEQwQ-FBVC8QWECePbEEEyG2T8wJBSwi5jPapQ8wZeEWpyPdvRgXuJiEEA.webp" group-title="Football", ESPN+ (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb15.strmd.st/secure/aPaZtazFZbbzmYrEMKVmUdQzjwyiFNJX/rtmp/stream/ekNrePhODtr6DzOUzjBFNvQx5FcRBon7HnaftmBBnc0uN82wpH0O1OksDvSitB1Zp6pSF6gy3VgomFEByt8/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kairat Almaty vs Anderlecht (HD)" tvg-name="Kairat Almaty vs Anderlecht (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEQwQ-FBVC8QWECePbEEEyG2T8wJBSwi5jPapQ8wZeEWpyPdvRgXuJiEEA.webp" group-title="Football", Kairat Almaty vs Anderlecht (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/DGfFdDsiDYoFSwESGeCEvBUYQgtraRUJ/echo/stream/kairat-almaty-vs-anderlecht-football-1623435/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Varese vs Pro Palazzolo (HD)" tvg-name="Varese vs Pro Palazzolo (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRswKMAPiQQ3EHxAkQEEKZMnEB5YRjAmfFFzBlt9eaMdNaYZ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATBiBT8QMEIm4g+uEBD0mQJczkYUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Football", Varese vs Pro Palazzolo (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/GHaPFfvkYMqLIFQXbIQzsOzNgtqQmazN/echo/stream/citta-di-varese-vs-pro-palazzolo-football-1618950/1/playlist.m3u8
 
