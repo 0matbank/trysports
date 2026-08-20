@@ -1,41 +1,83 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 5
-# UPDATED Time and date BD: 2026-08-20 | 21:47:47
+# TOTAL-ITEMS: 11
+# UPDATED Time and date BD: 2026-08-20 | 22:18:23
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="German - Servus TV (HD)" tvg-name="German - Servus TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcYkQ0qIYSBTjxpRRGwgAxhqVlV8EcEQoDwGRBAxSI2eZOyj-MIP0Fs9MIWBJc6o0MetVYUsjFz0wR2BVHSA.webp" group-title="Football", German - Servus TV (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/MRpMCkvffqEPuefdSmlILTCqqktGaUrS/rtmp/stream/OnNrd3oS4FuGFnb4wz_gZPo4m7Z38zcybs84CmGyGHHt8o0rMd6aSOnsHruQszIFNX-sQfIp_-DsOQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="German - Servus TV (SD)" tvg-name="German - Servus TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcYkQ0qIYSBTjxpRRGwgAxhqVlV8EcEQoDwGRBAxSI2eZOyj-MIP0Fs9MIWBJc6o0MetVYUsjFz0wR2BVHSA.webp" group-title="Football", German - Servus TV (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb13.strmd.st/secure/NcmYriJfszHtQNtUDZLZUQGwLSMkordy/rtmp/stream/pkw5rxZa6Tu-ooalJEbHYR0OPnjE3elvJpIo3x8dFimvlkLIK9qpAtaZkk8yYq1DEzqahGjPVBQuUgdmU3Q/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mjällby vs Red Bull Salzburg (HD)" tvg-name="Mjällby vs Red Bull Salzburg (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdv2ohe2YLIAM2kFhCmTMEIgimQFkiyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp" group-title="Football", Mjällby vs Red Bull Salzburg (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/zspOvHFWfigJbCPXZkSDhIqpkkxyZaYE/echo/stream/mjallby-aif-vs-red-bull-salzburg-football-1623436/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jagiellonia Białystok vs Iberia 1999 (HD)" tvg-name="Jagiellonia Białystok vs Iberia 1999 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtWDSwSEBBAhgu3iCwHTIGCET6zKEChZIKWEXMYowqlDy-lGmmI++KzAYF7iYhBAA.webp" group-title="Football", Jagiellonia Białystok vs Iberia 1999 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb4.strmd.st/secure/vJhbbYPCfIPonqXnaYmORjUVSekfcIsF/echo/stream/jagiellonia-vs-fc-iberia-1999-football-1623434/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Inter Turku vs FC Copenhagen (HD)" tvg-name="Inter Turku vs FC Copenhagen (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEFUQTWJpC99IfTBCII+rMZZIKWEXMYowqlDxflG1OW-ytgYC7iYhBAA.webp" group-title="Football", Inter Turku vs FC Copenhagen (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb14.strmd.st/secure/zsMfUVpsvRszgcNiyMkvtaAZvVDblOFJ/echo/stream/inter-turku-vs-fc-copenhagen-football-1623395/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lincoln Red Imps vs Larne (HD)" tvg-name="Lincoln Red Imps vs Larne (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvxTzgSchBC8QWECeMwQifcestdMASLmMUYVVo6u9TOVvytgYK7iYhBAA.webp" group-title="Football", Lincoln Red Imps vs Larne (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb2.strmd.st/secure/rDPbAihoFAYGveQGvKxTZDgaxgQKjxZJ/echo/stream/lincoln-red-imps-fc-vs-larne-football-1623396/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN+ (HD)" tvg-name="ESPN+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEQwQ-FBVC8QWECePbEEEyG2T8wJBSwi5jPapQ8wZeEWpyPdvRgXuJiEEA.webp" group-title="Football", ESPN+ (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/oLEWeboxCyXLiwzSwrtCyHXVuCXxpoKS/rtmp/stream/Ttj9iLpzf2TPH8_-geIHJ7g8laXdCMjcI-n0qdygWtwZHNc2-1HtU9VdAWedE-C5ka0fvPO94nEs6Q/1/playlist.m3u8
+https://lb6.strmd.st/secure/dGupOZMtqikKkpAxAPCnLjFKmuQBZDTJ/rtmp/stream/cQy9eZMKrDqZyp1tcuBUrG6AoHb9vywTmO-mJ7zB1kSj89kyRT6ZN97Ewz7b68tyC3pAPGSJtrZE6w/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN+ (SD)" tvg-name="ESPN+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEQwQ-FBVC8QWECePbEEEyG2T8wJBSwi5jPapQ8wZeEWpyPdvRgXuJiEEA.webp" group-title="Football", ESPN+ (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb9.strmd.st/secure/DtnEEqdcylySytvqDyJvhTlLnCFwyCvO/rtmp/stream/-vlh1YX2PvpPUIQfZhsT42gxb1ukRJ-AYMXkiC5sGgZWu6IxLlEYdmFq04_D8RpXbNzB1BntMUagPmI2ogo/1/playlist.m3u8
+https://lb6.strmd.st/secure/mPyLVGZaZYnAuPokhgjSeeEyeARRkeYV/rtmp/stream/6QG5Hyxw4aE2OSzdHGhOK2_NdPu7wgWedNZdTubvXYXjPhwz0wUwrHAS8PUv6SX9u9CxncKnhcVHMw3JxXo/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kairat Almaty vs Anderlecht (HD)" tvg-name="Kairat Almaty vs Anderlecht (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEQwQ-FBVC8QWECePbEEEyG2T8wJBSwi5jPapQ8wZeEWpyPdvRgXuJiEEA.webp" group-title="Football", Kairat Almaty vs Anderlecht (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb1.strmd.st/secure/txWpfTJebZUDwTnsIutkgLIwwUuQcoIW/echo/stream/kairat-almaty-vs-anderlecht-football-1623435/1/playlist.m3u8
+https://lb3.strmd.st/secure/aRfbZhaaVHkyeqvnwEtmxfPotYoOWiJy/echo/stream/kairat-almaty-vs-anderlecht-football-1623435/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Varese vs Pro Palazzolo (HD)" tvg-name="Varese vs Pro Palazzolo (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRswKMAPiQQ3EHxAkQEEKZMnEB5YRjAmfFFzBlt9eaMdNaYZ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATBiBT8QMEIm4g+uEBD0mQJczkYUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title="Football", Varese vs Pro Palazzolo (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb8.strmd.st/secure/IadNNJFYNjZvvoqoTgNLjmYGrjHtTEHU/echo/stream/citta-di-varese-vs-pro-palazzolo-football-1618950/1/playlist.m3u8
+https://lb9.strmd.st/secure/tVGFWbaAOlPiDPRxmFuiwlLxWSEKgbBB/echo/stream/citta-di-varese-vs-pro-palazzolo-football-1618950/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Brazil U17 vs Venezuela U17 (HD)" tvg-name="Brazil U17 vs Venezuela U17 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGpNN2TZxC8QWECekgUJ80ZCJF+YEgpYRcxijCqUPD+UZaxXvb0YB7iYhBAA.webp" group-title="Football", Brazil U17 vs Venezuela U17 (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb8.strmd.st/secure/GWNiPlLUvBbMNmaRuqkDbKCqaDxejeRn/echo/stream/brazil-u17-vs-venezuela-u17-football-1628991/1/playlist.m3u8
+https://lb6.strmd.st/secure/VoDwwvFGrgTjEfwTuwnCKANbDRlyxEXf/echo/stream/brazil-u17-vs-venezuela-u17-football-1628991/1/playlist.m3u8
 
