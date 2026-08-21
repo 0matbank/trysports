@@ -1,7 +1,7 @@
 {
   "category_name": "Football Upcoming",
   "total_items": 206,
-  "updated_time_bd": "2026-08-21 | 12:49:29",
+  "updated_time_bd": "2026-08-21 | 13:32:34",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -341,6 +341,14 @@
       "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcQAEzYh45CKo0g+hkCRO4zMEDAIUmfFFzBkd9eaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgYIPiBT9KIbiAAmG4yWOIUuQwQpM+2tmDLwi80dqa0wjsaIhA.webp"
     },
     {
+      "id": "swansea-vs-sheffield-utd-football-1563103",
+      "title": "Swansea vs Sheffield Utd",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "22 Aug 2026, 08:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiH71yDRc3E94IqtwJdWYMLnxmgA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IJnXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    {
       "id": "qpr-vs-bolton-football-1563101",
       "title": "QPR vs Bolton",
       "category": "football",
@@ -355,14 +363,6 @@
       "status": "UPCOMING",
       "start_time_bd": "22 Aug 2026, 08:00 PM (BD Time)",
       "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIFPXIMAxs3E94IqtwJdWYMLnxmgA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEKeuQYBjZuJ7wRVbgS6swYXPlNA.webp"
-    },
-    {
-      "id": "swansea-vs-sheffield-utd-football-1563103",
-      "title": "Swansea vs Sheffield Utd",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Aug 2026, 08:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiH71yDRc3E94IqtwJdWYMLnxmgA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IJnXIMAxs3E94IqtwJdWYMLnxmgA.webp"
     },
     {
       "id": "wrexham-vs-watford-2501272",
@@ -1213,20 +1213,20 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAQAYGYXlJB8Q3fSD0oTIC4j04FTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
     },
     {
-      "id": "ppv-nashville-sc-vs-columbus-crew",
-      "title": "Nashville SC vs. Columbus Crew",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "23 Aug 2026, 06:30 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBQhhIkCFlSZwkFRABjaZNKz42YBBX7x04KvlYjMEAeVTdvchFBhBIpnpTlCwJLjWehF1YnGTJPAmBdMBd9bQggA.webp"
-    },
-    {
       "id": "ppv-austin-fc-vs-philadelphia-union",
       "title": "Austin FC vs. Philadelphia Union",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "23 Aug 2026, 06:30 AM (BD Time)",
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRMJApSIGCADGwCMCogSUkFhAQQkxDCXBE82bMOSTNRDusg7qmiWn8wgkU2z0whYElzzpIVdWZWFSegIjcldDMgggA.webp"
+    },
+    {
+      "id": "ppv-nashville-sc-vs-columbus-crew",
+      "title": "Nashville SC vs. Columbus Crew",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "23 Aug 2026, 06:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBQhhIkCFlSZwkFRABjaZNKz42YBBX7x04KvlYjMEAeVTdvchFBhBIpnpTlCwJLjWehF1YnGTJPAmBdMBd9bQggA.webp"
     },
     {
       "id": "ppv-st-louis-city-sc-vs-houston-dynamo-fc",
@@ -1237,20 +1237,20 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEKRHipWEGRIgU2EDXkh4wGokRYpMTSADGpI3MkRgiFEeW9yFgUJFNs9MIWBJchpULDdOC2FJJQJLcn9gCzIIIA.webp"
     },
     {
-      "id": "ppv-le-n-vs-monterrey",
-      "title": "León vs. Monterrey",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "23 Aug 2026, 07:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEECRDxg0rCAgyRIkDGA1ha4OI3jpVEAZRaQKKRJOkJ2EHNVysR-mEFKC2emELAkuAMZGhZ1YFDTIjN2kwZy1SLSA.webp"
-    },
-    {
       "id": "ppv-puebla-vs-santos",
       "title": "Puebla vs. Santos",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "23 Aug 2026, 07:00 AM (BD Time)",
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkFhCIUIEiBghFMuQGNZUiSCohhIvZOnYpwCCfUhSl1Tq0pypgUL0Fs9MIWBJcKu0LDdOU10yOxd4cn8TSwggA.webp"
+    },
+    {
+      "id": "ppv-le-n-vs-monterrey",
+      "title": "León vs. Monterrey",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "23 Aug 2026, 07:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEECRDxg0rCAgyRIkDGA1ha4OI3jpVEAZRaQKKRJOkJ2EHNVysR-mEFKC2emELAkuAMZGhZ1YFDTIjN2kwZy1SLSA.webp"
     },
     {
       "id": "ppv-brighton-hove-albion-vs-aston-villa",
@@ -1285,20 +1285,20 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDGBUQwkBBBYQk+FJDSUcmeNXSYIDSENzSC8VsPrgiaQGMFKchFBhBIptnphCwJLhsOhF1YnYVJ6AityF2AnMgggA.webp"
     },
     {
-      "id": "ppv-san-diego-fc-vs-colorado-rapids",
-      "title": "San Diego FC vs. Colorado Rapids",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "23 Aug 2026, 08:30 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkDAkgQwRJKogFNEtMXAIIFJpDiVw9cAXSY2A1m0pSs0iHjrL-MIJFNTDwsCS4AxpaFPWCBcySwJrMCcDMgggA.webp"
-    },
-    {
       "id": "ppv-lafc-vs-portland-timbers",
       "title": "LAFC vs. Portland Timbers",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "23 Aug 2026, 08:30 AM (BD Time)",
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkBKogU2EDXjZgNMlIDGIMuPXiIILNJAxDsmbuGypU-QohKZ-MIJFNF9wsCS5VMoY9a3zMhkCYAUwR2BbMgggA.webp"
+    },
+    {
+      "id": "ppv-san-diego-fc-vs-colorado-rapids",
+      "title": "San Diego FC vs. Colorado Rapids",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "23 Aug 2026, 08:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkDAkgQwRJKogFNEtMXAIIFJpDiVw9cAXSY2A1m0pSs0iHjrL-MIJFNTDwsCS4AxpaFPWCBcySwJrMCcDMgggA.webp"
     },
     {
       "id": "ppv-san-jose-earthquakes-vs-minnesota-united-fc",
@@ -1621,22 +1621,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE522EBBCISIGWSogAxuJggQIiSFVZSW2RpQgFZRBFIa18cWtHkzAoSKbZ6YQsCS5FKR2G6czYXMfAmArMD9gMzIIIA.webp"
     },
     {
-      "id": "ppv-aek-athens-vs-levski-sofia",
-      "title": "AEK Athens vs. Levski Sofia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCogQIkDGCJpUrJJDwF2ccAggdM9SukBjVVk2IpRhXO2kQWFOQigwgkU2z0whYElxHHIVdWZ2FSegINMFdbMgggA.webp"
-    },
-    {
-      "id": "ppv-lyon-vs-fenerbahce",
-      "title": "Lyon vs. Fenerbahce",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMakQEaSHEgSCkPGwgsIGCCprg27fMSJNIbLuAzFiRSDm2IwXuXsChIpqZTlCwJLnGehMG5Oe2FSegIHciDzcIggA.webp"
-    },
-    {
       "id": "ppv-viking-fk-vs-dinamo-zagreb",
       "title": "Viking FK vs. Dinamo Zagreb",
       "category": "football",
@@ -1651,6 +1635,22 @@
       "status": "UPCOMING",
       "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiAggYIGhGCJ5wySBSrsIZcokhgUmVU0gsm0iF2ItwQzD3TSKcvIFCRTbPTCFgSXAGNHITBuTiVSegIFcmC9cIggA.webp"
+    },
+    {
+      "id": "ppv-lyon-vs-fenerbahce",
+      "title": "Lyon vs. Fenerbahce",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMakQEaSHEgSCkPGwgsIGCCprg27fMSJNIbLuAzFiRSDm2IwXuXsChIpqZTlCwJLnGehMG5Oe2FSegIHciDzcIggA.webp"
+    },
+    {
+      "id": "ppv-aek-athens-vs-levski-sofia",
+      "title": "AEK Athens vs. Levski Sofia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCogQIkDGCJpUrJJDwF2ccAggdM9SukBjVVk2IpRhXO2kQWFOQigwgkU2z0whYElxHHIVdWZ2FSegINMFdbMgggA.webp"
     }
   ]
 }
