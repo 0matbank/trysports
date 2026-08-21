@@ -1,7 +1,7 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 4
-# UPDATED Time and date BD: 2026-08-22 | 03:50:58
+# TOTAL-ITEMS: 2
+# UPDATED Time and date BD: 2026-08-22 | 04:26:16
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
 #EXTINF:-1 tvg-id="Jaguares vs Chico (HD)" tvg-name="Jaguares vs Chico (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikInj1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIiZ1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title="Football", Jaguares vs Chico (HD)
@@ -9,26 +9,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb8.strmd.st/secure/wAiJLTmpRWwefoAxhcQfxdngjwGOHTyt/echo/stream/jaguares-vs-chico-football-1549740/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Real Betis vs Real Sociedad (HD)" tvg-name="Real Betis vs Real Sociedad (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHHCxgUCYFJDcQfECYggUIGCDNnDCpkgp9hs+jpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", Real Betis vs Real Sociedad (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb3.strmd.st/secure/POQgcQVXaiipSBlFjFjPnXyIfLyFOSbg/delta/stream/live_laliga_real-betis-real-sociedad-live-streaming-607224816/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Arsenal vs Coventry City (HD)" tvg-name="Arsenal vs Coventry City (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFMCTii+ENxB8QRiCBIgTKXEZBSCmin2Gz6KMCo1s35ellkamtGBuYqIQQA.webp" group-title="Football", Arsenal vs Coventry City (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/WllcdFGQRARCSIaxmAGSBvtUisVtrqDb/delta/stream/live_premier-league_arsenal-coventry-live-streaming-607223952/1/playlist.m3u8
+https://lb5.strmd.st/secure/HMwPlSCtqNFokOFVbDfibunshBxQgyCD/echo/stream/jaguares-vs-chico-football-1549740/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Waldhof Mannheim vs Kaiserslautern (HD)" tvg-name="Waldhof Mannheim vs Kaiserslautern (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrV5hZ1EGPwheILCFMnEMQyBR6Qi-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="Football", Waldhof Mannheim vs Kaiserslautern (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb12.strmd.st/secure/CqKRjofZhWeovVwXNYFzjmoEKIRAwjtX/echo/stream/waldhof-mannheim-vs-1-fc-kaiserslautern-football-1550691/1/playlist.m3u8
+https://lb9.strmd.st/secure/qBKGdLKzGvYDOWbNFWPSbEHpPwdkROfm/echo/stream/waldhof-mannheim-vs-1-fc-kaiserslautern-football-1550691/1/playlist.m3u8
 
