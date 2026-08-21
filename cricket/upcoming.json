@@ -1,7 +1,16 @@
 {
   "category_name": "Cricket Upcoming",
-  "total_items": 0,
-  "updated_time_bd": "2026-08-21 | 15:04:20",
+  "total_items": 1,
+  "updated_time_bd": "2026-08-21 | 15:50:45",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "ppv-england-vs-pakistan-1-st-test",
+      "title": "England vs. Pakistan - 1st Test",
+      "category": "cricket",
+      "status": "UPCOMING",
+      "start_time_bd": "21 Aug 2026, 04:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IccOARgVEAGMpIRFhAwlIYSFkLJstZpQgUMkCXkhpZtTU0QjILCazH+YQSKbZ6YQsCS45YyE3VmlJMmMCYHhyNylSKSA.webp"
+    }
+  ]
 }
