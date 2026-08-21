@@ -1,50 +1,7 @@
 {
   "category_name": "Football Live",
-  "total_items": 2,
-  "updated_time_bd": "2026-08-21 | 07:56:11",
+  "total_items": 0,
+  "updated_time_bd": "2026-08-21 | 09:04:37",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "botafogo-vs-cienciano-2553250",
-      "title": "Botafogo vs Cienciano",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "21 Aug 2026, 12:30 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGMzB8wSMLzAhuIPiFNSQEXMdMhEKAsF0a+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Botafogo vs Cienciano (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGMzB8wSMLzAhuIPiFNSQEXMdMhEKAsF0a+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/RhlLLneYzTngajEtRfbxdGKSjckEcKEQ/echo/stream/botafogo-vs-cienciano-football-1607201/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "corinthians-vs-rosario-central-2478539",
-      "title": "Corinthians vs Rosario Central",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "21 Aug 2026, 12:30 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMAmBIwUkOCQhuIPnpARjuECgu6YBLRT7DZ9FGBUou78vSyzPTLQaovQhQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Corinthians vs Rosario Central (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMAmBIwUkOCQhuIPnpARjuECgu6YBLRT7DZ9FGBUou78vSyzPTLQaovQhQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/RfNPCpmZKXhOhdVPRUXsRjyWTjjJLBKl/echo/stream/corinthians-vs-rosario-central-football-1547767/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
