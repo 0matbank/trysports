@@ -1,9 +1,30 @@
 {
   "category_name": "Football Live",
-  "total_items": 9,
-  "updated_time_bd": "2026-08-21 | 22:36:49",
+  "total_items": 10,
+  "updated_time_bd": "2026-08-21 | 23:06:33",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "benfica-b-vs-portimonense-2512945",
+      "title": "Benfica B vs Portimonense",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "21 Aug 2026, 05:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOHCRhuYURBDcQfECalHcIGAZCISBYFpj9hs+il1sUXXeXpZZXky0YB70ekA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Benfica B vs Portimonense (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOHCRhuYURBDcQfECalHcIGAZCISBYFpj9hs+il1sUXXeXpZZXky0YB70ekA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/eAYabMUTHNXYkbrLPYbDgVZDPtesklUY/echo/stream/benfica-b-vs-portimonense-football-1576458/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "union-berlin-women-vs-bayern-munich-women-2539426",
       "title": "Union Berlin Women vs Bayern Munich Women",
@@ -21,7 +42,7 @@
           "channel_name": "Union Berlin Women vs Bayern Munich Women (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTVwMZmCQhuIPiBK4DOkChCIzywhqZ8UXMGXhF5o+01phHY0RCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQg+YEmrC8UIbiAAmIRDBCmc+00b4EKTG1w3l680SmBNaYDWNEQgA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/bEDIATiaSoAxEMvqEHysZOjIaFfgwInH/echo/stream/union-berlin-w-vs-bayern-munich-w-football-1593107/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/NolKDXLAoeDOpHdpbWupQCSTbaLRpyQp/echo/stream/union-berlin-w-vs-bayern-munich-w-football-1593107/1/playlist.m3u8"
         }
       ]
     },
@@ -42,7 +63,7 @@
           "channel_name": "Al-Hazm vs Al Diriyah (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCAghs9cgwDGzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfiADGIRCHrkGq5uJ7wRVbgS6swYXPmtA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/zntYlFCuWXJIOWsTStSaCWeNKGiInTmZ/echo/stream/al-hazm-vs-al-diriyah-football-1602983/1/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/hWPQHJqseskFNXeUDYMqnCTYmOElGfQv/echo/stream/al-hazm-vs-al-diriyah-football-1602983/1/playlist.m3u8"
         }
       ]
     },
@@ -63,25 +84,25 @@
           "channel_name": "Fox Soccer Plus (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCG4gUIGHTA6tfECRBmcOnInMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/dIeOiUyBQksYRrWjObcjbxEZvKWgFiDD/rtmp/stream/HBMjj_KV42jbhY-slW4wug_vjTrtdCw0iIReiUorXZuPKIupKMxcG7GZ87YGGgYDzQZCW-sSemSt/1/playlist.m3u8"
+          "direct_stream_url": "https://lb11.strmd.st/secure/hdvRvFsbQUbZOHFGmgnyTixkbsHxMrVS/rtmp/stream/XoDtmT7AKb_kMAZptr1evDUZlSHTiP3xqpi0PJgQeUUv7Jp9zS34SBbWH2-MabEjS_zMfxYgrX6T/1/playlist.m3u8"
         },
         {
           "channel_name": "Fox Soccer Plus (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCG4gUIGHTA6tfECRBmcOnInMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb7.strmd.st/secure/ImkbtVeCTqMXQzJZOviGGCfclkAPYXbE/rtmp/stream/6UMzybM1wQGx6PxWHF_jKXFmviewszEHrtWfp8fn3Nruec-9xoDLoFc7ktr1GMvsYiKOvKVqBRA7qdQs0Q/1/playlist.m3u8"
+          "direct_stream_url": "https://lb14.strmd.st/secure/ehIczNxJBwnFVlleHFrgQrxvTeDmALkW/rtmp/stream/b4qaq4FxyIIaRFfc9dnc1sWTXs-HABvl-kXkxOY5P35uGCytI9SalavpZN63QcPKZ5_YpS27UmDbRblJhA/1/playlist.m3u8"
         },
         {
           "channel_name": "Al-Riyadh vs Al-Nassr (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCG4gUIGHTA6tfECRBmcOnInMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/oDLnePAAqVmLjgNaAHlwuTAEWWQtepEF/delta/stream/live_saudi-pro-league_al-riyadh-al-nassr-live-streaming-607252464/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/yDvCyaIlNHtHQHaCHtmVNRFoRowmNNAI/delta/stream/live_saudi-pro-league_al-riyadh-al-nassr-live-streaming-607252464/1/playlist.m3u8"
         },
         {
           "channel_name": "Al-Riyadh vs Al-Nassr (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCG4gUIGHTA6tfECRBmcOnInMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/rpbEuXKXrrzNPusQUHsfCFMZBVRQuviF/echo/stream/al-riyadh-vs-al-nassr-football-1602982/1/playlist.m3u8"
+          "direct_stream_url": "https://lb8.strmd.st/secure/mosKOcKorSWDXJEPUmIDbgdAhxBaEfOe/echo/stream/al-riyadh-vs-al-nassr-football-1602982/1/playlist.m3u8"
         }
       ]
     },
@@ -102,7 +123,7 @@
           "channel_name": "St. Tönis vs Eintracht Frankfurt (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdv0RxpIeqF4gsIY0a0gDKECRAoWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/cxKVGGWEaIzTRDeyfgNBeZWplntzgOqF/echo/stream/sc-st-tonis-vs-eintracht-frankfurt-football-1550698/1/playlist.m3u8"
+          "direct_stream_url": "https://lb8.strmd.st/secure/SShPkTZlnJmwnwuPheAsJoVjbhRjzApr/echo/stream/sc-st-tonis-vs-eintracht-frankfurt-football-1550698/1/playlist.m3u8"
         }
       ]
     },
@@ -123,7 +144,7 @@
           "channel_name": "Waldhof Mannheim vs Kaiserslautern (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrV5hZ1EGPwheILCFMnEMQyBR6Qi-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/EYBfRVAogOAyMdKrMPeEkxlFFPjSojmx/echo/stream/waldhof-mannheim-vs-1-fc-kaiserslautern-football-1550691/1/playlist.m3u8"
+          "direct_stream_url": "https://lb12.strmd.st/secure/jOIxwMBSSYiiRoCeZUOSVOsOAtIgQSts/echo/stream/waldhof-mannheim-vs-1-fc-kaiserslautern-football-1550691/1/playlist.m3u8"
         }
       ]
     },
@@ -144,7 +165,7 @@
           "channel_name": "Preußen Münster vs Karlsruhe (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrMTwwIYAAYwvEEawgzpxDGMgUICHZZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/jfIqYvBdcGlgdwVjcSfZtuvwNiYPqWvz/echo/stream/preussen-munster-vs-karlsruher-sc-football-1550694/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/xjoflewTpevqpksFBsrHgKFtNnBTUXla/echo/stream/preussen-munster-vs-karlsruher-sc-football-1550694/1/playlist.m3u8"
         }
       ]
     }
