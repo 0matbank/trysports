@@ -1,16 +1,16 @@
 {
   "category_name": "Football Live",
   "total_items": 2,
-  "updated_time_bd": "2026-08-22 | 04:53:02",
+  "updated_time_bd": "2026-08-22 | 05:25:51",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "jaguares-vs-chico-football-1549740",
-      "title": "Jaguares vs Chico",
+      "id": "estudiantes-de-r-o-cuarto-vs-san-lorenzo-2398030",
+      "title": "Estudiantes de Río Cuarto vs San Lorenzo",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "21 Aug 2026, 09:05 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikInj1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIiZ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+      "start_time_bd": "21 Aug 2026, 11:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reoVpg5oENxB8QUkCiMHziEiBgFgSCn2Gz6KMCpRc35ellkemWm5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -18,10 +18,10 @@
       },
       "streams": [
         {
-          "channel_name": "Jaguares vs Chico (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikInj1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIiZ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+          "channel_name": "Estudiantes de Río Cuarto vs San Lorenzo (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reoVpg5oENxB8QUkCiMHziEiBgFgSCn2Gz6KMCpRc35ellkemWm5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/LPinYoCiIQZossnhNfYDfcCOQxIgUqSg/echo/stream/jaguares-vs-chico-football-1549740/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/MgiZLCBUCUtlcARKRFlDXxiXBkpUwsDu/echo/stream/estudiantes-de-rio-cuarto-vs-san-lorenzo-football-1493081/1/playlist.m3u8"
         }
       ]
     },
@@ -42,7 +42,7 @@
           "channel_name": "Waldhof Mannheim vs Kaiserslautern (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrV5hZ1EGPwheILCFMnEMQyBR6Qi-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/fyVihokErhRLwucfTaiREpWRmFJNYFfO/echo/stream/waldhof-mannheim-vs-1-fc-kaiserslautern-football-1550691/1/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/DLxNnCNJWzeONeFYgylSjZrUqitlKRAu/echo/stream/waldhof-mannheim-vs-1-fc-kaiserslautern-football-1550691/1/playlist.m3u8"
         }
       ]
     }
