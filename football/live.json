@@ -1,16 +1,16 @@
 {
   "category_name": "Football Live",
-  "total_items": 101,
-  "updated_time_bd": "2026-08-22 | 22:09:48",
+  "total_items": 118,
+  "updated_time_bd": "2026-08-22 | 22:47:22",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "piast-gliwice-vs-legia-warsaw-2490229",
-      "title": "Piast Gliwice vs Legia Warsaw",
+      "id": "brentford-vs-tottenham-hotspur-2494005",
+      "title": "Brentford vs Tottenham Hotspur",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 03:30 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGLjnAk2sNxD6pIEsZB9TIEEZMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "start_time_bd": "22 Aug 2026, 04:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -18,986 +18,140 @@
       },
       "streams": [
         {
-          "channel_name": "Piast Gliwice vs Legia Warsaw (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGLjnAk2sNxD6pIEsZB9TIEEZMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "channel_name": "Sky Sports Premier League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/zQgzhwsHXPRISFqHJzHvzCNMASXozrjb/echo/stream/piast-gliwice-vs-legia-warszawa-football-1553141/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "lens-vs-auxerre-2489469",
-      "title": "Lens vs Auxerre",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 03:15 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWFEpgU3AhDcQfECRAQQFmBbMgUBgsCQU+w2fRSa22tpvL0sstpMtGCe9KIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN SPORTS USA (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWFEpgU3AhDcQfECRAQQFmBbMgUBgsCQU+w2fRSa22tpvL0sstpMtGCe9KIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/JNvmDfqRJRToAZBwpDjSEfIllKyFFxms/rtmp/stream/t9IMdQ7UWs-yGCZQVzfu1UILQ8C8b747j9B2Ze-qLzZHszGFVTLqFGRR1PLIQkAZoyQ46QiLYn8/1/playlist.m3u8"
+          "direct_stream_url": "https://lb4.strmd.st/secure/eBgowcnGesrdalKrONzLbiLSnGASyeiK/rtmp/stream/OyAJ4KvDKrUjmvr1_cUooLWoOwawNPZEI6XuVpuS7bLQwjyzqyjWTSF4gLCmZ4BLfQtHFwNF0PM/1/playlist.m3u8"
         },
         {
-          "channel_name": "beIN SPORTS USA (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWFEpgU3AhDcQfECRAQQFmBbMgUBgsCQU+w2fRSa22tpvL0sstpMtGCe9KIQQA.webp",
+          "channel_name": "Sky Sports Premier League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/ekToBZPhCSYSxoISnvxmomuIuxdWyelG/rtmp/stream/WIinUxXw-WfY1BK36HjXocEqbtAEoGlDuuCU7MKBMV94IrmKp2uqdSTO27BN0OcoPwbmW26mrTPgi_Vd/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "French - Ligue 1+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWFEpgU3AhDcQfECRAQQFmBbMgUBgsCQU+w2fRSa22tpvL0sstpMtGCe9KIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/fRaFLmDwpPGQPMJboxeMLgnyvPXmecaj/rtmp/stream/GUUDUlNLiz1MeYpFFszkn3S3JAlbYPsdr53jdUVvkFuZBE-QEOOkrJTio5fs5kOG92OxPMMrCZM0/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "French - Ligue 1+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWFEpgU3AhDcQfECRAQQFmBbMgUBgsCQU+w2fRSa22tpvL0sstpMtGCe9KIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/lIxCfuMOKBSBiEluGcOqbelPHrRPNzlN/rtmp/stream/EPRYLlzPz9ZddIrWN3BQCY4CYihbF7je8SH0doQTCJDsYzleH_3PWYUJEAjHPz8UPsk6rLlUwsLhGYanqw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Lens vs Auxerre (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWFEpgU3AhDcQfECRAQQFmBbMgUBgsCQU+w2fRSa22tpvL0sstpMtGCe9KIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/emIOsLAYzLgPfJEbhtqnNcQWavDhvfNO/echo/stream/lens-vs-auxerre-football-1552732/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "oviedo-vs-leganes-football-1569891",
-      "title": "Oviedo vs Leganes",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 03:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIgQ9cg0XNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRAGN65Bmqzie8EVW4EurMGFz5zQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Oviedo vs Leganes (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIgQ9cg0XNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRAGN65Bmqzie8EVW4EurMGFz5zQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/ZurpJgvDofVzgJcVcjTYtMpJWTZjkFCQ/echo/stream/oviedo-vs-leganes-football-1569891/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "artis-brno-vs-sparta-prague-2519350",
-      "title": "Artis Brno vs Sparta Prague",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 03:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRClLAaiKiBIg5k+CJBZS8teJAoQIbDpDDgEIwePHEw+dJABjE5P5hBIptnphCwJLjuShF1YINzJJAmAVMBcTKQggA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Oneplay Sport MD1 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRClLAaiKiBIg5k+CJBZS8teJAoQIbDpDDgEIwePHEw+dJABjE5P5hBIptnphCwJLjuShF1YINzJJAmAVMBcTKQggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/JDmERHqOLXzYOLXpQnEXVtNKOXRITrxm/rtmp/stream/kvW8VEsw74gaZLsWDSMsHRhKtRIH-YExvcgVVAmG6ZVYvq3rB-qELSKWgO0DiOCNKjohbK8BnW08/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Oneplay Sport MD1 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRClLAaiKiBIg5k+CJBZS8teJAoQIbDpDDgEIwePHEw+dJABjE5P5hBIptnphCwJLjuShF1YINzJJAmAVMBcTKQggA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb10.strmd.st/secure/lcTukjGTkxCCEZFIYkKHZMhJsbcHkJLN/rtmp/stream/CQmbUKuYSz4JqZHxi5j9ul2Rqk4s84nOYUK5O1zy_vtMZOd8WSGo84DlYwfdKxARrc4u4b4LAynMuAexhQ/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "athletic-bilbao-vs-sevilla-2506180",
-      "title": "Athletic Bilbao vs Sevilla",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 03:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDFIgS2yiG4g+IYxBAoQMEKdMGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDFIgS2yiG4g+IYxBAoQMEKdMGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/xWsNxZXmtLPFlPtNrorRbbPmdWzLpokU/rtmp/stream/e49igQfphTuXCOEC_emHjB6UTPGKp4a8KvQ1TM-NBwARQ9Q4UCp7V4N4FicVw4oabEdcCSyFb9Y/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDFIgS2yiG4g+IYxBAoQMEKdMGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb13.strmd.st/secure/cyXOjkrqMyAixuQWHGYZoasQeERvIjeS/rtmp/stream/SiWyramQGGqHmuYgB-COVDuHR87pK37IjMMfEOsl34eULPZHriyfo_QMyHo5_4ZFhPG_kB6w5Mk_N3x1/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Athletic Bilbao vs Sevilla (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDFIgS2yiG4g+IYxBAoQMEKdMGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/VEqDHOgEjBgLVWsdnaSycpegYzqOKntz/delta/stream/live_laliga_athletic-club-sevilla-live-streaming-607973040/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Athletic Bilbao vs Sevilla (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDFIgS2yiG4g+IYxBAoQMEKdMGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/MRZAdVVDOZHwpRJEbDuPAwVLxvbLEtAW/delta/stream/live_laliga_athletic-club-sevilla-live-streaming-607973040/2/playlist.m3u8"
-        },
-        {
-          "channel_name": "Athletic Bilbao vs Sevilla (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDFIgS2yiG4g+IYxBAoQMEKdMGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/mzKvStuqInQQUzBslgFItFZrehdfnsxs/echo/stream/athletic-club-vs-sevilla-football-1570343/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "maritimo-vs-academico-viseu-football-1575468",
-      "title": "Maritimo vs Academico Viseu",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:30 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIIiAj1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRCHrkGAY2bie8EVW4EurMGFz5zQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Maritimo vs Academico Viseu (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIIiAj1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRCHrkGAY2bie8EVW4EurMGFz5zQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/lgHMZYtRosZLWaBxRqdEbxiHzmKnmcVw/echo/stream/maritimo-vs-academico-viseu-football-1575468/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "q-b-l--vs---fa-2546627",
-      "title": "Qəbələ vs Şəfa",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:30 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOAJTNgYENz0g+IEiFM4UB0-vgFgSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Qəbələ vs Şəfa (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOAJTNgYENz0g+IEiFM4UB0-vgFgSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/TCskJyyWvqzsRkicVHyuSruoLqSpHWVl/echo/stream/al-fateh-vs-al-ettifaq-football-1602986/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "fortuna-sittard-vs-az-alkmaar-2489084",
-      "title": "Fortuna Sittard vs AZ Alkmaar",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:30 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXNh4MEpENxB8QRnDhggU5kFJAwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Fortuna Sittard vs AZ Alkmaar (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXNh4MEpENxB8QRnDhggU5kFJAwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/ftEBkuzfDqeODcklrLGZzljQrtdTDFWc/echo/stream/fortuna-sittard-vs-az-alkmaar-football-1552135/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "hibernian-vs-kilmarnock-football-1556642",
-      "title": "Hibernian vs Kilmarnock",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqICCBT1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCBj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Hibernian vs Kilmarnock (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqICCBT1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCBj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/cOfFMIqLpIPZjZyBxTpmOeMyjznhjYKG/echo/stream/hibernian-vs-kilmarnock-football-1556642/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "falkirk-vs-heart-of-midlothian-football-1556641",
-      "title": "Falkirk vs Heart Of Midlothian",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRCBAp65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCAj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Falkirk vs Heart Of Midlothian (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRCBAp65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCAj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/oIpAEuCvlJAgooRZMLGeSZAhnsTmxDxi/echo/stream/falkirk-vs-heart-of-midlothian-football-1556641/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "motherwell-vs-aberdeen-football-1556643",
-      "title": "Motherwell vs Aberdeen",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCH71yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbIvrkGAY2bie8EVW4EurMGFz5zQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Motherwell vs Aberdeen (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCH71yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbIvrkGAY2bie8EVW4EurMGFz5zQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/KnGHNbXnPAViajErIuYzViNQOoiRmFEK/echo/stream/motherwell-vs-aberdeen-football-1556643/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "preston-vs-wolves-football-1563100",
-      "title": "Preston vs Wolves",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIFPXIMAxs3E94IqtwJdWYMLnxmgA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEKeuQYBjZuJ7wRVbgS6swYXPlNA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Preston vs Wolves (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIFPXIMAxs3E94IqtwJdWYMLnxmgA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEKeuQYBjZuJ7wRVbgS6swYXPlNA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/GZdaJysaOmSaGVrXizUaPUcFdGCYQgRl/echo/stream/preston-vs-wolves-football-1563100/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "ppv-goal-rush",
-      "title": "Goal Rush",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Peacock (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/RDlMLyGEhcAGGoIaFAbPABsMzNYaqDuf/rtmp/stream/t-LHmD-1iPJp4vy-rbSWnLyLcWPKKeBh61tKCs0lIhC3VQ_eVaH-drwL-8pxSvox6hwRFy228baf2smvWg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Peacock (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/TcDPuOniPPzfLVlTtNeHLylukwJAxgtK/rtmp/stream/Dobfc-4Fh8NrVb9xrjoNaTnY66b4Vs29J2E-2U5gVmLI1S3Dn4DkbtEXTasYBQTA2niYImO-2p95HnOY_aIoQnA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb15.strmd.st/secure/BQTkdIqGsumLlIUkpzoThZkIDxRcuzuc/rtmp/stream/RHg-XaZB15hrSJ1Ki7gdz7q4avwMBmWLl7p3zTo-kLtKRbJS0Qie0SPacSIcxGFBcLk3xH8c2y1yc-Bc/1/playlist.m3u8"
         },
         {
           "channel_name": "Sky Sport 8 NZ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/TJaGpZeQoGxdiqJeXaTfQDDXgjOhYlsa/rtmp/stream/oInzmV6ZnrYtanBbEhEN7dcKGhGVpBozU-gO1Y3ckCdM6tQM4eRB-mfcehIaQcCa74FhLcyrTH8/1/playlist.m3u8"
+          "direct_stream_url": "https://lb14.strmd.st/secure/KQyCcyOYcoTNbUXvSPBtlbMklDXzuBIC/rtmp/stream/WE2ea8nIMQr4ZLeIjOII4T-hd1dsRGQcQLDFTinp7Gk5Ku8nlXMyNCG-dE1k44_vvCOrjEYv70Yf/1/playlist.m3u8"
         },
         {
           "channel_name": "Sky Sport 8 NZ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb1.strmd.st/secure/gVdrAtVaJHUaCBpduIeXuhhgKhsdgqlB/rtmp/stream/ijtgU3k2mZI05Q5oqmIR-3HAL_HLymj2zcUYNOaqrzn7JNcxxyooTdvlmOAgK8on3G25FoFwsSf2RjNm/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "wrexham-vs-watford-2501272",
-      "title": "Wrexham vs Watford",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGLmBSwA2khDcQfECZwQQUoyBQgNCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGLmBSwA2khDcQfECZwQQUoyBQgNCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/HOGTuwhmgoudioAoUGunZxpQaZfAXkqX/rtmp/stream/GxQ0YjbSwLLleLNcj6aAUrCgIE1HFoiI6mhU8MJQ5898H-iPr0db4xra0PT8n0Lx1wmiGsMdr4q3/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/VAUSSnoTTAtnNZPrJLwWMRCNbBmdLnAg/rtmp/stream/cEavDvPXmoFwZI9UiOkaNYVsgcHHKxlcP70fc5UObYenO_SXuIPGAP0-F1BmlL8f28uSX4DJ6d67qupC1A/1/playlist.m3u8"
         },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGLmBSwA2khDcQfECZwQQUoyBQgNCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb15.strmd.st/secure/YqsGhIkgOzCDoFfAaiYMqjgjtpLyOrIh/rtmp/stream/8MAoyNWJWl9UB0TIJQ63BDWzLPE_CeWLasFwr_DPC18FXrWV_URtfFvC2c6A-FpgcyHHJclU2G12I9eo2A/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Wrexham vs Watford (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGLmBSwA2khDcQfECZwQQUoyBQgNCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/iqvCwGFORgsNcuvrwkdmIerTIWdNKgIA/echo/stream/wrexham-vs-watford-football-1563106/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Wrexham vs Watford (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGLmBSwA2khDcQfECZwQQUoyBQgNCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://cdn15.zohanayaan.com:1686/hls/nwrexham.m3u8?md5=szHwtJheos-9qjNGnisLGQ&expires=1787421832"
-        }
-      ]
-    },
-    {
-      "id": "derby-county-vs-cardiff-city-2501268",
-      "title": "Derby County vs Cardiff City",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rULXBIwKBCG4g+IYzgggphkChAwbBYNpj9hs+rpUouYMvCJZZnky0YN5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Derby County vs Cardiff City (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rULXBIwKBCG4g+IYzgggphkChAwbBYNpj9hs+rpUouYMvCJZZnky0YN5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/eLHwJHdyjtUxkhKQAQvCQmBoLETAXHkF/echo/stream/derby-vs-cardiff-football-1563097/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "blackburn-rovers-vs-middlesbrough-2501267",
-      "title": "Blackburn Rovers vs Middlesbrough",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUTJIhaoECG4g+e3CAggph4yhAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUTJIhaoECG4g+e3CAggph4yhAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/jSlctFoNkXIGkPEtoKTmHEMEAEyteibu/rtmp/stream/3MqkZJyJmcwNLKHs-ZAbAqGlq6Rvc393a08KTlN2VWG2CbHBHgq_sAz22ljHRNIz6JOtCkuU3BvL/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUTJIhaoECG4g+e3CAggph4yhAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/iVZnqxXWVAzTZgojJOpMQjyOFOCVJqJe/rtmp/stream/rd_uGLQioCsBhcVMItrJi5ANimypLwQmJBC4hiWqD7gsLGoyjP9ufzCeaqfeovw5-Y8qcceh7SViroGJFg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Blackburn Rovers vs Middlesbrough (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUTJIhaoECG4g+e3CAggph4yhAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://cdn12.zohanayaan.com:1686/hls/nblackburnrovers.m3u8?md5=02lSkqOdERFSYNXNnncKZw&expires=1787421853"
-        }
-      ]
-    },
-    {
-      "id": "preston-north-end-vs-wolverhampton-wanderers-2501265",
-      "title": "Preston North End vs Wolverhampton Wanderers",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJdCxgpuENxB8QRnBBA7DRlGYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJdCxgpuENxB8QRnBBA7DRlGYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/JrvUeKuyPrNcyUSJgAGSPIlLGXbrVGNO/rtmp/stream/KmyQQB3_y9voCT1vCFnjGwr0hfAGFcWxCuwHnuhkCVCi8ebSHIdWgrLj8qtN4-OzYtfm5v90bvb-/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJdCxgpuENxB8QRnBBA7DRlGYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb5.strmd.st/secure/fnynauCTtVyUxvRAywyApYKMBHiJDwvP/rtmp/stream/qkRKxcton76_V_yYKG6xNOfDqxVBH4Aq6YX1Iwjybo6VTmV2W4XXFFjFGrHpiG3IIOar20GdRizBIfN5Tw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Preston North End vs Wolverhampton Wanderers (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJdCxgpuENxB8QRnBBA7DRlGYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/MjxMCSMzovpOcClJYwsOtTclRzQVhiqw/delta/stream/live_championship_preston-wolves-live-streaming-607997232/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Preston North End vs Wolverhampton Wanderers (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJdCxgpuENxB8QRnBBA7DRlGYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://cdn14.zohanayaan.com:1686/hls/nprestonnorthend.m3u8?md5=sI9yKe-n7YBOKE-j_ilD2Q&expires=1787421875"
-        }
-      ]
-    },
-    {
-      "id": "west-ham-united-vs-charlton-athletic-2501262",
-      "title": "West Ham United vs Charlton Athletic",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSDjgNWYGBDcQfECZwQQG4yZQh4BYEgp9hs+ijAqUXD+Xq7RXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSDjgNWYGBDcQfECZwQQG4yZQh4BYEgp9hs+ijAqUXD+Xq7RXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/ZtJOGOVUWjPdVHxnsBteirHjopXQzHLs/rtmp/stream/iVXeyeGyOXpGK2GGU0ezXRXvlrcpS51R_k-YK0CSynma5oUkcrRFqmzQmOA5rRSPTrG2-HaVR9rI/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSDjgNWYGBDcQfECZwQQG4yZQh4BYEgp9hs+ijAqUXD+Xq7RXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb2.strmd.st/secure/ATNlCjUpsxIDqPfSLqrRsMTmUQJhvFXy/rtmp/stream/pH5yeT1dDCJMurWks6epR8OgQ2J5qUKcEYI1S2Mtj0SCBA1QPRdlFA8D9cYbAojPDwo_M6Y868gJo_qB-g/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "West Ham United vs Charlton Athletic (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSDjgNWYGBDcQfECZwQQG4yZQh4BYEgp9hs+ijAqUXD+Xq7RXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/SsMuocpyYssqYznGPOafGVfnEcccZPyk/echo/stream/west-ham-vs-charlton-game-1525262/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "West Ham United vs Charlton Athletic (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSDjgNWYGBDcQfECZwQQG4yZQh4BYEgp9hs+ijAqUXD+Xq7RXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://cdn15.zohanayaan.com:1686/hls/nwesthamunited.m3u8?md5=g2DQZcDOvgSBFK1TsN316Q&expires=1787421896"
-        }
-      ]
-    },
-    {
-      "id": "stevenage-vs-oxford-united-2500718",
-      "title": "Stevenage vs Oxford United",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGfDC9gRECG4g+e3CAggpIEueMKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Stevenage vs Oxford United (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGfDC9gRECG4g+e3CAggpIEueMKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/zOAlDSfEhENlZHZfctrvRfJclPsKDWZD/echo/stream/stevenage-vs-oxford-united-football-1564255/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "wycombe-wanderers-vs-plymouth-argyle-2500716",
-      "title": "Wycombe Wanderers vs Plymouth Argyle",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMKDAow4CCD4hu+kCZx6pIEiAumCwJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Wycombe Wanderers vs Plymouth Argyle (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMKDAow4CCD4hu+kCZx6pIEiAumCwJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/foDpirkFheYGSQsTdZkTHzZRpuwwjqeN/echo/stream/wycombe-vs-plymouth-football-1564258/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "crewe-alexandra-vs-northampton-town-2500166",
-      "title": "Crewe Alexandra vs Northampton Town",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCBB0QfMEj0huOzbhAQQUkIhTGUBYPpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Crewe Alexandra vs Northampton Town (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCBB0QfMEj0huOzbhAQQUkIhTGUBYPpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/MKgIPzkIGyYfPpnrBTygMvIiDMqHjndB/echo/stream/crewe-vs-northampton-football-1563697/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "shrewsbury-town-vs-barnet-2500163",
-      "title": "Shrewsbury Town vs Barnet",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjlhuCLlJDcQfECZwQQ+xCiNGCwJBT7DZ9FGBWa278vSyzNTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Shrewsbury Town vs Barnet (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjlhuCLlJDcQfECZwQQ+xCiNGCwJBT7DZ9FGBWa278vSyzNTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/pXpSwIEgcDvbONblxnclvbEBxKFtCMSW/echo/stream/shrewsbury-vs-barnet-football-1563704/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "port-vale-vs-tranmere-rovers-2500162",
-      "title": "Port Vale vs Tranmere Rovers",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEBpC8mYNlpB9NOCCCkhEKA6YLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Port Vale vs Tranmere Rovers (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEBpC8mYNlpB9NOCCCkhEKA6YLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/QeHfiiKJKJlmFSLLgtqvZIaiiuHJrDGS/echo/stream/port-vale-vs-tranmere-football-1563700/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "rotherham-united-vs-york-city-2500157",
-      "title": "Rotherham United vs York City",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFuT4hwUkNxBbtOCCF2IUB3AWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Rotherham United vs York City (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFuT4hwUkNxBbtOCCF2IUB3AWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/lQHBLswRbBPWwUuqNTeijnQnvcJUKevZ/echo/stream/rotherham-vs-york-football-1563702/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "st-johnstone-vs-celtic-2494425",
-      "title": "St Johnstone vs Celtic",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRD8kYFE2DStILCFMnEKEIkS9jLHTAEi5jFGFV6O78o2py9+KzAYO7iYhBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "St Johnstone vs Celtic (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRD8kYFE2DStILCFMnEKEIkS9jLHTAEi5jFGFV6O78o2py9+KzAYO7iYhBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/eUoIhISmMPfgnlvKtgOEmfcAMoMmcXHw/echo/stream/st-johnstone-vs-celtic-football-1556645/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "rangers-vs-st-mirren-2494424",
-      "title": "Rangers vs St Mirren",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMgLQhtZRNxB9tuEPpQhEObSgLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Rangers vs St Mirren (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMgLQhtZRNxB9tuEPpQhEObSgLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/mGfcgtDniuQRRYRBYdOPcgKVXlNkSSVI/echo/stream/rangers-vs-st-mirren-football-1556644/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "nottingham-forest-vs-leeds-united-2494004",
-      "title": "Nottingham Forest vs Leeds United",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
         {
           "channel_name": "Peacock (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/kBZynWZvJMawDpJNkvEcImKRlYNYYKke/rtmp/stream/9nLH6CgIwmtnu03-QIB2UtTbuvpnjx5141l1FDkDHmuNTwCXerv-Peddnk1DQof73m1h8ErDBuA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb9.strmd.st/secure/qQgHFhaiustzAmdZWtoEOXfHWJbtbJqx/rtmp/stream/Qth6vl8lrl_4nDf4rqOpAQpTh9Okcw4N7h11cdxLTYK5C7bRk-7MpglUoPJAsPuKr-_3LjwrszhZ/1/playlist.m3u8"
         },
         {
           "channel_name": "Peacock (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/bpjcummZxLLKpyEVbocVQxWVLecjrSMW/rtmp/stream/VNm2nkXfCAqnLfBB0b_aQ9V28k8yCegI-6JSTrJ-TZ54oIaOZV4VEwR65YNurIPYxqjZhy7IKX7IbMNl/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sport 9 NZ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/DXNIdSysdQsOHGwRDkylCGpayAysQLGw/rtmp/stream/kRXfR7AEMt5ppfcBkGq5-Vwll2EoOaJ-qd4GP6U9jR9CgftJBJwpyHTr5Mulq2-1B8TS6ug0wc69/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sport 9 NZ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb1.strmd.st/secure/SoNZpsbfdoMmdqEzAlzlhOxTcZEEpIBb/rtmp/stream/PqE5QwRwewJ2r8oLrUwXOjm23a8qNCEruArBlDhx-SPWeUEkT-1twDDqrkME0E8OPz_OEnURq9FRrGZ60Q/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/MPTsEiHAQfdbqhmuVIGkbYNjMrwwfCST/rtmp/stream/mrvi5yvHATVVoItjNHht_1OPyybV3alUhIwGcqmSYU2nGnM4okAfZZxRKpyWSy2JqGOLzFVILFaMGaZPjA/1/playlist.m3u8"
         },
         {
           "channel_name": "Spanish - DAZN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/QdjNvgvjvTyTNbNSnEBzFnAWVnTUmgyc/rtmp/stream/OMVPw85FDYPQ_G3xYS6yADAx7slFjwsH3tx7xHIEKPVTpuiQszBXQc7r17-jPPcKIF5SX1192mvk/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/PhKCPAKeRgypDXosViYDlfvGmmzbulZe/rtmp/stream/WUQSuguO7nLUDEwmKpTa3B7hNIfygFeGBYiCi92duStsun1hDGtI98a_w96x_yPGGp93Cw4yCTex/1/playlist.m3u8"
         },
         {
           "channel_name": "Spanish - DAZN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb7.strmd.st/secure/OzwBpTkEHiBCdfAhWKjbxlPSrRPoXWJR/rtmp/stream/fQSGFUQlZLsKD_vNMyukUPtVyTG8aXYlatv7jUbi36ffhpqjcD1YCA5mBY9TkzelVBeS-dpaTLDILqAscw/1/playlist.m3u8"
+          "direct_stream_url": "https://lb11.strmd.st/secure/MweHJIRphOrcTwBTmeCUoPMfSqkRdnbF/rtmp/stream/GbvYKZlvlsi3ksWbHycwByWGh0kqM4q_6bAkP3errKkjhAoEC26MJ6X5--ysCaFgyt-dUHTl_o4d48C1DQ/1/playlist.m3u8"
         },
         {
-          "channel_name": "Norwegian - V Sport Premier League (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "channel_name": "German - Sky Sport Premier League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/oWaERPGlDmNavhqWZILcmOHUoWOChqXt/rtmp/stream/iHpH6hB4jwGGiEdjS_DiSzQaKWRvjCt8ZNSZMckPyXs6yFz21QZqTH3jaabLlZRbqceDiXGfgosx/1/playlist.m3u8"
+          "direct_stream_url": "https://lb11.strmd.st/secure/UAxUGQRJOMVdXAarMeHMdZUECLEUcuTo/rtmp/stream/LkHy91sxvobNMLO4G9ubXmCs6zOVvBeVp-JHwTtqvXSZXy7AVNF5ElT6Fu9iBQjD4poq-ZpDX3_g/1/playlist.m3u8"
         },
         {
-          "channel_name": "Norwegian - V Sport Premier League (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "channel_name": "German - Sky Sport Premier League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb3.strmd.st/secure/nNinUkxhyYPwWXAEHbvKOjtwBbakjsFf/rtmp/stream/KEhaZnIqQs6z2-7wRd_bdBldkZ9XDyckcB9d3KxqPijec0wFxCpjx_lIGqQGXEDBrasKuVre-GHCNBgt2Q/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Finnish - Viaplay 3 Urheilu (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/YsgDnFioxILhhzbDunLMKEvNdrQJmLKe/rtmp/stream/G3i_Yq5ZkQEGITn5Jh5Q9LeEOc_MAoWUncWw0XMHCSl6pAQSVHhV6moxFNwWiGjlf6YF3InV_HLH/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Finnish - Viaplay 3 Urheilu (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb10.strmd.st/secure/zmdljNKwDyAXlQwOLioOVyjOxDgFbQnV/rtmp/stream/TyQPbWwpZLcMvjjKAKZxQjSAutmTsmfM6S8e5GdMDhaTWOMdIcm-2fMhTdK83sZz7JJnMQqo66e2rJcZ4g/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Danish - TV3 Sport (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/HxTlRfiIxkToGrlRsydnKmPJgOxnDvHR/rtmp/stream/otSQkOfXh79Lxs5Y7h02ABwGG6ilfEmA-Cew_-2tUpVZGMi8yFFHJYv1WtgB9J2wXxVHMDnfqjIa/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Danish - TV3 Sport (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/tiFjlFlbqpNmTLpmHqdYUxErLNbJQENR/rtmp/stream/ume_BXIHqwE5TS3I9S40r5mbtkPFliALI8zQhsttNtXxTSsMowNwtDXPi53y6PFNtjCoVl5u92_Fb22tkw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Swedish - V Sport Football (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/uDbqyIXYbCvaZzZvmaldmZSOpbMPAYZK/rtmp/stream/orWTjt2yzKlFRHy5kL7wDKQGSuyFKjJTepzQcA5VIdX-VdQRmsy2claoM66gjJNCE1R2zunj5zHa/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Swedish - V Sport Football (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/ZojcmmBDxfLPcldggIMQGCJceBczeQzN/rtmp/stream/db_X7_XWXOBXqdRCeakPpptBDSRWDuwo1l73PxMdqGCljGCf_ZWifLtkHVRqLzLBRKWXPkN3cdaLHP59Gg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Nottingham Forest vs Leeds United (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/mAHeGLkzgfyvWNjTVUoXXQYzfAfTWNSI/delta/stream/live_premier-league_forest-leeds-live-streaming-607969584/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Nottingham Forest vs Leeds United (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://cdn11.zohanayaan.com:1686/hls/nnottinghamforest.m3u8?md5=tRedp6wcD4RucGSJt1_bHw&expires=1787422010"
-        }
-      ]
-    },
-    {
-      "id": "ipswich-town-vs-sunderland-2494003",
-      "title": "Ipswich Town vs Sunderland",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Peacock (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/BDJpjnixZmdLOYKoVjEOpaFYKXplxzgw/rtmp/stream/5Y2qoY0Pzdyo-Lb5mkVshf2R61D58KZp0-cXGb19dTS5sSpN3JZcHHTqL8mgPyrsAnfxDJ8SEYw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Peacock (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb11.strmd.st/secure/KzBmEobiTsSIGHglRlhxzQWISUPjBidu/rtmp/stream/4bU8uuEx3ElTfXAmatENknlfRoopdhCXXJvImcObh7YT6L-vgIgeXFlGUfieqGCabvlLHB3bQhMlY_JW/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sport 8 NZ (Goal Rush) (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/eTeOhCzXMbUXahTJcJMjDHiHImfbailI/rtmp/stream/AO1d6zRyIjKIvWa4D56C6PStyDN-oG3l-Orm04NyuAoZJZ_Y0Ok3kIX7A_LUTqVjcYeYQVihG9IH/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sport 8 NZ (Goal Rush) (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb15.strmd.st/secure/BVHippJCISykPivPGrnBstYAAAJpICXh/rtmp/stream/BFae5XFRmdVPbvw92kciGGo01mKnEISBoIsqxs18OsiNp6w8tPFtabi5V88c8j6fgfSSiEf6LsGc19a9pA/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - DAZN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/SCeggHgBRAkGRxjkNzyCZOACFyObvczu/rtmp/stream/TlQ5NgAbU0DYsBCZbXmuuvtDXt5QbY97i8QTHRLj-KfpMw4P-KJv07UlTvwbH4SH_8yi37xVdjqX/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - DAZN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb10.strmd.st/secure/IUPCWaaqbiAEHJGaeDmrvGpuGFSbPpwx/rtmp/stream/xeIAYtG8rTojRjgsR-Hvo1fm-WvJRt2SZn47kkC1qk9E7gM-geRcp0YAoKDji3PMl8s2jvMwqsNYygnoxg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Swedish - V Sport 1 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/cTrPNzLudonMlnvspRUTKPNTofXOHvUT/rtmp/stream/hq48zdZCNiQfRARz58VqsVEceS2si-NRMjOzd5E9cuNW12W8BNwHkzQKSsTeD0e-O4iA0HGbn3Ez/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Swedish - V Sport 1 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb3.strmd.st/secure/XagowyfYJZUeesETvNAxrijKQeBBPErH/rtmp/stream/ySzXe5zq4PP1s19gCId7fBu8ZW8wd0fx3rY2K3c6c0shCEHe-nQOm0GXXBXW2eUyfePvbjieoFiYfzCPAg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Danish - Viaplay Sport News (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/srhPHyxawDyWvBxxUQlVMVsKDVQBIiYn/rtmp/stream/cY1KnXh-G6OsWzpmFUcwOFAdfW-eN2F8zExBLA3sWtDual-MisKIujjYOWfAFTVNSed2sgckd5uT/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Danish - Viaplay Sport News (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb7.strmd.st/secure/qGSblbBNqPrOwTMgOUpmJWlwvHEtOmiG/rtmp/stream/i9EB4-UEdNTy64KkLUdhIWQwKUM2qhgm9U38rjJ_4-AQ-pBkG2HzKKQe0Nd8EpQkNuHu9LY5N5q7Pe5uhA/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Finnish - Viaplay 1 Urheilu (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/lWmSGCRsJJJddVVytyHKfVcjGrRKwaVO/rtmp/stream/qPYGEEHhl_-2CD2imYVjX-AN5mvhbcNzQTti-nsaJ_kp1X39nzInN3h7ziskR_6B4WJjyxuE67v2/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Finnish - Viaplay 1 Urheilu (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/HXxpyDsUxhGCUxLSQflUXUFflSvFdbKx/rtmp/stream/Wc6tnVOocquUmyXUDDr1Npp35nIBKqgNnKVv6KwLQjO3Lnjc21aHu8gzvz2B-bdYGRV66DuocTX3yA16SA/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Ipswich Town vs Sunderland (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/xkLuyerSlmSPazwDJKkVtaftrRJvhGLU/delta/stream/live_premier-league_ipswich-sunderland-live-streaming-607969152/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Ipswich Town vs Sunderland (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://cdn11.zohanayaan.com:1686/hls/nwesthamunited.m3u8?md5=5LhvWV1nA7v89TEfDNfQJA&expires=1787422076"
-        }
-      ]
-    },
-    {
-      "id": "everton-vs-crystal-palace-2494002",
-      "title": "Everton vs Crystal Palace",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sport 6 NZ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/oHIGhlycAsAhHnvYILVRKrHfRDMSJBoT/rtmp/stream/K1yDDLor9z5JgW7Wk4XS3-EOSDklmfBIQByUyV7cooj-C3DNS9czLUr8tPZ0cVQnNR--cTdRq14/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sport 6 NZ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/pcXqLXWLxtIpZvjLtMiygNLioFlVUFqq/rtmp/stream/tjDF0kN2Drtb0Jw32kIHF1gkMbgzYfsWYgKU1sdeu5FEfacHiMysZTU0ShOalNynckxar-MLz08u1ZHn/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "USA Network (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/CEgPyViDEFtkkUtjOJSvKuduyGmjCYvK/rtmp/stream/V1Qmvq9an54d9AvmQ2_sSzAs-1D4k7JcR8EupHuBmKurRc9pb_eEbzKXe45Croevd03FkyDa5CJU/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "USA Network (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb4.strmd.st/secure/KCrLjRRgWqPRnsxOkpjJrGIdslNCCusc/rtmp/stream/Xyn3IIMAIowkz1TXF_UPAzvLFgEmFHgQpRWZu2BkGdiByEPnNnJmjKpi5rDB9EkYCdD9HkYCWVGWynWnJg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - UNIVERSO (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/JasVqqmaoHuEKERBZbFjBPjVebqVJRXq/rtmp/stream/708xIbnhli1z6swchB3FeoQDIjyuSk7uu3ivo_pJBt8fQk3clJHXKDi39rm7au-NB-i4OZDrAbfc/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - UNIVERSO (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb2.strmd.st/secure/EnFUHeUavzbJxKHXAPvoHpbjUpopfPnn/rtmp/stream/tIDM69afecolw977hN-srsd749Kv5N-7X4gXpopgk2eLJ9Kx-65tGU5toNNLCir-1IcBOdepAiHihhwg7A/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - DAZN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/iPpJCtNgMGolKVahOHHyVbshBQDcTQon/rtmp/stream/_1xkOFAXj5Mfv2qBHkmQtEu2cyOn7rlfx6NLt13Vk39JA3ydtsWnK_AuswpRHlUFy-b6BCS5ZHQi/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - DAZN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb3.strmd.st/secure/ZGBHYJrGsckpCrmNkQcPrrsxuMxYcANy/rtmp/stream/4Fef9yET5Q-S06PCId18GFr2F4zFCx3YrbEd7dIkmmv5Ex8y0rTJAToW95xHnxxPYnU3K42e5-vdSpUkjg/1/playlist.m3u8"
+          "direct_stream_url": "https://lb13.strmd.st/secure/xNrrDKdAHJtsdrwHhgMhyXXhQCiHsfBd/rtmp/stream/SOTxoLRQmNjHjG2iE-QMowOYicmJBZPgEjV5y9HoE3y_6HSxqWAAPPApftjiUCtlJI7td_-i7h3lP8dYzw/1/playlist.m3u8"
         },
         {
           "channel_name": "Swedish - V Sport Premium (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/oPfGyOificidPCJMNnZshieoSjLWeKxo/rtmp/stream/R_213sp_M2U6nkkhSdKhaWWIk2xvcntrbTi9YKDBtsel85ZFqY4t8UtFR65c32I2_-Rfs5KwPVT_/1/playlist.m3u8"
+          "direct_stream_url": "https://lb12.strmd.st/secure/oshmOHVcXjQCETWvHBamXSscDVwBwSWO/rtmp/stream/m2KNZEmYtkVl7q9x5emWn_5sUK4LYYKmpuOoDtTaNtexPy5XVzDZEDOwnI_xNRiJhjLvYDdxAgkj/1/playlist.m3u8"
         },
         {
           "channel_name": "Swedish - V Sport Premium (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb7.strmd.st/secure/bMqcVVbQsplGUxMLsuGefwtKweRzLEHM/rtmp/stream/dzoYDnBT0X6NM14aEOE9gn6KULPgzk-7MJL3AO7aRTb-T-qVndHRstBSz-3RZfMIvczbx11mbEMjxJG1TQ/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/fxFtuljYANUYUHaQNKUbmIsrlXJMLKEJ/rtmp/stream/R4hKur_tB8in8KA_6zMC4mfqpl1Y1iAQ_e80BT_Ri-Js_vbuyvSPWTorE1fDTuzjchqUQmUsRucXGqVVKw/1/playlist.m3u8"
         },
         {
-          "channel_name": "Everton vs Crystal Palace (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+          "channel_name": "Norwegian - V Sport Premier League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/vtDIouwTOgemVrwFKyiLkqoWxaIKYMOh/delta/stream/live_premier-league_everton-crystal-palace-live-streaming-607968720/1/playlist.m3u8"
+          "direct_stream_url": "https://lb8.strmd.st/secure/vtDGVjVOrqvGyAHMkqgZglsdOghCizGO/rtmp/stream/3-x9NZOhd6nX_B3u7Wqk-Ujb2-HMiI5cHyOOTuNOAHV5MgR-BU7co946tCjkRUqHLX9PW6gj7W3y/1/playlist.m3u8"
         },
         {
-          "channel_name": "Everton vs Crystal Palace (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/DoPxtgoxzcqVSUBCWhikslHQzUHWSWXH/echo/stream/everton-vs-crystal-palace-football-1557369/1/playlist.m3u8"
+          "channel_name": "Norwegian - V Sport Premier League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/kqNRZxBvAzmMEAdGVdwWpHDVIUarKHoQ/rtmp/stream/i39Zm9oA0en0I54gjYdg6UeGaSVfJPSrOagRR2sa0Lz-xltza0F7UwPDDV9a-Urue1XVag4Cn6AYTaqneQ/1/playlist.m3u8"
         },
         {
-          "channel_name": "Everton vs Crystal Palace (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+          "channel_name": "Danish - TV3+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://cdn12.zohanayaan.com:1686/hls/neverton.m3u8?md5=VeksaUodkkAe37rQy4-67w&expires=1787422138"
+          "direct_stream_url": "https://lb5.strmd.st/secure/HyDIqFoHYcdpfaqBAMndITdRLwACkidf/rtmp/stream/5OMqsbjnfOZ-AMgS2GpKR0HFP8jtPjz_0PryGsM_JN8S3Sag0UzqCSO5sqNxJFYPfteujd-fgRTe/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Danish - TV3+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb6.strmd.st/secure/DcheFcNwWiuKmXMkwdvRXMOOnUjhegKr/rtmp/stream/TZBoSEbpzWkFg5Rfkr77jflTrTv0wdJmJyT3kBbNX_ikCu-CinlBmuZkuNpkYTPlP3x9i-GL87TgPYbN1A/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Finnish - Viaplay 2 Urheilu (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/PSKUOJMoXChGAATwSNeRzHThlXhCHgtk/rtmp/stream/Pxe9ZoWskbPqJ3k-Rb7zOxrLyv52_w4xgMtNdErMlX0nL8RiEZHV_jQz0fX9BtwkIkYrhcwjIYsmxQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Finnish - Viaplay 2 Urheilu (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/PvgOmaPDANlasTvAReBNPWMlmWuQGMrs/rtmp/stream/gMQvjlmU2GqTCp0C8jB1ptH9DskfB40zI4C2ksZGAA0ZCtMChWICuBZa41JPb6oZocWLwBkPTuJqzzyTPnk/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Brentford vs Tottenham Hotspur (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/jfaqYAOGnsmOtTVlMmlwPgdzktoLlyHg/delta/stream/live_premier-league_brentford-tottenham-live-streaming-607970016/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Brentford vs Tottenham Hotspur (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/OKacyOjayvBJFbAApZSlgLwrWUUpIWAc/echo/stream/brentford-vs-tottenham-football-1557372/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Brentford vs Tottenham Hotspur (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECAY85uSCG4g+GkBBAkTIFLksgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://cdn15.zohanayaan.com:1686/hls/nbrentford.m3u8?md5=6C1wCD3p-tWoW5B7rEWn5Q&expires=1787423993"
         }
       ]
     },
     {
-      "id": "saarbr-cken-vs-hertha-2483306",
-      "title": "Saarbrücken vs Hertha",
+      "id": "inter-milan-vs-monza-2482144",
+      "title": "Inter Milan vs Monza",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 01:30 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrPBwYwaSF76QWECeOIYhlCBL6WSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+      "start_time_bd": "22 Aug 2026, 04:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBVhwSMBu4g+IYzGMgNFw8YLBdMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -1005,20 +159,50 @@
       },
       "streams": [
         {
-          "channel_name": "Saarbrücken vs Hertha (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrPBwYwaSF76QWECeOIYhlCBL6WSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBVhwSMBu4g+IYzGMgNFw8YLBdMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/RMMQZBLfLJxUWdamhMiFqsQBxvYDDOdd/echo/stream/fc-saarbrucken-vs-hertha-bsc-football-1550696/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/OhbGXLnZYYifxSJbChNCDuayLrOUFyJx/rtmp/stream/6V3JUMZmXfnOpLxJp9xDDJOrniN436QUvyscrIVapajX0bFhsxjh_xCiWZWEc1p7nmRu8k_dFxM/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBVhwSMBu4g+IYzGMgNFw8YLBdMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb14.strmd.st/secure/cgfHoBnAfdIuEXCVlCQkhkOYXmfAcRXx/rtmp/stream/AsPBpNTpZsM4BJqr0FuVo5HflFsZ5e23t57V61qYbl9EDYDpJs3ThdzB2L8hT-VNU5LF98AVVi3QO_Xd/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Italian - DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBVhwSMBu4g+IYzGMgNFw8YLBdMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/pyIbzDeSDPMnWCjvUmyHbHrhpFjQhlll/rtmp/stream/67OzAIsNtr9xKE3G17-2_pE79rAgFS8S5gTETHkGwJ8_Ey_8U-K7hoHVGSG9SVA3oZidCVRf9Tlf/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Italian - DAZN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBVhwSMBu4g+IYzGMgNFw8YLBdMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb11.strmd.st/secure/rLKjMBxuInJANeNUtpsViBBBmqORlVGM/rtmp/stream/Xyxf41Q37w8prUJ-b-y_GnZVopf0LFgLRV27OL_8785sowCfpo3kU-eD2a-BWkxgDouPif6t5RGe9dMrdg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Inter Milan vs Monza (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBVhwSMBu4g+IYzGMgNFw8YLBdMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/SRoREPNOCrsfqyfeCMCQGcKusqESOGHN/delta/stream/live_serie-a_inter-monza-live-streaming-607971312/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Inter Milan vs Monza (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBVhwSMBu4g+IYzGMgNFw8YLBdMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/SQhdQXoQZjAXJiwrfmWQtguzIedvKpfY/echo/stream/inter-vs-monza-football-1550092/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "viktoria-k-ln-vs-n-rnberg-2483303",
-      "title": "Viktoria Köln vs Nürnberg",
+      "id": "udinese-vs-como-2482138",
+      "title": "Udinese vs Como",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 01:30 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFnxYCBpBC8QWECeOIYBkChAQrLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+      "start_time_bd": "22 Aug 2026, 04:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCBQ8wIEIhghuIPiBKnNekBpSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -1026,20 +210,50 @@
       },
       "streams": [
         {
-          "channel_name": "Viktoria Köln vs Nürnberg (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFnxYCBpBC8QWECeOIYBkChAQrLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCBQ8wIEIhghuIPiBKnNekBpSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/bWwWaCADKWYRfAohaMCaDhEBhRcaBTNF/echo/stream/fc-viktoria-koln-vs-1-fc-nurnberg-football-1550700/1/playlist.m3u8"
+          "direct_stream_url": "https://lb12.strmd.st/secure/KWPGumwQROkcnvbJhHPALDPutbeanUMC/rtmp/stream/Mnl2SAYhGVx_gDEAEPLRQMZ-OGzhvIu0TmCD90O5raXAKaLfBKA5x_hycZPQ7dzZX4Irj5LM_aM/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCBQ8wIEIhghuIPiBKnNekBpSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb12.strmd.st/secure/YWAzTgTDxvUAbzVlXgukmpHmVlUzBjmE/rtmp/stream/v-S8irc0IBQM4alm7p4Pvet-ZA5-a-Caac02xZNKhq5awD1ZNYeswSWMyJdJrQ1TxIGbK0BoRyMgz2Yt/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Italian - DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCBQ8wIEIhghuIPiBKnNekBpSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/ITBIoQJtPUzIdOAxzjQeJCddwvhUOWmB/rtmp/stream/uiu-uw_hi0J2AaKBKcrx23IYDuKwEWi9fMenMHXpEEtGwBy1118oKrIBM15jHN3wZhpLGtYspkpg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Italian - DAZN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCBQ8wIEIhghuIPiBKnNekBpSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/rxEvbrqQRXiNkfpgsiTlFJGHhuPMPsEg/rtmp/stream/uovnQjsGjAn35VRB10jbKm2jeKBzRyEuCoFUk2vG-8S7jOz74G_qrQGWFHsXeE-TRzj_wTOizKM8MGBSjQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Udinese vs Como (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCBQ8wIEIhghuIPiBKnNekBpSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/TrZCzCkbuqCNdNVaiZyfmgHMpnRfbeuQ/delta/stream/live_serie-a_udinese-como-live-streaming-607971744/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Udinese vs Como (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCBQ8wIEIhghuIPiBKnNekBpSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/PEezhdmsWchAEtjeRNGWBznCmyyxsKAv/echo/stream/udinese-vs-como-football-1550095/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "rakow-czestochowa-vs-gornik-zabrze-football-1553144",
-      "title": "Raków Częstochowa vs Gornik Zabrze",
+      "id": "al-kholood-vs-al-taawon-football-1602987",
+      "title": "Al Kholood vs Al Taawon",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 04:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEEChAk65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEEDHrkGAY2bie8EVW4EurMGFz5zQA.webp",
+      "start_time_bd": "22 Aug 2026, 04:10 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCGzKQKeuQYBjZuJ7wRVbgS6swYXPmtA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCET965BgGNm4nvBFVuBLqzBhc+S0A.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -1047,10 +261,10 @@
       },
       "streams": [
         {
-          "channel_name": "Raków Częstochowa vs Gornik Zabrze (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEEChAk65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEEDHrkGAY2bie8EVW4EurMGFz5zQA.webp",
+          "channel_name": "Al Kholood vs Al Taawon (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCGzKQKeuQYBjZuJ7wRVbgS6swYXPmtA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCET965BgGNm4nvBFVuBLqzBhc+S0A.webp",
           "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/bGWpZFCmBxjGTDcFzokiJlBVffRVXgPZ/echo/stream/rakow-czestochowa-vs-gornik-zabrze-football-1553144/1/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/CxJEhYIhhXmmcWfpkwMvGIxiEplWBBKW/echo/stream/al-kholood-vs-al-taawon-football-1602987/1/playlist.m3u8"
         }
       ]
     },
@@ -1071,7 +285,7 @@
           "channel_name": "Çorum vs Kasımpaşa (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN2hJ+RddxB8QRqQZAwQJxCakFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/vyDhNLVWXVxxgiMDvKrsdYBiRmneWPCF/echo/stream/corum-fk-vs-kasimpasa-football-1584377/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/CmcJLpunupvSxmjyuemTadoAeBKwFwGn/echo/stream/corum-fk-vs-kasimpasa-football-1584377/1/playlist.m3u8"
         }
       ]
     },
@@ -1092,7 +306,7 @@
           "channel_name": "Rizespor vs Samsunspor (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChD1NEEDJAhuIPgb3GQMM4ilaCwJBT7DZ2sCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/mljAhscoJufsaLHNdVPFTXrzcQCbJaDJ/echo/stream/rizespor-vs-samsunspor-football-1584383/1/playlist.m3u8"
+          "direct_stream_url": "https://lb13.strmd.st/secure/NcdYgvPpYqhiAYWfmypsIvYLPkcDmLLS/echo/stream/rizespor-vs-samsunspor-football-1584383/1/playlist.m3u8"
         }
       ]
     },
@@ -1113,7 +327,7 @@
           "channel_name": "Luzern vs Lausanne-Sport (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reljBluYFGBAhuIPsdyHTU8ymMFgSCn2Gz6elSi5byG2e6a0wWmKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/cLcpTbeSNNkItPAKWFUwGFofYoLmBATt/echo/stream/fc-luzern-vs-lausanne-football-1555365/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/reSkFujqmkehoIwHArHTltdTzAvAGAuM/echo/stream/fc-luzern-vs-lausanne-football-1555365/1/playlist.m3u8"
         }
       ]
     },
@@ -1134,7 +348,7 @@
           "channel_name": "Eintracht Trier vs RB Leipzig (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBgCQ8WGGlgSIXiCwhzZxDGMgUII5PzAkFLCLmMUhjih6HyjNRyvk70YN6MYhBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/BFGnNYBZWWNIUTpuVzAZBXDZFEJPbVSF/echo/stream/eintracht-trier-vs-rb-leipzig-football-1550681/1/playlist.m3u8"
+          "direct_stream_url": "https://lb9.strmd.st/secure/uVNphZeIBNxCfZiZpTHKBYtYBOrURGHE/echo/stream/eintracht-trier-vs-rb-leipzig-football-1550681/1/playlist.m3u8"
         }
       ]
     },
@@ -1155,7 +369,7 @@
           "channel_name": "Sonnenhof Großaspach vs Arminia Bielefeld (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdimzAwc-CF76QWECeOIYhlCAghpLJBSwi5jTapQ8wZeEWpyP+KzaXuJiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/DfKOKqCHMWKpokSQCLyBsexmQRzGgwUH/echo/stream/sg-sonnenhof-grossaspach-vs-arminia-bielefeld-football-1550683/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/aarCSpIHwYNOtTkDYiivBaBUvFHWCTJo/echo/stream/sg-sonnenhof-grossaspach-vs-arminia-bielefeld-football-1550683/1/playlist.m3u8"
         }
       ]
     },
@@ -1176,7 +390,790 @@
           "channel_name": "1860 Munich vs Holstein Kiel (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtRBaZwAAwgUIXiCxaTIRDCMGQECyyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/LeIAgPhiNWPDbrnlPsqajkMpLSyCHllO/echo/stream/tsv-1860-munchen-vs-holstein-kiel-football-1550692/1/playlist.m3u8"
+          "direct_stream_url": "https://lb11.strmd.st/secure/kogTLJCJBvrgQZxQStmSReQzLtzkbBol/echo/stream/tsv-1860-munchen-vs-holstein-kiel-football-1550692/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "piast-gliwice-vs-legia-warsaw-2490229",
+      "title": "Piast Gliwice vs Legia Warsaw",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 03:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGLjnAk2sNxD6pIEsZB9TIEEZMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Piast Gliwice vs Legia Warsaw (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGLjnAk2sNxD6pIEsZB9TIEEZMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/PhqphlgYwRVbjAzVvKYjXJxUHTqyHHJT/echo/stream/piast-gliwice-vs-legia-warszawa-football-1553141/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "lens-vs-auxerre-2489469",
+      "title": "Lens vs Auxerre",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 03:15 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWFEpgU3AhDcQfECRAQQFmBbMgUBgsCQU+w2fRSa22tpvL0sstpMtGCe9KIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN SPORTS USA (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWFEpgU3AhDcQfECRAQQFmBbMgUBgsCQU+w2fRSa22tpvL0sstpMtGCe9KIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/DkINAHuGYDNhhTMyozvLvAqVKEfMWULK/rtmp/stream/PCtRFUR6vMFsfPdSpyg9A7vwFWNQ99y3YTFBx1_CBO5lsQ6iR88fNvXsKM5HP8WwsK0SOfu6NjE/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "beIN SPORTS USA (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWFEpgU3AhDcQfECRAQQFmBbMgUBgsCQU+w2fRSa22tpvL0sstpMtGCe9KIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb1.strmd.st/secure/jQDfSHTzIdPZEaynywFporzsGtlwCViE/rtmp/stream/Wb-P8GtEtEnEgf2w4-C9RRO6Y0It4dMBYJvCPkLwZuy986f_MK8qPy6qS60IP5zwgrHYLztfEu5A_k63/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "French - Ligue 1+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWFEpgU3AhDcQfECRAQQFmBbMgUBgsCQU+w2fRSa22tpvL0sstpMtGCe9KIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/KrnfibcCrrfYCgrKKclYMWveCcVbviOJ/rtmp/stream/aG0WWivytvKY4ZwFEI87EcMCiIP_aglZvWvSuqeDX0pW8lLL0QfSN_mKJ2TmUUOdwsQ1eB4AZlTT/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "French - Ligue 1+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWFEpgU3AhDcQfECRAQQFmBbMgUBgsCQU+w2fRSa22tpvL0sstpMtGCe9KIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb14.strmd.st/secure/OBHjesNbbVrumIWydSRCFCKiXCYznAFV/rtmp/stream/fyDnBDe9m7XbzZUOPmXtYxvA7mbfdffPwjTB6EkU67qunDAcTroVy7mlS5teyrGVkC7YTb3wHostJrLsWw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Lens vs Auxerre (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWFEpgU3AhDcQfECRAQQFmBbMgUBgsCQU+w2fRSa22tpvL0sstpMtGCe9KIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/SevSnLysMRsiNZAwTkLuYZOPZVWkhDlM/echo/stream/lens-vs-auxerre-football-1552732/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "oviedo-vs-leganes-football-1569891",
+      "title": "Oviedo vs Leganes",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 03:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIgQ9cg0XNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRAGN65Bmqzie8EVW4EurMGFz5zQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Oviedo vs Leganes (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIgQ9cg0XNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRAGN65Bmqzie8EVW4EurMGFz5zQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/GVgjsHtKmKlZyiJCHJWBMJlxHyLHySYk/echo/stream/oviedo-vs-leganes-football-1569891/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "artis-brno-vs-sparta-prague-2519350",
+      "title": "Artis Brno vs Sparta Prague",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 03:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRClLAaiKiBIg5k+CJBZS8teJAoQIbDpDDgEIwePHEw+dJABjE5P5hBIptnphCwJLjuShF1YINzJJAmAVMBcTKQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Oneplay Sport MD1 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRClLAaiKiBIg5k+CJBZS8teJAoQIbDpDDgEIwePHEw+dJABjE5P5hBIptnphCwJLjuShF1YINzJJAmAVMBcTKQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/hljPHCxlupJnYZZiopjPJCXvKsGFugSv/rtmp/stream/k3a1KSh3MMMaGlAc1ErWxj8MmSPFqdpqA6M8fpgt1Wbxl_FefNhAQsCNnw-zQMGDIRNwWzGmSqAR/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Oneplay Sport MD1 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRClLAaiKiBIg5k+CJBZS8teJAoQIbDpDDgEIwePHEw+dJABjE5P5hBIptnphCwJLjuShF1YINzJJAmAVMBcTKQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb13.strmd.st/secure/MqthGnvvFozuWTotobJjsJEaVzYTYjLL/rtmp/stream/NfO7J8FMzhxsInBmuBU1X6HvmuuP2I4NgXyoyolJbWCLHTXhwo1WFqqdAtIOtRBU_a9bTbCFnV2z4mokfg/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "athletic-bilbao-vs-sevilla-2506180",
+      "title": "Athletic Bilbao vs Sevilla",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 03:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDFIgS2yiG4g+IYxBAoQMEKdMGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDFIgS2yiG4g+IYxBAoQMEKdMGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/UycnWmUgtnDGmJoVpcxTEfIxlsMFOQin/rtmp/stream/sdhySgnmBDNdmnYleGOILclSgIMS8FRm8MRCACrsI4CamXCdg0yOtlRlApLjTLMAu_p0j8f1uYk/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "ESPN+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDFIgS2yiG4g+IYxBAoQMEKdMGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/mWYVzXXJsCjxHqZLuUhRznLxnZJdPNFR/rtmp/stream/bfGVhwNKxyz5Kv_RUePJ8d5wcpx3oYZojG42ZZC_G2O7dmzpAez534Hfvx7tC9RL_JJIhsh5h-65yj43/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Athletic Bilbao vs Sevilla (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDFIgS2yiG4g+IYxBAoQMEKdMGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/DeyNsaIJnfFyxpcwzWMIUQpiGqEtRHnR/delta/stream/live_laliga_athletic-club-sevilla-live-streaming-607973040/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Athletic Bilbao vs Sevilla (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDFIgS2yiG4g+IYxBAoQMEKdMGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/tncfFwFdWMcQDwFMmZneHhvskEWsttUA/delta/stream/live_laliga_athletic-club-sevilla-live-streaming-607973040/2/playlist.m3u8"
+        },
+        {
+          "channel_name": "Athletic Bilbao vs Sevilla (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDFIgS2yiG4g+IYxBAoQMEKdMGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/jlOcEDpdokTyfgizkHxocomQVxuEVMRe/echo/stream/athletic-club-vs-sevilla-football-1570343/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "q-b-l--vs---fa-2546627",
+      "title": "Qəbələ vs Şəfa",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 02:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOAJTNgYENz0g+IEiFM4UB0-vgFgSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Qəbələ vs Şəfa (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOAJTNgYENz0g+IEiFM4UB0-vgFgSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/YaFPBOWtnLQUZmkMTfsHeBxHxAxriWZg/echo/stream/al-fateh-vs-al-ettifaq-football-1602986/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "hibernian-vs-kilmarnock-football-1556642",
+      "title": "Hibernian vs Kilmarnock",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqICCBT1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCBj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Hibernian vs Kilmarnock (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqICCBT1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCBj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/wialAzJjECjNTaFXqMfXBCMmstOUhwsO/echo/stream/hibernian-vs-kilmarnock-football-1556642/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "falkirk-vs-heart-of-midlothian-football-1556641",
+      "title": "Falkirk vs Heart Of Midlothian",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRCBAp65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCAj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Falkirk vs Heart Of Midlothian (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRCBAp65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCAj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/RtgeUKcTJckRssbEqaHCDPKCDRxppkcD/echo/stream/falkirk-vs-heart-of-midlothian-football-1556641/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "motherwell-vs-aberdeen-football-1556643",
+      "title": "Motherwell vs Aberdeen",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCH71yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbIvrkGAY2bie8EVW4EurMGFz5zQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Motherwell vs Aberdeen (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCH71yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbIvrkGAY2bie8EVW4EurMGFz5zQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/OaywjaSOKkCxHWAgTCrkNCKWHMhofdxi/echo/stream/motherwell-vs-aberdeen-football-1556643/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ppv-goal-rush",
+      "title": "Goal Rush",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Peacock (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/cvERDZUuUznAUJVdMesfuWmsDZmcukzF/rtmp/stream/U6oe-HA65v9OC5vAYwqur_ObeIMjSBKBDUnZqqyNlwZ8uVHU9UhazRuncgU8RvzAqkktnfuEiWcZU59B1A/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Peacock (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb12.strmd.st/secure/DvjhRfOqoFJvrCdlhgaWNuYopBpporvJ/rtmp/stream/JahfmL-upP3SJK35a_Xx-NwHFJ4bs5NF21jSxKIUk1W5Fw27U6_2jCk-sUf8rju5ZCpJ-gWsaet7zx62GnhQ9NY/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sport 8 NZ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/OsiIiUwpWFyxjIQFNDhthSMaqUgaxqMP/rtmp/stream/Z2_q7dcmBJWZ8ZrHmeGRJoxwZnxL5uqC209cxUxR0NGveTg_PKUK6D552Rl1K5UJTzpI-m87Jvs/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sport 8 NZ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/PxoBjQsbejkuLXjTdALTkldlvATXkscH/rtmp/stream/b1ty1YmWMScTQ_TH0PC_btAu-RVWBWIzhdRP4Uq6sewfbaBq0I8QVsfskKp9c5bAzp9U0WRP-pPCogDc/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "wrexham-vs-watford-2501272",
+      "title": "Wrexham vs Watford",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGLmBSwA2khDcQfECZwQQUoyBQgNCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGLmBSwA2khDcQfECZwQQUoyBQgNCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/OTLBFLRuMuMHDDLlNpRrofuMEMNuBvTX/admin/stream/ppv-wrexham-vs-watford/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGLmBSwA2khDcQfECZwQQUoyBQgNCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb11.strmd.st/secure/eSoqEFHDBTXwiBbUXJSRQRxTFZFRITIg/admin/stream/ppv-wrexham-vs-watford/2/playlist.m3u8"
+        },
+        {
+          "channel_name": "Wrexham vs Watford (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGLmBSwA2khDcQfECZwQQUoyBQgNCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://cdn15.zohanayaan.com:1686/hls/nwrexham.m3u8?md5=P5T3iD_eJhFKF8KuB71orw&expires=1787424196"
+        }
+      ]
+    },
+    {
+      "id": "blackburn-rovers-vs-middlesbrough-2501267",
+      "title": "Blackburn Rovers vs Middlesbrough",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUTJIhaoECG4g+e3CAggph4yhAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUTJIhaoECG4g+e3CAggph4yhAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/ZrEkNTNnpPlCnWyZRzGloAqdsygcxtqR/admin/stream/ppv-blackburn-rovers-vs-middlesbrough/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUTJIhaoECG4g+e3CAggph4yhAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb14.strmd.st/secure/UBUYYSdCnGGPnMLwgDVAopoUMoLPYfFN/admin/stream/ppv-blackburn-rovers-vs-middlesbrough/2/playlist.m3u8"
+        },
+        {
+          "channel_name": "Blackburn Rovers vs Middlesbrough (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUTJIhaoECG4g+e3CAggph4yhAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://cdn12.zohanayaan.com:1686/hls/nblackburnrovers.m3u8?md5=hieS-Mm6nKD-sEJmKsIy_A&expires=1787424210"
+        }
+      ]
+    },
+    {
+      "id": "preston-north-end-vs-wolverhampton-wanderers-2501265",
+      "title": "Preston North End vs Wolverhampton Wanderers",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJdCxgpuENxB8QRnBBA7DRlGYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJdCxgpuENxB8QRnBBA7DRlGYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/leWdwJdZgTIHhYZvRJXnfXEnSbNkgLnn/admin/stream/ppv-preston-north-end-vs-wolverhampton-wanderers/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJdCxgpuENxB8QRnBBA7DRlGYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/TfQBWkrOPovPCeNdQslYydYgUzgcmSwt/admin/stream/ppv-preston-north-end-vs-wolverhampton-wanderers/2/playlist.m3u8"
+        },
+        {
+          "channel_name": "Preston North End vs Wolverhampton Wanderers (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJdCxgpuENxB8QRnBBA7DRlGYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://cdn11.zohanayaan.com:1686/hls/nprestonnorthend.m3u8?md5=uZH87yDUlifcVv1s6yNLnQ&expires=1787424225"
+        }
+      ]
+    },
+    {
+      "id": "west-ham-united-vs-charlton-athletic-2501262",
+      "title": "West Ham United vs Charlton Athletic",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSDjgNWYGBDcQfECZwQQG4yZQh4BYEgp9hs+ijAqUXD+Xq7RXky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSDjgNWYGBDcQfECZwQQG4yZQh4BYEgp9hs+ijAqUXD+Xq7RXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/AFQUSiHgbKyMohKXQLOZVPYibyfzbWQq/admin/stream/ppv-west-ham-united-vs-charlton-athletic/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSDjgNWYGBDcQfECZwQQG4yZQh4BYEgp9hs+ijAqUXD+Xq7RXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb12.strmd.st/secure/kFjVvUvgfVTyRdjnYNPEqlNKNdGgaxcj/admin/stream/ppv-west-ham-united-vs-charlton-athletic/2/playlist.m3u8"
+        },
+        {
+          "channel_name": "West Ham United vs Charlton Athletic (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSDjgNWYGBDcQfECZwQQG4yZQh4BYEgp9hs+ijAqUXD+Xq7RXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/kTJhINDwJLdqeaStunVwaadYwxncufqc/echo/stream/west-ham-vs-charlton-game-1525262/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "West Ham United vs Charlton Athletic (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSDjgNWYGBDcQfECZwQQG4yZQh4BYEgp9hs+ijAqUXD+Xq7RXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://cdn13.zohanayaan.com:1686/hls/nwesthamunited.m3u8?md5=7MceSK07Ty5AuNToXqXHww&expires=1787424244"
+        }
+      ]
+    },
+    {
+      "id": "st-johnstone-vs-celtic-2494425",
+      "title": "St Johnstone vs Celtic",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRD8kYFE2DStILCFMnEKEIkS9jLHTAEi5jFGFV6O78o2py9+KzAYO7iYhBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "St Johnstone vs Celtic (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRD8kYFE2DStILCFMnEKEIkS9jLHTAEi5jFGFV6O78o2py9+KzAYO7iYhBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/LJpRCMRblRhtAGTBYyHQuylqDkyrlACL/echo/stream/st-johnstone-vs-celtic-football-1556645/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "rangers-vs-st-mirren-2494424",
+      "title": "Rangers vs St Mirren",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMgLQhtZRNxB9tuEPpQhEObSgLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Rangers vs St Mirren (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMgLQhtZRNxB9tuEPpQhEObSgLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/DjucWflCzWKbzgZXRrDdvlPmBwXEImgP/echo/stream/rangers-vs-st-mirren-football-1556644/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "nottingham-forest-vs-leeds-united-2494004",
+      "title": "Nottingham Forest vs Leeds United",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Peacock (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/ZFvTJBqqzFVUBwmvadWRKzwxxehnwiBu/admin/stream/ppv-nottingham-forest-vs-leeds-united/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Peacock (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/nFUDzrpARaDULDPykpjpEirNkZeSWjfQ/admin/stream/ppv-nottingham-forest-vs-leeds-united/2/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sport 9 NZ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/XSqcYdSCdJEpKSBVnivEwWxyyRIlGRSh/admin/stream/ppv-nottingham-forest-vs-leeds-united/3/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sport 9 NZ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb6.strmd.st/secure/zIIKHNIZLebhTzryKcfmWobZCkmpwzRX/admin/stream/ppv-nottingham-forest-vs-leeds-united/4/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/CKZxCMTrFtiZbnNyNyXWBYwxbgEicNhR/admin/stream/ppv-nottingham-forest-vs-leeds-united/5/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - DAZN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/NblqlbRiejeImEHCKjjOYLzXhHeHxDty/admin/stream/ppv-nottingham-forest-vs-leeds-united/6/playlist.m3u8"
+        },
+        {
+          "channel_name": "Norwegian - V Sport Premier League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/cblmsLjIUZASZTXuIwNFgOvFfhMmWriC/admin/stream/ppv-nottingham-forest-vs-leeds-united/7/playlist.m3u8"
+        },
+        {
+          "channel_name": "Norwegian - V Sport Premier League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/zkePIxgjazEQBvgKYKYOgHMkofkpzGjw/admin/stream/ppv-nottingham-forest-vs-leeds-united/8/playlist.m3u8"
+        },
+        {
+          "channel_name": "Finnish - Viaplay 3 Urheilu (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/kHoQCEeqJkAYcOZascxVXXSnoTiAEFxr/admin/stream/ppv-nottingham-forest-vs-leeds-united/9/playlist.m3u8"
+        },
+        {
+          "channel_name": "Finnish - Viaplay 3 Urheilu (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb5.strmd.st/secure/nooylDrizGDdBNaITqxShemAyMZTRlGX/admin/stream/ppv-nottingham-forest-vs-leeds-united/10/playlist.m3u8"
+        },
+        {
+          "channel_name": "Danish - TV3 Sport (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/cRYENMAKFzwqDWHRZhOcOtBlzdzKwCmr/admin/stream/ppv-nottingham-forest-vs-leeds-united/11/playlist.m3u8"
+        },
+        {
+          "channel_name": "Danish - TV3 Sport (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb12.strmd.st/secure/MkrSlcQvSqBBuPdvakfFrClXwVWYDteY/admin/stream/ppv-nottingham-forest-vs-leeds-united/12/playlist.m3u8"
+        },
+        {
+          "channel_name": "Swedish - V Sport Football (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/ejmsjzrxtoUTNBkRSgCxzqluxqbxCBrv/admin/stream/ppv-nottingham-forest-vs-leeds-united/13/playlist.m3u8"
+        },
+        {
+          "channel_name": "Swedish - V Sport Football (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/vSzlktteJbzkJKvlVIUNrlxmkyMFeiYi/admin/stream/ppv-nottingham-forest-vs-leeds-united/14/playlist.m3u8"
+        },
+        {
+          "channel_name": "Nottingham Forest vs Leeds United (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgIW5sCQgSIbiD4gz2w9pS4zIFAT0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://cdn12.zohanayaan.com:1686/hls/nnottinghamforest.m3u8?md5=8AKoH3mqCj7o0ZjIhwxZfw&expires=1787424321"
+        }
+      ]
+    },
+    {
+      "id": "ipswich-town-vs-sunderland-2494003",
+      "title": "Ipswich Town vs Sunderland",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Peacock (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/wDcEVZLGcbVNBehqAtdDvFABtBpZSqDK/admin/stream/ppv-ipswich-town-vs-sunderland/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Peacock (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/tlkVMpEsZaRbFkFEgHIPfoUAequOwNjq/admin/stream/ppv-ipswich-town-vs-sunderland/2/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sport 8 NZ (Goal Rush) (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/AerrgSNHowVDbVKMCstHJFOtXysQrhKp/admin/stream/ppv-ipswich-town-vs-sunderland/3/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sport 8 NZ (Goal Rush) (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/DpZtyIbplSUjxecgnqECDpqSMijWfNuK/admin/stream/ppv-ipswich-town-vs-sunderland/4/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/jzIyEDvhOKatCvgkkmtyqXqMGzIiAIwT/admin/stream/ppv-ipswich-town-vs-sunderland/5/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - DAZN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/VVRRpiUnfjCGiWPMMhyqTmREqeflGyrT/admin/stream/ppv-ipswich-town-vs-sunderland/6/playlist.m3u8"
+        },
+        {
+          "channel_name": "Swedish - V Sport 1 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/BhlSmaeVrLasEsnOfoNICuaRaWyjegAV/admin/stream/ppv-ipswich-town-vs-sunderland/7/playlist.m3u8"
+        },
+        {
+          "channel_name": "Swedish - V Sport 1 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb8.strmd.st/secure/WzyLdcyuRLHNZTVmAnIQXsgzNTiYpZjc/admin/stream/ppv-ipswich-town-vs-sunderland/8/playlist.m3u8"
+        },
+        {
+          "channel_name": "Danish - Viaplay Sport News (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/bwajuHignUCgkKPgpysFiimXdnIHuMEu/admin/stream/ppv-ipswich-town-vs-sunderland/9/playlist.m3u8"
+        },
+        {
+          "channel_name": "Danish - Viaplay Sport News (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb12.strmd.st/secure/tkGUqApEPUqmEeZtAsTzvSxKJCvcSbvY/admin/stream/ppv-ipswich-town-vs-sunderland/10/playlist.m3u8"
+        },
+        {
+          "channel_name": "Finnish - Viaplay 1 Urheilu (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/ZFiyksAajMhzenfAwVRPNZUjTgCAbzfa/admin/stream/ppv-ipswich-town-vs-sunderland/11/playlist.m3u8"
+        },
+        {
+          "channel_name": "Finnish - Viaplay 1 Urheilu (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb14.strmd.st/secure/vzhKWjJTPyuPkiJvjSWmgRRRDFzUMAPM/admin/stream/ppv-ipswich-town-vs-sunderland/12/playlist.m3u8"
+        },
+        {
+          "channel_name": "Ipswich Town vs Sunderland (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGAx5gZYOSG4g+IYxBAkQplLmPGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/ycyAzFnjKGLOBVqKFHIzdlMbYqmEtEZx/golf/stream/458/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "everton-vs-crystal-palace-2494002",
+      "title": "Everton vs Crystal Palace",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sport 6 NZ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/hqpCaXNhgUkqTdLOYmhDJjHfRyhPZRFq/admin/stream/ppv-everton-vs-crystal-palace/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sport 6 NZ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb11.strmd.st/secure/ebKJsCezmyNxsDaYaJRsxBYttpGZjBWZ/admin/stream/ppv-everton-vs-crystal-palace/2/playlist.m3u8"
+        },
+        {
+          "channel_name": "USA Network (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/EenlnbZDRCCrUbHdqfHKEGUnsnhykQKz/admin/stream/ppv-everton-vs-crystal-palace/3/playlist.m3u8"
+        },
+        {
+          "channel_name": "USA Network (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb3.strmd.st/secure/bhzwVzJMgLfoGejahkevHtbWJeTfuMCr/admin/stream/ppv-everton-vs-crystal-palace/4/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - UNIVERSO (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/eJDHdkXwPSrHQZlfmQYIrIWvPcyYLRLK/admin/stream/ppv-everton-vs-crystal-palace/5/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - UNIVERSO (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/PohiosXwDTDMIZtSzhIBtkcTanuiAlIW/admin/stream/ppv-everton-vs-crystal-palace/6/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/HzNzLOCwlZEWDPgipqjBvhxFlEHMovYq/admin/stream/ppv-everton-vs-crystal-palace/7/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - DAZN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/xpmXsBzpOlvOuBFLXUKgpULoxBsrbonp/admin/stream/ppv-everton-vs-crystal-palace/8/playlist.m3u8"
+        },
+        {
+          "channel_name": "Swedish - V Sport Premium (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/JVEQDrnvGkpWTuOaWByIQAYeltwWJpOp/admin/stream/ppv-everton-vs-crystal-palace/9/playlist.m3u8"
+        },
+        {
+          "channel_name": "Swedish - V Sport Premium (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/cfzJLyhDnlJFoeYeQXKWyXgfGVkrXLKN/admin/stream/ppv-everton-vs-crystal-palace/10/playlist.m3u8"
+        },
+        {
+          "channel_name": "Everton vs Crystal Palace (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWFhgBvNCG4g+IYxBAkQplLmOGCwJBT7DZ9FGBUou78vSyzPTLSaovQhQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://cdn13.zohanayaan.com:1686/hls/neverton.m3u8?md5=lVj_a5LmcgOTOwR2Cs5uqg&expires=1787424428"
+        }
+      ]
+    },
+    {
+      "id": "saarbr-cken-vs-hertha-2483306",
+      "title": "Saarbrücken vs Hertha",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 01:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrPBwYwaSF76QWECeOIYhlCBL6WSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Saarbrücken vs Hertha (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrPBwYwaSF76QWECeOIYhlCBL6WSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/hGpEWFWcxCzWpFiiPALMvlVqgcIMyCZS/echo/stream/fc-saarbrucken-vs-hertha-bsc-football-1550696/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "viktoria-k-ln-vs-n-rnberg-2483303",
+      "title": "Viktoria Köln vs Nürnberg",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 01:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFnxYCBpBC8QWECeOIYBkChAQrLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Viktoria Köln vs Nürnberg (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFnxYCBpBC8QWECeOIYBkChAQrLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/oNbokcxFvNQVOkPGvqVtoPGEerAXrCpP/echo/stream/fc-viktoria-koln-vs-1-fc-nurnberg-football-1550700/1/playlist.m3u8"
         }
       ]
     }
