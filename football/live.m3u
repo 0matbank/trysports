@@ -1,48 +1,83 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 6
-# UPDATED Time and date BD: 2026-08-23 | 04:49:54
+# TOTAL-ITEMS: 11
+# UPDATED Time and date BD: 2026-08-23 | 05:09:05
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Spanish - Liga MX (HD)" tvg-name="Spanish - Liga MX (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcQGNSICSERYQEYPGWKR04dJTAqIXcJBkDUkuJAwQWHaWARDtxee38wg9QWz0whYElwTtIVdWJU0ybQ8VMFdbGwggA.webp" group-title="Football", Spanish - Liga MX (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb4.strmd.st/secure/CUohVasNUJbrXqKfuHJkthgyFewzUePJ/rtmp/stream/RvAwNzB4mY1SAMICADMM8s4C1of3oAfPOCuUag0PZX8_aCxfvNdrcYuFr3DDStoJLG6yd3Ykjew/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spanish - Liga MX (SD)" tvg-name="Spanish - Liga MX (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcQGNSICSERYQEYPGWKR04dJTAqIXcJBkDUkuJAwQWHaWARDtxee38wg9QWz0whYElwTtIVdWJU0ybQ8VMFdbGwggA.webp" group-title="Football", Spanish - Liga MX (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb14.strmd.st/secure/lTlGVuXvVNgdHrysMGUKLBYhiOEMkSUl/rtmp/stream/OozDPe6QUuq0-tcRDy-no8zOPFG9sbZ0OJooVGwkQLQXBedpWQwkavevr5Jdhr2Xw_LxggH5hacU-5z6/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Forge vs Pacific (HD)" tvg-name="Forge vs Pacific (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEClwg4veAhDcQfECYjaQiTYcTwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Forge vs Pacific (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/qygtqtvkVyXHZDTGfLvQaayFdBhQWzBg/echo/stream/forge-vs-pacific-fc-football-1517333/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Internacional vs Atletico-MG (HD)" tvg-name="Internacional vs Atletico-MG (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikCnrkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCH4gmdcgwDGzcT3giq3Al1ZgwufFaA.webp" group-title="Football", Internacional vs Atletico-MG (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb5.strmd.st/secure/tdqFcSWGrLMVdRAuNolXiThDTVunaZxT/echo/stream/internacional-vs-atletico-mg-football-1492346/1/playlist.m3u8
+https://lb2.strmd.st/secure/GbqwloIboYjJzyqdYOShBjnoYCCvFwLn/echo/stream/internacional-vs-atletico-mg-football-1492346/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Independiente vs Independiente Rivadavia (HD)" tvg-name="Independiente vs Independiente Rivadavia (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGCTQsYUQAYQ3EHxBSQKU8auITKAsC0x+w2fRS62KLrvL0ssryZaMA96UQggA.webp" group-title="Football", Independiente vs Independiente Rivadavia (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb12.strmd.st/secure/wsAGKIQBAZnJViZzPcCtegdoqKIKEAvw/echo/stream/independiente-vs-independ-rivadavia-football-1493084/1/playlist.m3u8
+https://lb1.strmd.st/secure/LPGULAttkDnkvPuRIAlnnyZtjKcRkuCP/echo/stream/independiente-vs-independ-rivadavia-football-1493084/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Deportes Tolima vs Atlético Bucaramanga (HD)" tvg-name="Deportes Tolima vs Atlético Bucaramanga (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMAAMIbiBBywSHSCkg+ekBBCJTunCgLAkFPsNn0UYFRrZfy9LFkNJlowLzFRCCA.webp" group-title="Football", Deportes Tolima vs Atlético Bucaramanga (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/AZoAGjHrUslStjYoEBAdjfoTLWsQztDL/echo/stream/deportes-tolima-vs-bucaramanga-football-1549736/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cavalry vs Atlético Ottawa (HD)" tvg-name="Cavalry vs Atlético Ottawa (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcFLDcwo0RBDcQfECf0wQiFAYu4CwJBT7DZ9FDrYouO8vSyzPTLRg7vR6QA.webp" group-title="Football", Cavalry vs Atlético Ottawa (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb9.strmd.st/secure/kzfDVPPJaOAzwJFbJQNrDNocDRgmotkG/echo/stream/cavalry-fc-vs-atletico-ottawa-football-1517332/1/playlist.m3u8
+https://lb8.strmd.st/secure/meZhWkwVsFjQDccYEaOqIsYvQnjaOtJA/echo/stream/deportes-tolima-vs-bucaramanga-football-1549736/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NEC Nijmegen vs Excelsior (HD)" tvg-name="NEC Nijmegen vs Excelsior (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFGF5SwIEDGYhuIPrtxmYIFJZBTDBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", NEC Nijmegen vs Excelsior (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/fxGLOyQBQkwkTFnZcAOmPTTDBcDjKihd/echo/stream/nec-nijmegen-vs-excelsior-football-1552136/1/playlist.m3u8
+https://lb9.strmd.st/secure/sfIbRiKWzXIoOknedulMgogwrNFLOYAm/echo/stream/nec-nijmegen-vs-excelsior-football-1552136/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sonnenhof Großaspach vs Arminia Bielefeld (HD)" tvg-name="Sonnenhof Großaspach vs Arminia Bielefeld (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdimzAwc-CF76QWECeOIYhlCAghpLJBSwi5jTapQ8wZeEWpyP+KzaXuJiEEA.webp" group-title="Football", Sonnenhof Großaspach vs Arminia Bielefeld (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/IWGftcGYMyJKNGEPCbIzuIcDomkiyiKw/echo/stream/sg-sonnenhof-grossaspach-vs-arminia-bielefeld-football-1550683/1/playlist.m3u8
+https://lb12.strmd.st/secure/EIYzndlhhAWewxPBWZStDmMTDPZVmFeV/echo/stream/sg-sonnenhof-grossaspach-vs-arminia-bielefeld-football-1550683/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spanish - Liga MX (HD)" tvg-name="Spanish - Liga MX (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKnzAzaJEHu4g+ekBBMgYIXRYN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Spanish - Liga MX (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb5.strmd.st/secure/DoIROlbArabdXFvNZjhPZSzMlGaGRIza/rtmp/stream/atXmt0CkYqxKVxCtpejQqS1dwWoEm-_iFJi-9z71UiuvmsEVJGxK6Ky0Y7wdH65i-G5qG7-FwkA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spanish - Liga MX (SD)" tvg-name="Spanish - Liga MX (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKnzAzaJEHu4g+ekBBMgYIXRYN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Spanish - Liga MX (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/jgpqaEWIGpWlMLxDKUFYcianwAccisnK/rtmp/stream/zuE_21DNw8YO6uAVf_7TdXmimaFKNi3puOyhX6uQGjtOtLqzbPUa219plJ7ysB0h87psgmSy5vfggBOm/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CD Guadalajara vs Tijuana (HD)" tvg-name="CD Guadalajara vs Tijuana (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKnzAzaJEHu4g+ekBBMgYIXRYN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", CD Guadalajara vs Tijuana (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/coHmOnXQZSZHIHokIjxYcJPxLDdmkTMX/echo/stream/guadalajara-chivas-vs-club-tijuana-football-1550932/1/playlist.m3u8
 

@@ -1,9 +1,57 @@
 {
   "category_name": "Football Live",
-  "total_items": 6,
-  "updated_time_bd": "2026-08-23 | 04:49:54",
+  "total_items": 11,
+  "updated_time_bd": "2026-08-23 | 05:09:05",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "ppv-quer-taro-vs-toluca",
+      "title": "Querétaro vs. Toluca",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 11:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcQGNSICSERYQEYPGWKR04dJTAqIXcJBkDUkuJAwQWHaWARDtxee38wg9QWz0whYElwTtIVdWJU0ybQ8VMFdbGwggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - Liga MX (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcQGNSICSERYQEYPGWKR04dJTAqIXcJBkDUkuJAwQWHaWARDtxee38wg9QWz0whYElwTtIVdWJU0ybQ8VMFdbGwggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/CUohVasNUJbrXqKfuHJkthgyFewzUePJ/rtmp/stream/RvAwNzB4mY1SAMICADMM8s4C1of3oAfPOCuUag0PZX8_aCxfvNdrcYuFr3DDStoJLG6yd3Ykjew/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - Liga MX (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcQGNSICSERYQEYPGWKR04dJTAqIXcJBkDUkuJAwQWHaWARDtxee38wg9QWz0whYElwTtIVdWJU0ybQ8VMFdbGwggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb14.strmd.st/secure/lTlGVuXvVNgdHrysMGUKLBYhiOEMkSUl/rtmp/stream/OozDPe6QUuq0-tcRDy-no8zOPFG9sbZ0OJooVGwkQLQXBedpWQwkavevr5Jdhr2Xw_LxggH5hacU-5z6/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "forge-vs-pacific-2427397",
+      "title": "Forge vs Pacific",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 11:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEClwg4veAhDcQfECYjaQiTYcTwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Forge vs Pacific (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEClwg4veAhDcQfECYjaQiTYcTwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/qygtqtvkVyXHZDTGfLvQaayFdBhQWzBg/echo/stream/forge-vs-pacific-fc-football-1517333/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "internacional-vs-atletico-mg-football-1492346",
       "title": "Internacional vs Atletico-MG",
@@ -21,7 +69,7 @@
           "channel_name": "Internacional vs Atletico-MG (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikCnrkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCH4gmdcgwDGzcT3giq3Al1ZgwufFaA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/tdqFcSWGrLMVdRAuNolXiThDTVunaZxT/echo/stream/internacional-vs-atletico-mg-football-1492346/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/GbqwloIboYjJzyqdYOShBjnoYCCvFwLn/echo/stream/internacional-vs-atletico-mg-football-1492346/1/playlist.m3u8"
         }
       ]
     },
@@ -42,7 +90,7 @@
           "channel_name": "Independiente vs Independiente Rivadavia (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGCTQsYUQAYQ3EHxBSQKU8auITKAsC0x+w2fRS62KLrvL0ssryZaMA96UQggA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/wsAGKIQBAZnJViZzPcCtegdoqKIKEAvw/echo/stream/independiente-vs-independ-rivadavia-football-1493084/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/LPGULAttkDnkvPuRIAlnnyZtjKcRkuCP/echo/stream/independiente-vs-independ-rivadavia-football-1493084/1/playlist.m3u8"
         }
       ]
     },
@@ -63,28 +111,7 @@
           "channel_name": "Deportes Tolima vs Atlético Bucaramanga (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMAAMIbiBBywSHSCkg+ekBBCJTunCgLAkFPsNn0UYFRrZfy9LFkNJlowLzFRCCA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/AZoAGjHrUslStjYoEBAdjfoTLWsQztDL/echo/stream/deportes-tolima-vs-bucaramanga-football-1549736/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "cavalry-vs-atl-tico-ottawa-2427396",
-      "title": "Cavalry vs Atlético Ottawa",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 08:30 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcFLDcwo0RBDcQfECf0wQiFAYu4CwJBT7DZ9FDrYouO8vSyzPTLRg7vR6QA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Cavalry vs Atlético Ottawa (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcFLDcwo0RBDcQfECf0wQiFAYu4CwJBT7DZ9FDrYouO8vSyzPTLRg7vR6QA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/kzfDVPPJaOAzwJFbJQNrDNocDRgmotkG/echo/stream/cavalry-fc-vs-atletico-ottawa-football-1517332/1/playlist.m3u8"
+          "direct_stream_url": "https://lb8.strmd.st/secure/meZhWkwVsFjQDccYEaOqIsYvQnjaOtJA/echo/stream/deportes-tolima-vs-bucaramanga-football-1549736/1/playlist.m3u8"
         }
       ]
     },
@@ -105,7 +132,7 @@
           "channel_name": "NEC Nijmegen vs Excelsior (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFGF5SwIEDGYhuIPrtxmYIFJZBTDBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/fxGLOyQBQkwkTFnZcAOmPTTDBcDjKihd/echo/stream/nec-nijmegen-vs-excelsior-football-1552136/1/playlist.m3u8"
+          "direct_stream_url": "https://lb9.strmd.st/secure/sfIbRiKWzXIoOknedulMgogwrNFLOYAm/echo/stream/nec-nijmegen-vs-excelsior-football-1552136/1/playlist.m3u8"
         }
       ]
     },
@@ -126,7 +153,40 @@
           "channel_name": "Sonnenhof Großaspach vs Arminia Bielefeld (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdimzAwc-CF76QWECeOIYhlCAghpLJBSwi5jTapQ8wZeEWpyP+KzaXuJiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/IWGftcGYMyJKNGEPCbIzuIcDomkiyiKw/echo/stream/sg-sonnenhof-grossaspach-vs-arminia-bielefeld-football-1550683/1/playlist.m3u8"
+          "direct_stream_url": "https://lb12.strmd.st/secure/EIYzndlhhAWewxPBWZStDmMTDPZVmFeV/echo/stream/sg-sonnenhof-grossaspach-vs-arminia-bielefeld-football-1550683/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "cd-guadalajara-vs-tijuana-2487490",
+      "title": "CD Guadalajara vs Tijuana",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 11:07 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKnzAzaJEHu4g+ekBBMgYIXRYN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - Liga MX (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKnzAzaJEHu4g+ekBBMgYIXRYN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/DoIROlbArabdXFvNZjhPZSzMlGaGRIza/rtmp/stream/atXmt0CkYqxKVxCtpejQqS1dwWoEm-_iFJi-9z71UiuvmsEVJGxK6Ky0Y7wdH65i-G5qG7-FwkA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - Liga MX (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKnzAzaJEHu4g+ekBBMgYIXRYN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb3.strmd.st/secure/jgpqaEWIGpWlMLxDKUFYcianwAccisnK/rtmp/stream/zuE_21DNw8YO6uAVf_7TdXmimaFKNi3puOyhX6uQGjtOtLqzbPUa219plJ7ysB0h87psgmSy5vfggBOm/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "CD Guadalajara vs Tijuana (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKnzAzaJEHu4g+ekBBMgYIXRYN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/coHmOnXQZSZHIHokIjxYcJPxLDdmkTMX/echo/stream/guadalajara-chivas-vs-club-tijuana-football-1550932/1/playlist.m3u8"
         }
       ]
     }
