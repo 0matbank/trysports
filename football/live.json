@@ -1,50 +1,7 @@
 {
   "category_name": "Football Live",
-  "total_items": 2,
-  "updated_time_bd": "2026-08-22 | 05:49:59",
+  "total_items": 0,
+  "updated_time_bd": "2026-08-22 | 06:25:06",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "estudiantes-de-r-o-cuarto-vs-san-lorenzo-2398030",
-      "title": "Estudiantes de Río Cuarto vs San Lorenzo",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "21 Aug 2026, 11:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reoVpg5oENxB8QUkCiMHziEiBgFgSCn2Gz6KMCpRc35ellkemWm5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Estudiantes de Río Cuarto vs San Lorenzo (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reoVpg5oENxB8QUkCiMHziEiBgFgSCn2Gz6KMCpRc35ellkemWm5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/EIGomdfpisdZHREKzEeSMmxVlfFherFD/echo/stream/estudiantes-de-rio-cuarto-vs-san-lorenzo-football-1493081/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "waldhof-mannheim-vs-kaiserslautern-2483310",
-      "title": "Waldhof Mannheim vs Kaiserslautern",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "21 Aug 2026, 04:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrV5hZ1EGPwheILCFMnEMQyBR6Qi-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Waldhof Mannheim vs Kaiserslautern (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrV5hZ1EGPwheILCFMnEMQyBR6Qi-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/bPruTrkHUMHhDfTPgZgnWkSzVYVPycnt/echo/stream/waldhof-mannheim-vs-1-fc-kaiserslautern-football-1550691/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
