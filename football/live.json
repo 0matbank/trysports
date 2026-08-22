@@ -1,30 +1,9 @@
 {
   "category_name": "Football Live",
-  "total_items": 4,
-  "updated_time_bd": "2026-08-22 | 09:53:52",
+  "total_items": 3,
+  "updated_time_bd": "2026-08-22 | 10:34:25",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "club-queretaro-vs-toluca-football-1550933",
-      "title": "Club Queretaro vs Toluca",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 03:10 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAx65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCpJ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Club Queretaro vs Toluca (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAx65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCpJ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/AQJgcZOHLfHTaTtTdieMoyMCTStYPDgj/echo/stream/club-queretaro-vs-toluca-football-1550933/1/playlist.m3u8"
-        }
-      ]
-    },
     {
       "id": "fc-juarez-vs-club-america-football-1550931",
       "title": "FC Juarez vs Club America",
@@ -42,7 +21,7 @@
           "channel_name": "FC Juarez vs Club America (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAq65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCoDG9cg3VZxPeCKrcCXVmDC58FoA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/REshOMSZysuDlanIuBCPQXtehLBDkKYo/echo/stream/fc-juarez-vs-club-america-football-1550931/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/KjPCqEpUCRBjnZszNHRaUgOnyBPiqkpy/echo/stream/fc-juarez-vs-club-america-football-1550931/1/playlist.m3u8"
         }
       ]
     },
@@ -63,13 +42,13 @@
           "channel_name": "Spanish - TUDN (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IRDQggYIFCCwhhikFWmlgUkBpHiQAY3E6DMbPKPBVExaYgpyEUGEEim2emELAkuPXaFPWB2F1OwJgeHInbTIIIA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/mqyuciLhpOqkHOPYtpYVLALqtUyEsWBZ/rtmp/stream/3Yvbw-cT15WCpYuoo8B1c5Ygm_QYl1yO56wCGaEF0CURoD-Pb2mDdeC34wgEjIdG-cLbDLFbtwc/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/xUaBZnwCsUodBnApXXEZNRMobcJvTPGa/rtmp/stream/npwzSp-4JqHj6Dx9_cP8MgFNFYNnDigMrYiKogZoXR1HW64yb7pdXkIjIQB9TACsPNLiQe6bwGg/1/playlist.m3u8"
         },
         {
           "channel_name": "Spanish - TUDN (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IRDQggYIFCCwhhikFWmlgUkBpHiQAY3E6DMbPKPBVExaYgpyEUGEEim2emELAkuPXaFPWB2F1OwJgeHInbTIIIA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb10.strmd.st/secure/ctxgFOLxuZaIWjLqaQSIiboiYmpsqApw/rtmp/stream/VlX7VlF2sssmR-pKVomAhWC4aVlj9unhuDkcvU6HvZ1rk5curZshnR-b7Wrw_hMk6lyyHx8DCM4zMJnO/1/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/jFutaKjtcOsmviaCqoilLTLgQzWMfuvq/rtmp/stream/GW_rjGjO8ehs3e_UIEsJykuzTgr-fcxJ2hLxLEQnzuVkzH29lXg8j92Yn77OddOrQAeoijIg0Q18lmj-/1/playlist.m3u8"
         }
       ]
     }
