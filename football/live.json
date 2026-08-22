@@ -1,35 +1,7 @@
 {
   "category_name": "Football Live",
-  "total_items": 2,
-  "updated_time_bd": "2026-08-22 | 11:39:34",
+  "total_items": 0,
+  "updated_time_bd": "2026-08-22 | 12:01:19",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "ppv-fc-juarez-vs-am-rica",
-      "title": "FC Juarez vs. América",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 03:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IRDQggYIFCCwhhikFWmlgUkBpHiQAY3E6DMbPKPBVExaYgpyEUGEEim2emELAkuPXaFPWB2F1OwJgeHInbTIIIA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Spanish - TUDN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IRDQggYIFCCwhhikFWmlgUkBpHiQAY3E6DMbPKPBVExaYgpyEUGEEim2emELAkuPXaFPWB2F1OwJgeHInbTIIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/GWVjwpvnHleRAhfgFWbyAOUWmcvPwPeI/admin/stream/ppv-fc-juarez-vs-am-rica/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - TUDN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IRDQggYIFCCwhhikFWmlgUkBpHiQAY3E6DMbPKPBVExaYgpyEUGEEim2emELAkuPXaFPWB2F1OwJgeHInbTIIIA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb10.strmd.st/secure/thXawHJLHGIYGROdhuMEaWdIcSanzXDx/admin/stream/ppv-fc-juarez-vs-am-rica/2/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
