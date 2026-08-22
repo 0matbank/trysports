@@ -1,7 +1,83 @@
 {
   "category_name": "Football Live",
-  "total_items": 0,
-  "updated_time_bd": "2026-08-22 | 06:25:06",
+  "total_items": 5,
+  "updated_time_bd": "2026-08-22 | 07:58:44",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "tigres-uanl-vs-atlante-2487493",
+      "title": "Tigres UANL vs Atlante",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 01:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVRwxgSEHu4g+ekBBMgYIEuZAGUBHRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - FOX Deportes (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVRwxgSEHu4g+ekBBMgYIEuZAGUBHRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/KOxRlYclzPOgwTbFlrIsUhGrCSLjciGt/rtmp/stream/oiNagvVlAvHThpp3ccv9EbvPGfNKNVHWsdEYd9NjNTg8dQ941ZHXj16WAi7yyjHYppI67x7EJ8Ov/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - FOX Deportes (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVRwxgSEHu4g+ekBBMgYIEuZAGUBHRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb5.strmd.st/secure/drHMnTpuwQEvdVnrYAWzlcxDHKVCubdk/rtmp/stream/cS9-iIwUDMpBFZTAqeRstxDvDdm23Z2_g6H2xr8T2VeG-aGDMWqCzBhfqw8k9NZaqZ8xvaOI622Crq9bfA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Tigres UANL vs Atlante (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVRwxgSEHu4g+ekBBMgYIEuZAGUBHRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/rjgWtvXPSWcQKkNgoqTlPWOWzRQQkSQl/echo/stream/tigres-uanl-vs-atlante-fc-football-1550936/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "le-n-vs-monterrey-2487492",
+      "title": "León vs Monterrey",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 01:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDKp8wIYGEghuIPiFMQQ5mCBIgrRlAWBIKfYbPoowKlFy-l6WLI+TLT6ovThQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "León vs Monterrey (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDKp8wIYGEghuIPiFMQQ5mCBIgrRlAWBIKfYbPoowKlFy-l6WLI+TLT6ovThQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/gxHFMROasKwqOXAODMpKRYCvRgkbNJcI/echo/stream/leon-vs-monterrey-football-1550934/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "alianza-de-valledupar-vs-deportivo-pereira-2481142",
+      "title": "Alianza de Valledupar vs Deportivo Pereira",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 12:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBkoQEECRDcDIPnp0hEifTn0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Alianza de Valledupar vs Deportivo Pereira (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBkoQEECRDcDIPnp0hEifTn0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/dOwAumRbgyPVjNMXYJzkCujlQopcKvDA/echo/stream/alianza-valledupar-vs-deportivo-pereira-football-1549734/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
