@@ -1,30 +1,9 @@
 {
   "category_name": "Football Live",
-  "total_items": 3,
-  "updated_time_bd": "2026-08-22 | 11:03:56",
+  "total_items": 2,
+  "updated_time_bd": "2026-08-22 | 11:39:34",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "fc-juarez-vs-club-america-football-1550931",
-      "title": "FC Juarez vs Club America",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 03:10 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAq65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCoDG9cg3VZxPeCKrcCXVmDC58FoA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "FC Juarez vs Club America (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAq65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCoDG9cg3VZxPeCKrcCXVmDC58FoA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/xCiXQMeISXHCgtmTFjGIqDLJVuVndgry/echo/stream/fc-juarez-vs-club-america-football-1550931/1/playlist.m3u8"
-        }
-      ]
-    },
     {
       "id": "ppv-fc-juarez-vs-am-rica",
       "title": "FC Juarez vs. América",
@@ -42,13 +21,13 @@
           "channel_name": "Spanish - TUDN (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IRDQggYIFCCwhhikFWmlgUkBpHiQAY3E6DMbPKPBVExaYgpyEUGEEim2emELAkuPXaFPWB2F1OwJgeHInbTIIIA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/hRnidbquZaYFiquqohHrOWKCpXHGEtZr/rtmp/stream/3u2VPb9jTa3WFRrFLSzHIzYrYXzLWeGVkvZcZXDf8-NfO5XznUZwHrmaOXKfyc5PDKGJw_O420s/1/playlist.m3u8"
+          "direct_stream_url": "https://lb12.strmd.st/secure/GWVjwpvnHleRAhfgFWbyAOUWmcvPwPeI/admin/stream/ppv-fc-juarez-vs-am-rica/1/playlist.m3u8"
         },
         {
           "channel_name": "Spanish - TUDN (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IRDQggYIFCCwhhikFWmlgUkBpHiQAY3E6DMbPKPBVExaYgpyEUGEEim2emELAkuPXaFPWB2F1OwJgeHInbTIIIA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb4.strmd.st/secure/ufttbcWWqGrfMAkjhxlbHYfIfPiaRYrp/rtmp/stream/dlU8u4AdzL8LmmRGxph_qlGb5Y-8uLbFsKjcr5ON8y---cYC0PlqUjxJGSXZfaOGWN6uHce1fgk_QemV/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/thXawHJLHGIYGROdhuMEaWdIcSanzXDx/admin/stream/ppv-fc-juarez-vs-am-rica/2/playlist.m3u8"
         }
       ]
     }
