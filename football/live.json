@@ -1,16 +1,16 @@
 {
   "category_name": "Football Live",
-  "total_items": 5,
-  "updated_time_bd": "2026-08-22 | 09:02:38",
+  "total_items": 4,
+  "updated_time_bd": "2026-08-22 | 09:53:52",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "tigres-uanl-vs-atlante-2487493",
-      "title": "Tigres UANL vs Atlante",
+      "id": "club-queretaro-vs-toluca-football-1550933",
+      "title": "Club Queretaro vs Toluca",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "22 Aug 2026, 01:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVRwxgSEHu4g+ekBBMgYIEuZAGUBHRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "start_time_bd": "22 Aug 2026, 03:10 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAx65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCpJ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -18,22 +18,31 @@
       },
       "streams": [
         {
-          "channel_name": "Spanish - FOX Deportes (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVRwxgSEHu4g+ekBBMgYIEuZAGUBHRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_name": "Club Queretaro vs Toluca (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAx65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCpJ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/xcrzFFNvDoIRlPlUSXxzeogESherxzDW/rtmp/stream/0uipspZ6l2i-SVDJcafbK-KiAOpCYcdhel3RKP8dEICQwcOxNCJGLNl4hZspv1L48qOsRxmNZPJl/1/playlist.m3u8"
-        },
+          "direct_stream_url": "https://lb1.strmd.st/secure/AQJgcZOHLfHTaTtTdieMoyMCTStYPDgj/echo/stream/club-queretaro-vs-toluca-football-1550933/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "fc-juarez-vs-club-america-football-1550931",
+      "title": "FC Juarez vs Club America",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Aug 2026, 03:10 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAq65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCoDG9cg3VZxPeCKrcCXVmDC58FoA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
         {
-          "channel_name": "Spanish - FOX Deportes (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVRwxgSEHu4g+ekBBMgYIEuZAGUBHRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb13.strmd.st/secure/AsZKJpUkkInjMMXtqTfFFRRFRefnZORg/rtmp/stream/rSFXdQuyZFXNLW0RtlFUtsKBgwfpR4RcHMWsgdpTIssmhyd8WJeCw_E5sQOYJts23bQxyjtMUjoSK4Yosw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Tigres UANL vs Atlante (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVRwxgSEHu4g+ekBBMgYIEuZAGUBHRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_name": "FC Juarez vs Club America (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAq65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCoDG9cg3VZxPeCKrcCXVmDC58FoA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/uPpsryAwiybhGdLaoiUidSfFtOmNBijR/echo/stream/tigres-uanl-vs-atlante-fc-football-1550936/1/playlist.m3u8"
+          "direct_stream_url": "https://lb4.strmd.st/secure/REshOMSZysuDlanIuBCPQXtehLBDkKYo/echo/stream/fc-juarez-vs-club-america-football-1550931/1/playlist.m3u8"
         }
       ]
     },
@@ -54,13 +63,13 @@
           "channel_name": "Spanish - TUDN (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IRDQggYIFCCwhhikFWmlgUkBpHiQAY3E6DMbPKPBVExaYgpyEUGEEim2emELAkuPXaFPWB2F1OwJgeHInbTIIIA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/ohrzQzilBWhRPofqArsVaHgPtkNjaIra/rtmp/stream/m56K1CXRhmINNkBMBURo-MPbI5pxHuPGdqY_5XeaenqlGz4DqDB2irPrJ38QLxVtmfOzGS712DE/1/playlist.m3u8"
+          "direct_stream_url": "https://lb9.strmd.st/secure/mqyuciLhpOqkHOPYtpYVLALqtUyEsWBZ/rtmp/stream/3Yvbw-cT15WCpYuoo8B1c5Ygm_QYl1yO56wCGaEF0CURoD-Pb2mDdeC34wgEjIdG-cLbDLFbtwc/1/playlist.m3u8"
         },
         {
           "channel_name": "Spanish - TUDN (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IRDQggYIFCCwhhikFWmlgUkBpHiQAY3E6DMbPKPBVExaYgpyEUGEEim2emELAkuPXaFPWB2F1OwJgeHInbTIIIA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb11.strmd.st/secure/FQPsVhKIEEnHYZzuPWZqTalWiILXBkiN/rtmp/stream/sIyWFV9UiprrmTZojZVSudKonXCfTY1fUhhcI2s5AxN-kHQtC-JjSk9rVJBa08ELUUJvo5IEiVbpQVOk/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/ctxgFOLxuZaIWjLqaQSIiboiYmpsqApw/rtmp/stream/VlX7VlF2sssmR-pKVomAhWC4aVlj9unhuDkcvU6HvZ1rk5curZshnR-b7Wrw_hMk6lyyHx8DCM4zMJnO/1/playlist.m3u8"
         }
       ]
     }
