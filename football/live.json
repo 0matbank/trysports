@@ -1,7 +1,71 @@
 {
   "category_name": "Football Live",
-  "total_items": 0,
-  "updated_time_bd": "2026-08-23 | 15:54:41",
+  "total_items": 3,
+  "updated_time_bd": "2026-08-23 | 16:25:19",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "go-ahead-eagles-vs-ado-den-haag-2489088",
+      "title": "Go Ahead Eagles vs ADO Den Haag",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "23 Aug 2026, 10:15 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbrmAAGYEjBSQEEBr4gzOHDBAprIA-AK6KfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Go Ahead Eagles vs ADO Den Haag (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbrmAAGYEjBSQEEBr4gzOHDBAprIA-AK6KfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/McIzHeFAlgTpPUXUQwxvXypFIDEgVgrq/echo/stream/go-ahead-eagles-vs-ado-den-haag-football-1552139/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "sonderjyske-vs-fc-nordsjaelland-football-1548997",
+      "title": "Sonderjyske vs FC Nordsjaelland",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "23 Aug 2026, 10:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEKEP3rkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEKECHrkGAY2bie8EVW4EurMGFz5zQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sonderjyske vs FC Nordsjaelland (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEKEP3rkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEKECHrkGAY2bie8EVW4EurMGFz5zQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/wEbfYhxaeCXHbMFvzlkJbfqULcbPzEmR/echo/stream/sonderjyske-vs-fc-nordsjaelland-football-1548997/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "chaves-vs-avs-2512944",
+      "title": "Chaves vs AVS",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "23 Aug 2026, 10:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXiEo8QUkDBDcQfECd3Gc+wxFwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Chaves vs AVS (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXiEo8QUkDBDcQfECd3Gc+wxFwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/BErQDnZtcdwiBvKylrfNdNFWUhLBKGlY/echo/stream/chaves-vs-avs-football-1576459/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
