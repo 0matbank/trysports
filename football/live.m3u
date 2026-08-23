@@ -1,90 +1,76 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 12
-# UPDATED Time and date BD: 2026-08-24 | 04:24:02
+# TOTAL-ITEMS: 10
+# UPDATED Time and date BD: 2026-08-24 | 04:50:08
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Coritiba vs Corinthians (HD)" tvg-name="Coritiba vs Corinthians (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMA1SwosHJDcQfEFJAoTIS4lM4JTJBT7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp" group-title="Football", Coritiba vs Corinthians (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb7.strmd.st/secure/TRAOaUBEkGkGvGdKXvIwrswpVIAukICC/echo/stream/coritiba-vs-corinthians-football-1492343/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="River Plate vs Vélez Sarsfield (HD)" tvg-name="River Plate vs Vélez Sarsfield (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFFG0ADCAFIQ3PSCkgUJ43xCJzCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="Football", River Plate vs Vélez Sarsfield (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb8.strmd.st/secure/jrsQfVguCoNeVwlvZloHloxNxDkmOseh/echo/stream/river-plate-vs-velez-sarsfield-football-1493088/1/playlist.m3u8
+https://lb1.strmd.st/secure/mPBKBOMQTpomFDEwtYGhGoCjbTscRzXa/echo/stream/river-plate-vs-velez-sarsfield-football-1493088/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Santos vs Mirassol (HD)" tvg-name="Santos vs Mirassol (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJOxAw2YcHxDcQ+qSBQgTIEIhOIUBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Santos vs Mirassol (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb5.strmd.st/secure/EeaURwPnsxocnhCKjeSzOKIfTTSAkumJ/echo/stream/santos-vs-mirassol-football-1492348/1/playlist.m3u8
+https://lb3.strmd.st/secure/TAFkazqnSbEzbpDcisnEKDBjPNPrGWVy/echo/stream/santos-vs-mirassol-football-1492348/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Chapecoense vs São Paulo (HD)" tvg-name="Chapecoense vs São Paulo (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN1hgUYaSD4b9IKSBTGQFxCe76CwJBT7DZ9HSpRdd5ellkemtGC6YqIQQA.webp" group-title="Football", Chapecoense vs São Paulo (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/VFivZcLptccInWscVhGhpoKuTnEpMdtI/echo/stream/chapecoense-sc-vs-sao-paulo-football-1492342/1/playlist.m3u8
+https://lb14.strmd.st/secure/cUEpWkkIHnlDpAGFkRZJvoYFDreoTvvA/echo/stream/chapecoense-sc-vs-sao-paulo-football-1492342/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Deportivo Pasto vs Llaneros (HD)" tvg-name="Deportivo Pasto vs Llaneros (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOHozgYbmA3cQfDSAhGTxjWZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Deportivo Pasto vs Llaneros (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/zUPUkICAiCxVCcejbgGMzPFTDzzpKIKt/echo/stream/deportivo-pasto-vs-llaneros-football-1549737/1/playlist.m3u8
+https://lb13.strmd.st/secure/CzGTlDijTJtaxdxWZEKWqnrPeeqTxwzg/echo/stream/deportivo-pasto-vs-llaneros-football-1549737/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAywPEFIQhuIPscOmSGyyhAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Apple TV (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb1.strmd.st/secure/OBYHbseHXdHUVpttMqOGUPLNlhCOVsqq/rtmp/stream/eIXPC0MX3Oe7txUf3lFzNuHIbJhvsNoZUoGMLHNVBMH9r-8VJ_MAebMl4a-cQctWGeCp0Q-3-zg/1/playlist.m3u8
+https://lb4.strmd.st/secure/nkiXLkFufNZHNwokMHtldKfcQbCffQAo/rtmp/stream/_13yzv3hizaco6u-iDKfDjMXFBtYvn16ijo6dKA46vu4DRUDcIFVRDrD8CzCdQxM_BJyRnnkSkc/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAywPEFIQhuIPscOmSGyyhAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Apple TV (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/jqkqNtUGbFFZWCMsrpTqFsFpxmLrLKBU/rtmp/stream/Q7PONa0ev1aLd2t2aolbxXO34jUXsVXqUlQgfte4uMnyJD4mr3uXPGczLF0OWu_tOwrQWmVwDIgEunoD/1/playlist.m3u8
+https://lb8.strmd.st/secure/oylodcOLvYkRniBtYxtCFKCafDlWBUTO/rtmp/stream/WnkefqE3t9xRnLZS1qXy8ZQkmhuXq0wBu14tQQtMdL1WnTw-_5E1MIuqHIlMNYA6gRrk-XpPKUtPJoJs/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="New England Revolution vs New York City FC (HD)" tvg-name="New England Revolution vs New York City FC (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAywPEFIQhuIPscOmSGyyhAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", New England Revolution vs New York City FC (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb8.strmd.st/secure/neZkSgZOEsjNgxpSiESAiTcFshFRzCWz/delta/stream/live_mls_new-england-ny-city-live-streaming-538844832/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="New England Revolution vs New York City FC (HD)" tvg-name="New England Revolution vs New York City FC (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAywPEFIQhuIPscOmSGyyhAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", New England Revolution vs New York City FC (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb15.strmd.st/secure/lKASHNGtiRZcgajOMCNFGWJKZCGUFKQT/echo/stream/new-england-revolution-vs-new-york-city-fc-football-1490419/1/playlist.m3u8
+https://lb1.strmd.st/secure/EqUIeUeNrrDcNvaPzXSZjpfdIStYHVlD/echo/stream/new-england-revolution-vs-new-york-city-fc-football-1490419/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Panathinaikos vs Kifisia (HD)" tvg-name="Panathinaikos vs Kifisia (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGAG8ADAmYhuIPiBIgzKE0ZAwQUkCgLANMfsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Football", Panathinaikos vs Kifisia (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb1.strmd.st/secure/UOYqaOyTgKnCqsUtOQqsJVtmdMaQQERT/echo/stream/panathinaikos-vs-kifisia-football-1593293/1/playlist.m3u8
+https://lb6.strmd.st/secure/epAwBsuuDlykiuOQtUaVumauidrtbpiB/echo/stream/panathinaikos-vs-kifisia-football-1593293/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Thun vs Servette (HD)" tvg-name="Thun vs Servette (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXgAZgSMEhAD8IbvpM5jfEFJAxrIFAW0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", Thun vs Servette (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/JjaurEZLPOditSEkguQGwEkgvkYXlroo/echo/stream/fc-thun-vs-servette-fc-football-1555370/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Grasshoppers vs FC Sion (HD)" tvg-name="Grasshoppers vs FC Sion (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGIpDx65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IRDHrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title="Football", Grasshoppers vs FC Sion (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/pWJEoVZTiJaKUsWfwaFekFDhPCBVqWXk/echo/stream/grasshoppers-vs-fc-sion-football-1555368/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FC Lugano vs FC ST. Gallen (HD)" tvg-name="FC Lugano vs FC ST. Gallen (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IGIvrkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGIsX1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title="Football", FC Lugano vs FC ST. Gallen (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/MiFyaFpOluRWjXkDfRoeIALvZrlgUTZo/echo/stream/fc-lugano-vs-fc-st-gallen-football-1555369/1/playlist.m3u8
+https://lb9.strmd.st/secure/xIXjMjcyLLdXkEHwZDlEdpNJIKoHTLRF/echo/stream/fc-thun-vs-servette-fc-football-1555370/1/playlist.m3u8
 
