@@ -1,27 +1,76 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 3
-# UPDATED Time and date BD: 2026-08-23 | 16:51:54
+# TOTAL-ITEMS: 10
+# UPDATED Time and date BD: 2026-08-23 | 17:22:59
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="SSV Jeddeloh vs 1. FC Heidenheim (HD)" tvg-name="SSV Jeddeloh vs 1. FC Heidenheim (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiGyr65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZTHrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title="Football", SSV Jeddeloh vs 1. FC Heidenheim (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/sTJsbwQmhJJDosobizWXdvGkfiuwFNdJ/echo/stream/ssv-jeddeloh-vs-1-fc-heidenheim-football-1550687/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+ (HD)" tvg-name="Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAkQIHsClgkIbhp24QEEFNM6UGgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Football", Paramount+ (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb1.strmd.st/secure/amWwSiAplAbmHHNyFjPrCZgqFwLGTgXu/rtmp/stream/rKrKxVNHxalegUemtYRVZgZuDMjr40RMLEcBsPLJl3sRxSmE12CWG5zfwceafUyJajFLEN9GPJQz/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+ (SD)" tvg-name="Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAkQIHsClgkIbhp24QEEFNM6UGgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Football", Paramount+ (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb4.strmd.st/secure/oNTJReMLeRNjWeKNDwCVSpQPOYgOBEkO/rtmp/stream/QUWh7DBJlxnP1JQAlm3BryorCmqeOP6OfFISqksIDW3zCxkZnhHn8XmM87QiRFOuAVEUQsam0c09ywNqOg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="West Bromwich Albion vs Burnley (HD)" tvg-name="West Bromwich Albion vs Burnley (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAkQIHsClgkIbhp24QEEFNM6UGgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Football", West Bromwich Albion vs Burnley (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb13.strmd.st/secure/LWRCQIykbgJsWdnBeKqAXBZdVgXiRFcY/delta/stream/live_championship_west-brom-burnley-live-streaming-607999824/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="West Bromwich Albion vs Burnley (HD)" tvg-name="West Bromwich Albion vs Burnley (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAkQIHsClgkIbhp24QEEFNM6UGgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Football", West Bromwich Albion vs Burnley (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb13.strmd.st/secure/WiJlnnrYZkAINqkgRpsjkfRnxJOUDKHs/echo/stream/west-brom-vs-burnley-football-1563104/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="West Bromwich Albion vs Burnley (HD)" tvg-name="West Bromwich Albion vs Burnley (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAkQIHsClgkIbhp24QEEFNM6UGgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Football", West Bromwich Albion vs Burnley (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://cdn15.zohanayaan.com:1686/hls/nwestbromwichalbion.m3u8?md5=KmdGwSCAFch2D2LFHkeGUA&expires=1787491356
+
+#EXTINF:-1 tvg-id="Greuther Fürth vs Bochum (HD)" tvg-name="Greuther Fürth vs Bochum (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdh15gkHMP3wheILCFMnEMQyBQgIIGCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp" group-title="Football", Greuther Fürth vs Bochum (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb11.strmd.st/secure/SXfbDCgyQdWrgAFAcTBUibpRDNNIGvJr/echo/stream/spvgg-greuther-furth-vs-vfl-bochum-football-1550682/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Go Ahead Eagles vs ADO Den Haag (HD)" tvg-name="Go Ahead Eagles vs ADO Den Haag (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbrmAAGYEjBSQEEBr4gzOHDBAprIA-AK6KfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Football", Go Ahead Eagles vs ADO Den Haag (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb8.strmd.st/secure/dHBWBPmQoYvRoctaviLSGzKVFcZeUVcj/echo/stream/go-ahead-eagles-vs-ado-den-haag-football-1552139/1/playlist.m3u8
+https://lb12.strmd.st/secure/VKjfhBKhQRahCJnfXNiQPjOiOfrkcZTR/echo/stream/go-ahead-eagles-vs-ado-den-haag-football-1552139/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sonderjyske vs FC Nordsjaelland (HD)" tvg-name="Sonderjyske vs FC Nordsjaelland (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEKEP3rkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEKECHrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title="Football", Sonderjyske vs FC Nordsjaelland (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb5.strmd.st/secure/vQTYiGpaINGOqDkHdCdnbONsETXeofFS/echo/stream/sonderjyske-vs-fc-nordsjaelland-football-1548997/1/playlist.m3u8
+https://lb6.strmd.st/secure/gqAmxyehENYTWpkpowgZEeekNBtSUrin/echo/stream/sonderjyske-vs-fc-nordsjaelland-football-1548997/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Chaves vs AVS (HD)" tvg-name="Chaves vs AVS (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXiEo8QUkDBDcQfECd3Gc+wxFwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Chaves vs AVS (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/aLpXsQozPQgVFkTqhknhxUTVVWLfsFdI/echo/stream/chaves-vs-avs-football-1576459/1/playlist.m3u8
+https://lb10.strmd.st/secure/lOTOeEJJNWqssTeeChzrOMImOeBZECzL/echo/stream/chaves-vs-avs-football-1576459/1/playlist.m3u8
 
