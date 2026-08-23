@@ -1,7 +1,7 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 17
-# UPDATED Time and date BD: 2026-08-23 | 10:24:10
+# TOTAL-ITEMS: 9
+# UPDATED Time and date BD: 2026-08-23 | 11:03:38
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
 #EXTINF:-1 tvg-id="Spanish - Liga MX (HD)" tvg-name="Spanish - Liga MX (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGDIoQ3Ivh0g+IYxBCmYIEiAs4YBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="Football", Spanish - Liga MX (HD)
@@ -9,117 +9,61 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb7.strmd.st/secure/xTeMPSWqGRAZjQVXDyjduNbdtoRnbWiy/rtmp/stream/7PWzGW0VoVWUqf-mE2b1uUKSuSMfvstGMUZeGVcFp_88QbRiWIf64s1xu9wWirFqhelJr2Hii-Q/1/playlist.m3u8
+https://lb2.strmd.st/secure/tkisBebSLYKBPBmRJXYvzrFNoqDwTZMj/rtmp/stream/r-aSbGlIb2-jLTpEyVh1n13Aef8J2tf_rZOgKB5nPiYsI_p-j77uHuYUnO1A1Hm1E0BZUE8uiIU/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Spanish - Liga MX (SD)" tvg-name="Spanish - Liga MX (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGDIoQ3Ivh0g+IYxBCmYIEiAs4YBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="Football", Spanish - Liga MX (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb11.strmd.st/secure/OgUnrowdKzWXnayzOxYRcWkibvkKOSSz/rtmp/stream/fJWaoswu45ava5XlM78IMKKPiC9EdqJWXhiJEBAoU_WC96ZVDDQgUVSBh7_IMnSgYsHjeCoymvfrBp33/1/playlist.m3u8
+https://lb11.strmd.st/secure/QDjSySGXFgdmyndMhKDdMxcmEezFyiAh/rtmp/stream/JfNT_dISTyIzzX0eI3bqg6EuFxS57_9hnpg6lXGgHnoVfeTaM_yq5-uUcE_scY7bVryU_JpgqWwtkUhM/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cruz Azul vs Atlas (HD)" tvg-name="Cruz Azul vs Atlas (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGDIoQ3Ivh0g+IYxBCmYIEiAs4YBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="Football", Cruz Azul vs Atlas (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb8.strmd.st/secure/UuvOmhYhImBtmZJUSLApBNEdqOUlxcTa/echo/stream/cruz-azul-vs-atlas-football-1550935/1/playlist.m3u8
+https://lb4.strmd.st/secure/hnoWlnshDbTxLvIUKqBOrBnryNSSmnSh/echo/stream/cruz-azul-vs-atlas-football-1550935/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkBKogU2EDXjZgNMlIDGIMuPXiIILNJAxDsmbuGypU-QohKZ-MIJFNF9wsCS5VMoY9a3zMhkCYAUwR2BbMgggA.webp" group-title="Football", Apple TV (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/pbrkfPPXNFlIgyJfTlgcaFBRlGqmPscI/rtmp/stream/O9VsvojSKdushDE1bJEU-a1IvwdoPc7F1sw7mCDErP5gOu48wHWE7oSb4yNBUI1nXP1Onsmfsri_Qw/1/playlist.m3u8
+https://lb14.strmd.st/secure/FzYwwtCtUEcFHxulORQiHwEAfXbzwJuh/rtmp/stream/T1FbcOmm2-RyjrV0q3fuLh1HCH7RoQfAI9VnycC2JQFx5s1m1wH9-sDQ9IM9_4vNfB8DGtf03NW1IQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkBKogU2EDXjZgNMlIDGIMuPXiIILNJAxDsmbuGypU-QohKZ-MIJFNF9wsCS5VMoY9a3zMhkCYAUwR2BbMgggA.webp" group-title="Football", Apple TV (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/RNHqFTwqHpJxngmhsgrVdRuAbanvsDSQ/rtmp/stream/zm6aEGU9x8eOZTKoFb5lH748cF_Kz_wvxLXnp6NRwlhKNt_3oYjd0pTLx0Uxue67mg6brpbVxS2roKiHzbQ/1/playlist.m3u8
+https://lb14.strmd.st/secure/tHOsfAFPEvLrZpAkYnmYkGnhqJLwZNVI/rtmp/stream/f_epJA62qp0oFNBIpIGLhYw-ttfZEqTyoV7kbn5veGM0km0ISh1ZrdHh97jW_TGfUDrxeOc7qkAfft4BXfc/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXkjm5sW7iD4gYIKfpB7EiEiBIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Apple TV (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb12.strmd.st/secure/DCGabGcdYwrlUVtEacIuBCwavnzUgjHC/rtmp/stream/3pN0kmIpE3fKUSQwUQqWEk9LaVUxK4q2qvceeK5JfCqT671Xw3eOdMEF7A9tdmRb-Are1wWKuzw/1/playlist.m3u8
+https://lb12.strmd.st/secure/GlcvrAapAYpmiOPxmuimBVTuBbYrYVOp/rtmp/stream/4OBgDJEpbrLSPnOVGEnUpJCUlZl9uqK0vFiWBQKyCrffjzr0xueyllU1Arwg1YG6m3YYm2atPew/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXkjm5sW7iD4gYIKfpB7EiEiBIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Apple TV (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb9.strmd.st/secure/kfxodvYEUvweLsqfOgTeZzwEnCWIbgYe/rtmp/stream/2mhcseMlixttObo4sbhxboHZQZg0wXG0ULHqIK3ItvRsq976dotmLQOnJ4Gq_UZpPx_LfyzE313fB8g5/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="San Jose Earthquakes vs Minnesota United (HD)" tvg-name="San Jose Earthquakes vs Minnesota United (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXkjm5sW7iD4gYIKfpB7EiEiBIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", San Jose Earthquakes vs Minnesota United (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/SaCXbddRBqlRwdrwOXjsaVHYHTohjXKu/delta/stream/live_mls_san-jose-minnesota-live-streaming-538784352/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="San Jose Earthquakes vs Minnesota United (HD)" tvg-name="San Jose Earthquakes vs Minnesota United (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXkjm5sW7iD4gYIKfpB7EiEiBIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", San Jose Earthquakes vs Minnesota United (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb15.strmd.st/secure/qLIbcrfsDYXULdhXdLCQPLxJVeYKUeoc/echo/stream/san-jose-earthquakes-vs-minnesota-united-fc-football-1490418/1/playlist.m3u8
+https://lb15.strmd.st/secure/gnHwpAmSAMEOnzgDKwiSowrzHNIOxtwK/rtmp/stream/44D0uecekK_drIZL_9qdVgPusbr0IXlKHno-UQT6TEnNemVYO6jjfBuZGCswz-VTsFEFZ-TfFvl78GeX/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzsw4HFAghuIPkYMmSIRIhQgFTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Football", Apple TV (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/ZnhuXHrEsRPHGrFavFbtrJJtKXpuWNQy/rtmp/stream/LsYM-Yxafb_tZDC0MA4dpAuCUL6fRX2NyakoZ7S3ufSYOn6RoSHFTyrv5Fpb7eHP7ZC332XCTGQ/1/playlist.m3u8
+https://lb7.strmd.st/secure/NXGMXbCRkEQYXnwjNxRxUKguifIICcum/rtmp/stream/7T5rLq6nGBTa0__p4vE6BA764S6TSBX-XppvyA_BLsTeQCCcaLBWFxmX0UodLuFgRLasTtjO_AU/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzsw4HFAghuIPkYMmSIRIhQgFTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Football", Apple TV (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb1.strmd.st/secure/XnwSJZARhtQwsOzRsapxBxswcgdFuzGx/rtmp/stream/oGkHL9bKc3m6m-1PBjoPdsi8OVeQCPfqsz8WVmxuaGTLpvqLYLUWtsCYlsFzmZKlFEZWmXtd0lJv_qer/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="San Diego FC vs Colorado Rapids (HD)" tvg-name="San Diego FC vs Colorado Rapids (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzsw4HFAghuIPkYMmSIRIhQgFTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Football", San Diego FC vs Colorado Rapids (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/HQMZapGWvqFYkYDEtfqnlkSHCijMiyKl/delta/stream/live_mls_san-diego-colorado-live-streaming-538783920/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="San Diego FC vs Colorado Rapids (HD)" tvg-name="San Diego FC vs Colorado Rapids (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzsw4HFAghuIPkYMmSIRIhQgFTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Football", San Diego FC vs Colorado Rapids (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/wGdGKWYlgUsaimyTqpajLkRAjkYYTLQy/echo/stream/san-diego-vs-colorado-rapids-football-1490417/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Los Angeles FC vs Portland Timbers (HD)" tvg-name="Los Angeles FC vs Portland Timbers (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWBQgYckCkghuIPtpBTjhkIiMhcBYEgp9hs+vpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", Los Angeles FC vs Portland Timbers (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb5.strmd.st/secure/qhiEcveNcBFMJsIWrnQaeKxhmzgONZfW/delta/stream/live_mls_los-angeles-portland-live-streaming-538783488/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Los Angeles FC vs Portland Timbers (HD)" tvg-name="Los Angeles FC vs Portland Timbers (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWBQgYckCkghuIPtpBTjhkIiMhcBYEgp9hs+vpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", Los Angeles FC vs Portland Timbers (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/lgCKbsYzUhbSoDqMQtEFHImCtiuNzaYr/echo/stream/los-angeles-fc-vs-portland-timbers-football-1490416/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBQM2YEGxDcQfEFIMgIRkIhJmJTJBT7DZ9FGBVadZeESyytTLQaovQhQA.webp" group-title="Football", Apple TV (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb3.strmd.st/secure/jJLRCdtuLiNodzZfDBbRUcoBZXjNGpLS/rtmp/stream/0nsbwCRf2sXkSl9sT_D9S1YxbIS54sR6WxAXncw-tqhoObd7DEH3hJexSSq_6Io1j09Sxx5a7pa9/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBQM2YEGxDcQfEFIMgIRkIhJmJTJBT7DZ9FGBVadZeESyytTLQaovQhQA.webp" group-title="Football", Apple TV (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb7.strmd.st/secure/bJzrKiaqtPaxCkWGTtdYXNosTfXQIEjw/rtmp/stream/Yau6qLYuRI9ap7IrQhScw2vhsTkcg9ok13iE_Yda1MaEkeCOITtz0pfvUgn3f69LUCNHVS4eEtgcK2MOxA/1/playlist.m3u8
+https://lb2.strmd.st/secure/ShSkBRECjsKhvyMixpGuhoMmlQICzwDq/rtmp/stream/4Km9AoBA7RRtNDvkTRyLIYExsntcL-hoU5C5ZR5RQMRf9XT6e0EYOZP66Eod4bzg6bnITfCiQgwyQUks/1/playlist.m3u8
 
