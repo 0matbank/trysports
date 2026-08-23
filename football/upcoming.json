@@ -1,25 +1,9 @@
 {
   "category_name": "Football Upcoming",
-  "total_items": 37,
-  "updated_time_bd": "2026-08-24 | 04:50:08",
+  "total_items": 35,
+  "updated_time_bd": "2026-08-24 | 05:09:38",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "atl-tico-de-san-luis-vs-pachuca-2487495",
-      "title": "Atlético de San Luis vs Pachuca",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Aug 2026, 05:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLMAAMYFCBhbYIbiD4gzEEBZggSe3EYLAkFPsNn0UYFSi5fy9DVEfJlowLzFRCCA.webp"
-    },
-    {
-      "id": "atlanta-united-vs-sporting-kansas-city-2407022",
-      "title": "Atlanta United vs Sporting Kansas City",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Aug 2026, 05:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmAAGMLxAgYwJCG4gpICBZAlcVmPrMEjFPsNn0UYFZrZfy9LFlNJlowLzFRCCA.webp"
-    },
     {
       "id": "deportivo-cali-vs-internacional-de-bogot--2481137",
       "title": "Deportivo Cali vs Internacional de Bogotá",
@@ -269,22 +253,6 @@
       "poster": "https://streamed.pk/favicon.ico"
     },
     {
-      "id": "ppv-viking-fk-vs-dinamo-zagreb",
-      "title": "Viking FK vs. Dinamo Zagreb",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBggUIKuJAkFSiCOAqa8bMDko1ITXKzyJE4bNXr98uSV38wg1QS13CwJLgDGuoQ9YrhUnpnTTAHNSCIIA.webp"
-    },
-    {
-      "id": "ppv-nk-celje-vs-slovan-bratislava",
-      "title": "NK Celje vs. Slovan Bratislava",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiAggYIGhGCJ5wySBSrsIZcokhgUmVU0gsm0iF2ItwQzD3TSKcvIFCRTbPTCFgSXAGNHITBuTiVSegIFcmC9cIggA.webp"
-    },
-    {
       "id": "ppv-lyon-vs-fenerbahce",
       "title": "Lyon vs. Fenerbahce",
       "category": "football",
@@ -293,12 +261,28 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMakQEaSHEgSCkPGwgsIGCCprg27fMSJNIbLuAzFiRSDm2IwXuXsChIpqZTlCwJLnGehMG5Oe2FSegIHciDzcIggA.webp"
     },
     {
+      "id": "ppv-viking-fk-vs-dinamo-zagreb",
+      "title": "Viking FK vs. Dinamo Zagreb",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBggUIKuJAkFSiCOAqa8bMDko1ITXKzyJE4bNXr98uSV38wg1QS13CwJLgDGuoQ9YrhUnpnTTAHNSCIIA.webp"
+    },
+    {
       "id": "ppv-aek-athens-vs-levski-sofia",
       "title": "AEK Athens vs. Levski Sofia",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCogQIkDGCJpUrJJDwF2ccAggdM9SukBjVVk2IpRhXO2kQWFOQigwgkU2z0whYElxHHIVdWZ2FSegINMFdbMgggA.webp"
+    },
+    {
+      "id": "ppv-nk-celje-vs-slovan-bratislava",
+      "title": "NK Celje vs. Slovan Bratislava",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiAggYIGhGCJ5wySBSrsIZcokhgUmVU0gsm0iF2ItwQzD3TSKcvIFCRTbPTCFgSXAGNHITBuTiVSegIFcmC9cIggA.webp"
     }
   ]
 }
