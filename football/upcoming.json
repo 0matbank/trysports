@@ -1,17 +1,9 @@
 {
   "category_name": "Football Upcoming",
-  "total_items": 39,
-  "updated_time_bd": "2026-08-24 | 03:52:54",
+  "total_items": 38,
+  "updated_time_bd": "2026-08-24 | 04:24:02",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "river-plate-vs-v-lez-sarsfield-2398037",
-      "title": "River Plate vs Vélez Sarsfield",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Aug 2026, 04:15 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFFG0ADCAFIQ3PSCkgUJ43xCJzCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-    },
     {
       "id": "coritiba-vs-corinthians-2398424",
       "title": "Coritiba vs Corinthians",
@@ -285,6 +277,14 @@
       "poster": "https://streamed.pk/favicon.ico"
     },
     {
+      "id": "ppv-lyon-vs-fenerbahce",
+      "title": "Lyon vs. Fenerbahce",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMakQEaSHEgSCkPGwgsIGCCprg27fMSJNIbLuAzFiRSDm2IwXuXsChIpqZTlCwJLnGehMG5Oe2FSegIHciDzcIggA.webp"
+    },
+    {
       "id": "ppv-viking-fk-vs-dinamo-zagreb",
       "title": "Viking FK vs. Dinamo Zagreb",
       "category": "football",
@@ -299,14 +299,6 @@
       "status": "UPCOMING",
       "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiAggYIGhGCJ5wySBSrsIZcokhgUmVU0gsm0iF2ItwQzD3TSKcvIFCRTbPTCFgSXAGNHITBuTiVSegIFcmC9cIggA.webp"
-    },
-    {
-      "id": "ppv-lyon-vs-fenerbahce",
-      "title": "Lyon vs. Fenerbahce",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Aug 2026, 01:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMakQEaSHEgSCkPGwgsIGCCprg27fMSJNIbLuAzFiRSDm2IwXuXsChIpqZTlCwJLnGehMG5Oe2FSegIHciDzcIggA.webp"
     },
     {
       "id": "ppv-aek-athens-vs-levski-sofia",

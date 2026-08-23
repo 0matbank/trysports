@@ -1,9 +1,30 @@
 {
   "category_name": "Football Live",
-  "total_items": 24,
-  "updated_time_bd": "2026-08-24 | 03:52:54",
+  "total_items": 12,
+  "updated_time_bd": "2026-08-24 | 04:24:02",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "river-plate-vs-v-lez-sarsfield-2398037",
+      "title": "River Plate vs Vélez Sarsfield",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "23 Aug 2026, 10:15 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFFG0ADCAFIQ3PSCkgUJ43xCJzCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "River Plate vs Vélez Sarsfield (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFFG0ADCAFIQ3PSCkgUJ43xCJzCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/jrsQfVguCoNeVwlvZloHloxNxDkmOseh/echo/stream/river-plate-vs-velez-sarsfield-football-1493088/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "santos-vs-mirassol-2398429",
       "title": "Santos vs Mirassol",
@@ -21,7 +42,7 @@
           "channel_name": "Santos vs Mirassol (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJOxAw2YcHxDcQ+qSBQgTIEIhOIUBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/wrqpIwbJVFCUZOwtDsamVFNBNEAiaGdz/echo/stream/santos-vs-mirassol-football-1492348/1/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/EeaURwPnsxocnhCKjeSzOKIfTTSAkumJ/echo/stream/santos-vs-mirassol-football-1492348/1/playlist.m3u8"
         }
       ]
     },
@@ -42,7 +63,7 @@
           "channel_name": "Chapecoense vs São Paulo (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN1hgUYaSD4b9IKSBTGQFxCe76CwJBT7DZ9HSpRdd5ellkemtGC6YqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/josDhtxMKqufilEvfDXQmiMoQhXXDBpN/echo/stream/chapecoense-sc-vs-sao-paulo-football-1492342/1/playlist.m3u8"
+          "direct_stream_url": "https://lb14.strmd.st/secure/VFivZcLptccInWscVhGhpoKuTnEpMdtI/echo/stream/chapecoense-sc-vs-sao-paulo-football-1492342/1/playlist.m3u8"
         }
       ]
     },
@@ -63,7 +84,7 @@
           "channel_name": "Deportivo Pasto vs Llaneros (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOHozgYbmA3cQfDSAhGTxjWZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/MRxUuyUbCwQoeBilXCjrNWgEszKsINdI/echo/stream/deportivo-pasto-vs-llaneros-football-1549737/1/playlist.m3u8"
+          "direct_stream_url": "https://lb13.strmd.st/secure/zUPUkICAiCxVCcejbgGMzPFTDzzpKIKt/echo/stream/deportivo-pasto-vs-llaneros-football-1549737/1/playlist.m3u8"
         }
       ]
     },
@@ -84,148 +105,25 @@
           "channel_name": "Apple TV (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAywPEFIQhuIPscOmSGyyhAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/ClryukKEoiLTnQBumBxZexMmxZgHEMMz/rtmp/stream/MWpv46hCxB13dIEG-TaNza7FNh9dewFZO8kfh18dMHwkQP_281fjbNOqOInxKNWEbgrhZyAwJ_U/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/OBYHbseHXdHUVpttMqOGUPLNlhCOVsqq/rtmp/stream/eIXPC0MX3Oe7txUf3lFzNuHIbJhvsNoZUoGMLHNVBMH9r-8VJ_MAebMl4a-cQctWGeCp0Q-3-zg/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAywPEFIQhuIPscOmSGyyhAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb12.strmd.st/secure/mWcAjLGCAyrZrreZxXqfgOVnzpjibfdA/rtmp/stream/h8GqRs-hfkvWcrAwMVZDnKOKoetleFtpduqBA5_fmwFXb7yyIUHpTsT-gmmuvPOZ6kBVFS1lKEPaTvlA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/jqkqNtUGbFFZWCMsrpTqFsFpxmLrLKBU/rtmp/stream/Q7PONa0ev1aLd2t2aolbxXO34jUXsVXqUlQgfte4uMnyJD4mr3uXPGczLF0OWu_tOwrQWmVwDIgEunoD/1/playlist.m3u8"
         },
         {
           "channel_name": "New England Revolution vs New York City FC (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAywPEFIQhuIPscOmSGyyhAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/lDjZnivpyyKMcoHYXqEqJmNyYORsDpqZ/delta/stream/live_mls_new-england-ny-city-live-streaming-538844832/1/playlist.m3u8"
+          "direct_stream_url": "https://lb8.strmd.st/secure/neZkSgZOEsjNgxpSiESAiTcFshFRzCWz/delta/stream/live_mls_new-england-ny-city-live-streaming-538844832/1/playlist.m3u8"
         },
         {
           "channel_name": "New England Revolution vs New York City FC (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAywPEFIQhuIPscOmSGyyhAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/LHPETvZxFMumNtxBKQUCGJgFhnWzptoc/echo/stream/new-england-revolution-vs-new-york-city-fc-football-1490419/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "york-united-vs-supra-du-quebec-football-1517334",
-      "title": "York United vs Supra du Quebec",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "23 Aug 2026, 08:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfopDx65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIAMYgIIfiBJ1yDZc3E94IqtwJdWYMLnw2gA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "York United vs Supra du Quebec (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfopDx65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIAMYgIIfiBJ1yDZc3E94IqtwJdWYMLnw2gA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/TAdSmPNGGIESltXnmziOlUcxyGjUwCLk/echo/stream/york-united-vs-supra-du-quebec-football-1517334/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "belgrano-vs-defensa-y-justicia-2398029",
-      "title": "Belgrano vs Defensa y Justicia",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "23 Aug 2026, 08:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiHhhRZWhu4gNUkChDGNGxBDMFgSCn2Gz6KbWxRdt5ellkemtGBu9KIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Belgrano vs Defensa y Justicia (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiHhhRZWhu4gNUkChDGNGxBDMFgSCn2Gz6KbWxRdt5ellkemtGBu9KIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/iLNnZkhaheSjhKBNxfKPFJMHbMtWyJrQ/echo/stream/belgrano-cordoba-vs-defensa-y-justicia-football-1493080/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "elche-vs-barcelona-2506188",
-      "title": "Elche vs Barcelona",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "23 Aug 2026, 07:30 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXy4Q9KWBQhuIPiFMQQBmDus5GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Premier Sports 1 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXy4Q9KWBQhuIPiFMQQBmDus5GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/oPFlEvHEijQPObEPqZnGhvxTjbEyfpbx/rtmp/stream/Q5_HAu7PtdRzNpBHrPermOJLT9JGsPYn_fTHmPUvSiXHx5nJ4o_G3vV-26cUJRTGiz7ciaU6_lI/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Premier Sports 1 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXy4Q9KWBQhuIPiFMQQBmDus5GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb13.strmd.st/secure/KOkwsoWiXwXBQlkObdoQpeQQJEKxcvdK/rtmp/stream/uKolxGqySg_JFKJHPrbkNHtTIPDDWSBf9Y6L6Amehthj20ZZ1uXTyObGoncJ9iQB2dQPUoB_fMhk4Ueh/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - ESPN Deportes (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXy4Q9KWBQhuIPiFMQQBmDus5GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/iITURuMFMFUYJrEAzFKrMUUkxwpvcLxO/rtmp/stream/Q5sQz9b8n08ruKczO_mEtN1fpMyi9E0I1W5aJnVUTxcy-0DabXXcvYyogebSH96xRXwdHMyO1ZO-/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - ESPN Deportes (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXy4Q9KWBQhuIPiFMQQBmDus5GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/XBuHwhRLTuzFzPpOGuFbLRyiojeEOOkT/rtmp/stream/LHDbtAbTuBBUXKavq8yktUbvNd3tgZXOr7VF9iQwSaycDFdCWGcZa6ttPdRdGkCfh9hhgtyQ_LAROHCxhg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXy4Q9KWBQhuIPiFMQQBmDus5GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/qOxTXpAMsadSRFgDZfnOMiCnTxKMGqbm/rtmp/stream/3_v-b3VmHI9XBnQlhcyPWB0E40SWSeeEwcR_FRLnGWAqbEgBtexagbsLVYTwV59yxc8ccWs6cBAg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXy4Q9KWBQhuIPiFMQQBmDus5GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/ATxjeCOwOAxuvUfkgkURATMHOCTtynfP/rtmp/stream/N1H38zvs2ur0N1ZwxdBNxIzlapA01IpTG1JgWnedMLXUEq1vMpC-rVlAuWjUgMHPXgHjixQLdxbmT-iNbQ/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "French - DAZN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXy4Q9KWBQhuIPiFMQQBmDus5GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/spGIGRbTMyEtTQUBtkqVbHXDbvysGYKZ/rtmp/stream/DsqeRLL_dgXjpmuy9hMVZrcVRpHhW_k05_qsMxigz1byIo1OJuY4eINwqZNjiCKqD5Q7vAO8Fh7bjcgs6lKTUOGu/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "French - DAZN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXy4Q9KWBQhuIPiFMQQBmDus5GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb3.strmd.st/secure/aZBmujudrRCSyOcsNVougWDhgeejKHnh/rtmp/stream/izMOqPqmxEnsK3eIkpiOh7NdV_aNpFBgTZfWj8LQ0Ez8MlqwLVhgbz6gDafOZu15zPUileT_IHvL4OWWmZrkvFuU5fO6Ag/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - DAZN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXy4Q9KWBQhuIPiFMQQBmDus5GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/QyvFEYxlCNwObuPVrLBnEPQwPnvsMnsY/rtmp/stream/nRzkF7p6mCVTcXueDiaMrKur1J-SKvba9E3peol26aRiSyH1wfNaW-ixMHyaq8JySNl5YLm17pKM/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - DAZN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXy4Q9KWBQhuIPiFMQQBmDus5GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb13.strmd.st/secure/exwxuNUMMZFPFtKqZBQPaeWLXsxxGrjE/rtmp/stream/CfjizhReuSZZKjKvsajHZ-DJh8w8Ra1QL7nnxg5y3RcisxbkwXqzwr_t4YYzEm92XhBdmzp-jz5WxftP3w/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Elche vs Barcelona (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXy4Q9KWBQhuIPiFMQQBmDus5GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://cdn13.zohanayaan.com:1686/hls/nelche.m3u8?md5=lPLIhPlGaQhrvBMmocggrg&expires=1787529143"
+          "direct_stream_url": "https://lb15.strmd.st/secure/lKASHNGtiRZcgajOMCNFGWJKZCGUFKQT/echo/stream/new-england-revolution-vs-new-york-city-fc-football-1490419/1/playlist.m3u8"
         }
       ]
     },
@@ -246,7 +144,7 @@
           "channel_name": "Panathinaikos vs Kifisia (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGAG8ADAmYhuIPiBIgzKE0ZAwQUkCgLANMfsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/AJcyNfsZoJJeLJIwneGPZCJyNGpFjcaB/echo/stream/panathinaikos-vs-kifisia-football-1593293/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/UOYqaOyTgKnCqsUtOQqsJVtmdMaQQERT/echo/stream/panathinaikos-vs-kifisia-football-1593293/1/playlist.m3u8"
         }
       ]
     },
@@ -267,28 +165,7 @@
           "channel_name": "Thun vs Servette (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXgAZgSMEhAD8IbvpM5jfEFJAxrIFAW0U+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/jOmbQQVBktjdVjJhiYDqVidnBKoWySca/echo/stream/fc-thun-vs-servette-fc-football-1555370/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "fc-lugano-vs-fc-st-gallen-football-1555369",
-      "title": "FC Lugano vs FC ST. Gallen",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "23 Aug 2026, 02:30 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IGIvrkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGIsX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "FC Lugano vs FC ST. Gallen (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IGIvrkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGIsX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/zUNdYOrcLMqpCRyGMmaJimnsGKgJgNjh/echo/stream/fc-lugano-vs-fc-st-gallen-football-1555369/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/JjaurEZLPOditSEkguQGwEkgvkYXlroo/echo/stream/fc-thun-vs-servette-fc-football-1555370/1/playlist.m3u8"
         }
       ]
     },
@@ -309,7 +186,28 @@
           "channel_name": "Grasshoppers vs FC Sion (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGIpDx65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IRDHrkGAY2bie8EVW4EurMGFz5zQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/YiNElOUuDbjfqzdfHtvEaTrikFsZrhLc/echo/stream/grasshoppers-vs-fc-sion-football-1555368/1/playlist.m3u8"
+          "direct_stream_url": "https://lb4.strmd.st/secure/pWJEoVZTiJaKUsWfwaFekFDhPCBVqWXk/echo/stream/grasshoppers-vs-fc-sion-football-1555368/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "fc-lugano-vs-fc-st-gallen-football-1555369",
+      "title": "FC Lugano vs FC ST. Gallen",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "23 Aug 2026, 02:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IGIvrkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGIsX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "FC Lugano vs FC ST. Gallen (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IGIvrkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGIsX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/MiFyaFpOluRWjXkDfRoeIALvZrlgUTZo/echo/stream/fc-lugano-vs-fc-st-gallen-football-1555369/1/playlist.m3u8"
         }
       ]
     }
