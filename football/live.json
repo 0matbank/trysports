@@ -1,7 +1,92 @@
 {
   "category_name": "Football Live",
-  "total_items": 0,
-  "updated_time_bd": "2026-08-24 | 21:40:36",
+  "total_items": 4,
+  "updated_time_bd": "2026-08-24 | 22:17:07",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "mainz-05-women-vs-werder-bremen-women-2539432",
+      "title": "Mainz 05 Women vs Werder Bremen Women",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "24 Aug 2026, 04:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphwkQcACYgQ7ENxBaUB9XtwgjMEMsIxgTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwfbKuAAGSCG4gAJqpAxTufZbPwCFJnxRcwZNfXmjHTWmGdjREIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Mainz 05 Women vs Werder Bremen Women (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphwkQcACYgQ7ENxBaUB9XtwgjMEMsIxgTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwfbKuAAGSCG4gAJqpAxTufZbPwCFJnxRcwZNfXmjHTWmGdjREIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/tvWAVQssqKwUzcuIXNqhAIZyhvCEPtyz/echo/stream/mainz-05-w-vs-werder-bremen-w-football-1593112/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "altglienicke-vs-wolfsburg-2483396",
+      "title": "Altglienicke vs Wolfsburg",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "24 Aug 2026, 04:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlHCz8IRChC8QWECeOIYBkPukgSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Altglienicke vs Wolfsburg (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlHCz8IRChC8QWECeOIYBkPukgSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/iQkHFFOsExYMWlTXDKuUrvVLiKXTvwhV/echo/stream/altglienicke-vs-vfl-wolfsburg-football-1550674/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "w-rzburger-kickers-vs-k-ln-2483394",
+      "title": "Würzburger Kickers vs Köln",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "24 Aug 2026, 04:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrTEAGMLKTAtIXiCwgzpxDCMgUIaSHgskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Würzburger Kickers vs Köln (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrTEAGMLKTAtIXiCwgzpxDCMgUIaSHgskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/sRhSMzoUUoVcEEEoOFEDVshegTlgMvew/echo/stream/wurzburger-kickers-vs-1-fc-koln-football-1550703/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "verl-vs-hamburg-2483309",
+      "title": "Verl vs Hamburg",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "24 Aug 2026, 04:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH4bqHbCCyb9IYwcQxDKECRDwWSClhFzGKMKpQ835RjrEf8rMBgbuJiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Verl vs Hamburg (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH4bqHbCCyb9IYwcQxDKECRDwWSClhFzGKMKpQ835RjrEf8rMBgbuJiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/EusfUiGkJfoeSPWDXsSRyOkelLewsLYW/echo/stream/verl-vs-hamburger-sv-football-1550699/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
