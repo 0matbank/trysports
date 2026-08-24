@@ -1,9 +1,69 @@
 {
   "category_name": "Football Live",
-  "total_items": 4,
-  "updated_time_bd": "2026-08-24 | 22:17:07",
+  "total_items": 9,
+  "updated_time_bd": "2026-08-24 | 23:00:57",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "neom-vs-al-qadisiyah-fc-football-1602990",
+      "title": "NEOM vs Al-Qadisiyah FC",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "24 Aug 2026, 04:40 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCGyKQ8euQYBjZuJ7wRVbgS6swYXPmtA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCETx65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "NEOM vs Al-Qadisiyah FC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCGyKQ8euQYBjZuJ7wRVbgS6swYXPmtA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCETx65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/bcCQgYjEnSTjjbDqJapeNEOxzfEorEGg/echo/stream/neom-vs-al-qadisiyah-fc-football-1602990/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "bologna-vs-lazio-2482142",
+      "title": "Bologna vs Lazio",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "24 Aug 2026, 04:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGAFZKOviG4g9JEMZQhEEEFeNSCwDTH7DZ9FGBUou78vW2jPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGAFZKOviG4g9JEMZQhEEEFeNSCwDTH7DZ9FGBUou78vW2jPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/XlKbWBNjVjwtHRALfvDdUNVMXktcQZcd/rtmp/stream/6mQmUsI-mAy5MsRrozd69HNDKx-Uo6DrwX4zREPY0ipmknCu7mAk2xt-b4nwgZXA_Ee8_bsHiaw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGAFZKOviG4g9JEMZQhEEEFeNSCwDTH7DZ9FGBUou78vW2jPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb8.strmd.st/secure/wRCUWxAKQiBlauMxIzYMSCzyeszoSMBJ/rtmp/stream/bc8LGhP4opsM-g6bl6kTEbzaxgbsbRjEqJLza_Mffkr7NZTtOAL5TdQe7byuwYnhJNIih1ptU9h-YpEh/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Bologna vs Lazio (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGAFZKOviG4g9JEMZQhEEEFeNSCwDTH7DZ9FGBUou78vW2jPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/vpyeuFMZegfgyVlitTSZgJlCdvgbGjtF/delta/stream/live_serie-a_bologna-lazio-live-streaming-608506128/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Bologna vs Lazio (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGAFZKOviG4g9JEMZQhEEEFeNSCwDTH7DZ9FGBUou78vW2jPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/IFucRGYqxLBZmzjLUprcsKqHDPmcGVJi/echo/stream/bologna-vs-lazio-football-1550089/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "mainz-05-women-vs-werder-bremen-women-2539432",
       "title": "Mainz 05 Women vs Werder Bremen Women",
@@ -21,7 +81,7 @@
           "channel_name": "Mainz 05 Women vs Werder Bremen Women (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphwkQcACYgQ7ENxBaUB9XtwgjMEMsIxgTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwfbKuAAGSCG4gAJqpAxTufZbPwCFJnxRcwZNfXmjHTWmGdjREIA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/tvWAVQssqKwUzcuIXNqhAIZyhvCEPtyz/echo/stream/mainz-05-w-vs-werder-bremen-w-football-1593112/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/wzhcDeowxHqlcszLnhBDrjPvRpOiFyEp/echo/stream/mainz-05-w-vs-werder-bremen-w-football-1593112/1/playlist.m3u8"
         }
       ]
     },
@@ -42,7 +102,7 @@
           "channel_name": "Altglienicke vs Wolfsburg (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlHCz8IRChC8QWECeOIYBkPukgSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/iQkHFFOsExYMWlTXDKuUrvVLiKXTvwhV/echo/stream/altglienicke-vs-vfl-wolfsburg-football-1550674/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/egyEYrHGmzBwzUHpXRLAcCbhtscUzxrJ/echo/stream/altglienicke-vs-vfl-wolfsburg-football-1550674/1/playlist.m3u8"
         }
       ]
     },
@@ -63,7 +123,7 @@
           "channel_name": "Würzburger Kickers vs Köln (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrTEAGMLKTAtIXiCwgzpxDCMgUIaSHgskFLCLmMUYVSh5fyjajkffFZgMC9xMQggA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/sRhSMzoUUoVcEEEoOFEDVshegTlgMvew/echo/stream/wurzburger-kickers-vs-1-fc-koln-football-1550703/1/playlist.m3u8"
+          "direct_stream_url": "https://lb8.strmd.st/secure/jZKgQowReOdwRoIRtCAgxHDdeskeuJqN/echo/stream/wurzburger-kickers-vs-1-fc-koln-football-1550703/1/playlist.m3u8"
         }
       ]
     },
@@ -84,7 +144,7 @@
           "channel_name": "Verl vs Hamburg (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH4bqHbCCyb9IYwcQxDKECRDwWSClhFzGKMKpQ835RjrEf8rMBgbuJiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/EusfUiGkJfoeSPWDXsSRyOkelLewsLYW/echo/stream/verl-vs-hamburger-sv-football-1550699/1/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/mLynNMByKcAcEGkcnbWlHvhimunqmOPC/echo/stream/verl-vs-hamburger-sv-football-1550699/1/playlist.m3u8"
         }
       ]
     }
