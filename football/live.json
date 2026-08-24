@@ -1,9 +1,30 @@
 {
   "category_name": "Football Live",
-  "total_items": 11,
-  "updated_time_bd": "2026-08-25 | 03:49:50",
+  "total_items": 12,
+  "updated_time_bd": "2026-08-25 | 04:12:31",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "tigre-vs-central-cordoba-de-santiago-football-1493091",
+      "title": "Tigre vs Central Cordoba de Santiago",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "24 Aug 2026, 10:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCCZ1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCH4hs9cgwDGzcT3giq3Al1ZgwufFaA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Tigre vs Central Cordoba de Santiago (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCCZ1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCH4hs9cgwDGzcT3giq3Al1ZgwufFaA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/TnBuIgTWABzdomVJczVfnJQCoUKeYIFf/echo/stream/tigre-vs-central-cordoba-de-santiago-football-1493091/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "m-laga-vs-deportivo-de-a-coru-a-2506182",
       "title": "Málaga vs Deportivo de A Coruña",
@@ -21,55 +42,55 @@
           "channel_name": "Premier Sports 1 UK (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/EgytjczHTlvIyCqZePhiXPzdVhoPojpU/rtmp/stream/Tle7KBMMB5jOO5q3eiVo3PpXXHqQl89to6UtKUNaaOjHQwJT-I1QeMY-O8otSg2VjvCF2a6X7wc/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/SvxIoWkiAzkGIZAikasgqMLIDUrGDRPQ/admin/stream/ppv-m-laga-vs-deportivo/1/playlist.m3u8"
         },
         {
           "channel_name": "Premier Sports 1 UK (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb1.strmd.st/secure/AXlUZzQyPVJVBketqJCqVrVOpFOihnDL/rtmp/stream/3mREqO4T8K_HpZGKfRBKWeBfJFXY_tktp_PnxsiQN1trVx2L8kEnXmUJ9dpS5_AWaT4v1mM0Pufu6fNq/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/VmzgAhsMFDHAvzNvMPAfOnRXzvPVUcZe/admin/stream/ppv-m-laga-vs-deportivo/2/playlist.m3u8"
         },
         {
           "channel_name": "ESPN+ (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/WesVhVaHwOjycdZumWgrNsBSoLJqrHNn/rtmp/stream/OUKeF_KdAFq3Ndaafa0Q54PwYmuETFjKh9bVcFG8F61iqnDkR5J4DuEo0sLecD9bfjcxbyUbb6sM/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/uhEoibXDYQDFuAQzJDoCGLzcISWBZcFu/admin/stream/ppv-m-laga-vs-deportivo/3/playlist.m3u8"
         },
         {
           "channel_name": "ESPN+ (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb10.strmd.st/secure/bFFVSOhZmKmpYKJaqUSWmRMcZzDGVxKg/rtmp/stream/oqVPwQHe5RJYw8gCzkOGVMSAc3dJ_lY_mfxUsm0uepTnMjJsQEbg0J80Auf2wkt7prjXHF2bdXCW9ChkDA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/LPEsRwtvvfignMcQxHoBmwxKuXKCHAny/admin/stream/ppv-m-laga-vs-deportivo/4/playlist.m3u8"
         },
         {
           "channel_name": "Spanish - ESPN+ (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/TCCUSXgxkEaCgJuaqsrNzUvamiflWmkS/rtmp/stream/BHcE34NpVjkTRtNpZi4fw7-lVllqFUpIRmuKvs18hFPQ4fzVe16vX-RI9LJSunUo6z0xA4OMfvng/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/TMFGTFnMXylYzDEuqIFdIkcPRMLDYZsN/admin/stream/ppv-m-laga-vs-deportivo/5/playlist.m3u8"
         },
         {
           "channel_name": "Spanish - ESPN+ (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/cUgJdQyadQGXzyuOztiKLghDexwkHHJx/rtmp/stream/bGTNF8qlaAN_x05jbm1V9vS3wdqfcw9O7CgOq2lQFVUr4yhOGW75ccPmpf--sDdfzCK8Q8bZnhpAslYMpw/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/yGNcTUSreXgUWfYsfzAzZTRiBpBJHukQ/admin/stream/ppv-m-laga-vs-deportivo/6/playlist.m3u8"
         },
         {
           "channel_name": "Spanish - DAZN (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/cdmKEsLJRdlMmvWssQftEWFyXNnOucqo/rtmp/stream/NBb-w_XBy5jVqxJ3aCtvb-l6_bM0mTnG56zNQhT9jyE1OzCgNarBSjTYbaZNdOB_iTr04j77lxWg/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/eDIOPsfZgNWJPdYarpfXWwNeopMaAzio/admin/stream/ppv-m-laga-vs-deportivo/7/playlist.m3u8"
         },
         {
           "channel_name": "Spanish - DAZN (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/piJvEHUGufmXmANwpFKpXPiPZUJmodXZ/rtmp/stream/qFfcCfKxI2UZpOY2P660IKOWLW-WEtuLvGg73dKMe6sXW0qkC8wkCEYRyN7skxaATo2wIZnHjSqrvGFRdA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb11.strmd.st/secure/ELzfHLSBdPuBAXFpwomPJQnSuqAimmdt/admin/stream/ppv-m-laga-vs-deportivo/8/playlist.m3u8"
         },
         {
           "channel_name": "Málaga vs Deportivo de A Coruña (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/EVUCFBaQGyLVaGigGXYCwfqyNKaaTHws/delta/stream/live_laliga_malaga-deportivo-live-streaming-608507424/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/JerXZetPJLYbDQiusvhwyCVEhtywNJwe/delta/stream/live_laliga_malaga-deportivo-live-streaming-608507424/1/playlist.m3u8"
         }
       ]
     },
@@ -90,7 +111,7 @@
           "channel_name": "Hallescher vs Schalke 04 (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlCQDgYEL1h6QWECeOIYhlCAggSLJBSwi5jFGFUoe78o2pzP+Kw67uJiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/UrkJsjFxrlqJPHtCyvytgDQJZsUTeAxN/echo/stream/hallescher-fc-vs-fc-schalke-04-football-1550684/1/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/fObCHHPvzdKQWwQhFWbwNMKpujXyadhY/echo/stream/hallescher-fc-vs-fc-schalke-04-football-1550684/1/playlist.m3u8"
         }
       ]
     },
@@ -111,7 +132,7 @@
           "channel_name": "Altglienicke vs Wolfsburg (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlHCz8IRChC8QWECeOIYBkPukgSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/lpcMbKjIQuRepMGeXgDnLipwnMxpjJOW/echo/stream/altglienicke-vs-vfl-wolfsburg-football-1550674/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/rHRBCbSEiJqjpVngtaIhwPaGFUeRtJCI/echo/stream/altglienicke-vs-vfl-wolfsburg-football-1550674/1/playlist.m3u8"
         }
       ]
     }
