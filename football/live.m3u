@@ -1,7 +1,7 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 12
-# UPDATED Time and date BD: 2026-08-25 | 04:12:31
+# TOTAL-ITEMS: 4
+# UPDATED Time and date BD: 2026-08-25 | 04:48:45
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
 #EXTINF:-1 tvg-id="Tigre vs Central Cordoba de Santiago (HD)" tvg-name="Tigre vs Central Cordoba de Santiago (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCCZ1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCH4hs9cgwDGzcT3giq3Al1ZgwufFaA.webp" group-title="Football", Tigre vs Central Cordoba de Santiago (HD)
@@ -9,82 +9,26 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/TnBuIgTWABzdomVJczVfnJQCoUKeYIFf/echo/stream/tigre-vs-central-cordoba-de-santiago-football-1493091/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Premier Sports 1 UK (HD)" tvg-name="Premier Sports 1 UK (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Premier Sports 1 UK (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/SvxIoWkiAzkGIZAikasgqMLIDUrGDRPQ/admin/stream/ppv-m-laga-vs-deportivo/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Premier Sports 1 UK (SD)" tvg-name="Premier Sports 1 UK (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Premier Sports 1 UK (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/VmzgAhsMFDHAvzNvMPAfOnRXzvPVUcZe/admin/stream/ppv-m-laga-vs-deportivo/2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPN+ (HD)" tvg-name="ESPN+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", ESPN+ (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb7.strmd.st/secure/uhEoibXDYQDFuAQzJDoCGLzcISWBZcFu/admin/stream/ppv-m-laga-vs-deportivo/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPN+ (SD)" tvg-name="ESPN+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", ESPN+ (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb5.strmd.st/secure/LPEsRwtvvfignMcQxHoBmwxKuXKCHAny/admin/stream/ppv-m-laga-vs-deportivo/4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Spanish - ESPN+ (HD)" tvg-name="Spanish - ESPN+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Spanish - ESPN+ (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/TMFGTFnMXylYzDEuqIFdIkcPRMLDYZsN/admin/stream/ppv-m-laga-vs-deportivo/5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Spanish - ESPN+ (SD)" tvg-name="Spanish - ESPN+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Spanish - ESPN+ (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/yGNcTUSreXgUWfYsfzAzZTRiBpBJHukQ/admin/stream/ppv-m-laga-vs-deportivo/6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Spanish - DAZN (HD)" tvg-name="Spanish - DAZN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Spanish - DAZN (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb1.strmd.st/secure/eDIOPsfZgNWJPdYarpfXWwNeopMaAzio/admin/stream/ppv-m-laga-vs-deportivo/7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Spanish - DAZN (SD)" tvg-name="Spanish - DAZN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Spanish - DAZN (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb11.strmd.st/secure/ELzfHLSBdPuBAXFpwomPJQnSuqAimmdt/admin/stream/ppv-m-laga-vs-deportivo/8/playlist.m3u8
+https://lb15.strmd.st/secure/NXICtYJTfVoiEXDSMtCtLDvOemjRFonw/echo/stream/tigre-vs-central-cordoba-de-santiago-football-1493091/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Málaga vs Deportivo de A Coruña (HD)" tvg-name="Málaga vs Deportivo de A Coruña (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiG7ZOTEJpB89ICCBQgYxyzhIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Málaga vs Deportivo de A Coruña (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/JerXZetPJLYbDQiusvhwyCVEhtywNJwe/delta/stream/live_laliga_malaga-deportivo-live-streaming-608507424/1/playlist.m3u8
+https://lb6.strmd.st/secure/OzbKDNQUQHuYsQyeEhmAtdgUhPvBBZEF/delta/stream/live_laliga_malaga-deportivo-live-streaming-608507424/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hallescher vs Schalke 04 (HD)" tvg-name="Hallescher vs Schalke 04 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlCQDgYEL1h6QWECeOIYhlCAggSLJBSwi5jFGFUoe78o2pzP+Kw67uJiEEA.webp" group-title="Football", Hallescher vs Schalke 04 (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb5.strmd.st/secure/fObCHHPvzdKQWwQhFWbwNMKpujXyadhY/echo/stream/hallescher-fc-vs-fc-schalke-04-football-1550684/1/playlist.m3u8
+https://lb13.strmd.st/secure/cPCjkGPDWquCuadWesImJmSFXiurDFHy/echo/stream/hallescher-fc-vs-fc-schalke-04-football-1550684/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Altglienicke vs Wolfsburg (HD)" tvg-name="Altglienicke vs Wolfsburg (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlHCz8IRChC8QWECeOIYBkPukgSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football", Altglienicke vs Wolfsburg (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb3.strmd.st/secure/rHRBCbSEiJqjpVngtaIhwPaGFUeRtJCI/echo/stream/altglienicke-vs-vfl-wolfsburg-football-1550674/1/playlist.m3u8
+https://lb15.strmd.st/secure/MuJAGtrWpqynroJHsfIOAWqbFAkHaaQK/echo/stream/altglienicke-vs-vfl-wolfsburg-football-1550674/1/playlist.m3u8
 
