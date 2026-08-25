@@ -1,50 +1,7 @@
 {
   "category_name": "Football Live",
-  "total_items": 2,
-  "updated_time_bd": "2026-08-25 | 07:50:28",
+  "total_items": 0,
+  "updated_time_bd": "2026-08-25 | 08:48:21",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "lanus-vs-argentinos-jrs-football-1493085",
-      "title": "Lanus vs Argentinos JRS",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "25 Aug 2026, 12:15 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIikP3rkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCBD1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Lanus vs Argentinos JRS (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIikP3rkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCBD1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/PnTasAmGqaiNygIvARLsnJiAWdGNNLLj/echo/stream/lanus-vs-argentinos-jrs-football-1493085/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "talleres-de-c-rdoba-vs-rosario-central-2398039",
-      "title": "Talleres de Córdoba vs Rosario Central",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "25 Aug 2026, 12:15 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFMAAMuQUlghuIPiCkgUJo5YggYBgsD0x+w2fRRgVGth-L0ssjSZaMA8xUQggA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Talleres de Córdoba vs Rosario Central (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFMAAMuQUlghuIPiCkgUJo5YggYBgsD0x+w2fRRgVGth-L0ssjSZaMA8xUQggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/ojjnLRVSLrsoawoIOLgAnWRiVuoxIAlx/echo/stream/talleres-cordoba-vs-rosario-central-football-1493090/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
