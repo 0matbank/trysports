@@ -1,9 +1,150 @@
 {
   "category_name": "Football Live",
-  "total_items": 7,
-  "updated_time_bd": "2026-08-25 | 23:44:50",
+  "total_items": 17,
+  "updated_time_bd": "2026-08-26 | 00:18:48",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "al-shabab-vs-al-riyadh-2573324",
+      "title": "Al-Shabab vs Al-Riyadh",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Aug 2026, 06:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSBhzgSENxAk9IPgZBmcKI5cMkCOin2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Al-Shabab vs Al-Riyadh (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSBhzgSENxAk9IPgZBmcKI5cMkCOin2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/wWaWTLIKkhDDIbyvlceZKKqgThFktDop/echo/stream/al-shabab-vs-al-riyadh-football-1602995/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "al-ettifaq-vs-al-nassr-2573323",
+      "title": "Al-Ettifaq vs Al-Nassr",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Aug 2026, 06:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMDC5sIRIm4g+IEiFM4UuEDGOmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "FS2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMDC5sIRIm4g+IEiFM4UuEDGOmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/nckWdQeVvmsMWDKFWrBIcEmurIHllgeP/rtmp/stream/BiQXfMJg-0UNL5SSe9r6fJLUmgmRKO-b57NqUcHcOecRmv6OS17CoeP2UGfd_pDsPqEXXUb04YMB/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "FS2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMDC5sIRIm4g+IEiFM4UuEDGOmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb5.strmd.st/secure/lygsowBqYXpnxaLXpIhDsRilfPGoMdhG/rtmp/stream/hXcZJtrapByv79il0ZgCAZ466WlfKuOUTo2hxuDGP0HISwSlcvKEgSRWJXMTfG9JFNGK6kfnko8JqeVwIQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Al-Ettifaq vs Al-Nassr (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMDC5sIRIm4g+IEiFM4UuEDGOmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/TggvqkKrRWHZoeiZTeVtlniBDeVNndre/delta/stream/live_saudi-pro-league_al-ettifaq-al-nassr-live-streaming-608527728/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Al-Ettifaq vs Al-Nassr (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMDC5sIRIm4g+IEiFM4UuEDGOmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/XhlLoWSDJqaDQjgbZGCwGjJplgaAtOiO/echo/stream/al-ettifaq-vs-al-nassr-football-1602994/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "cardiff-city-vs-norwich-city-2570487",
+      "title": "Cardiff City vs Norwich City",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Aug 2026, 06:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEDGBUQwiSADGckjIUqQweNmxyI28ShDjlWKaRA0y0kKoMkU5XQKEimW+2ELAkuefaFhuTl1hUnoCDXIA4F0yCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEDGBUQwiSADGckjIUqQweNmxyI28ShDjlWKaRA0y0kKoMkU5XQKEimW+2ELAkuefaFhuTl1hUnoCDXIA4F0yCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/sPcDycGqvuWBErWVlWFMbRMTzPmdffdr/rtmp/stream/Ai8NE4VXWENa3jarqn8IyX0FeH-qgqC8H_Kqt4jHFeLC5GeqZhb0OOGuAoX4z11Y9Zhbd7Yd2naM/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEDGBUQwiSADGckjIUqQweNmxyI28ShDjlWKaRA0y0kKoMkU5XQKEimW+2ELAkuefaFhuTl1hUnoCDXIA4F0yCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb12.strmd.st/secure/jrAVGyiQGxdyFoYuMndAadZxDTydnKkv/rtmp/stream/Rau7W6HmBZp9-yGifhWckoEpVcoR0tl6BRLrwxaWxEq5zTG912y2N7f2ji_b-r-4fmK8CElH_IykNxF4xQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Cardiff City vs Norwich City (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEDGBUQwiSADGckjIUqQweNmxyI28ShDjlWKaRA0y0kKoMkU5XQKEimW+2ELAkuefaFhuTl1hUnoCDXIA4F0yCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/gThQozTzsrKnCCXuFLlZMAXOFTWjjyUk/delta/stream/live_efl-cup_cardiff-norwich-live-streaming-608509584/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Cardiff City vs Norwich City (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEDGBUQwiSADGckjIUqQweNmxyI28ShDjlWKaRA0y0kKoMkU5XQKEimW+2ELAkuefaFhuTl1hUnoCDXIA4F0yCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/zUxrtqkFkvxkTzQklFjJnmuhyXysihKu/echo/stream/cardiff-vs-norwich-football-1623086/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "blackpool-vs-aston-villa-u21-2531828",
+      "title": "Blackpool vs Aston Villa U21",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Aug 2026, 06:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvxCkQZKCRC8QWECeMwQiCEYMWWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Blackpool vs Aston Villa U21 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvxCkQZKCRC8QWECeMwQiCEYMWWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/lyhReScXmBDXsfbRNmJHzBkFUqegHwud/echo/stream/blackpool-vs-aston-villa-u21-football-1588822/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "bristol-rovers-vs-chelsea-u21-2531800",
+      "title": "Bristol Rovers vs Chelsea U21",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Aug 2026, 06:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkjBj8IRml0heILCFMmYIRBBDTTNlppgCRcxii0cUPLeUbU5XviswGAejGIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Bristol Rovers vs Chelsea U21 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkjBj8IRml0heILCFMmYIRBBDTTNlppgCRcxii0cUPLeUbU5XviswGAejGIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/wrgpnhtboxAESPGxZlKirgBrAhnBPYjx/echo/stream/bristol-rovers-vs-chelsea-u21-football-1588877/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "sabah-baku-vs-hapoel-be-er-sheva-2570479",
       "title": "Sabah Baku vs Hapoel Be'er Sheva",
@@ -21,31 +162,31 @@
           "channel_name": "TNT Sports 1 (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/GzxTSuUmfrHvgzEUHkUoSRqoJKjfhisO/rtmp/stream/bZ14ASG_mdSP27M_Brc2Ltl4gAlH7m6z12jcRlJ9TCEo2PxZeNGLXFf27DB7ja0sXZG3kKOHl4bnEA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb15.strmd.st/secure/PbJYDrCrZhoyykkklcgeSZNUBCJemEak/rtmp/stream/Gd11fNzgT_cZyLVuqlRsVkSHbs_-50ge6WcpDO2IY6Ad3Aza9Hbo68nrUUMXj3MfIKLQSUJLagTm1A/1/playlist.m3u8"
         },
         {
           "channel_name": "TNT Sports 1 (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb14.strmd.st/secure/HEKgdTBhrfEWTGnLueWvoPTRTCRWVLSG/rtmp/stream/AgINEqqwT65hU9fv-RIqUb-98uw3IbjjuQnfkI9JbBLUyh2gnOo2ODAkNiydBE4vOFa2UHTLVguqZMFMp2Y/1/playlist.m3u8"
+          "direct_stream_url": "https://lb14.strmd.st/secure/GjOLraMMzUxDmrpnpcIWNDqKgctqFpAq/rtmp/stream/O4Hm4L1g3HTMAmtH_5emWDu0Wcvd9EM19-UmtMXjJw7szjM_GemMTfXe_ek8EVK2c7bScHwQaYi6eADG814/1/playlist.m3u8"
         },
         {
           "channel_name": "Paramount+ (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/AJXAohPUXRCdITSJqqQsMnSFiYJAJhqC/rtmp/stream/QSGldirh3tAm5ag89QhKFcI9tv_xoIjTASh8zwXcYn5uDMpzL3YPFlwUpz71yIkxMDKbRlcxr_xqsV0/1/playlist.m3u8"
+          "direct_stream_url": "https://lb9.strmd.st/secure/TfxsvZcweVnDcRUZzoHzuNVVwjpfDIBS/rtmp/stream/I1kmKOrCMUkoUkIrzIsOfhzCTvnr4UqpOxInmpzQd9-YVD6NTApWqiuj7L8uP7g2v1KvjF3RAr5gzDc/1/playlist.m3u8"
         },
         {
           "channel_name": "Paramount+ (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb1.strmd.st/secure/XbkrQzRTtVFFtPETINGfomDWHbCcnSVw/rtmp/stream/oOoExihm44KyqYL9B8RVQ1dC_tqtXK0C7J9Zuc8ICh973cRCVcbOTHA7ttERv6yls8tfh55zVQQhhxkRYkoa/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/fMmyHKnEOlfSgZHNtqHKkzBwscJlkVRg/rtmp/stream/WprLs7aT-TdIJDbX4MPpr2L_nIPsBqr1YLQLZa5SgLCTtrDZX03hUPfj4xC95xJxr_8E0x0CDG70yyfwTvGw/1/playlist.m3u8"
         },
         {
           "channel_name": "Sabah Baku vs Hapoel Be'er Sheva (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/PvruvIdncKWHItDmlqCoyfHEHembXVMS/echo/stream/sabah-fa-vs-hapoel-beer-sheva-football-1622626/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/VAEQpyPWdqUgoMipJvziEVRRStELRRhF/echo/stream/sabah-fa-vs-hapoel-beer-sheva-football-1622626/1/playlist.m3u8"
         }
       ]
     },
@@ -66,28 +207,7 @@
           "channel_name": "Al Taawon vs Al-Fayha (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCET965BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCAir65BgGNm4nvBFVuBLqzBhc+S0A.webp",
           "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/ToXNrsgQcEcacJYJGCCjlxhVvjEjCTrQ/echo/stream/al-taawon-vs-al-fayha-football-1602993/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "abha-vs-al-khaleej-2573321",
-      "title": "Abha vs Al-Khaleej",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "25 Aug 2026, 04:05 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu2kheIEMDD7tILLuMhEKc1YghpLJBSwi5jFGFUoe78o2pzP+Kz67uJiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Abha vs Al-Khaleej (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu2kheIEMDD7tILLuMhEKc1YghpLJBSwi5jFGFUoe78o2pzP+Kz67uJiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/jdYCTfOWhjQIiccfVsKzqFHmUXjOGPRp/echo/stream/abha-vs-al-khaleej-saihat-football-1602992/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/ORqptxXycOeXfcAsxFawXuHkRtclkYEQ/echo/stream/al-taawon-vs-al-fayha-football-1602993/1/playlist.m3u8"
         }
       ]
     }
