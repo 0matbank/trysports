@@ -1,9 +1,30 @@
 {
   "category_name": "Football Live",
-  "total_items": 6,
-  "updated_time_bd": "2026-08-26 | 04:49:53",
+  "total_items": 7,
+  "updated_time_bd": "2026-08-26 | 05:14:20",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "bucaramanga-vs-aguilas-doradas-football-1549745",
+      "title": "Bucaramanga vs Águilas Doradas",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Aug 2026, 11:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIhJ1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikBBX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Bucaramanga vs Águilas Doradas (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIhJ1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikBBX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/LGKseDzvVVUsxlxsOhVgyCDzeAxoQMSK/echo/stream/bucaramanga-vs-aguilas-doradas-football-1549745/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "lask-vs-celtic-2558134",
       "title": "LASK vs Celtic",
@@ -21,7 +42,7 @@
           "channel_name": "LASK vs Celtic (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxACQzMCkoatIYyWMhTiHBHMFgSCn2Gz6KMCv1s35elln6mtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/ClovsPpbSfccxUGcqTCffoqxyvhZfNQf/echo/stream/lask-linz-vs-celtic-football-1610924/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/iaJpFpsrYCDHrckvwOlotUxttNHklKAk/echo/stream/lask-linz-vs-celtic-football-1610924/1/playlist.m3u8"
         }
       ]
     },
@@ -42,7 +63,7 @@
           "channel_name": "Walsall vs Leyton Orient (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRgAJsCSd6+ENxBqQRlAZCIYICyZQEKTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4h6EECgbsQ3EABMQRo4dVHVKEHwIUm1rmDLwi80Vqa0wjsaIhA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/GziSkQBYduOLMBNwRofiJJbNuMGXDbFi/echo/stream/walsall-vs-leyton-orient-football-1623098/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/aLkmCDlVRZpXcbFDuanFGqVHfgcvruQZ/echo/stream/walsall-vs-leyton-orient-football-1623098/1/playlist.m3u8"
         }
       ]
     },
@@ -63,7 +84,7 @@
           "channel_name": "Stoke City vs Hull City (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzBgkIDSjAATXCG4g+G-YZOaTEAhSZ8UXMGXhF5ou01qrRUukA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmDMNw1juIHSpAxdIPrhD6dO+AQpM+KLmDLwi80faa0wjsaIhA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/kWAATLBEyKEjzJXbgTYJWnecKuGFwOKW/echo/stream/stoke-city-vs-hull-city-football-1623097/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/sgvJbktuvjIVAhmTCeREkHPUawXqKvkO/echo/stream/stoke-city-vs-hull-city-football-1623097/1/playlist.m3u8"
         }
       ]
     },
@@ -84,7 +105,7 @@
           "channel_name": "Blackpool vs Aston Villa U21 (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvxCkQZKCRC8QWECeMwQiCEYMWWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/eJevsNLabHrNLNfilUhqUKwARKHOnhOc/echo/stream/blackpool-vs-aston-villa-u21-football-1588822/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/xNvqVwyIjfglNfZGUqSKDQhoMLCvEpOv/echo/stream/blackpool-vs-aston-villa-u21-football-1588822/1/playlist.m3u8"
         }
       ]
     },
@@ -105,7 +126,7 @@
           "channel_name": "Bristol Rovers vs Chelsea U21 (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkjBj8IRml0heILCFMmYIRBBDTTNlppgCRcxii0cUPLeUbU5XviswGAejGIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/ktrTjfkjloZujJRWqVqnMsEmknEgoDJQ/echo/stream/bristol-rovers-vs-chelsea-u21-football-1588877/1/playlist.m3u8"
+          "direct_stream_url": "https://lb13.strmd.st/secure/INnFSFKzGVvzokpNunIAznsgJGEpewxQ/echo/stream/bristol-rovers-vs-chelsea-u21-football-1588877/1/playlist.m3u8"
         }
       ]
     },
@@ -126,7 +147,7 @@
           "channel_name": "Sabah Baku vs Hapoel Be'er Sheva (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/MRFwQbgsWCoJeSGMskmTPxtqOUMtwiko/echo/stream/sabah-fa-vs-hapoel-beer-sheva-football-1622626/1/playlist.m3u8"
+          "direct_stream_url": "https://lb8.strmd.st/secure/hwhgeCwfYrqdQeyfrZHZDZbPLawHJwqP/echo/stream/sabah-fa-vs-hapoel-beer-sheva-football-1622626/1/playlist.m3u8"
         }
       ]
     }
