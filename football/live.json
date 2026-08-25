@@ -1,7 +1,7 @@
 {
   "category_name": "Football Live",
-  "total_items": 12,
-  "updated_time_bd": "2026-08-26 | 04:12:24",
+  "total_items": 6,
+  "updated_time_bd": "2026-08-26 | 04:49:53",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -18,46 +18,10 @@
       },
       "streams": [
         {
-          "channel_name": "Prime Video (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxACQzMCkoatIYyWMhTiHBHMFgSCn2Gz6KMCv1s35elln6mtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/jxgmCCooYNoxxPTHqdfYbltUWkzfwjhw/rtmp/stream/nujBK6iuF5VA90_FZpD0S3Gilk3XseDG7Q5hc9G-YuCpBt7-86k9EYwBET-RJDM28SO82p3bttb47oY/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Prime Video (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxACQzMCkoatIYyWMhTiHBHMFgSCn2Gz6KMCv1s35elln6mtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb12.strmd.st/secure/wNYYdsEuhzxPHhkXWKOXezymYlkorkNu/rtmp/stream/-xrYFlIMxMZTRMUR53pdKTA7Z5gRoLTW38z57Pr38hbvFtzhw5S_9Dw9pfsWK2kW_h3dFAjR6i6eJ1JLt6tR/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxACQzMCkoatIYyWMhTiHBHMFgSCn2Gz6KMCv1s35elln6mtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/nOldiQwZZRuWDFREGHWBHAdYFmdqMuIj/rtmp/stream/wVU1JAIH8dHGjuGPENVCGZxCpHHKRywNpVAxdrFwTwwB6AHc4A9b6LDzKsZdAsQyFUSEOWvLZGIWnQ/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxACQzMCkoatIYyWMhTiHBHMFgSCn2Gz6KMCv1s35elln6mtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/VZplSdOMdFOHnAcGPvKQHIpxAEzybfgp/rtmp/stream/CAM08bejBU_Nk3YoDk8ypS0TvGajNPIAPdnlJHilE76EyDkimWlUvzYdqkSC06VeH5gBLzTHOdGf_JqmPhI/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - Sky Sport Austria 2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxACQzMCkoatIYyWMhTiHBHMFgSCn2Gz6KMCv1s35elln6mtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/guOqohqPUbBTBKCaEemmEEpjRrYauEVV/rtmp/stream/wXezdJvB8M61gvN7-O3idcda9bEQCITU_WBXkqKpc6h8i2NX9BZm1C8GabEf2y8teCvu5e4QuXgr4m0/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - Sky Sport Austria 2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxACQzMCkoatIYyWMhTiHBHMFgSCn2Gz6KMCv1s35elln6mtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/mxjrmojkgAGUekAhSxhBLIqTwsyBiilt/rtmp/stream/c_MXOxTM03CnpejGlx3-tuF4BBlnyLrvIBObkMAYqeTxQaFskU1gnQKBJnMgcTzXdR7AWSPgehJ_x-Sdiqfq/1/playlist.m3u8"
-        },
-        {
           "channel_name": "LASK vs Celtic (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxACQzMCkoatIYyWMhTiHBHMFgSCn2Gz6KMCv1s35elln6mtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/PsYjRGqUWspdupfAtoAmNCbMVBrRluJp/echo/stream/lask-linz-vs-celtic-football-1610924/1/playlist.m3u8"
+          "direct_stream_url": "https://lb13.strmd.st/secure/ClovsPpbSfccxUGcqTCffoqxyvhZfNQf/echo/stream/lask-linz-vs-celtic-football-1610924/1/playlist.m3u8"
         }
       ]
     },
@@ -78,7 +42,7 @@
           "channel_name": "Walsall vs Leyton Orient (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRgAJsCSd6+ENxBqQRlAZCIYICyZQEKTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4h6EECgbsQ3EABMQRo4dVHVKEHwIUm1rmDLwi80Vqa0wjsaIhA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/xgtGEmSnlcjWqEyqWChdWQqNDqxKyOlN/echo/stream/walsall-vs-leyton-orient-football-1623098/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/GziSkQBYduOLMBNwRofiJJbNuMGXDbFi/echo/stream/walsall-vs-leyton-orient-football-1623098/1/playlist.m3u8"
         }
       ]
     },
@@ -99,7 +63,7 @@
           "channel_name": "Stoke City vs Hull City (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzBgkIDSjAATXCG4g+G-YZOaTEAhSZ8UXMGXhF5ou01qrRUukA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmDMNw1juIHSpAxdIPrhD6dO+AQpM+KLmDLwi80faa0wjsaIhA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/nhfjtgySLMcaOKHGfJMLbiCaczRadWLB/echo/stream/stoke-city-vs-hull-city-football-1623097/1/playlist.m3u8"
+          "direct_stream_url": "https://lb9.strmd.st/secure/kWAATLBEyKEjzJXbgTYJWnecKuGFwOKW/echo/stream/stoke-city-vs-hull-city-football-1623097/1/playlist.m3u8"
         }
       ]
     },
@@ -120,7 +84,7 @@
           "channel_name": "Blackpool vs Aston Villa U21 (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvxCkQZKCRC8QWECeMwQiCEYMWWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/KSgTjjZSiyYwIyTXvoSHezeGgTOIwfOE/echo/stream/blackpool-vs-aston-villa-u21-football-1588822/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/eJevsNLabHrNLNfilUhqUKwARKHOnhOc/echo/stream/blackpool-vs-aston-villa-u21-football-1588822/1/playlist.m3u8"
         }
       ]
     },
@@ -141,7 +105,7 @@
           "channel_name": "Bristol Rovers vs Chelsea U21 (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkjBj8IRml0heILCFMmYIRBBDTTNlppgCRcxii0cUPLeUbU5XviswGAejGIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/vorXzCYJvaJnJCYkHiHFFvFNuUsmoDRy/echo/stream/bristol-rovers-vs-chelsea-u21-football-1588877/1/playlist.m3u8"
+          "direct_stream_url": "https://lb11.strmd.st/secure/ktrTjfkjloZujJRWqVqnMsEmknEgoDJQ/echo/stream/bristol-rovers-vs-chelsea-u21-football-1588877/1/playlist.m3u8"
         }
       ]
     },
@@ -162,7 +126,7 @@
           "channel_name": "Sabah Baku vs Hapoel Be'er Sheva (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/NBvDgOLhpZTJDHHCRPWAKuJyNrxPbJyv/echo/stream/sabah-fa-vs-hapoel-beer-sheva-football-1622626/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/MRFwQbgsWCoJeSGMskmTPxtqOUMtwiko/echo/stream/sabah-fa-vs-hapoel-beer-sheva-football-1622626/1/playlist.m3u8"
         }
       ]
     }
