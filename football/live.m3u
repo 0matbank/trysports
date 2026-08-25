@@ -1,20 +1,55 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 2
-# UPDATED Time and date BD: 2026-08-25 | 22:21:10
+# TOTAL-ITEMS: 7
+# UPDATED Time and date BD: 2026-08-25 | 23:06:54
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="TNT Sports 1 (HD)" tvg-name="TNT Sports 1 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football", TNT Sports 1 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb2.strmd.st/secure/fenKpqRfYNVKlZBgfSQKMkqZTsrjPbOo/rtmp/stream/w0dZlt__qGWJZEW68N6awXf8YHyDFNEFYV-jMmolGhooMdNf1ia8k2OkbM6yioJj0hFcIJLWK39KmA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 1 (SD)" tvg-name="TNT Sports 1 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football", TNT Sports 1 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb10.strmd.st/secure/RevepRGOmeWueYsFVhWeZolXGVupcJKc/rtmp/stream/CGV1hq7T_J5sPfDErDFjnLabxV4DrFlvCC2FzitPZnqkEoSXxIjTmk0GVCh02RKh8Fq3Cy6cak_s3_Agw6E/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+ (HD)" tvg-name="Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football", Paramount+ (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb11.strmd.st/secure/yqynksCkVIMnoniKwxeeENhqLatDjouD/rtmp/stream/E3tY9fuCi0BV6eECDWHduXA2TVjiG8vyL3vQlS8sETA-L3HuaCTK4LUGlyR7V09RcpK-ArPYlKd2oAE/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+ (SD)" tvg-name="Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football", Paramount+ (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb11.strmd.st/secure/UynPADDcxISYSxPuTsAhaukhXRfYXLrz/rtmp/stream/SoanN8xdiFNfd5Q1dqFC2YoHMyN2jnD1SRBmZFpHdXGresN4_Q6UHxcsnJcfz4SCOa5Dk6smoIyYjfZFrRLB/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sabah Baku vs Hapoel Be'er Sheva (HD)" tvg-name="Sabah Baku vs Hapoel Be'er Sheva (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football", Sabah Baku vs Hapoel Be'er Sheva (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb7.strmd.st/secure/LGKkCHeZspVFOcfroHaCrRjAuszpsTEA/echo/stream/sabah-fa-vs-hapoel-beer-sheva-football-1622626/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Al Taawon vs Al-Fayha (HD)" tvg-name="Al Taawon vs Al-Fayha (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCET965BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCAir65BgGNm4nvBFVuBLqzBhc+S0A.webp" group-title="Football", Al Taawon vs Al-Fayha (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb9.strmd.st/secure/cxxjakBQHoPoturoxckMCJuKnCJdprIf/echo/stream/al-taawon-vs-al-fayha-football-1602993/1/playlist.m3u8
+https://lb1.strmd.st/secure/mVsxvaDuzlxwMjTgjSLsMXqQXnDaLHSm/echo/stream/al-taawon-vs-al-fayha-football-1602993/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Abha vs Al-Khaleej (HD)" tvg-name="Abha vs Al-Khaleej (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu2kheIEMDD7tILLuMhEKc1YghpLJBSwi5jFGFUoe78o2pzP+Kz67uJiEEA.webp" group-title="Football", Abha vs Al-Khaleej (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb9.strmd.st/secure/vOXSFIohQnGRDwPQJPHGrYYjouNaOVfn/echo/stream/abha-vs-al-khaleej-saihat-football-1602992/1/playlist.m3u8
+https://lb6.strmd.st/secure/xQMIGjuNaheDpnVgkyvjqwXSdBHsZDQf/echo/stream/abha-vs-al-khaleej-saihat-football-1602992/1/playlist.m3u8
 

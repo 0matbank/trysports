@@ -1,9 +1,54 @@
 {
   "category_name": "Football Live",
-  "total_items": 2,
-  "updated_time_bd": "2026-08-25 | 22:21:10",
+  "total_items": 7,
+  "updated_time_bd": "2026-08-25 | 23:06:54",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "sabah-baku-vs-hapoel-be-er-sheva-2570479",
+      "title": "Sabah Baku vs Hapoel Be'er Sheva",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Aug 2026, 04:45 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT Sports 1 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/fenKpqRfYNVKlZBgfSQKMkqZTsrjPbOo/rtmp/stream/w0dZlt__qGWJZEW68N6awXf8YHyDFNEFYV-jMmolGhooMdNf1ia8k2OkbM6yioJj0hFcIJLWK39KmA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT Sports 1 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/RevepRGOmeWueYsFVhWeZolXGVupcJKc/rtmp/stream/CGV1hq7T_J5sPfDErDFjnLabxV4DrFlvCC2FzitPZnqkEoSXxIjTmk0GVCh02RKh8Fq3Cy6cak_s3_Agw6E/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/yqynksCkVIMnoniKwxeeENhqLatDjouD/rtmp/stream/E3tY9fuCi0BV6eECDWHduXA2TVjiG8vyL3vQlS8sETA-L3HuaCTK4LUGlyR7V09RcpK-ArPYlKd2oAE/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb11.strmd.st/secure/UynPADDcxISYSxPuTsAhaukhXRfYXLrz/rtmp/stream/SoanN8xdiFNfd5Q1dqFC2YoHMyN2jnD1SRBmZFpHdXGresN4_Q6UHxcsnJcfz4SCOa5Dk6smoIyYjfZFrRLB/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sabah Baku vs Hapoel Be'er Sheva (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZssCBggIIXiCwhzZg4iNmS2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/LGKkCHeZspVFOcfroHaCrRjAuszpsTEA/echo/stream/sabah-fa-vs-hapoel-beer-sheva-football-1622626/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "al-taawon-vs-al-fayha-football-1602993",
       "title": "Al Taawon vs Al-Fayha",
@@ -21,7 +66,7 @@
           "channel_name": "Al Taawon vs Al-Fayha (HD)",
           "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCET965BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCAir65BgGNm4nvBFVuBLqzBhc+S0A.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/cxxjakBQHoPoturoxckMCJuKnCJdprIf/echo/stream/al-taawon-vs-al-fayha-football-1602993/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/mVsxvaDuzlxwMjTgjSLsMXqQXnDaLHSm/echo/stream/al-taawon-vs-al-fayha-football-1602993/1/playlist.m3u8"
         }
       ]
     },
@@ -42,7 +87,7 @@
           "channel_name": "Abha vs Al-Khaleej (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu2kheIEMDD7tILLuMhEKc1YghpLJBSwi5jFGFUoe78o2pzP+Kz67uJiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/vOXSFIohQnGRDwPQJPHGrYYjouNaOVfn/echo/stream/abha-vs-al-khaleej-saihat-football-1602992/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/xQMIGjuNaheDpnVgkyvjqwXSdBHsZDQf/echo/stream/abha-vs-al-khaleej-saihat-football-1602992/1/playlist.m3u8"
         }
       ]
     }
