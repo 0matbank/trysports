@@ -1,7 +1,50 @@
 {
   "category_name": "Football Live",
-  "total_items": 0,
-  "updated_time_bd": "2026-08-25 | 21:43:15",
+  "total_items": 2,
+  "updated_time_bd": "2026-08-25 | 22:21:10",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "al-taawon-vs-al-fayha-football-1602993",
+      "title": "Al Taawon vs Al-Fayha",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Aug 2026, 04:10 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCET965BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCAir65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Al Taawon vs Al-Fayha (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCET965BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCAir65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/cxxjakBQHoPoturoxckMCJuKnCJdprIf/echo/stream/al-taawon-vs-al-fayha-football-1602993/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "abha-vs-al-khaleej-2573321",
+      "title": "Abha vs Al-Khaleej",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Aug 2026, 04:05 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu2kheIEMDD7tILLuMhEKc1YghpLJBSwi5jFGFUoe78o2pzP+Kz67uJiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Abha vs Al-Khaleej (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu2kheIEMDD7tILLuMhEKc1YghpLJBSwi5jFGFUoe78o2pzP+Kz67uJiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/vOXSFIohQnGRDwPQJPHGrYYjouNaOVfn/echo/stream/abha-vs-al-khaleej-saihat-football-1602992/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
