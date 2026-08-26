@@ -1,9 +1,48 @@
 {
   "category_name": "Football Live",
-  "total_items": 11,
-  "updated_time_bd": "2026-08-26 | 07:57:14",
+  "total_items": 7,
+  "updated_time_bd": "2026-08-26 | 09:09:23",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "le-n-vs-real-salt-lake-2574550",
+      "title": "León vs Real Salt Lake",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "26 Aug 2026, 02:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEAGMQKaaRBUQwuWRIgswRAqkgRakDGn7gC4ZOMgLMmhFLYNGlORsChIpncdhCwJLgmOhMG5OGyUyRwJ7MCDgGzIIIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEAGMQKaaRBUQwuWRIgswRAqkgRakDGn7gC4ZOMgLMmhFLYNGlORsChIpncdhCwJLgmOhMG5OGyUyRwJ7MCDgGzIIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/InkouLCFjRDaNyDFYGKwZZQKIHyUrvnC/rtmp/stream/2m0SVXlYKuOk1NA7CKlrYN6D9EJwBc0-TiOLzO_tefgot0dl3_vgVT3s2fEP_Uh2wjBBPV8ibT-7/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEAGMQKaaRBUQwuWRIgswRAqkgRakDGn7gC4ZOMgLMmhFLYNGlORsChIpncdhCwJLgmOhMG5OGyUyRwJ7MCDgGzIIIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb6.strmd.st/secure/DvYUgZgRiqOGlHOlKRfNZliaultWfyCR/rtmp/stream/a9P1avku41qgk8r8RB6kuBmFWBefdupujZzfO7VZz04lCLEcJpzRifprfkmzO4VQs-Ezy5zJfXVouL_suQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "León vs Real Salt Lake (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEAGMQKaaRBUQwuWRIgswRAqkgRakDGn7gC4ZOMgLMmhFLYNGlORsChIpncdhCwJLgmOhMG5OGyUyRwJ7MCDgGzIIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/mlkqjFBJIypFGtLuTqSeqSIrtcfwfNFj/delta/stream/live_leagues-cup_leon-salt-lake-live-streaming-608531616/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "León vs Real Salt Lake (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEAGMQKaaRBUQwuWRIgswRAqkgRakDGn7gC4ZOMgLMmhFLYNGlORsChIpncdhCwJLgmOhMG5OGyUyRwJ7MCDgGzIIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/yGnHXQucBbazZyJtSypjDDYCXCQLJSIm/echo/stream/leon-vs-real-salt-lake-football-1627559/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "independiente-santa-fe-vs-jaguares-de-c-rdoba-2481152",
       "title": "Independiente Santa Fe vs Jaguares de Córdoba",
@@ -21,28 +60,7 @@
           "channel_name": "Independiente Santa Fe vs Jaguares de Córdoba (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGF4gQiFLhDcQUkHxAkQEA-vPmQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/yGmEIsVzGueNqlzJzorielTXoSPwoabk/echo/stream/santa-fe-vs-jaguares-football-1549752/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "cucuta-vs-alianza-valledupar-football-1549747",
-      "title": "Cucuta vs Alianza Valledupar",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Aug 2026, 01:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiICCADGIGPXINVzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikBEX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Cucuta vs Alianza Valledupar (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiICCADGIGPXINVzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikBEX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/WRROEGxoQMRdupZmNWUwywstxstKMFyJ/echo/stream/cucuta-vs-alianza-valledupar-football-1549747/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/KwHLyAojVYAIeMosUpqJeyxXwxzCMcdF/echo/stream/santa-fe-vs-jaguares-football-1549752/1/playlist.m3u8"
         }
       ]
     },
@@ -63,70 +81,13 @@
           "channel_name": "Apple TV (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBIh4wCRKwgAxuJDDZk8cEQSQ03SBhatB1QdLHtSkAsOISKchFBhBIptnphCwJLkUOhF1YnNTIHAiMwF1lzCCA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/QIIzIvKFIuDhwaBhCCGCvSKFRcNwkbHC/rtmp/stream/zI0DiD-da2vi8tdgs9mtYAOrQnuzzRRXYYXMOmvKQUwy2q1Fc6tTkI8G5RBZM3WUPSHT_nrDqocu/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/zJWVVEmiZRbhMLDwQPLpgNwQDWadVMma/rtmp/stream/dbEqCqoroQtrNy5w3UorUcuD4obqANfd4k9GGKB40go4gR7eJHXJ_iWhXm52UeEQMD9mtafHRyYV/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBIh4wCRKwgAxuJDDZk8cEQSQ03SBhatB1QdLHtSkAsOISKchFBhBIptnphCwJLkUOhF1YnNTIHAiMwF1lzCCA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/BOOwOHPlwtIpNPOMwUnBaadrHrstrmOU/rtmp/stream/LtC_3SVMQhsYpNMgJCoizSQY2uPAwYKwLafYUuj37G3WzZP0S6ftEc16m84zGAfskAKOOdwhVqDnJr-hLA/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Monterrey vs Chicago Fire (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBIh4wCRKwgAxuJDDZk8cEQSQ03SBhatB1QdLHtSkAsOISKchFBhBIptnphCwJLkUOhF1YnNTIHAiMwF1lzCCA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/RdINGzHIEuHesvUexLPiGGjqhlLrlZhE/delta/stream/live_leagues-cup_monterrey-chicago-live-streaming-608531184/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Monterrey vs Chicago Fire (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBIh4wCRKwgAxuJDDZk8cEQSQ03SBhatB1QdLHtSkAsOISKchFBhBIptnphCwJLkUOhF1YnNTIHAiMwF1lzCCA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/NfNDZOZYnjpYwmkvcufseqfCsYHQfYoq/echo/stream/monterrey-vs-chicago-fire-football-1627558/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "independiente-del-valle-vs-deportes-tolima-2478541",
-      "title": "Independiente del Valle vs Deportes Tolima",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Aug 2026, 12:30 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAbXApgYEIm4g+IYxEO4QKM1NwFgSCn2Gz6KMCu1s35ellnamtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN SPORTS (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAbXApgYEIm4g+IYxEO4QKM1NwFgSCn2Gz6KMCu1s35ellnamtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/YRNskLaIXAJRkkkDtKkCFwdYPHIDtcWE/rtmp/stream/TJCrYXHiFv0tWe6Y4VtTq7OFDLJbHEBstOagmt3AVJBlCGa_ZEYpONwdTPQJRCMv_CPaV99ZzXtUaUpGn50/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "beIN SPORTS (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAbXApgYEIm4g+IYxEO4QKM1NwFgSCn2Gz6KMCu1s35ellnamtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb1.strmd.st/secure/CRjsklCbeRaWYskJSYYqJFmhsVIehrLT/rtmp/stream/KnDlr8N1eJ2RvUvrL7XJDw2Hb2OByzgQhdf_JPMQBi7TjPMi_7Ni71aMadsPQpMOw8Pfa5YxrdahS9d5w0vQUx_H/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - beIN SPORTS ñ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAbXApgYEIm4g+IYxEO4QKM1NwFgSCn2Gz6KMCu1s35ellnamtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/NwVMjAgenTacsoADnkKGVwUcaKwqwhum/rtmp/stream/l7mqKLEKbgaeOBQL71RzzAKimihuBDq33QmFJ-kYgyZpwAqkrL80nl1k0EjuUOE7scLg-ZE2eqfYghBKrEDw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - beIN SPORTS ñ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAbXApgYEIm4g+IYxEO4QKM1NwFgSCn2Gz6KMCu1s35ellnamtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/KSAbrZWSsdvFCDMLaXDhFPRafzDNhckx/rtmp/stream/EZcgKGPDoTpLYjtwm7GvHkmOkZUclxCe1KjRVYy4U3dlJcsDHjw69OdPWLfMnIN-9832oaq5KlVKjHiNC4VP2ZYTKg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Independiente del Valle vs Deportes Tolima (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAbXApgYEIm4g+IYxEO4QKM1NwFgSCn2Gz6KMCu1s35ellnamtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/GjhnMvEZOwZcycdcxupGEfyrZMjsECeL/echo/stream/independiente-del-valle-vs-deportes-tolima-football-1547769/1/playlist.m3u8"
+          "direct_stream_url": "https://lb15.strmd.st/secure/vqjzDsZIsNjEUyrtsLrRzwpjyaAIRxAZ/rtmp/stream/M7V2V2NDPh0ITQIJUVfttMt4MchwkMO7lXd1VEeYY9428HkHWAaSXdpPK1XFv2A2uBizY6sJC01ypWUJiw/1/playlist.m3u8"
         }
       ]
     }
