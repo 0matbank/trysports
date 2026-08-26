@@ -1,6 +1,34 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-08-26 | 21:52:55
+# TOTAL-ITEMS: 4
+# UPDATED Time and date BD: 2026-08-26 | 22:49:13
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Al-Faisaly vs Al-Fateh (HD)" tvg-name="Al-Faisaly vs Al-Fateh (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH745EEIJCa9Bo4hQhEiXVhZIK19qPEowqlDxflG1OW+30wLuJiEEA.webp" group-title="Football", Al-Faisaly vs Al-Fateh (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/KhCZSHPWJHMuIVeMnGSJcoXALACagwJS/echo/stream/al-faisaly-fc-vs-al-fateh-football-1602996/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="German - ORF 1 (HD)" tvg-name="German - ORF 1 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFqNaSbiBC8QWfUZAwQiCKZRmWSClhFzGKMKpQ835bXI-5WwGBu4mIQQA.webp" group-title="Football", German - ORF 1 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb10.strmd.st/secure/FQoTSgXDrApDcKPXhZbpPBfMNqcNfczp/rtmp/stream/3H5j1DRcKVtNXyy_jaHnq4CNNl5EczX-iP00n8eyLSd7MBDjd1ueJN1lsp5_1zvZnVzeGRuA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="German - ORF 1 (SD)" tvg-name="German - ORF 1 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFqNaSbiBC8QWfUZAwQiCKZRmWSClhFzGKMKpQ835bXI-5WwGBu4mIQQA.webp" group-title="Football", German - ORF 1 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb1.strmd.st/secure/NQBCHxynGFSlDzevEFUchlfSrxpVKWFp/rtmp/stream/-MeWJ2ZbK3q8kmFjJGaIO5mIqfai-xz1c4xEEnd2z0OxywLsgAaS98nR_4zrG8JPetq4TxET_stP6Q/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rapid Vienna vs Heart of Midlothian (HD)" tvg-name="Rapid Vienna vs Heart of Midlothian (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFqNaSbiBC8QWfUZAwQiCKZRmWSClhFzGKMKpQ835bXI-5WwGBu4mIQQA.webp" group-title="Football", Rapid Vienna vs Heart of Midlothian (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/FomWYaZMraQHUMrNhlJirjIXTvfesgZi/echo/stream/rapid-vienna-vs-heart-of-midlothian-football-1623429/1/playlist.m3u8
 

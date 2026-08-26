@@ -1,7 +1,24 @@
 {
   "category_name": "Cricket Upcoming",
-  "total_items": 0,
-  "updated_time_bd": "2026-08-26 | 21:52:55",
+  "total_items": 2,
+  "updated_time_bd": "2026-08-26 | 22:49:13",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "ppv-fox-cricket",
+      "title": "Fox Cricket",
+      "category": "cricket",
+      "status": "UPCOMING",
+      "start_time_bd": "Upcoming",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMhGA0SIYVOCIQpcSBoQVKbMEnr1AYy01hIGFNXKUIS9JUlN-MIJFMt9wsCS49moY9aS5Mk0CBXJHbVJtIA.webp"
+    },
+    {
+      "id": "admin-willow-cricket",
+      "title": "Willow Cricket",
+      "category": "cricket",
+      "status": "UPCOMING",
+      "start_time_bd": "Upcoming",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp"
+    }
+  ]
 }
