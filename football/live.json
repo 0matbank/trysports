@@ -1,29 +1,7 @@
 {
   "category_name": "Football Live",
-  "total_items": 1,
-  "updated_time_bd": "2026-08-26 | 14:51:08",
+  "total_items": 0,
+  "updated_time_bd": "2026-08-26 | 15:42:52",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "independiente-santa-fe-vs-jaguares-de-c-rdoba-2481152",
-      "title": "Independiente Santa Fe vs Jaguares de Córdoba",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Aug 2026, 01:05 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGF4gQiFLhDcQUkHxAkQEA-vPmQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Independiente Santa Fe vs Jaguares de Córdoba (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGF4gQiFLhDcQUkHxAkQEA-vPmQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/UWakmbUcfAnKzVzvcjDUwaQuGxniQmGM/echo/stream/santa-fe-vs-jaguares-football-1549752/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
