@@ -1,27 +1,13 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 3
-# UPDATED Time and date BD: 2026-08-26 | 11:36:03
+# TOTAL-ITEMS: 1
+# UPDATED Time and date BD: 2026-08-26 | 12:04:42
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
-
-#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEAGMQKaaRBUQwuWRIgswRAqkgRakDGn7gC4ZOMgLMmhFLYNGlORsChIpncdhCwJLgmOhMG5OGyUyRwJ7MCDgGzIIIA.webp" group-title="Football", Apple TV (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/scPAfrRgFisJrXMmmrgeskwfMEAMEOtn/rtmp/stream/AzVLvke5MC7-0LOLoHTLV6f0mOSyUDQGMZXHDwEpu84OhI_8QaDHvCOOPj70yfAaZxs0JC0fyrLM/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEAGMQKaaRBUQwuWRIgswRAqkgRakDGn7gC4ZOMgLMmhFLYNGlORsChIpncdhCwJLgmOhMG5OGyUyRwJ7MCDgGzIIIA.webp" group-title="Football", Apple TV (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/NuCsFgRoQBsXMSxAnRxcHtfpWPrLUNAP/rtmp/stream/3ZHRPkzI3pG2Z5NUB50ppQKF5B645cQBdfECt_lJC8_3VpkRQCDmjY_8bu_PXlLFljbVAxQ8S1XfhlcyOA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Independiente Santa Fe vs Jaguares de Córdoba (HD)" tvg-name="Independiente Santa Fe vs Jaguares de Córdoba (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGF4gQiFLhDcQUkHxAkQEA-vPmQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Independiente Santa Fe vs Jaguares de Córdoba (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/fCstUCSyYhbStCmElYMCpvvGyuWbwORP/echo/stream/santa-fe-vs-jaguares-football-1549752/1/playlist.m3u8
+https://lb5.strmd.st/secure/GCytRIOgmBPlWQJQAmQceDNkkKumblkX/echo/stream/santa-fe-vs-jaguares-football-1549752/1/playlist.m3u8
 

@@ -1,36 +1,9 @@
 {
   "category_name": "Football Live",
-  "total_items": 3,
-  "updated_time_bd": "2026-08-26 | 11:36:03",
+  "total_items": 1,
+  "updated_time_bd": "2026-08-26 | 12:04:42",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "le-n-vs-real-salt-lake-2574550",
-      "title": "León vs Real Salt Lake",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Aug 2026, 02:30 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEAGMQKaaRBUQwuWRIgswRAqkgRakDGn7gC4ZOMgLMmhFLYNGlORsChIpncdhCwJLgmOhMG5OGyUyRwJ7MCDgGzIIIA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Apple TV (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEAGMQKaaRBUQwuWRIgswRAqkgRakDGn7gC4ZOMgLMmhFLYNGlORsChIpncdhCwJLgmOhMG5OGyUyRwJ7MCDgGzIIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/scPAfrRgFisJrXMmmrgeskwfMEAMEOtn/rtmp/stream/AzVLvke5MC7-0LOLoHTLV6f0mOSyUDQGMZXHDwEpu84OhI_8QaDHvCOOPj70yfAaZxs0JC0fyrLM/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Apple TV (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEAGMQKaaRBUQwuWRIgswRAqkgRakDGn7gC4ZOMgLMmhFLYNGlORsChIpncdhCwJLgmOhMG5OGyUyRwJ7MCDgGzIIIA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb14.strmd.st/secure/NuCsFgRoQBsXMSxAnRxcHtfpWPrLUNAP/rtmp/stream/3ZHRPkzI3pG2Z5NUB50ppQKF5B645cQBdfECt_lJC8_3VpkRQCDmjY_8bu_PXlLFljbVAxQ8S1XfhlcyOA/1/playlist.m3u8"
-        }
-      ]
-    },
     {
       "id": "independiente-santa-fe-vs-jaguares-de-c-rdoba-2481152",
       "title": "Independiente Santa Fe vs Jaguares de Córdoba",
@@ -48,7 +21,7 @@
           "channel_name": "Independiente Santa Fe vs Jaguares de Córdoba (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGF4gQiFLhDcQUkHxAkQEA-vPmQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/fCstUCSyYhbStCmElYMCpvvGyuWbwORP/echo/stream/santa-fe-vs-jaguares-football-1549752/1/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/GCytRIOgmBPlWQJQAmQceDNkkKumblkX/echo/stream/santa-fe-vs-jaguares-football-1549752/1/playlist.m3u8"
         }
       ]
     }
