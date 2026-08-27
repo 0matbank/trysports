@@ -1,6 +1,27 @@
 #EXTM3U
 # CATEGORY NAME: Cricket Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-08-27 | 06:52:11
+# TOTAL-ITEMS: 3
+# UPDATED Time and date BD: 2026-08-27 | 16:57:08
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Sky Sports Cricket (HD)" tvg-name="Sky Sports Cricket (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp" group-title="Cricket", Sky Sports Cricket (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb15.strmd.st/secure/PjAaXfDBdjzcCfMgqCLVZCiAdDTUfvlF/rtmp/stream/zaEs2xcV-m27_TX-ddPRIjR79ErwQ8EgTjSJz9_zNi3OdIOyKBzEkug3vxa_OxvTB1p6qTNo711g2kTe/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports Cricket (SD)" tvg-name="Sky Sports Cricket (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp" group-title="Cricket", Sky Sports Cricket (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb15.strmd.st/secure/NmwNriJNparhQJnaCAWptHWugwzyjqPE/rtmp/stream/6vm0Eh649wwGvJLoKmO_30DoBdbpQSAqsjC8RP3zjrCSn5jTaWdFyAZ4IyCCnVVmYT_gFAZZDy7WBh_0usOZ3g/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2nd Test - England vs. Pakistan (HD)" tvg-name="2nd Test - England vs. Pakistan (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp" group-title="Cricket", 2nd Test - England vs. Pakistan (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb10.strmd.st/secure/IRQLuHnUzxujnkoiyzTjELzaysprbtUp/echo/stream/england-vs-pakistan-second-test-cricket-hundred-1/1/playlist.m3u8
 
