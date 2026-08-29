@@ -1,9 +1,17 @@
 {
   "category_name": "Cricket Upcoming",
-  "total_items": 2,
-  "updated_time_bd": "2026-08-28 | 23:28:25",
+  "total_items": 3,
+  "updated_time_bd": "2026-08-29 | 07:07:40",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "ppv-2-nd-test-england-vs-pakistan",
+      "title": "2nd Test - England vs. Pakistan",
+      "category": "cricket",
+      "status": "UPCOMING",
+      "start_time_bd": "29 Aug 2026, 04:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp"
+    },
     {
       "id": "ppv-fox-cricket",
       "title": "Fox Cricket",

@@ -1,35 +1,7 @@
 {
   "category_name": "Cricket Live",
-  "total_items": 2,
-  "updated_time_bd": "2026-08-28 | 23:28:25",
+  "total_items": 0,
+  "updated_time_bd": "2026-08-29 | 07:07:40",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "ppv-2-nd-test-england-vs-pakistan",
-      "title": "2nd Test - England vs. Pakistan",
-      "category": "cricket",
-      "status": "LIVE_NOW",
-      "start_time_bd": "28 Aug 2026, 10:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports Cricket (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/khdcwoLktetHmKMZuFAKWkWaHpMLkzpS/rtmp/stream/7Z_exMcvbeZOIc3EiniW0GZccUZWEIT4mGqangW-nh4fyURP06UbkasmBA9_TeXlgZfWsdC4j_stSTK3/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports Cricket (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/ZvtvlzPsddsGYZTFRDMIRanoxNlBYDVI/rtmp/stream/CvxB0xMxT1DSwrWskWHvHv5_6UAJ9r7lZ1uKfq07z9oDq60qCTvdJo4vFL4nM1xIQrS0Q5eVWD-B7altzNvgDA/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
