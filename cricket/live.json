@@ -1,41 +1,7 @@
 {
   "category_name": "Cricket Live",
-  "total_items": 3,
-  "updated_time_bd": "2026-08-30 | 21:07:49",
+  "total_items": 0,
+  "updated_time_bd": "2026-08-31 | 00:38:52",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "ppv-2-nd-test-england-vs-pakistan",
-      "title": "2nd Test - England vs. Pakistan",
-      "category": "cricket",
-      "status": "LIVE_NOW",
-      "start_time_bd": "30 Aug 2026, 10:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports Cricket (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/wAjMOSNvsEDycCaZKZglHuVblgkUQKGA/rtmp/stream/Nv8T1x1D-HBBGGuQYg9vLQT534kbLB3Kg4FhUA5ZK52apmM2hKFzfa_KERN1LotkW4sIAy708zMo4Qoq/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports Cricket (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb14.strmd.st/secure/sSldGmtDBlNncHWNQDSChqGWSKdxqUkB/rtmp/stream/Y2xQfpL3pSBAmWQ6VMQtzbiqNJqbaONLnbcy7um0h5tpuUsHVzGJ2G5IGd1dZjYKWrm2ar41MNkNyjEtt-1DRg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "2nd Test - England vs. Pakistan (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/cHevmHzdfYhbzPbkvkFKPEQbhcdKKLcc/echo/stream/england-vs-pakistan-second-test-cricket-hundred-1/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }

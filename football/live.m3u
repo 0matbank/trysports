@@ -1,356 +1,202 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 50
-# UPDATED Time and date BD: 2026-08-30 | 21:07:49
+# TOTAL-ITEMS: 28
+# UPDATED Time and date BD: 2026-08-31 | 00:38:52
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
-#EXTINF:-1 tvg-id="ESPN+ (HD)" tvg-name="ESPN+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDJIGYKdhDcQfECYggUIGCDNnE5pkgp9hs+ik1sUXTeXpZZXky0GqL0oUA.webp" group-title="Football", ESPN+ (HD)
+#EXTINF:-1 tvg-id="Samsunspor vs Fenerbahçe (HD)" tvg-name="Samsunspor vs Fenerbahçe (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHFJC9aOEFpB89ITYZjGQiQwqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football", Samsunspor vs Fenerbahçe (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb11.strmd.st/secure/icElnmbcmdbGaerVtjzTBesejfONtltM/rtmp/stream/982-B280IbJH65Cu3_UzOIP715zV12VlnQG6DsbLqwfgSOpPZ5pe5Gt15VM6HR6nzzQ_JNez1wQ/1/playlist.m3u8
+https://lb7.strmd.st/secure/EuDgPoAPbTuQzFmxiAYHqBVNxCLRtZZM/echo/stream/samsunspor-vs-fenerbahce-football-1584393/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN+ (SD)" tvg-name="ESPN+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDJIGYKdhDcQfECYggUIGCDNnE5pkgp9hs+ik1sUXTeXpZZXky0GqL0oUA.webp" group-title="Football", ESPN+ (SD)
+#EXTINF:-1 tvg-id="İstanbul Başakşehir vs Kasımpaşa (HD)" tvg-name="İstanbul Başakşehir vs Kasımpaşa (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFBDMQogAwIQ3EHxCmpxkDBDnE5kAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Football", İstanbul Başakşehir vs Kasımpaşa (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/kyeaPeueWgswCAHUbeFFOHPizfXBAUMs/rtmp/stream/qaX8SX5CaT-z013vXj5412ulFaxJnWQPfebrQNwfsoSKAm9xdKNBDuYTnJHl91V6qk0ZZHJDjBnshfHF/1/playlist.m3u8
+https://lb4.strmd.st/secure/JtsdYbAJpHnzbJQFYUutwyOwtoNFtbDg/echo/stream/basaksehir-vs-kasimpasa-football-1584386/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Spanish - ESPN+ (HD)" tvg-name="Spanish - ESPN+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDJIGYKdhDcQfECYggUIGCDNnE5pkgp9hs+ik1sUXTeXpZZXky0GqL0oUA.webp" group-title="Football", Spanish - ESPN+ (HD)
+#EXTINF:-1 tvg-id="Widzew Łódź vs Lech Poznań (HD)" tvg-name="Widzew Łódź vs Lech Poznań (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcDniwQUEiG4g+IYwakgUIGOesoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Widzew Łódź vs Lech Poznań (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/EypBEzgbCKREKWlDQWMHCTNWvfCsRTcm/rtmp/stream/IeyGLELCcu5nIqOvI3gEpv-c1XwZd83FP8QgfqQCyleVARBX51vODSDZSbTcmOaQt2MwXNauiQsw/1/playlist.m3u8
+https://lb12.strmd.st/secure/IrSShxbgFedljynMKoQOYVncVwuQJlMq/echo/stream/widzew-lodz-vs-lech-poznan-football-1553151/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Spanish - ESPN+ (SD)" tvg-name="Spanish - ESPN+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDJIGYKdhDcQfECYggUIGCDNnE5pkgp9hs+ik1sUXTeXpZZXky0GqL0oUA.webp" group-title="Football", Spanish - ESPN+ (SD)
+#EXTINF:-1 tvg-id="Asteras Tripolis vs Olympiakos Piraeus (HD)" tvg-name="Asteras Tripolis vs Olympiakos Piraeus (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbMvrkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsikPHrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title="Football", Asteras Tripolis vs Olympiakos Piraeus (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/oQSPcyPAoUNCWlQHHYEmOGyqrFYAwkhp/rtmp/stream/1MpX8t_rTLWosrqrpew3k_2yPjafuLIFj-chgMeZDIfKe1Jf_3uAplSYBj4n-wyzFEKEHHeAAnX4yN6t-g/1/playlist.m3u8
+https://lb10.strmd.st/secure/bhBwCdCMLPnwuJSdyyPGlzdgOkpHbaXy/echo/stream/asteras-tripolis-vs-olympiakos-piraeus-football-1593297/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Real Madrid vs Málaga (HD)" tvg-name="Real Madrid vs Málaga (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDJIGYKdhDcQfECYggUIGCDNnE5pkgp9hs+ik1sUXTeXpZZXky0GqL0oUA.webp" group-title="Football", Real Madrid vs Málaga (HD)
+#EXTINF:-1 tvg-id="Al-Qadisiyah FC vs Al-Faisaly FC (HD)" tvg-name="Al-Qadisiyah FC vs Al-Faisaly FC (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCETx65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCEQx65BgGNm4nvBFVuBLqzBhc+S0A.webp" group-title="Football", Al-Qadisiyah FC vs Al-Faisaly FC (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb7.strmd.st/secure/MgXxTLRggjbSJKMRAsZACGNLwsJATYrW/delta/stream/live_laliga_real-madrid-malaga-live-streaming-612234720/1/playlist.m3u8
+https://lb1.strmd.st/secure/YgtrppKEUiyaRMrIjdcRBwJlUCXnKWPG/echo/stream/al-qadisiyah-fc-vs-al-faisaly-fc-football-1603006/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Real Madrid vs Málaga (HD)" tvg-name="Real Madrid vs Málaga (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDJIGYKdhDcQfECYggUIGCDNnE5pkgp9hs+ik1sUXTeXpZZXky0GqL0oUA.webp" group-title="Football", Real Madrid vs Málaga (HD)
+#EXTINF:-1 tvg-id="Kifisia vs AEK Athens (HD)" tvg-name="Kifisia vs AEK Athens (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiD4hEIUCCkgNWkiFMoQJg1vMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Kifisia vs AEK Athens (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/LhiVgNlLArZmwUOlcVEvOLjOCwpCiwMl/echo/stream/real-madrid-vs-malaga-football-1570360/1/playlist.m3u8
+https://lb5.strmd.st/secure/YpwlTOBUQiKTRpNoCwhYbLFEkBQJipWc/echo/stream/kifisia-vs-aek-athens-fc-football-1593299/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Real Madrid vs Málaga (HD)" tvg-name="Real Madrid vs Málaga (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDJIGYKdhDcQfECYggUIGCDNnE5pkgp9hs+ik1sUXTeXpZZXky0GqL0oUA.webp" group-title="Football", Real Madrid vs Málaga (HD)
+#EXTINF:-1 tvg-id="Cambuur vs Twente (HD)" tvg-name="Cambuur vs Twente (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhQN+zMCRDcQfECZw4YIFJaMaCwJBT7DZ9FHrZa2e8vSyytTLRg7vSiEEA.webp" group-title="Football", Cambuur vs Twente (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://cdn12.zohanayaan.com:1686/hls/nrealmadrid.m3u8?md5=TLWoT3aVz0NoJ9hva487SQ&expires=1788109468
+https://lb8.strmd.st/secure/oIhyYlzVaKJbwrDshwZjquUdNkHHnNFE/echo/stream/cambuur-vs-twente-football-1552152/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FC Andorra vs Eibar (HD)" tvg-name="FC Andorra vs Eibar (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMJRAoQMnCRDcQfEPv0RcBkIn18CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", FC Andorra vs Eibar (HD)
+#EXTINF:-1 tvg-id="Banfield vs River Plate (HD)" tvg-name="Banfield vs River Plate (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAz9gSZvxD7uIPiCkgUJo5YghDUgtop9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="Football", Banfield vs River Plate (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb5.strmd.st/secure/bGDJUmVxxiQoPzWoqMWmCqZghfidHdwT/echo/stream/fc-andorra-vs-eibar-football-1569894/1/playlist.m3u8
+https://lb9.strmd.st/secure/aZXDkphIfKHZDFdzKfFsOJuOLvFjoQXv/echo/stream/banfield-vs-river-plate-football-1493094/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telstar vs Ajax (HD)" tvg-name="Telstar vs Ajax (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRTAADMClheIENxB8juCzBAprp3AWBIKfYbM1gVWth-L0ssrSZaMA8xUQggA.webp" group-title="Football", Telstar vs Ajax (HD)
+#EXTINF:-1 tvg-id="Viktoria Köln vs Preußen Münster (HD)" tvg-name="Viktoria Köln vs Preußen Münster (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEPzC9CWSiG4gpIYylwgSICMcP6CwJBT7DZ9FGBUou78vV2jPTLRg7mKiEEA.webp" group-title="Football", Viktoria Köln vs Preußen Münster (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb8.strmd.st/secure/bDBTZAzHulljBSzmcqPjjLzgXBQNkFRY/echo/stream/telstar-vs-ajax-football-1552151/1/playlist.m3u8
+https://lb9.strmd.st/secure/tprWvrduBBPGnpZqnwRJYjbAVNLniXrw/echo/stream/fc-viktoria-koln-vs-preussen-munster-football-1583972/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Havelse vs Waldhof Mannheim (HD)" tvg-name="Havelse vs Waldhof Mannheim (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmoWGBQ9YIbiBIhDMXfpMqQffQQpM+WtmDLwi80Vqa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhADQAgCYgSIFCG7bVu-SBggtOPvoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Football", Havelse vs Waldhof Mannheim (HD)
+#EXTINF:-1 tvg-id="ESPN+ (HD)" tvg-name="ESPN+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDEogUxbiD16+IYxG0aQpyxoLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp" group-title="Football", ESPN+ (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb1.strmd.st/secure/KlcywCDCfNZQjlCEiPhLAeAcxRGsynHc/echo/stream/havelse-vs-waldhof-mannheim-football-1583970/1/playlist.m3u8
+https://lb14.strmd.st/secure/YqzYywlGeeJaRpdCYkQkmjjWzwJRpQpJ/rtmp/stream/tzP0lJpSvIP3t3GCMzU4-QRNrYcWLWfkI1aY8YrAMuhNfUELhctgB4Oa3zzWC0NdCjKUNfnxrfU/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nacional de Madeira vs Estrela Amadora (HD)" tvg-name="Nacional de Madeira vs Estrela Amadora (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzswJEClghuBkHxCmpxo6ZQgINgsCQU+w2fT0qUXbeXpZZnplowbTFRCCA.webp" group-title="Football", Nacional de Madeira vs Estrela Amadora (HD)
+#EXTINF:-1 tvg-id="ESPN+ (SD)" tvg-name="ESPN+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDEogUxbiD16+IYxG0aQpyxoLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp" group-title="Football", ESPN+ (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/HFnRZpnLaHATlvJAjanmxdYNtWHrMYea/echo/stream/nacional-vs-estrela-football-1575480/1/playlist.m3u8
+https://lb14.strmd.st/secure/YcZcyYfcQldgcgFUfDbBnttlBFGkFhuJ/rtmp/stream/IOYTHDrJsU3LpdSfxCXglMbMFbyjAIcgA_800mRvY-oQElW5FDlbsqx73TkRxkGuNv9fxOTTiEjM6sfD/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="St. Gallen vs Thun (HD)" tvg-name="St. Gallen vs Thun (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSBQ9NwAAwgD3EH2O4QRkxpghr8AsCQU+w2fRRgVWth-L0ssrSZaMA8xUQggA.webp" group-title="Football", St. Gallen vs Thun (HD)
+#EXTINF:-1 tvg-id="Deportivo de A Coruña vs Valencia (HD)" tvg-name="Deportivo de A Coruña vs Valencia (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDEogUxbiD16+IYxG0aQpyxoLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp" group-title="Football", Deportivo de A Coruña vs Valencia (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/ygiywDErgKOSvFfplPmRlQdZlTlwEwBl/echo/stream/fc-st-gallen-vs-fc-thun-football-1555375/1/playlist.m3u8
+https://lb15.strmd.st/secure/vUdOXCjoHyMtfHzITeVZkQwTzbjmLJIA/delta/stream/live_laliga_deportivo-valencia-live-streaming-612235152/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vaduz vs Grasshoppers (HD)" tvg-name="Vaduz vs Grasshoppers (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECD5heKDSAghumvThwxchkIj4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Vaduz vs Grasshoppers (HD)
+#EXTINF:-1 tvg-id="Deportivo de A Coruña vs Valencia (HD)" tvg-name="Deportivo de A Coruña vs Valencia (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDEogUxbiD16+IYxG0aQpyxoLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp" group-title="Football", Deportivo de A Coruña vs Valencia (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/YKPKUzdaPLbZdCkdBfXowsmQKlbRcZXt/echo/stream/fc-vaduz-vs-grasshoppers-football-1555376/1/playlist.m3u8
+https://lb2.strmd.st/secure/xCbQoEpYFCzOyfRkiEcetscgymYKRviQ/echo/stream/deportivo-la-coruna-vs-valencia-football-1570356/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bayer Leverkusen Women vs Wolfsburg Women (HD)" tvg-name="Bayer Leverkusen Women vs Wolfsburg Women (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRhuFbiC2bNAExCIYIIzk1GSIFAQpM+KLmDLwi80faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQVRoFGBIhuIPiAO6UIYwZw4ThGMCZ8UXLeXrzR9prTBaxoiEA.webp" group-title="Football", Bayer Leverkusen Women vs Wolfsburg Women (HD)
+#EXTINF:-1 tvg-id="Atromitos vs PAOK (HD)" tvg-name="Atromitos vs PAOK (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvIYgpYEiG7b9IY1JApcIRMZgFgSCn2Gz6KXWxRdd5ellkemtGBu9KIQQA.webp" group-title="Football", Atromitos vs PAOK (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/wmhBKifeCNvNimmuzMSnpEKIqFOzqnoW/echo/stream/bayer-leverkusen-w-vs-vfl-wolfsburg-w-football-1593114/1/playlist.m3u8
+https://lb11.strmd.st/secure/ONqCAsdutruUVrSZmrGunGpEGTIKrezl/echo/stream/atromitos-vs-paok-football-1593298/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mansfield Town vs Luton Town (HD)" tvg-name="Mansfield Town vs Luton Town (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEAzB8wSEKN3cQfECZwQQUvRZAo9BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Mansfield Town vs Luton Town (HD)
+#EXTINF:-1 tvg-id="Cadiz vs Valladolid (HD)" tvg-name="Cadiz vs Valladolid (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCogI9cg0XNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCogY9cg0XNxPeCKrcCXVmDC58FoA.webp" group-title="Football", Cadiz vs Valladolid (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb15.strmd.st/secure/pFGqbqYUglxEkYpWOlDHhWawojRrOgYt/echo/stream/mansfield-town-vs-luton-football-1564263/1/playlist.m3u8
+https://lb3.strmd.st/secure/XgUFmdnmlmGyJbFuHbrTYsPiNGsPuRaH/echo/stream/cadiz-vs-valladolid-football-1569896/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dundee vs Hibernian (HD)" tvg-name="Dundee vs Hibernian (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCBIgpIPmClgUIbrpBmcJo4hxGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Dundee vs Hibernian (HD)
+#EXTINF:-1 tvg-id="Casa Pia vs Moreirense (HD)" tvg-name="Casa Pia vs Moreirense (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGSGAAGZmBRgpIbiD4gzh08bMoQEEFILAkFPsNn19KlFzBl4RLFlvJlowXzFRCCA.webp" group-title="Football", Casa Pia vs Moreirense (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb12.strmd.st/secure/nTmnBWYIcFwqzfHaNJKUtEIbNTuNAcMw/echo/stream/dundee-vs-hibernian-football-1556648/1/playlist.m3u8
+https://lb9.strmd.st/secure/iODhlQKJkiFQXYxKqJEAWYlQwXbJJFdu/echo/stream/casa-pia-vs-moreirense-football-1575478/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="St Mirren vs Motherwell (HD)" tvg-name="St Mirren vs Motherwell (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8Vbgh50wSMChDcQfECZyH9iHPoVNdMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", St Mirren vs Motherwell (HD)
+#EXTINF:-1 tvg-id="Felgueiras vs Chaves (HD)" tvg-name="Felgueiras vs Chaves (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRNzAzEMkCG4g+ekFMO4QMfSBIgUBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Felgueiras vs Chaves (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb3.strmd.st/secure/gTKlkWTRDrVuUlJoxBjkJpOVAPfjdqqb/echo/stream/st-mirren-vs-motherwell-football-1556651/1/playlist.m3u8
+https://lb9.strmd.st/secure/RGOHfqbXKkdekFluqekEImKIIqejTQdk/echo/stream/felgueiras-1932-vs-chaves-football-1576471/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Randers FC vs AGF Aarhus (HD)" tvg-name="Randers FC vs AGF Aarhus (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLERQgBYYFJDdtIYzhyGSIC32MFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Randers FC vs AGF Aarhus (HD)
+#EXTINF:-1 tvg-id="Sporting CP B vs Farense (HD)" tvg-name="Sporting CP B vs Farense (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUSGZcU-ENxB8QRqQdwgYekCSMFgSCn2Gz6KMCp1s35ellk6mtGBuYqIQQA.webp" group-title="Football", Sporting CP B vs Farense (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb9.strmd.st/secure/vibhxqXDaVOIhKINazoLmzRwdmCSERij/echo/stream/randers-fc-vs-aarhus-football-1549005/1/playlist.m3u8
+https://lb12.strmd.st/secure/zRjQzkFdrLlrPiYTYajPqXDEQRoXbutc/echo/stream/sporting-cp-b-vs-farense-football-1576474/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Athletico Paranaense vs Fluminense (HD)" tvg-name="Athletico Paranaense vs Fluminense (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLLDBIQfMLykhuOkAZQmQFxAYgmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Athletico Paranaense vs Fluminense (HD)
+#EXTINF:-1 tvg-id="Porto B vs Penafiel (HD)" tvg-name="Porto B vs Penafiel (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXr0KikYFCG4g+IY1MO4QMfSBIgpBYDpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Porto B vs Penafiel (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb11.strmd.st/secure/otPBVWOhDIHvNouHyDwpeSMLwHdHyskk/echo/stream/atletico-paranaense-vs-fluminense-football-1492350/1/playlist.m3u8
+https://lb13.strmd.st/secure/XaboSVLNhvFoWpfHsihWutGEVUbHMTuM/echo/stream/fc-porto-b-vs-penafiel-football-1576470/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fandango (HD)" tvg-name="Fandango (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBSgQvMMAAMOkHxAkQEEDHNGzZvgWBIK91iLEowKrW0-l6WWS0mWjBPMVEIIA.webp" group-title="Football", Fandango (HD)
+#EXTINF:-1 tvg-id="Mallorca vs Ceuta (HD)" tvg-name="Mallorca vs Ceuta (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjk4UVSBDcQEEHxCISIGIf1mYBCkz4ouYMqvrzRdprTAOxoiEA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQ8QfBMDAgSIbiAAm64xGO6cfEPAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Football", Mallorca vs Ceuta (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/HCxnSpjrftPTWUwotrFjqtIhvXWohbQc/rtmp/stream/fcLjgfQXtMBklVk7s0c0TXK2836-2axnx8khdTLo2F4g-J3Jp6Q4wP2pmBX0dqfsUCz4RuARzHA/1/playlist.m3u8
+https://lb10.strmd.st/secure/HNHozPpukvMoHRmWkkoFBSoMpnOjrMxR/echo/stream/mallorca-vs-ad-ceuta-fc-football-1569901/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fandango (SD)" tvg-name="Fandango (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBSgQvMMAAMOkHxAkQEEDHNGzZvgWBIK91iLEowKrW0-l6WWS0mWjBPMVEIIA.webp" group-title="Football", Fandango (SD)
+#EXTINF:-1 tvg-id="Aris vs OFI (HD)" tvg-name="Aris vs OFI (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxyQiXinYhuIKQZCnjKXCAhHtBYEgp9hs+ijAq9bd+XpZZeplowdzFRCCA.webp" group-title="Football", Aris vs OFI (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb1.strmd.st/secure/xJhMnYklXujbnuWiZspOhuiXzvkENiqB/rtmp/stream/WAcAcQDUDyhpuPutUs0HyrY_LpKvSN26G16u56xI2R15VtLrTSPjgj5PzfzxqL1Q9i9ZWPkPtIjaQgzH/1/playlist.m3u8
+https://lb2.strmd.st/secure/ntDuREPGxqrWXHAwKaPPAVUWMmKYMxtY/echo/stream/aris-thessalonikis-vs-ofi-football-1593296/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="German - DAZN (HD)" tvg-name="German - DAZN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBSgQvMMAAMOkHxAkQEEDHNGzZvgWBIK91iLEowKrW0-l6WWS0mWjBPMVEIIA.webp" group-title="Football", German - DAZN (HD)
+#EXTINF:-1 tvg-id="Werder Bremen Women vs RB Leipzig Women (HD)" tvg-name="Werder Bremen Women vs RB Leipzig Women (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwfbKuAAGSCG4gAJqpAxTufZbPwCFJnxRcwZNfXmjHTWmGdjREIA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnms0IcGRQhuIACYaQJfSEQGDEEBAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Football", Werder Bremen Women vs RB Leipzig Women (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb1.strmd.st/secure/nnKebshWjziQAgYsMBNpptBJMAMbTBxO/rtmp/stream/WjlbAmCwKL0Rm-ZvL7GKDonBteE72Rh4mhgDajqriyk9rHesAiVXxxy2P-FyAZexZlIJvqtKRHFE/1/playlist.m3u8
+https://lb11.strmd.st/secure/SistpQcvJXSSopEaHbuKRkfVNUsPSlYG/echo/stream/werder-bremen-w-vs-rb-leipzig-w-football-1593120/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="German - DAZN (SD)" tvg-name="German - DAZN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBSgQvMMAAMOkHxAkQEEDHNGzZvgWBIK91iLEowKrW0-l6WWS0mWjBPMVEIIA.webp" group-title="Football", German - DAZN (SD)
+#EXTINF:-1 tvg-id="Paramount+ (HD)" tvg-name="Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECzogoSECRDcQfPSZQbtIGEZAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Paramount+ (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb7.strmd.st/secure/oePIDkzTJofVpJgkGVnyQTidwLpPDMGb/rtmp/stream/b8STlX02ePsIn3JNZCc1vON6iix3MypO_ckI35CqcwXFLGLN1x6HBbHubitIk2BKvtz0gr42pjKOI4g6fA/1/playlist.m3u8
+https://lb4.strmd.st/secure/SYKXHPduQDoTBbgWHMvcHFADJTFHTtXy/rtmp/stream/zt1v_jd2sWUxRMhA5g9V8Aq1oozNcojjHFDdmDiSK9_2XPUbAEOUW13fdm4Yd9E5YZP0oV4lXWY/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Freiburg vs Werder Bremen (HD)" tvg-name="Freiburg vs Werder Bremen (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBSgQvMMAAMOkHxAkQEEDHNGzZvgWBIK91iLEowKrW0-l6WWS0mWjBPMVEIIA.webp" group-title="Football", Freiburg vs Werder Bremen (HD)
+#EXTINF:-1 tvg-id="Paramount+ (SD)" tvg-name="Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECzogoSECRDcQfPSZQbtIGEZAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Paramount+ (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/rrRKvAcShvHlIKzLezcIenCUghPZOkOi/delta/stream/live_bundesliga_freiburg-bremen-live-streaming-609271632/1/playlist.m3u8
+https://lb4.strmd.st/secure/vVDYObTZNvcxYIbhjZrWealQSCLkkPEG/rtmp/stream/HtqThxtLz5lK6tkEFU6t4hOZ84zwmHrgC56BaWa2KRS_NlILxSY_JIUpQMptE7KRi0Jl1tTPN9JfXxjq/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Freiburg vs Werder Bremen (HD)" tvg-name="Freiburg vs Werder Bremen (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBSgQvMMAAMOkHxAkQEEDHNGzZvgWBIK91iLEowKrW0-l6WWS0mWjBPMVEIIA.webp" group-title="Football", Freiburg vs Werder Bremen (HD)
+#EXTINF:-1 tvg-id="Napoli vs Como (HD)" tvg-name="Napoli vs Como (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECzogoSECRDcQfPSZQbtIGEZAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Napoli vs Como (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/fxXEAHrCKYZtXsFXguruYhmaDBExJdrt/echo/stream/sc-freiburg-vs-werder-bremen-football-1575145/1/playlist.m3u8
+https://lb8.strmd.st/secure/OiyTrtMAduEUvlQeAQVOwnVPQWutlswt/delta/stream/live_serie-a_napoli-como-live-streaming-612233424/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Peacock (HD)" tvg-name="Peacock (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp" group-title="Football", Peacock (HD)
+#EXTINF:-1 tvg-id="Napoli vs Como (HD)" tvg-name="Napoli vs Como (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECzogoSECRDcQfPSZQbtIGEZAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Napoli vs Como (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb8.strmd.st/secure/JuSmxayGWBOdZioXmBFoOHqupqZYCxlD/rtmp/stream/msOuMSkv_aS6lzl86vy-wuAj6Hmu75MrViepysoSGBgVcTVbmAuz5QOSLGYTtQp2GpMjpO9yXx3in49yGw/1/playlist.m3u8
+https://lb15.strmd.st/secure/ehFHgpSYDlVoNtUMYsWsPFWJnioOnuNA/echo/stream/napoli-vs-como-football-1550105/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Peacock (SD)" tvg-name="Peacock (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp" group-title="Football", Peacock (SD)
+#EXTINF:-1 tvg-id="Goal Rush : Match week 2 (HD)" tvg-name="Goal Rush : Match week 2 (HD)" tvg-logo="https://streamed.pk/favicon.ico" group-title="Football", Goal Rush : Match week 2 (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb15.strmd.st/secure/ORBzyzyPdQSTqddtjhgoDXRReHWqvwJQ/rtmp/stream/bpwKA6cqGDhA24bcy1uQxL_uzCVEMNToaHgl5BJyopQ-dRrpkcPAQFvD0jLcTo1sla_39YGwq-yzbq1mUQi7SJQ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport 8 NZ (HD)" tvg-name="Sky Sport 8 NZ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp" group-title="Football", Sky Sport 8 NZ (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb15.strmd.st/secure/DQiDGuEFjHzLMjwsPKOfUFsHaJvCREQG/rtmp/stream/nUUKMVEtZuKZvhK-vJxVpTj2k3GZEkCgGiRmopSoNLbi1Gwl7vR135jVUgHWkjlS_L8fnBuf85E/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport 8 NZ (SD)" tvg-name="Sky Sport 8 NZ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp" group-title="Football", Sky Sport 8 NZ (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb5.strmd.st/secure/TADYJhFILMmRWAfvdOQWWAoqDOyAqrqM/rtmp/stream/hGCLfssLFmvdGMUwcGyzQ6j70CQlq93vRY3QhWip60b_uaMEtMZ4bHRFQbdLxU8f1rjdcSH_or7xQylB/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Goal Rush (HD)" tvg-name="Goal Rush (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp" group-title="Football", Goal Rush (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb11.strmd.st/secure/XdcRQbZDaunyNnxHnDjQcRkqewjWzeJR/echo/stream/goal-rush-match-week-2-game-1826262/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AVS vs Feirense (HD)" tvg-name="AVS vs Feirense (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxhuCEPT4h93AyBNTjOGCCMkQJAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", AVS vs Feirense (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/MQAyHQOQuCPoFSWeKslrPeOkiySFMVxk/echo/stream/avs-vs-feirense-football-1576468/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AFC Wimbledon vs Wigan Athletic (HD)" tvg-name="AFC Wimbledon vs Wigan Athletic (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJVAheUhNpB8QRnBBBSQJM0aMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", AFC Wimbledon vs Wigan Athletic (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb12.strmd.st/secure/satDGXEwyUKoPZmThmEVwMxPQdVSPNki/echo/stream/afc-wimbledon-vs-wigan-football-1564259/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sports+ (HD)" tvg-name="Sky Sports+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGWhAotlBiG4g+IYxBAkQp7YhggYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Sky Sports+ (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb9.strmd.st/secure/ALPAenQiJHyBzNaXfbRthoUoDrnhpIig/rtmp/stream/EWdaGxbCZ2-uur26h3ajfZtL348w9Lkn5_4swZ5F6STRlOHbiiSKYNc9jTo7YRHR9D6HdTQIZWY/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sports+ (SD)" tvg-name="Sky Sports+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGWhAotlBiG4g+IYxBAkQp7YhggYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Sky Sports+ (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb9.strmd.st/secure/oXHjVowWLfxVKuMOzTShbXxosQRdObwv/rtmp/stream/ahoNuROgevmNwn12pWC-uuRXy_dIh6minaK7nLZJsfPbg5vSXrr8TPgFYdHqdN5eelXqknkc3EXMAOhr/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sunderland vs Fulham (HD)" tvg-name="Sunderland vs Fulham (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGWhAotlBiG4g+IYxBAkQp7YhggYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Sunderland vs Fulham (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://cdn12.zohanayaan.com:1686/hls/nsunderland.m3u8?md5=kbRna4poU6OH1vKkNhq1bA&expires=1788109591
-
-#EXTINF:-1 tvg-id="Sky Sports Premier League (HD)" tvg-name="Sky Sports Premier League (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGAFIwKkHu4g+ekBBAkTIFLkt6CwbTH7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp" group-title="Football", Sky Sports Premier League (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/TwhhMVUYaqpwGJKEbCLQRaNRNzEJDZYr/rtmp/stream/ye-1XfMWWLdsCL87ULZGea30IUiDSmOIM1Rc93RKRCL20kWkzsKd4XjLEHKYfJXoytF2Ylr5n6o/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sports Premier League (SD)" tvg-name="Sky Sports Premier League (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGAFIwKkHu4g+ekBBAkTIFLkt6CwbTH7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp" group-title="Football", Sky Sports Premier League (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/zRUpfkqmoOkyCIdjuXHzofSBIhzYUJxP/rtmp/stream/CjE5oegCHsMZe2mO1wYBv8MWONfNhCDF-c89q7r_y4YuDn0MoO2nbjzC1Hrp9igyezSwBqkYjf69at6I/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Leeds United vs Brentford (HD)" tvg-name="Leeds United vs Brentford (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGAFIwKkHu4g+ekBBAkTIFLkt6CwbTH7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp" group-title="Football", Leeds United vs Brentford (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/MAjcpuSmqoLRPXHyGGScvXZfmlYOfdMk/delta/stream/live_premier-league_leeds-brentford-live-streaming-609594768/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Leeds United vs Brentford (HD)" tvg-name="Leeds United vs Brentford (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGAFIwKkHu4g+ekBBAkTIFLkt6CwbTH7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp" group-title="Football", Leeds United vs Brentford (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb1.strmd.st/secure/awskAfZKhZHfwQAKrJUyIsqbhFbXagXV/echo/stream/leeds-vs-brentford-football-1557382/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Leeds United vs Brentford (HD)" tvg-name="Leeds United vs Brentford (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGAFIwKkHu4g+ekBBAkTIFLkt6CwbTH7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp" group-title="Football", Leeds United vs Brentford (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://cdn14.zohanayaan.com:1686/hls/nleedsunited.m3u8?md5=7dmkEj2rhdRz5xEewGSKLA&expires=1788109613
-
-#EXTINF:-1 tvg-id="Sky Sports Main Event (HD)" tvg-name="Sky Sports Main Event (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECDhJgABlhgSIbiD4aQhlCETHDiGAWBIKfYbPooDbFFwPl6WWW8mWjBPelEIIA.webp" group-title="Football", Sky Sports Main Event (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb8.strmd.st/secure/HrHcplZILNfQcZYbcToFlkAKHKxLlLmb/rtmp/stream/3etzBYyj1k2Te-msKGrjR-obl36sIfh00yMbmCSrlH3sbsD0dKYLlh6fiwq3gV8USNMemEOgFTo/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sports Main Event (SD)" tvg-name="Sky Sports Main Event (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECDhJgABlhgSIbiD4aQhlCETHDiGAWBIKfYbPooDbFFwPl6WWW8mWjBPelEIIA.webp" group-title="Football", Sky Sports Main Event (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb8.strmd.st/secure/hivuQgTImcHsuQKXLlvdQIRlIEMeXbqd/rtmp/stream/j-B9lDSEC5-G39gWDYjHozuARrElby59faJGwKj-uGkMwiJUn9dk5fUEqlPWL_vJd4QJsfI_2jR4XYgR/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Chelsea vs Brighton and Hove Albion (HD)" tvg-name="Chelsea vs Brighton and Hove Albion (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECDhJgABlhgSIbiD4aQhlCETHDiGAWBIKfYbPooDbFFwPl6WWW8mWjBPelEIIA.webp" group-title="Football", Chelsea vs Brighton and Hove Albion (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/WSJrxHtomuajAburXWNSawVQVMjYWvLV/delta/stream/live_premier-league_chelsea-brighton-live-streaming-609594336/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Chelsea vs Brighton and Hove Albion (HD)" tvg-name="Chelsea vs Brighton and Hove Albion (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECDhJgABlhgSIbiD4aQhlCETHDiGAWBIKfYbPooDbFFwPl6WWW8mWjBPelEIIA.webp" group-title="Football", Chelsea vs Brighton and Hove Albion (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/fnrjDYPlHrQzVomTWdrSwzPKmSQBdKeG/delta/stream/live_premier-league_chelsea-brighton-live-streaming-609594336/2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Chelsea vs Brighton and Hove Albion (HD)" tvg-name="Chelsea vs Brighton and Hove Albion (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECDhJgABlhgSIbiD4aQhlCETHDiGAWBIKfYbPooDbFFwPl6WWW8mWjBPelEIIA.webp" group-title="Football", Chelsea vs Brighton and Hove Albion (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb11.strmd.st/secure/ODRUEvACsaOkeoktzVKTXnpavPHcycYT/echo/stream/chelsea-vs-brighton-football-1557379/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Chelsea vs Brighton and Hove Albion (HD)" tvg-name="Chelsea vs Brighton and Hove Albion (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECDhJgABlhgSIbiD4aQhlCETHDiGAWBIKfYbPooDbFFwPl6WWW8mWjBPelEIIA.webp" group-title="Football", Chelsea vs Brighton and Hove Albion (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://cdn12.zohanayaan.com:1686/hls/nchelsea.m3u8?md5=LA2p66DIL3q7IPUXywc5tw&expires=1788109647
-
-#EXTINF:-1 tvg-id="French - Ligue 1+ (HD)" tvg-name="French - Ligue 1+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGUn4htAiCG4g+IEiD3aY2w7lwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", French - Ligue 1+ (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/kHECmCurAcqcmXJGQHmlEAoouxdedQWt/rtmp/stream/qesQcZv4UTMc123v4K3QqyhYDRZSRBE2l8K1jAIUIOKFGYi4n4HbIeKXZA1da2RRSvOr_95TjSE/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="French - Ligue 1+ (SD)" tvg-name="French - Ligue 1+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGUn4htAiCG4g+IEiD3aY2w7lwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", French - Ligue 1+ (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb12.strmd.st/secure/cqFrUZVYxRQMpkUnyQuvMJatGRHzNDAt/rtmp/stream/evJQi_xKF4XC4RlFqdmpQFWVvKauHb7eHnqG_-oTNLu24ITkSfA5wu1eZF0Umts7sCjQJ98ZK3mwNkZ6/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Paris FC vs Nice (HD)" tvg-name="Paris FC vs Nice (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGUn4htAiCG4g+IEiD3aY2w7lwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Paris FC vs Nice (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb12.strmd.st/secure/zdYWPYPJwRkMNMlXlKCmiCTRZUAibEGq/echo/stream/paris-fc-vs-nice-football-1552743/1/playlist.m3u8
+https://lb7.strmd.st/secure/NhIXVXiunohaCHvnnnSZQFMIulQwJsUj/echo/stream/goal-rush-match-week-2-game-1826262/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Multiview : Bundesliga 2 🔥 🔥 🔥 (HD)" tvg-name="Multiview : Bundesliga 2 🔥 🔥 🔥 (HD)" tvg-logo="https://streamed.pk/favicon.ico" group-title="Football", Multiview : Bundesliga 2 🔥 🔥 🔥 (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb15.strmd.st/secure/gIoSDVCVnnVmxCCucxnYyiLKvsUrPFlg/echo/stream/multiview-bundesliga-2-game-151151/1/playlist.m3u8
+https://lb6.strmd.st/secure/OdTUKQIMpEYxDoaoKDqeUSgAORGIIgfK/echo/stream/multiview-bundesliga-2-game-151151/1/playlist.m3u8
 
