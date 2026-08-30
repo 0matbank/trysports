@@ -1,16 +1,16 @@
 {
   "category_name": "Football Live",
-  "total_items": 2,
-  "updated_time_bd": "2026-08-30 | 16:44:11",
+  "total_items": 50,
+  "updated_time_bd": "2026-08-30 | 21:07:49",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "utrecht-vs-psv-eindhoven-2489095",
-      "title": "Utrecht vs PSV Eindhoven",
+      "id": "real-madrid-vs-m-laga-2506193",
+      "title": "Real Madrid vs Málaga",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "30 Aug 2026, 10:15 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUWBDcQ9NgAYtIPiBM4cMECksgplgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+      "start_time_bd": "30 Aug 2026, 03:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDJIGYKdhDcQfECYggUIGCDNnE5pkgp9hs+ik1sUXTeXpZZXky0GqL0oUA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -18,20 +18,56 @@
       },
       "streams": [
         {
-          "channel_name": "Utrecht vs PSV Eindhoven (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUWBDcQ9NgAYtIPiBM4cMECksgplgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "channel_name": "ESPN+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDJIGYKdhDcQfECYggUIGCDNnE5pkgp9hs+ik1sUXTeXpZZXky0GqL0oUA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/WcpxoxpihLenSMcLcCzPWRMDJwBITRFL/echo/stream/utrecht-vs-psv-eindhoven-football-1552148/1/playlist.m3u8"
+          "direct_stream_url": "https://lb11.strmd.st/secure/icElnmbcmdbGaerVtjzTBesejfONtltM/rtmp/stream/982-B280IbJH65Cu3_UzOIP715zV12VlnQG6DsbLqwfgSOpPZ5pe5Gt15VM6HR6nzzQ_JNez1wQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "ESPN+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDJIGYKdhDcQfECYggUIGCDNnE5pkgp9hs+ik1sUXTeXpZZXky0GqL0oUA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/kyeaPeueWgswCAHUbeFFOHPizfXBAUMs/rtmp/stream/qaX8SX5CaT-z013vXj5412ulFaxJnWQPfebrQNwfsoSKAm9xdKNBDuYTnJHl91V6qk0ZZHJDjBnshfHF/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - ESPN+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDJIGYKdhDcQfECYggUIGCDNnE5pkgp9hs+ik1sUXTeXpZZXky0GqL0oUA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/EypBEzgbCKREKWlDQWMHCTNWvfCsRTcm/rtmp/stream/IeyGLELCcu5nIqOvI3gEpv-c1XwZd83FP8QgfqQCyleVARBX51vODSDZSbTcmOaQt2MwXNauiQsw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - ESPN+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDJIGYKdhDcQfECYggUIGCDNnE5pkgp9hs+ik1sUXTeXpZZXky0GqL0oUA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/oQSPcyPAoUNCWlQHHYEmOGyqrFYAwkhp/rtmp/stream/1MpX8t_rTLWosrqrpew3k_2yPjafuLIFj-chgMeZDIfKe1Jf_3uAplSYBj4n-wyzFEKEHHeAAnX4yN6t-g/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Real Madrid vs Málaga (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDJIGYKdhDcQfECYggUIGCDNnE5pkgp9hs+ik1sUXTeXpZZXky0GqL0oUA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/MgXxTLRggjbSJKMRAsZACGNLwsJATYrW/delta/stream/live_laliga_real-madrid-malaga-live-streaming-612234720/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Real Madrid vs Málaga (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDJIGYKdhDcQfECYggUIGCDNnE5pkgp9hs+ik1sUXTeXpZZXky0GqL0oUA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/LhiVgNlLArZmwUOlcVEvOLjOCwpCiwMl/echo/stream/real-madrid-vs-malaga-football-1570360/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Real Madrid vs Málaga (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGDJIGYKdhDcQfECYggUIGCDNnE5pkgp9hs+ik1sUXTeXpZZXky0GqL0oUA.webp",
+          "hd": true,
+          "direct_stream_url": "https://cdn12.zohanayaan.com:1686/hls/nrealmadrid.m3u8?md5=TLWoT3aVz0NoJ9hva487SQ&expires=1788109468"
         }
       ]
     },
     {
-      "id": "amarante-vs-benfica-b-2512956",
-      "title": "Amarante vs Benfica B",
+      "id": "fc-andorra-vs-eibar-2505736",
+      "title": "FC Andorra vs Eibar",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "30 Aug 2026, 10:00 AM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAcDAoEuEChDcQfECalHdMAyBIh4BYEgp9hs+tpUouYMvCJZZnky0YN5iohBAA.webp",
+      "start_time_bd": "30 Aug 2026, 03:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMJRAoQMnCRDcQfEPv0RcBkIn18CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -39,10 +75,562 @@
       },
       "streams": [
         {
-          "channel_name": "Amarante vs Benfica B (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAcDAoEuEChDcQfECalHdMAyBIh4BYEgp9hs+tpUouYMvCJZZnky0YN5iohBAA.webp",
+          "channel_name": "FC Andorra vs Eibar (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMJRAoQMnCRDcQfEPv0RcBkIn18CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/bCVJwkEPcKuNBOrHSkKclksSuRzSTLcd/echo/stream/amarante-vs-benfica-b-football-1576469/1/playlist.m3u8"
+          "direct_stream_url": "https://lb5.strmd.st/secure/bGDJUmVxxiQoPzWoqMWmCqZghfidHdwT/echo/stream/fc-andorra-vs-eibar-football-1569894/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "telstar-vs-ajax-2489098",
+      "title": "Telstar vs Ajax",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 02:45 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRTAADMClheIENxB8juCzBAprp3AWBIKfYbM1gVWth-L0ssrSZaMA8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Telstar vs Ajax (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRTAADMClheIENxB8juCzBAprp3AWBIKfYbM1gVWth-L0ssrSZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/bDBTZAzHulljBSzmcqPjjLzgXBQNkFRY/echo/stream/telstar-vs-ajax-football-1552151/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "havelse-vs-waldhof-mannheim-2525348",
+      "title": "Havelse vs Waldhof Mannheim",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 02:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmoWGBQ9YIbiBIhDMXfpMqQffQQpM+WtmDLwi80Vqa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhADQAgCYgSIFCG7bVu-SBggtOPvoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Havelse vs Waldhof Mannheim (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmoWGBQ9YIbiBIhDMXfpMqQffQQpM+WtmDLwi80Vqa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhADQAgCYgSIFCG7bVu-SBggtOPvoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/KlcywCDCfNZQjlCEiPhLAeAcxRGsynHc/echo/stream/havelse-vs-waldhof-mannheim-football-1583970/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "nacional-de-madeira-vs-estrela-amadora-2513963",
+      "title": "Nacional de Madeira vs Estrela Amadora",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 02:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzswJEClghuBkHxCmpxo6ZQgINgsCQU+w2fT0qUXbeXpZZnplowbTFRCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Nacional de Madeira vs Estrela Amadora (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzswJEClghuBkHxCmpxo6ZQgINgsCQU+w2fT0qUXbeXpZZnplowbTFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/HFnRZpnLaHATlvJAjanmxdYNtWHrMYea/echo/stream/nacional-vs-estrela-football-1575480/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "st--gallen-vs-thun-2493355",
+      "title": "St. Gallen vs Thun",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 02:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSBQ9NwAAwgD3EH2O4QRkxpghr8AsCQU+w2fRRgVWth-L0ssrSZaMA8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "St. Gallen vs Thun (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSBQ9NwAAwgD3EH2O4QRkxpghr8AsCQU+w2fRRgVWth-L0ssrSZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/ygiywDErgKOSvFfplPmRlQdZlTlwEwBl/echo/stream/fc-st-gallen-vs-fc-thun-football-1555375/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "vaduz-vs-grasshoppers-2493354",
+      "title": "Vaduz vs Grasshoppers",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 02:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECD5heKDSAghumvThwxchkIj4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Vaduz vs Grasshoppers (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECD5heKDSAghumvThwxchkIj4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/YKPKUzdaPLbZdCkdBfXowsmQKlbRcZXt/echo/stream/fc-vaduz-vs-grasshoppers-football-1555376/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "bayer-leverkusen-women-vs-wolfsburg-women-2539433",
+      "title": "Bayer Leverkusen Women vs Wolfsburg Women",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRhuFbiC2bNAExCIYIIzk1GSIFAQpM+KLmDLwi80faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQVRoFGBIhuIPiAO6UIYwZw4ThGMCZ8UXLeXrzR9prTBaxoiEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Bayer Leverkusen Women vs Wolfsburg Women (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRhuFbiC2bNAExCIYIIzk1GSIFAQpM+KLmDLwi80faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQVRoFGBIhuIPiAO6UIYwZw4ThGMCZ8UXLeXrzR9prTBaxoiEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/wmhBKifeCNvNimmuzMSnpEKIqFOzqnoW/echo/stream/bayer-leverkusen-w-vs-vfl-wolfsburg-w-football-1593114/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "mansfield-town-vs-luton-town-2500730",
+      "title": "Mansfield Town vs Luton Town",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEAzB8wSEKN3cQfECZwQQUvRZAo9BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Mansfield Town vs Luton Town (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEAzB8wSEKN3cQfECZwQQUvRZAo9BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/pFGqbqYUglxEkYpWOlDHhWawojRrOgYt/echo/stream/mansfield-town-vs-luton-football-1564263/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "dundee-vs-hibernian-2494432",
+      "title": "Dundee vs Hibernian",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCBIgpIPmClgUIbrpBmcJo4hxGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Dundee vs Hibernian (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCBIgpIPmClgUIbrpBmcJo4hxGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/nTmnBWYIcFwqzfHaNJKUtEIbNTuNAcMw/echo/stream/dundee-vs-hibernian-football-1556648/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "st-mirren-vs-motherwell-2494430",
+      "title": "St Mirren vs Motherwell",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8Vbgh50wSMChDcQfECZyH9iHPoVNdMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "St Mirren vs Motherwell (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8Vbgh50wSMChDcQfECZyH9iHPoVNdMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/gTKlkWTRDrVuUlJoxBjkJpOVAPfjdqqb/echo/stream/st-mirren-vs-motherwell-football-1556651/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "randers-fc-vs-agf-aarhus-2481823",
+      "title": "Randers FC vs AGF Aarhus",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLERQgBYYFJDdtIYzhyGSIC32MFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Randers FC vs AGF Aarhus (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLERQgBYYFJDdtIYzhyGSIC32MFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/vibhxqXDaVOIhKINazoLmzRwdmCSERij/echo/stream/randers-fc-vs-aarhus-football-1549005/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "athletico-paranaense-vs-fluminense-2398431",
+      "title": "Athletico Paranaense vs Fluminense",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLLDBIQfMLykhuOkAZQmQFxAYgmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Athletico Paranaense vs Fluminense (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLLDBIQfMLykhuOkAZQmQFxAYgmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/otPBVWOhDIHvNouHyDwpeSMLwHdHyskk/echo/stream/atletico-paranaense-vs-fluminense-football-1492350/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "freiburg-vs-werder-bremen-2508334",
+      "title": "Freiburg vs Werder Bremen",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 01:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBSgQvMMAAMOkHxAkQEEDHNGzZvgWBIK91iLEowKrW0-l6WWS0mWjBPMVEIIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fandango (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBSgQvMMAAMOkHxAkQEEDHNGzZvgWBIK91iLEowKrW0-l6WWS0mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/HCxnSpjrftPTWUwotrFjqtIhvXWohbQc/rtmp/stream/fcLjgfQXtMBklVk7s0c0TXK2836-2axnx8khdTLo2F4g-J3Jp6Q4wP2pmBX0dqfsUCz4RuARzHA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fandango (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBSgQvMMAAMOkHxAkQEEDHNGzZvgWBIK91iLEowKrW0-l6WWS0mWjBPMVEIIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb1.strmd.st/secure/xJhMnYklXujbnuWiZspOhuiXzvkENiqB/rtmp/stream/WAcAcQDUDyhpuPutUs0HyrY_LpKvSN26G16u56xI2R15VtLrTSPjgj5PzfzxqL1Q9i9ZWPkPtIjaQgzH/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "German - DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBSgQvMMAAMOkHxAkQEEDHNGzZvgWBIK91iLEowKrW0-l6WWS0mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/nnKebshWjziQAgYsMBNpptBJMAMbTBxO/rtmp/stream/WjlbAmCwKL0Rm-ZvL7GKDonBteE72Rh4mhgDajqriyk9rHesAiVXxxy2P-FyAZexZlIJvqtKRHFE/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "German - DAZN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBSgQvMMAAMOkHxAkQEEDHNGzZvgWBIK91iLEowKrW0-l6WWS0mWjBPMVEIIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/oePIDkzTJofVpJgkGVnyQTidwLpPDMGb/rtmp/stream/b8STlX02ePsIn3JNZCc1vON6iix3MypO_ckI35CqcwXFLGLN1x6HBbHubitIk2BKvtz0gr42pjKOI4g6fA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Freiburg vs Werder Bremen (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBSgQvMMAAMOkHxAkQEEDHNGzZvgWBIK91iLEowKrW0-l6WWS0mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/rrRKvAcShvHlIKzLezcIenCUghPZOkOi/delta/stream/live_bundesliga_freiburg-bremen-live-streaming-609271632/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Freiburg vs Werder Bremen (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBSgQvMMAAMOkHxAkQEEDHNGzZvgWBIK91iLEowKrW0-l6WWS0mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/fxXEAHrCKYZtXsFXguruYhmaDBExJdrt/echo/stream/sc-freiburg-vs-werder-bremen-football-1575145/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ppv-goal-rush",
+      "title": "Goal Rush",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 01:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Peacock (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/JuSmxayGWBOdZioXmBFoOHqupqZYCxlD/rtmp/stream/msOuMSkv_aS6lzl86vy-wuAj6Hmu75MrViepysoSGBgVcTVbmAuz5QOSLGYTtQp2GpMjpO9yXx3in49yGw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Peacock (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/ORBzyzyPdQSTqddtjhgoDXRReHWqvwJQ/rtmp/stream/bpwKA6cqGDhA24bcy1uQxL_uzCVEMNToaHgl5BJyopQ-dRrpkcPAQFvD0jLcTo1sla_39YGwq-yzbq1mUQi7SJQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sport 8 NZ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/DQiDGuEFjHzLMjwsPKOfUFsHaJvCREQG/rtmp/stream/nUUKMVEtZuKZvhK-vJxVpTj2k3GZEkCgGiRmopSoNLbi1Gwl7vR135jVUgHWkjlS_L8fnBuf85E/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sport 8 NZ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb5.strmd.st/secure/TADYJhFILMmRWAfvdOQWWAoqDOyAqrqM/rtmp/stream/hGCLfssLFmvdGMUwcGyzQ6j70CQlq93vRY3QhWip60b_uaMEtMZ4bHRFQbdLxU8f1rjdcSH_or7xQylB/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Goal Rush (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/XdcRQbZDaunyNnxHnDjQcRkqewjWzeJR/echo/stream/goal-rush-match-week-2-game-1826262/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "avs-vs-feirense-2512959",
+      "title": "AVS vs Feirense",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 01:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxhuCEPT4h93AyBNTjOGCCMkQJAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "AVS vs Feirense (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxhuCEPT4h93AyBNTjOGCCMkQJAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/MQAyHQOQuCPoFSWeKslrPeOkiySFMVxk/echo/stream/avs-vs-feirense-football-1576468/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "afc-wimbledon-vs-wigan-athletic-2500722",
+      "title": "AFC Wimbledon vs Wigan Athletic",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 01:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJVAheUhNpB8QRnBBBSQJM0aMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "AFC Wimbledon vs Wigan Athletic (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJVAheUhNpB8QRnBBBSQJM0aMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/satDGXEwyUKoPZmThmEVwMxPQdVSPNki/echo/stream/afc-wimbledon-vs-wigan-football-1564259/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "sunderland-vs-fulham-2494018",
+      "title": "Sunderland vs Fulham",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 01:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGWhAotlBiG4g+IYxBAkQp7YhggYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGWhAotlBiG4g+IYxBAkQp7YhggYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/ALPAenQiJHyBzNaXfbRthoUoDrnhpIig/rtmp/stream/EWdaGxbCZ2-uur26h3ajfZtL348w9Lkn5_4swZ5F6STRlOHbiiSKYNc9jTo7YRHR9D6HdTQIZWY/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGWhAotlBiG4g+IYxBAkQp7YhggYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/oXHjVowWLfxVKuMOzTShbXxosQRdObwv/rtmp/stream/ahoNuROgevmNwn12pWC-uuRXy_dIh6minaK7nLZJsfPbg5vSXrr8TPgFYdHqdN5eelXqknkc3EXMAOhr/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sunderland vs Fulham (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGWhAotlBiG4g+IYxBAkQp7YhggYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://cdn12.zohanayaan.com:1686/hls/nsunderland.m3u8?md5=kbRna4poU6OH1vKkNhq1bA&expires=1788109591"
+        }
+      ]
+    },
+    {
+      "id": "leeds-united-vs-brentford-2494016",
+      "title": "Leeds United vs Brentford",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 01:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGAFIwKkHu4g+ekBBAkTIFLkt6CwbTH7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports Premier League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGAFIwKkHu4g+ekBBAkTIFLkt6CwbTH7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/TwhhMVUYaqpwGJKEbCLQRaNRNzEJDZYr/rtmp/stream/ye-1XfMWWLdsCL87ULZGea30IUiDSmOIM1Rc93RKRCL20kWkzsKd4XjLEHKYfJXoytF2Ylr5n6o/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports Premier League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGAFIwKkHu4g+ekBBAkTIFLkt6CwbTH7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/zRUpfkqmoOkyCIdjuXHzofSBIhzYUJxP/rtmp/stream/CjE5oegCHsMZe2mO1wYBv8MWONfNhCDF-c89q7r_y4YuDn0MoO2nbjzC1Hrp9igyezSwBqkYjf69at6I/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Leeds United vs Brentford (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGAFIwKkHu4g+ekBBAkTIFLkt6CwbTH7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/MAjcpuSmqoLRPXHyGGScvXZfmlYOfdMk/delta/stream/live_premier-league_leeds-brentford-live-streaming-609594768/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Leeds United vs Brentford (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGAFIwKkHu4g+ekBBAkTIFLkt6CwbTH7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/awskAfZKhZHfwQAKrJUyIsqbhFbXagXV/echo/stream/leeds-vs-brentford-football-1557382/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Leeds United vs Brentford (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGAFIwKkHu4g+ekBBAkTIFLkt6CwbTH7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://cdn14.zohanayaan.com:1686/hls/nleedsunited.m3u8?md5=7dmkEj2rhdRz5xEewGSKLA&expires=1788109613"
+        }
+      ]
+    },
+    {
+      "id": "chelsea-vs-brighton-and-hove-albion-2494014",
+      "title": "Chelsea vs Brighton and Hove Albion",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 01:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECDhJgABlhgSIbiD4aQhlCETHDiGAWBIKfYbPooDbFFwPl6WWW8mWjBPelEIIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports Main Event (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECDhJgABlhgSIbiD4aQhlCETHDiGAWBIKfYbPooDbFFwPl6WWW8mWjBPelEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/HrHcplZILNfQcZYbcToFlkAKHKxLlLmb/rtmp/stream/3etzBYyj1k2Te-msKGrjR-obl36sIfh00yMbmCSrlH3sbsD0dKYLlh6fiwq3gV8USNMemEOgFTo/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports Main Event (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECDhJgABlhgSIbiD4aQhlCETHDiGAWBIKfYbPooDbFFwPl6WWW8mWjBPelEIIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb8.strmd.st/secure/hivuQgTImcHsuQKXLlvdQIRlIEMeXbqd/rtmp/stream/j-B9lDSEC5-G39gWDYjHozuARrElby59faJGwKj-uGkMwiJUn9dk5fUEqlPWL_vJd4QJsfI_2jR4XYgR/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Chelsea vs Brighton and Hove Albion (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECDhJgABlhgSIbiD4aQhlCETHDiGAWBIKfYbPooDbFFwPl6WWW8mWjBPelEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/WSJrxHtomuajAburXWNSawVQVMjYWvLV/delta/stream/live_premier-league_chelsea-brighton-live-streaming-609594336/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Chelsea vs Brighton and Hove Albion (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECDhJgABlhgSIbiD4aQhlCETHDiGAWBIKfYbPooDbFFwPl6WWW8mWjBPelEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/fnrjDYPlHrQzVomTWdrSwzPKmSQBdKeG/delta/stream/live_premier-league_chelsea-brighton-live-streaming-609594336/2/playlist.m3u8"
+        },
+        {
+          "channel_name": "Chelsea vs Brighton and Hove Albion (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECDhJgABlhgSIbiD4aQhlCETHDiGAWBIKfYbPooDbFFwPl6WWW8mWjBPelEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/ODRUEvACsaOkeoktzVKTXnpavPHcycYT/echo/stream/chelsea-vs-brighton-football-1557379/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Chelsea vs Brighton and Hove Albion (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECDhJgABlhgSIbiD4aQhlCETHDiGAWBIKfYbPooDbFFwPl6WWW8mWjBPelEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://cdn12.zohanayaan.com:1686/hls/nchelsea.m3u8?md5=LA2p66DIL3q7IPUXywc5tw&expires=1788109647"
+        }
+      ]
+    },
+    {
+      "id": "paris-fc-vs-nice-2489478",
+      "title": "Paris FC vs Nice",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 01:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGUn4htAiCG4g+IEiD3aY2w7lwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "French - Ligue 1+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGUn4htAiCG4g+IEiD3aY2w7lwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/kHECmCurAcqcmXJGQHmlEAoouxdedQWt/rtmp/stream/qesQcZv4UTMc123v4K3QqyhYDRZSRBE2l8K1jAIUIOKFGYi4n4HbIeKXZA1da2RRSvOr_95TjSE/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "French - Ligue 1+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGUn4htAiCG4g+IEiD3aY2w7lwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb12.strmd.st/secure/cqFrUZVYxRQMpkUnyQuvMJatGRHzNDAt/rtmp/stream/evJQi_xKF4XC4RlFqdmpQFWVvKauHb7eHnqG_-oTNLu24ITkSfA5wu1eZF0Umts7sCjQJ98ZK3mwNkZ6/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paris FC vs Nice (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGUn4htAiCG4g+IEiD3aY2w7lwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/zdYWPYPJwRkMNMlXlKCmiCTRZUAibEGq/echo/stream/paris-fc-vs-nice-football-1552743/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "multiview-bundesliga-2-game-151151",
+      "title": "Multiview : Bundesliga 2 🔥 🔥 🔥",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 11:30 AM (BD Time)",
+      "poster": "https://streamed.pk/favicon.ico",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Multiview : Bundesliga 2 🔥 🔥 🔥 (HD)",
+          "channel_poster": "https://streamed.pk/favicon.ico",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/gIoSDVCVnnVmxCCucxnYyiLKvsUrPFlg/echo/stream/multiview-bundesliga-2-game-151151/1/playlist.m3u8"
         }
       ]
     }
