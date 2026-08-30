@@ -1,76 +1,62 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 10
-# UPDATED Time and date BD: 2026-08-31 | 03:33:36
+# TOTAL-ITEMS: 8
+# UPDATED Time and date BD: 2026-08-31 | 05:50:32
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
-#EXTINF:-1 tvg-id="Independiente Medellín vs Llaneros (HD)" tvg-name="Independiente Medellín vs Llaneros (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXiBD1RYfiG4g+mrYeNHNEECgLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", Independiente Medellín vs Llaneros (HD)
+#EXTINF:-1 tvg-id="Millonarios vs Internacional de Bogotá (HD)" tvg-name="Millonarios vs Internacional de Bogotá (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMDDYQOsjBDcQfHSAhGTxnWZAFgSCn2Gz6KMCo1s35ellkamtFqi9MFAA.webp" group-title="Football", Millonarios vs Internacional de Bogotá (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb6.strmd.st/secure/LHBByeteXKcknXggpigFYVuxvrpGQudk/echo/stream/independiente-medellin-vs-llaneros-football-1549759/1/playlist.m3u8
+https://lb9.strmd.st/secure/kaoAFMmIGYWwXMefKbNGolDILIqLxpwm/echo/stream/millonarios-vs-internacional-de-bogota-football-1549762/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Columbus Crew vs New England Revolution (HD)" tvg-name="Columbus Crew vs New England Revolution (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMwZgUIKCBDcQfIwZMkQiRDpAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Columbus Crew vs New England Revolution (HD)
+#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBRcmABhAbu+o4Y0kQiCCBhWCwJBT7DZ9FGBVa2b8vSyytTWjA3MVEIIA.webp" group-title="Football", Apple TV (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb11.strmd.st/secure/NZvOweCQOvKdthygiGhyAYdSzxmqFUrY/delta/stream/live_mls_columbus-new-england-live-streaming-538902720/1/playlist.m3u8
+https://lb1.strmd.st/secure/EJFZzPrhrBnEpJCznvSqVvxMMKuhEjzF/rtmp/stream/LccMkZ8E-xgV7Vv3iesv1312rzPY4FV-4hEHd9YHf7AMLykngtrtK6lj1m3Yt6qn-zg8bp6OBEwd/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Columbus Crew vs New England Revolution (HD)" tvg-name="Columbus Crew vs New England Revolution (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMwZgUIKCBDcQfIwZMkQiRDpAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Columbus Crew vs New England Revolution (HD)
+#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBRcmABhAbu+o4Y0kQiCCBhWCwJBT7DZ9FGBVa2b8vSyytTWjA3MVEIIA.webp" group-title="Football", Apple TV (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb11.strmd.st/secure/aefHIXUgJfEFPcQYscmDWBKfQAjZYTKD/echo/stream/columbus-crew-vs-new-england-revolution-football-1490427/1/playlist.m3u8
+https://lb1.strmd.st/secure/UyFfoayzNjiGhxYFNXHuUtaZSfIqpDCO/rtmp/stream/pdv4k9r62Zp3FayiXvWo8_Q1vpuZOJuld53VzlzxvFH19yFhxJ4bSoy4BzFAVWxhK73XrTIAcq0Z3mkBuA/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Argentinos Juniors vs Aldosivi (HD)" tvg-name="Argentinos Juniors vs Aldosivi (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPuW5gZWYGBDcQfEFJAoTRyxBAwQZpkgp9hs+ijAqUXD+Xq7RXky0YB5iohBAA.webp" group-title="Football", Argentinos Juniors vs Aldosivi (HD)
+#EXTINF:-1 tvg-id="St. Louis City SC vs FC Dallas (HD)" tvg-name="St. Louis City SC vs FC Dallas (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBRcmABhAbu+o4Y0kQiCCBhWCwJBT7DZ9FGBVa2b8vSyytTWjA3MVEIIA.webp" group-title="Football", St. Louis City SC vs FC Dallas (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/VmGdvxpJnZXEZfZLLMwDVEdGfTzeUnCb/echo/stream/argentinos-jrs-vs-aldosivi-football-1493092/1/playlist.m3u8
+https://lb12.strmd.st/secure/xymBoUswqkGTBZHmseVDzsHWechulmqP/delta/stream/live_mls_st-louis-dallas-live-streaming-538963200/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cordoba vs Granada CF (HD)" tvg-name="Cordoba vs Granada CF (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIh49cg0XNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIhs9cg0XNxPeCKrcCXVmDC58FoA.webp" group-title="Football", Cordoba vs Granada CF (HD)
+#EXTINF:-1 tvg-id="St. Louis City SC vs FC Dallas (HD)" tvg-name="St. Louis City SC vs FC Dallas (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBRcmABhAbu+o4Y0kQiCCBhWCwJBT7DZ9FGBVa2b8vSyytTWjA3MVEIIA.webp" group-title="Football", St. Louis City SC vs FC Dallas (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/UlilslLOEioAlKBWwhONpfApreYXuFRA/echo/stream/cordoba-vs-granada-cf-football-1569898/1/playlist.m3u8
+https://lb4.strmd.st/secure/RrqIlNEEKxlQOLeDeAEMDHShBQeuCLiJ/echo/stream/st-louis-city-vs-fc-dallas-football-1490435/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN+ (HD)" tvg-name="ESPN+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFBDApuOSG4g+IYxBAoQMEKev6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", ESPN+ (HD)
+#EXTINF:-1 tvg-id="Bahia vs Internacional (HD)" tvg-name="Bahia vs Internacional (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGBAgYckNzB89IQ1JAoQprYlMkQCphp19hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Bahia vs Internacional (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb1.strmd.st/secure/JxGRZczyaXOJgxUmZSPgFWyQTzHTehdU/rtmp/stream/k1LrSQKNyqTDmCLtAgPQ04ItsjvcHiEp92oypyhK9v2J2q8W0Xe2PY4nStrNJjg9b7WW7vo8oMI/1/playlist.m3u8
+https://lb11.strmd.st/secure/rGXSmVqboGHKpGLXyzDFYefQGpCFlama/echo/stream/bahia-vs-internacional-football-1492352/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN+ (SD)" tvg-name="ESPN+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFBDApuOSG4g+IYxBAoQMEKev6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", ESPN+ (SD)
+#EXTINF:-1 tvg-id="Independiente vs Gimnasia y Esgrima de Mendoza (HD)" tvg-name="Independiente vs Gimnasia y Esgrima de Mendoza (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAkN2ECGBSQ3EHxCGUZk1YghtUgsCQU+w2fRRa2KLlvL0sst5MtGCe9KIQQA.webp" group-title="Football", Independiente vs Gimnasia y Esgrima de Mendoza (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb8.strmd.st/secure/IvIgrtUCiSwfOquVAGmmDdlDALzGIVCM/rtmp/stream/IBnnpxedoSNL1wSeo1l3PuliTmu2QU9L3XHhWZv-M62w2T4JG5hSg455wMiQtjsVdEHCr9sUSDwjlEGH/1/playlist.m3u8
+https://lb6.strmd.st/secure/UxqMgpHaluMUWsrHHFmdVZbwUSjeCuPA/echo/stream/independiente-vs-gimnasia-m-football-1493100/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Celta Vigo vs Athletic Bilbao (HD)" tvg-name="Celta Vigo vs Athletic Bilbao (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFBDApuOSG4g+IYxBAoQMEKev6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Celta Vigo vs Athletic Bilbao (HD)
+#EXTINF:-1 tvg-id="Pacific vs HFX Wanderers (HD)" tvg-name="Pacific vs HFX Wanderers (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG64wSYGD0gtfECYggYIRCkOWQfAsCQV7rEWI0qUXMGXhEssl5MtGA+YqIQQA.webp" group-title="Football", Pacific vs HFX Wanderers (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/yNElXWjmIbtvVQkoMvYOxEciwNsKzrRx/delta/stream/live_laliga_celta-athletic-club-live-streaming-612235584/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Gremio vs Chapecoense-sc (HD)" tvg-name="Gremio vs Chapecoense-sc (HD)" tvg-logo="https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRDHrkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIREzrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title="Football", Gremio vs Chapecoense-sc (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/ZVvVmIjcTpXqzSkHAimpDaDEzsZmXvKD/echo/stream/gremio-vs-chapecoense-sc-football-1492355/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Mirassol vs Palmeiras (HD)" tvg-name="Mirassol vs Palmeiras (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiAFQQchCG6aQRiEcM4YpkgWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football", Mirassol vs Palmeiras (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/QdleJliiTjIdLFzdtIqbfvurjTlAwSah/echo/stream/mirassol-vs-palmeiras-football-1492356/1/playlist.m3u8
+https://lb2.strmd.st/secure/RcrJwJoRijAmEPiIznyBiYNynnTyXGkA/echo/stream/pacific-fc-vs-hfx-wanderers-fc-football-1517338/1/playlist.m3u8
 
