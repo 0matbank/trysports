@@ -1,6 +1,20 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-08-30 | 11:47:53
+# TOTAL-ITEMS: 2
+# UPDATED Time and date BD: 2026-08-30 | 16:44:11
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Utrecht vs PSV Eindhoven (HD)" tvg-name="Utrecht vs PSV Eindhoven (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUWBDcQ9NgAYtIPiBM4cMECksgplgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", Utrecht vs PSV Eindhoven (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb12.strmd.st/secure/WcpxoxpihLenSMcLcCzPWRMDJwBITRFL/echo/stream/utrecht-vs-psv-eindhoven-football-1552148/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Amarante vs Benfica B (HD)" tvg-name="Amarante vs Benfica B (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAcDAoEuEChDcQfECalHdMAyBIh4BYEgp9hs+tpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", Amarante vs Benfica B (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb10.strmd.st/secure/bCVJwkEPcKuNBOrHSkKclksSuRzSTLcd/echo/stream/amarante-vs-benfica-b-football-1576469/1/playlist.m3u8
 

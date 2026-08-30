@@ -1,7 +1,50 @@
 {
   "category_name": "Football Live",
-  "total_items": 0,
-  "updated_time_bd": "2026-08-30 | 11:47:53",
+  "total_items": 2,
+  "updated_time_bd": "2026-08-30 | 16:44:11",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "utrecht-vs-psv-eindhoven-2489095",
+      "title": "Utrecht vs PSV Eindhoven",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 10:15 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUWBDcQ9NgAYtIPiBM4cMECksgplgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Utrecht vs PSV Eindhoven (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUWBDcQ9NgAYtIPiBM4cMECksgplgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/WcpxoxpihLenSMcLcCzPWRMDJwBITRFL/echo/stream/utrecht-vs-psv-eindhoven-football-1552148/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "amarante-vs-benfica-b-2512956",
+      "title": "Amarante vs Benfica B",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "30 Aug 2026, 10:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAcDAoEuEChDcQfECalHdMAyBIh4BYEgp9hs+tpUouYMvCJZZnky0YN5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Amarante vs Benfica B (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAcDAoEuEChDcQfECalHdMAyBIh4BYEgp9hs+tpUouYMvCJZZnky0YN5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/bCVJwkEPcKuNBOrHSkKclksSuRzSTLcd/echo/stream/amarante-vs-benfica-b-football-1576469/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
