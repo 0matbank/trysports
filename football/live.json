@@ -1,16 +1,16 @@
 {
   "category_name": "Football Live",
   "total_items": 8,
-  "updated_time_bd": "2026-08-31 | 05:50:32",
+  "updated_time_bd": "2026-08-31 | 07:46:36",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "millonarios-vs-internacional-de-bogot--2481156",
-      "title": "Millonarios vs Internacional de Bogotá",
+      "id": "deportivo-cali-vs-atl-tico-bucaramanga-2481158",
+      "title": "Deportivo Cali vs Atlético Bucaramanga",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "30 Aug 2026, 11:15 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMDDYQOsjBDcQfHSAhGTxnWZAFgSCn2Gz6KMCo1s35ellkamtFqi9MFAA.webp",
+      "start_time_bd": "31 Aug 2026, 01:20 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKL4bOoKSG4g9WkiAj7cpkClMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -18,10 +18,64 @@
       },
       "streams": [
         {
-          "channel_name": "Millonarios vs Internacional de Bogotá (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMDDYQOsjBDcQfHSAhGTxnWZAFgSCn2Gz6KMCo1s35ellkamtFqi9MFAA.webp",
+          "channel_name": "Deportivo Cali vs Atlético Bucaramanga (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKL4bOoKSG4g9WkiAj7cpkClMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/kaoAFMmIGYWwXMefKbNGolDILIqLxpwm/echo/stream/millonarios-vs-internacional-de-bogota-football-1549762/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/ZPSTLvHMiXLPLXpwTHhzixlXriffHbsX/echo/stream/deportivo-cali-vs-bucaramanga-football-1549755/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "independiente-rivadavia-vs-racing-club-2398050",
+      "title": "Independiente Rivadavia vs Racing Club",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "31 Aug 2026, 12:30 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCBjMQM1txD6+OkCmNGjEECRMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Independiente Rivadavia vs Racing Club (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCBjMQM1txD6+OkCmNGjEECRMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/ZyPCtdpIxVCsmaNBYgFTIkYOVRVNFmYF/echo/stream/independ-rivadavia-vs-racing-club-football-1493101/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ppv-toluca-vs-fc-juarez",
+      "title": "Toluca vs. FC Juarez",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "31 Aug 2026, 12:00 AM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IcWQggAxiERSp8YFXHZsICMHkgVmxCBFzDKmIZQgSOjcCmjymgUJFM1KcoWBJc0t0LDdOTWFSegItcn8bEIggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - TUDN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IcWQggAxiERSp8YFXHZsICMHkgVmxCBFzDKmIZQgSOjcCmjymgUJFM1KcoWBJc0t0LDdOTWFSegItcn8bEIggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/jjdXyobORoTJlhxWWvwwbzPQbjQTcQoI/rtmp/stream/46uPrdaQEe5dfwZLehXMl8Idyoy-aT7gS_tqrFJIqsFBgudpUXac2r4Htp898LHOzKWv4xV7Pxk/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - TUDN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IcWQggAxiERSp8YFXHZsICMHkgVmxCBFzDKmIZQgSOjcCmjymgUJFM1KcoWBJc0t0LDdOTWFSegItcn8bEIggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb14.strmd.st/secure/MeeXJbbQWbesMgqtungWPukLZuBiDQZg/rtmp/stream/Hq6MXVOfVz0-ZTOdHEOWbkhkMTlDsfuyxiFXzrdOfIKPYoWgZQBbOnNuCtnW2B0_kP-kuJoFzreDdiIe/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Toluca vs. FC Juarez (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IcWQggAxiERSp8YFXHZsICMHkgVmxCBFzDKmIZQgSOjcCmjymgUJFM1KcoWBJc0t0LDdOTWFSegItcn8bEIggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/dgMcpfiaZnrrmHVdnAPMaNzdKtRYbhSI/echo/stream/toluca-vs-fc-juarez-football-1550946/1/playlist.m3u8"
         }
       ]
     },
@@ -42,88 +96,19 @@
           "channel_name": "Apple TV (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBRcmABhAbu+o4Y0kQiCCBhWCwJBT7DZ9FGBVa2b8vSyytTWjA3MVEIIA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/EJFZzPrhrBnEpJCznvSqVvxMMKuhEjzF/rtmp/stream/LccMkZ8E-xgV7Vv3iesv1312rzPY4FV-4hEHd9YHf7AMLykngtrtK6lj1m3Yt6qn-zg8bp6OBEwd/1/playlist.m3u8"
+          "direct_stream_url": "https://lb4.strmd.st/secure/bRRXXAYxliVoMUMBMLUaqoTsldYqMCKi/rtmp/stream/6W80qn9fzIbJdoVkfMAvOaNz3JU8fj2Y_rCxCERDjsczyxym9yzeCgz9in8ZMC3tb8BABqs-Wr9_/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBRcmABhAbu+o4Y0kQiCCBhWCwJBT7DZ9FGBVa2b8vSyytTWjA3MVEIIA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb1.strmd.st/secure/UyFfoayzNjiGhxYFNXHuUtaZSfIqpDCO/rtmp/stream/pdv4k9r62Zp3FayiXvWo8_Q1vpuZOJuld53VzlzxvFH19yFhxJ4bSoy4BzFAVWxhK73XrTIAcq0Z3mkBuA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb14.strmd.st/secure/wnsnQvfOKZXCzLwmjUFyoCCfSqChDWfP/rtmp/stream/7ZWplKvn7CcV2yHexnIcFwBhkGeeyf0KeuQzD3Q5XDANwV5MGX_Wel6IPoqwoyLPxlgHyGZCXg3nzDtoTA/1/playlist.m3u8"
         },
         {
           "channel_name": "St. Louis City SC vs FC Dallas (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBRcmABhAbu+o4Y0kQiCCBhWCwJBT7DZ9FGBVa2b8vSyytTWjA3MVEIIA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/xymBoUswqkGTBZHmseVDzsHWechulmqP/delta/stream/live_mls_st-louis-dallas-live-streaming-538963200/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "St. Louis City SC vs FC Dallas (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBRcmABhAbu+o4Y0kQiCCBhWCwJBT7DZ9FGBVa2b8vSyytTWjA3MVEIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/RrqIlNEEKxlQOLeDeAEMDHShBQeuCLiJ/echo/stream/st-louis-city-vs-fc-dallas-football-1490435/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "bahia-vs-internacional-2398433",
-      "title": "Bahia vs Internacional",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "30 Aug 2026, 10:30 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGBAgYckNzB89IQ1JAoQprYlMkQCphp19hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Bahia vs Internacional (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGBAgYckNzB89IQ1JAoQprYlMkQCphp19hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/rGXSmVqboGHKpGLXyzDFYefQGpCFlama/echo/stream/bahia-vs-internacional-football-1492352/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "independiente-vs-gimnasia-y-esgrima-de-mendoza-2398049",
-      "title": "Independiente vs Gimnasia y Esgrima de Mendoza",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "30 Aug 2026, 10:15 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAkN2ECGBSQ3EHxCGUZk1YghtUgsCQU+w2fRRa2KLlvL0sst5MtGCe9KIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Independiente vs Gimnasia y Esgrima de Mendoza (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAkN2ECGBSQ3EHxCGUZk1YghtUgsCQU+w2fRRa2KLlvL0sst5MtGCe9KIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/UxqMgpHaluMUWsrHHFmdVZbwUSjeCuPA/echo/stream/independiente-vs-gimnasia-m-football-1493100/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "pacific-vs-hfx-wanderers-2427402",
-      "title": "Pacific vs HFX Wanderers",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "30 Aug 2026, 10:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG64wSYGD0gtfECYggYIRCkOWQfAsCQV7rEWI0qUXMGXhEssl5MtGA+YqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Pacific vs HFX Wanderers (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG64wSYGD0gtfECYggYIRCkOWQfAsCQV7rEWI0qUXMGXhEssl5MtGA+YqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/RcrJwJoRijAmEPiIznyBiYNynnTyXGkA/echo/stream/pacific-fc-vs-hfx-wanderers-fc-football-1517338/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/wepUfNzULtWOpQGqscLFDGdIhsgpwGXm/delta/stream/live_mls_st-louis-dallas-live-streaming-538963200/1/playlist.m3u8"
         }
       ]
     }
