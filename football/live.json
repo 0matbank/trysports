@@ -1,7 +1,62 @@
 {
   "category_name": "Football Live",
-  "total_items": 0,
-  "updated_time_bd": "2026-08-31 | 13:43:33",
+  "total_items": 4,
+  "updated_time_bd": "2026-08-31 | 21:32:01",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "forest-green-rovers-vs-altrincham-2528209",
+      "title": "Forest Green Rovers vs Altrincham",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "31 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBghuICCFGIdffSGM6diECA0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN National League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBghuICCFGIdffSGM6diECA0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/VrMsmmyUygbfUnQWmpuerCXwesgpZfgD/rtmp/stream/YpdplXpX_9AUfW0o-X5b57-KZgTjQukQiYITMMEglldAHJiX5nSHRO7yuVfwWOkeuzo4gOtJ_BVN/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN National League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBghuICCFGIdffSGM6diECA0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb8.strmd.st/secure/JBufCLPcZSPKYvESRGknDPFGgECKGHXm/rtmp/stream/fmNFikowN_lqlT7HkRYGM9hP6oTKVjy08dshNTyZ6rLYKAoeY-XkU2SrD1cnLEKjny__E847sTCqxEctDw/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "yeovil-town-vs-tamworth-2528208",
+      "title": "Yeovil Town vs Tamworth",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "31 Aug 2026, 02:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGBCC+ufiG4gdJQ-tOIUIKSAVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN National League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGBCC+ufiG4gdJQ-tOIUIKSAVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/cmmpwmtzPTgXKHfYLmZpgHkqGDFxmoFg/rtmp/stream/5-SrfO51NpP7ueE7RW0_wfzn-7DuyEVDD-3M4OgcJE6spnvkywVfOnW-YPduLQrQvUJHJG4gooXk/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN National League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGBCC+ufiG4gdJQ-tOIUIKSAVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb12.strmd.st/secure/RkyrWFrtEaxiKRCQtZVSKxqsjDrmmXtu/rtmp/stream/EcnysURtMfV_e2SSFKgDZ2Fc9GWer3D4acUD6R9jyAFm7_ItZlCIfd467F0UP1J7yb9LFrYj9GRMpA7PVw/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
