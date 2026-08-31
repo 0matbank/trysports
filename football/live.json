@@ -1,16 +1,16 @@
 {
   "category_name": "Football Live",
-  "total_items": 4,
-  "updated_time_bd": "2026-08-31 | 21:32:01",
+  "total_items": 20,
+  "updated_time_bd": "2026-09-01 | 03:06:17",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "forest-green-rovers-vs-altrincham-2528209",
-      "title": "Forest Green Rovers vs Altrincham",
+      "id": "celta-de-vigo-ii-vs-castellon-football-1569897",
+      "title": "Celta de Vigo II vs Castellón",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "31 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBghuICCFGIdffSGM6diECA0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "start_time_bd": "31 Aug 2026, 07:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbCADGIEnXINVzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIKopAR65BgGNm4nvBFVuBLqzBhc+S0A.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -18,26 +18,20 @@
       },
       "streams": [
         {
-          "channel_name": "DAZN National League (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBghuICCFGIdffSGM6diECA0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_name": "Celta de Vigo II vs Castellón (HD)",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbCADGIEnXINVzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIKopAR65BgGNm4nvBFVuBLqzBhc+S0A.webp",
           "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/VrMsmmyUygbfUnQWmpuerCXwesgpZfgD/rtmp/stream/YpdplXpX_9AUfW0o-X5b57-KZgTjQukQiYITMMEglldAHJiX5nSHRO7yuVfwWOkeuzo4gOtJ_BVN/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "DAZN National League (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBghuICCFGIdffSGM6diECA0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/JBufCLPcZSPKYvESRGknDPFGgECKGHXm/rtmp/stream/fmNFikowN_lqlT7HkRYGM9hP6oTKVjy08dshNTyZ6rLYKAoeY-XkU2SrD1cnLEKjny__E847sTCqxEctDw/1/playlist.m3u8"
+          "direct_stream_url": "https://lb4.strmd.st/secure/xxnqNdaPrBzViYPTMGHUcmjHybskMsYP/echo/stream/celta-de-vigo-ii-vs-castellon-football-1569897/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "yeovil-town-vs-tamworth-2528208",
-      "title": "Yeovil Town vs Tamworth",
+      "id": "barcelona-vs-rayo-vallecano-2506189",
+      "title": "Barcelona vs Rayo Vallecano",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "31 Aug 2026, 02:00 PM (BD Time)",
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGBCC+ufiG4gdJQ-tOIUIKSAVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+      "start_time_bd": "31 Aug 2026, 07:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXLjC9uGviB16QICCBQgYxyyYVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -45,16 +39,193 @@
       },
       "streams": [
         {
-          "channel_name": "DAZN National League (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGBCC+ufiG4gdJQ-tOIUIKSAVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "channel_name": "ESPN+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXLjC9uGviB16QICCBQgYxyyYVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/cmmpwmtzPTgXKHfYLmZpgHkqGDFxmoFg/rtmp/stream/5-SrfO51NpP7ueE7RW0_wfzn-7DuyEVDD-3M4OgcJE6spnvkywVfOnW-YPduLQrQvUJHJG4gooXk/1/playlist.m3u8"
+          "direct_stream_url": "https://lb15.strmd.st/secure/TPcEuVIVmwjXTLIgChERJsvOADZocMWu/rtmp/stream/4jm2BRp0rhxVQ7gQ2HgcebHDNlppQ2e0_Uzdf3GdtK9BasycLt_2xfwIzHZ8O948mlcErlG9V48/1/playlist.m3u8"
         },
         {
-          "channel_name": "DAZN National League (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGBCC+ufiG4gdJQ-tOIUIKSAVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "channel_name": "ESPN+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXLjC9uGviB16QICCBQgYxyyYVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb12.strmd.st/secure/RkyrWFrtEaxiKRCQtZVSKxqsjDrmmXtu/rtmp/stream/EcnysURtMfV_e2SSFKgDZ2Fc9GWer3D4acUD6R9jyAFm7_ItZlCIfd467F0UP1J7yb9LFrYj9GRMpA7PVw/1/playlist.m3u8"
+          "direct_stream_url": "https://lb11.strmd.st/secure/xUquxvjayoGoNfDjGDjhyHbmmlzguktT/rtmp/stream/YTDmNi6YfO0pbmbsIxzbboJbByIPjTcIYJg9d-Pc691ZNhgWvcfzHakxGq9uD_v8JMrBekJY_rYatfpW/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Barcelona vs Rayo Vallecano (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXLjC9uGviB16QICCBQgYxyyYVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/jGEiwSmyIHYQMwnNQzsEyNbaISYySoNm/delta/stream/live_laliga_barcelona-rayo-vallecano-live-streaming-612440784/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Barcelona vs Rayo Vallecano (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXLjC9uGviB16QICCBQgYxyyYVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/sxEyCwUmTVHJMfgOvSqtsLwQrSJsZmrg/delta/stream/live_laliga_barcelona-rayo-vallecano-live-streaming-612440784/2/playlist.m3u8"
+        },
+        {
+          "channel_name": "Barcelona vs Rayo Vallecano (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXLjC9uGviB16QICCBQgYxyyYVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/ZKkecLCrRGHMQnmXdrlOnzBzqxxUeYwb/delta/stream/live_laliga_barcelona-rayo-vallecano-live-streaming-612440784/3/playlist.m3u8"
+        },
+        {
+          "channel_name": "Barcelona vs Rayo Vallecano (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXLjC9uGviB16QICCBQgYxyyYVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/HeeCJIxDGnoaLdzPizZrBxaFTIXrPYTW/echo/stream/barcelona-vs-rayo-vallecano-football-1570354/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Barcelona vs Rayo Vallecano (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXLjC9uGviB16QICCBQgYxyyYVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://cdn14.zohanayaan.com:1686/hls/nbarcelona.m3u8?md5=MWaym3GTa5dbAq_e1Y8yRQ&expires=1788217517"
+        }
+      ]
+    },
+    {
+      "id": "braga-vs-vit-ria-de-guimar-es-2513962",
+      "title": "Braga vs Vitória de Guimarães",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "31 Aug 2026, 07:15 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKCjkMQmqSG4g+IY3qMHjKECRAwCwJBT7DZ9FGBWa278vSyzNTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Braga vs Vitória de Guimarães (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKCjkMQmqSG4g+IY3qMHjKECRAwCwJBT7DZ9FGBWa278vSyzNTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/bpiyMTAwrMIsuGQOWHfrnEkUOCGSzehB/echo/stream/sc-braga-vs-vitoria-sc-football-1575477/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "benfica-vs-estoril-praia-2513961",
+      "title": "Benfica vs Estoril Praia",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "31 Aug 2026, 07:15 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCA1TN2UCG4g+IY9qMHjKEBBAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Benfica vs Estoril Praia (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCA1TN2UCG4g+IY9qMHjKEBBAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/hVEoMtxiDwlXfthUSWrAiQUFSgVkHEvy/echo/stream/benfica-vs-estoril-football-1575476/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "aston-villa-vs-arsenal-2494017",
+      "title": "Aston Villa vs Arsenal",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "31 Aug 2026, 07:00 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCByDeIKLzAoQOrCFMmTEEDFMgSIeCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports Premier League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCByDeIKLzAoQOrCFMmTEEDFMgSIeCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/bIGRdNMCZzGHzsTRgcWjvSAaHTtsXtss/rtmp/stream/xkGg_mXTeW3mORI5gsYlyMYjWnSEvVnUNQodnEEeynV4MEqH1-4KIeErY46_wgm6nr7WSIiydG4/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports Premier League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCByDeIKLzAoQOrCFMmTEEDFMgSIeCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/bPDoMTPtLPCmxsSzaimMfAfzNhlTmhPf/rtmp/stream/7o_7grJsQFdXKK5SBaytE83nw4HE2fp4JbvkJGxNuxpuqK8w4_gLUVBQKh1IDyenOoQXoQbrnU2I7896/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Aston Villa vs Arsenal (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCByDeIKLzAoQOrCFMmTEEDFMgSIeCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/cnwbTnKezuXoWxtXmgyWkaeirAIemDTP/delta/stream/live_premier-league_aston-villa-arsenal-live-streaming-612438192/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Aston Villa vs Arsenal (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCByDeIKLzAoQOrCFMmTEEDFMgSIeCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/spMrWLYixLCVoMjieOQCQrVTprVhxrmP/echo/stream/aston-villa-vs-arsenal-football-1557377/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Aston Villa vs Arsenal (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCByDeIKLzAoQOrCFMmTEEDFMgSIeCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://cdn11.zohanayaan.com:1686/hls/nastonvilla.m3u8?md5=xKyNZz5VwFoqV84ocwMurg&expires=1788217549"
+        },
+        {
+          "channel_name": "Aston Villa vs Arsenal (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCByDeIKLzAoQOrCFMmTEEDFMgSIeCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://cdn13.zohanayaan.com:1686/hls/mevent11.m3u8?md5=VClDMq63TaWNNm9p61oXRQ&expires=1788217555"
+        }
+      ]
+    },
+    {
+      "id": "atalanta-vs-bologna-2482154",
+      "title": "Atalanta vs Bologna",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "31 Aug 2026, 06:45 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSTApYEKBB8Q3AyFMxTIFJeumJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSTApYEKBB8Q3AyFMxTIFJeumJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/INxXtriONpwCSlpKJaRMKcDLCdGhZbwF/rtmp/stream/QsbkVJ_GR4_O0pL-0ivgSY-iyv_O79D1qfNk4rzlZw1QTlBjR6BVp7vHRuz9BUb-Q8Of02eik-o/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSTApYEKBB8Q3AyFMxTIFJeumJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb13.strmd.st/secure/NhfkrvpMgbtizGCrqBhoLOGnirkKmoOG/rtmp/stream/JEAuaC4uBfxrFzpXUjder2cSJI_o3nUl495Ho11uwVGTnhIWIqAitUaYdrRQD_50InH4B_9ldFuIqJ8l/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "amed-vs-trabzonspor-2527748",
+      "title": "Amed vs Trabzonspor",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "31 Aug 2026, 06:30 PM (BD Time)",
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJNHqt4YKSG4g+IY3qMwQexEcbANMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN SPORTS USA (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJNHqt4YKSG4g+IY3qMwQexEcbANMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/XeBfPSCsonwfvgAyLwPejCUMxXXJXFbX/rtmp/stream/2foWR_jQtoVYebg4EMzdJEOEONK665K19I4-tG_S2_YSwUI15mxWXOmE_F0-45GGO01Xjc214qS8qA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "beIN SPORTS USA (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJNHqt4YKSG4g+IY3qMwQexEcbANMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb1.strmd.st/secure/rdJPWmUnhNKyleZCEzOeMfUVgWWwDIvM/rtmp/stream/PTqKfxP1FJF_oRi5uLU1GlXLS1xtbFXR9nq5bqyyTZwGIPGpIflWQKz9dSIELdcxXpYwhD1H0YTRqjO3p6M/1/playlist.m3u8"
         }
       ]
     }
