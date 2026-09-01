@@ -1,6 +1,27 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-09-01 | 21:14:09
+# TOTAL-ITEMS: 3
+# UPDATED Time and date BD: 2026-09-02 | 00:38:20
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Al-Hilal vs Al-Ahli (HD)" tvg-name="Al-Hilal vs Al-Ahli (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDYha9JqG4g+IEiFM4UubSAt8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Al-Hilal vs Al-Ahli (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb15.strmd.st/secure/ammWEvktadOUAstrzNNIragVPnGZMJXH/delta/stream/live_saudi-pro-league_al-hilal-al-ahli-live-streaming-612563904/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+ (HD)" tvg-name="Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBo0sIkAGNJwKiBlYQJcZoggdIWRoVlEKJSG3CzisqpAW5J-mEEim2emELAkue0PLdOCBcyEwJgeHInYCCyCCA.webp" group-title="Football", Paramount+ (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb15.strmd.st/secure/rKMzWpIkLweRTAsCXlSwvrtwxtSmcuhL/rtmp/stream/ImOgaX0Ff1cEQYBMR4WcLIym9lHqcgWCZsif6eIzCtSki9mLwPLgtNCucc9mjbACYqSlN3jpu1pC/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+ (SD)" tvg-name="Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBo0sIkAGNJwKiBlYQJcZoggdIWRoVlEKJSG3CzisqpAW5J-mEEim2emELAkue0PLdOCBcyEwJgeHInYCCyCCA.webp" group-title="Football", Paramount+ (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb15.strmd.st/secure/mTRrsospcwyMIwUgkGuDUlMNmVBJdudE/rtmp/stream/QmKIqKYyc8dqnMzC0Ns4EL2u_rQ_92ZXfN5pGT4FCrR0PSBszgLIUU2S9v30OTd7ZcH47DsiiQmApylG-Q/1/playlist.m3u8
 

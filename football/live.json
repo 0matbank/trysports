@@ -1,11 +1,62 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-01 | 21:14:09",
-  "updated_at_bd": "2026-09-01T21:14:09+06:00",
+  "total_items": 3,
+  "total_matches": 2,
+  "total_streams": 3,
+  "updated_time_bd": "2026-09-02 | 00:38:20",
+  "updated_at_bd": "2026-09-02T00:38:20+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "al-hilal-vs-al-ahli-2573336",
+      "title": "Al-Hilal vs Al-Ahli",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "02 Sep 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1788285600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDYha9JqG4g+IEiFM4UubSAt8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Al-Hilal vs Al-Ahli (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDYha9JqG4g+IEiFM4UubSAt8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/ammWEvktadOUAstrzNNIragVPnGZMJXH/delta/stream/live_saudi-pro-league_al-hilal-al-ahli-live-streaming-612563904/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "parma-vs-cremonese-2579098",
+      "title": "Parma vs Cremonese",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "01 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1788278400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBo0sIkAGNJwKiBlYQJcZoggdIWRoVlEKJSG3CzisqpAW5J-mEEim2emELAkue0PLdOCBcyEwJgeHInYCCyCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBo0sIkAGNJwKiBlYQJcZoggdIWRoVlEKJSG3CzisqpAW5J-mEEim2emELAkue0PLdOCBcyEwJgeHInYCCyCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/rKMzWpIkLweRTAsCXlSwvrtwxtSmcuhL/rtmp/stream/ImOgaX0Ff1cEQYBMR4WcLIym9lHqcgWCZsif6eIzCtSki9mLwPLgtNCucc9mjbACYqSlN3jpu1pC/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBo0sIkAGNJwKiBlYQJcZoggdIWRoVlEKJSG3CzisqpAW5J-mEEim2emELAkue0PLdOCBcyEwJgeHInYCCyCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/mTRrsospcwyMIwUgkGuDUlMNmVBJdudE/rtmp/stream/QmKIqKYyc8dqnMzC0Ns4EL2u_rQ_92ZXfN5pGT4FCrR0PSBszgLIUU2S9v30OTd7ZcH47DsiiQmApylG-Q/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }

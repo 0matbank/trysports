@@ -1,40 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 164,
-  "total_matches": 164,
+  "total_items": 171,
+  "total_matches": 171,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-01 | 21:14:09",
-  "updated_at_bd": "2026-09-01T21:14:09+06:00",
+  "updated_time_bd": "2026-09-02 | 00:38:20",
+  "updated_at_bd": "2026-09-02T00:38:20+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "parma-vs-cremonese-2579098",
-      "title": "Parma vs Cremonese",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "01 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1788278400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBo0sIkAGNJwKiBlYQJcZoggdIWRoVlEKJSG3CzisqpAW5J-mEEim2emELAkue0PLdOCBcyEwJgeHInYCCyCCA.webp"
-    },
-    {
-      "id": "al-hilal-vs-al-ahli-2573336",
-      "title": "Al-Hilal vs Al-Ahli",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "02 Sep 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1788285600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDYha9JqG4g+IEiFM4UubSAt8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "fc-zurich-vs-bsc-young-boys-football-1555377",
-      "title": "FC Zurich vs BSC Young Boys",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "02 Sep 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1788287400000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBXx65Boubie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIfovrkGAY2bie8EVW4EurMGFz5zQA.webp"
-    },
     {
       "id": "accrington-stanley-vs-grimsby-town-2500187",
       "title": "Accrington Stanley vs Grimsby Town",
@@ -124,6 +97,15 @@
       "start_time_bd": "02 Sep 2026, 12:45 AM (BD Time)",
       "start_epoch_ms": 1788288300000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSA0hmYDTm4g+IYzgiaQiFCCvwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "halifax-town-vs-hartlepool-united-2528214",
+      "title": "Halifax Town vs Hartlepool United",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "02 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788288300000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8remDADuIKQhA6+IEiCM6diE4glMkFPsNn0UYFSi6vy9LLPdNamqL0QUA.webp"
     },
     {
       "id": "hebc-hamburg-vs-borussia-dortmund-2483318",
@@ -612,6 +594,24 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiCCADGwCCJASYc4SBIgQwROtVYQymLpCKqu0muA1ViHROXKJWFOVkChIptnphCwJLkmOhMG5OWWFSegINciCZcIggA.webp"
     },
     {
+      "id": "ppv-arminia-bielefeld-vs-st-pauli",
+      "title": "Arminia Bielefeld vs. St. Pauli",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "04 Sep 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1788539400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCBDCQKYFRBksIJUvmyIykVPHKFcmaWwgY2leOAaSOqwGNZ-MIJFNs9MIWBJcdoeW6cIZzJZAmB4ckcLQwggA.webp"
+    },
+    {
+      "id": "ppv-hannover-96-vs-karlsruher-sc",
+      "title": "Hannover 96 vs. Karlsruher SC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "04 Sep 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1788539400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCADGIRIgmJhILMAhS1iqkpDaS47SFXbpMEGQ0yVIYdgOWSKchFBhBIptnphCwJLkkOhF1YnazIHAmB4chcVUhUgA.webp"
+    },
+    {
       "id": "ppv-lyon-vs-aj-auxerre",
       "title": "Lyon vs. AJ Auxerre",
       "category": "football",
@@ -709,6 +709,33 @@
       "start_time_bd": "05 Sep 2026, 09:00 AM (BD Time)",
       "start_epoch_ms": 1788577200000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkAGNgESSBlZpweMCogFiCSBQqQIJSFWJh0kGTIzxiMjQuyaJbfzCCRTbPTCFgSXBO1DnVghXMm0CJXJnRXMgA.webp"
+    },
+    {
+      "id": "ppv-holstein-kiel-vs-1-fc-n-rnberg",
+      "title": "Holstein Kiel vs. 1. FC Nürnberg",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "05 Sep 2026, 05:00 PM (BD Time)",
+      "start_epoch_ms": 1788606000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBSlxIEiADGIKiBDAI0rLJARJwZSvnBEm5ermqJMbdpFGQMbAqn8wg2wWz0whYElzypIVdWdWFSeg94clc1cIggA.webp"
+    },
+    {
+      "id": "ppv-kaiserslautern-vs-sv-darmstadt-98",
+      "title": "Kaiserslautern vs. SV Darmstadt 98",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "05 Sep 2026, 05:00 PM (BD Time)",
+      "start_epoch_ms": 1788606000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFKWCIAxiLlUQi6SFnCQiLFPWSI4kBGAKFKEDBBYVpS-BEgaNrBP5hBcgtnphCwJLmkShF1YDYUkJdxswF2ADMgggA.webp"
+    },
+    {
+      "id": "ppv-vf-l-wolfsburg-vs-energie-cottbus",
+      "title": "VfL Wolfsburg vs. Energie Cottbus",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "05 Sep 2026, 05:00 PM (BD Time)",
+      "start_epoch_ms": 1788606000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNeNhAwQAYxHBxpEBBDDVICTRpqUkiMERUNIEiF2mQZyxqWXe5fQKHyC2emELAkuGbqFhuTn1hUnpXCTAA4H0yCCA.webp"
     },
     {
       "id": "ppv-newcastle-united-vs-afc-bournemouth",
@@ -943,6 +970,15 @@
       "start_time_bd": "06 Sep 2026, 12:00 AM (BD Time)",
       "start_epoch_ms": 1788631200000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILOODwpwGjQghh4kAGMpIFCERLNKEdlkgSy6VRAwZiCwouJNWPfzCD9BA48LAkuFXqHPWCH0yPTdpMGdgILIIIA.webp"
+    },
+    {
+      "id": "ppv-dynamo-dresden-vs-vf-l-bochum",
+      "title": "Dynamo Dresden vs. VfL Bochum",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "06 Sep 2026, 12:30 AM (BD Time)",
+      "start_epoch_ms": 1788633000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEECGCJEEYFRABjbHJA1hILCETyUpbIq2ktxmBJApzIdWU3ySV3fzCCRTZY8LAkuBbqHPWWWE9XQIpcmdgWTIIIA.webp"
     },
     {
       "id": "ppv-as-roma-vs-atalanta",
@@ -1195,6 +1231,33 @@
       "start_time_bd": "06 Sep 2026, 05:30 PM (BD Time)",
       "start_epoch_ms": 1788694200000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZCKWBUQZYcAggsUkAGMQKEPElYQMZQumIdZRCsnCQ0mjprSFo8hIFCRTbPTCFgSXCpQuwbk4JOTJ-AmAtMED5SQggA.webp"
+    },
+    {
+      "id": "ppv-hertha-berlin-vs-1-fc-magdeburg",
+      "title": "Hertha Berlin vs. 1. FC Magdeburg",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "06 Sep 2026, 05:30 PM (BD Time)",
+      "start_epoch_ms": 1788694200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRAGMQw7CDk14wCCCkkVwKiDXCQEWVL1rEmlEq0bxZzTA2k5p-mEEim2emELAkuCaaFPWPRkyUwJgRTAnJVIlIA.webp"
+    },
+    {
+      "id": "ppv-sp-vgg-greuther-f-rth-vs-1-fc-heidenheim-1846",
+      "title": "SpVgg Greuther Fürth vs. 1. FC Heidenheim 1846",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "06 Sep 2026, 05:30 PM (BD Time)",
+      "start_epoch_ms": 1788694200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEBMQ0awkBDkKy4+MEQqsIkLIDGmxGSwhtIGCESyQpCdcTaU5CKDCCRTbPTCFgSXHaHluTkdhUnoCVXJnYEcyCCA.webp"
+    },
+    {
+      "id": "ppv-vf-l-osnabruck-vs-tsv-eintracht-braunschweig",
+      "title": "VfL Osnabruck vs. TSV Eintracht Braunschweig",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "06 Sep 2026, 05:30 PM (BD Time)",
+      "start_epoch_ms": 1788694200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEDBABjELKzZZpEcHEkQwkOOFLEiGMAgGRixFOCJ5EEPJpbZKcoYFDlBbPTCFgSXFIdCwbk5DbTIHN3hyQKMyCCA.webp"
     },
     {
       "id": "ppv-rgryte-is-vs-hammarby-if",
