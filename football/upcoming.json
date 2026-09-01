@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 190,
-  "total_matches": 190,
+  "total_items": 164,
+  "total_matches": 164,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-01 | 17:00:19",
-  "updated_at_bd": "2026-09-01T17:00:19+06:00",
+  "updated_time_bd": "2026-09-01 | 21:14:09",
+  "updated_at_bd": "2026-09-01T21:14:09+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -693,15 +693,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGOOwgspECik0ZEEcCogyEaSG3xS2fZpgLgyxBLUgpp+fzCCVBfTcLAkuAMbyhd1suF75R10wOxM9CCA.webp"
     },
     {
-      "id": "926",
-      "title": "Indiana State Sycamores - Purdue Boilermakers",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "05 Sep 2026, 07:00 AM (BD Time)",
-      "start_epoch_ms": 1788570000000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
       "id": "ppv-puebla-vs-toluca",
       "title": "Puebla vs. Toluca",
       "category": "football",
@@ -709,24 +700,6 @@
       "start_time_bd": "05 Sep 2026, 07:00 AM (BD Time)",
       "start_epoch_ms": 1788570000000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkBIkoQ4qiBggIM7CADGMkNLKIs8zcsSrSwRDr2zgESyEQQU5KwKEim2emELAkuVfaFhuTithY3sCE3IAy2MIIA.webp"
-    },
-    {
-      "id": "855",
-      "title": "Kansas Jayhawks - Long Island University Sharks",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "05 Sep 2026, 08:00 AM (BD Time)",
-      "start_epoch_ms": 1788573600000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "856",
-      "title": "Michigan State Spartans - Toledo Rockets",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "05 Sep 2026, 08:00 AM (BD Time)",
-      "start_epoch_ms": 1788573600000,
-      "poster": "https://streamed.pk/favicon.ico"
     },
     {
       "id": "ppv-fc-juarez-vs-pachuca",
@@ -963,51 +936,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMsNIgAxiCwhhIFCBWIYIRLPjAIKkDGBU96g5MWSairNg1SzIlOQigwgkU2z0whYElzTHIVdWZ0kyRwJgbTBXHVIdIA.webp"
     },
     {
-      "id": "862",
-      "title": "West Virginia Mountaineers - Coastal Carolina Chanticleers",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1788631200000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "863",
-      "title": "Syracuse Orange - New Hampshire Wildcats",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1788631200000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "864",
-      "title": "Nebraska Cornhuskers - Ohio Bobcats",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1788631200000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "865",
-      "title": "Army Black Knights - Bryant Bulldogs",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1788631200000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "866",
-      "title": "James Madison Dukes - Liberty Flames",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1788631200000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
       "id": "ppv-ajax-amsterdam-vs-psv-eindhoven",
       "title": "Ajax Amsterdam vs. PSV Eindhoven",
       "category": "football",
@@ -1015,24 +943,6 @@
       "start_time_bd": "06 Sep 2026, 12:00 AM (BD Time)",
       "start_epoch_ms": 1788631200000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILOODwpwGjQghh4kAGMpIFCERLNKEdlkgSy6VRAwZiCwouJNWPfzCD9BA48LAkuFXqHPWCH0yPTdpMGdgILIIIA.webp"
-    },
-    {
-      "id": "868",
-      "title": "Pittsburgh Panthers - Miami (OH) RedHawks",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1788633000000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "869",
-      "title": "South Carolina Gamecocks - Kent State Golden Flashes",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788633900000,
-      "poster": "https://streamed.pk/favicon.ico"
     },
     {
       "id": "ppv-as-roma-vs-atalanta",
@@ -1096,60 +1006,6 @@
       "start_time_bd": "06 Sep 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1788634800000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICMCogAxuJBZg8UiGEyQJEDGAQVIFCBAi5+xAYmIpMNQcRWpJ7SnISBQkU2z0whYElzSnITBuTglhUnoCRXJg7QiIIA.webp"
-    },
-    {
-      "id": "873",
-      "title": "Auburn Tigers - Baylor Bears",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 03:30 AM (BD Time)",
-      "start_epoch_ms": 1788643800000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "874",
-      "title": "Cincinnati Bearcats - Boston College Eagles",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 03:30 AM (BD Time)",
-      "start_epoch_ms": 1788643800000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "875",
-      "title": "Duke Blue Devils - Tulane Green Wave",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 03:30 AM (BD Time)",
-      "start_epoch_ms": 1788643800000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "876",
-      "title": "Navy Midshipmen - Towson Tigers",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 03:30 AM (BD Time)",
-      "start_epoch_ms": 1788643800000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "877",
-      "title": "Tulsa Golden Hurricane - Oklahoma State Cowboys",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 03:45 AM (BD Time)",
-      "start_epoch_ms": 1788644700000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "879",
-      "title": "Arkansas Razorbacks - North Alabama Lions",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 04:15 AM (BD Time)",
-      "start_epoch_ms": 1788646500000,
-      "poster": "https://streamed.pk/favicon.ico"
     },
     {
       "id": "ppv-atl-tico-de-san-luis-vs-guadalajara",
@@ -1260,15 +1116,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYhEJEDUQ0aEESBghhpEFinaUslSDKJ4wKiBTYQliGu1KFa8-zCCRTbPTCFgSXOPNDnViV1MnMCYGMwZ2AlMgggA.webp"
     },
     {
-      "id": "882",
-      "title": "Utah State Aggies - Idaho State Bengals",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 07:00 AM (BD Time)",
-      "start_epoch_ms": 1788656400000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
       "id": "ppv-am-rica-vs-tijuana",
       "title": "América vs. Tijuana",
       "category": "football",
@@ -1287,24 +1134,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcfGA0yiRFRAwQWEIggKR64eJA15wkaRABjEGrnq1+1cDUkU5CKDCCDBbPTCFgSXEftDnVkd9Mns3STBnG1IbIA.webp"
     },
     {
-      "id": "885",
-      "title": "Mississippi State Bulldogs - UL Monroe Warhawks",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1788658200000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "886",
-      "title": "Virginia Tech Hokies - VMI Keydets",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1788658200000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
       "id": "ppv-la-galaxy-vs-new-england-revolution",
       "title": "LA Galaxy vs. New England Revolution",
       "category": "football",
@@ -1321,33 +1150,6 @@
       "start_time_bd": "06 Sep 2026, 07:30 AM (BD Time)",
       "start_epoch_ms": 1788658200000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCHgiQWGcAiTxIAMYhhIFCAWyJCqpOxySK0iGOJjw+RuD7Vs-OQigwgkU2z0whYElzKUIXJuTmcrMkCCYCkwV3lSeSA.webp"
-    },
-    {
-      "id": "887",
-      "title": "Florida Gators - Florida Atlantic Owls",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 07:45 AM (BD Time)",
-      "start_epoch_ms": 1788659100000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "927",
-      "title": "Hampton Pirates - Maryland Terrapins",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 08:00 AM (BD Time)",
-      "start_epoch_ms": 1788660000000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "928",
-      "title": "South Dakota State Jackrabbits - Northwestern Wildcats",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 08:00 AM (BD Time)",
-      "start_epoch_ms": 1788660000000,
-      "poster": "https://streamed.pk/favicon.ico"
     },
     {
       "id": "ppv-portland-timbers-vs-minnesota-united-fc",
@@ -1375,42 +1177,6 @@
       "start_time_bd": "06 Sep 2026, 09:00 AM (BD Time)",
       "start_epoch_ms": 1788663600000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBCkQJEDWEiQKaQGMQiLDOBUQa+COARFiNZqkQtOmJKUgYwfVWX8wggwWz0whYElwrlIVdWIwUyZQ99MFdDUkMgA.webp"
-    },
-    {
-      "id": "929",
-      "title": "UNLV Rebels - Hawai'i Rainbow Warriors",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 10:00 AM (BD Time)",
-      "start_epoch_ms": 1788667200000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "930",
-      "title": "Central Michigan Chippewas - New Mexico Lobos",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 10:00 AM (BD Time)",
-      "start_epoch_ms": 1788667200000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "931",
-      "title": "UCLA Bruins - California Golden Bears",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 10:30 AM (BD Time)",
-      "start_epoch_ms": 1788669000000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "932",
-      "title": "Western Kentucky Hilltoppers - Nevada Wolf Pack",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 10:30 AM (BD Time)",
-      "start_epoch_ms": 1788669000000,
-      "poster": "https://streamed.pk/favicon.ico"
     },
     {
       "id": "ppv-fc-groningen-vs-fc-twente",
