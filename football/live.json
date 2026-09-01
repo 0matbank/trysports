@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 33,
-  "total_matches": 15,
-  "total_streams": 33,
-  "updated_time_bd": "2026-09-02 | 03:20:16",
-  "updated_at_bd": "2026-09-02T03:20:16+06:00",
+  "total_items": 3,
+  "total_matches": 3,
+  "total_streams": 3,
+  "updated_time_bd": "2026-09-02 | 05:23:40",
+  "updated_at_bd": "2026-09-02T05:23:40+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -15,7 +15,7 @@
       "status": "LIVE_NOW",
       "start_time_bd": "02 Sep 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1788289200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEBAmkQAY1LZ5VEImHSYIcZKzYQWXbJA09Svdskp9NJTV7kIoMIJFMFKcoWBJcMt0Met7VTI3AmB4ckdgezIIIA.webp",
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDg4WaChDcQEXSAMGYIACaHjjCkz4ouYMvCLzRtprTD2xoiEA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgQpHtn4huIACYgYIRLr6GdF+AQpM+KLmDLwi80faa0wjsaIhA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,22 +23,10 @@
       },
       "streams": [
         {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEBAmkQAY1LZ5VEImHSYIcZKzYQWXbJA09Svdskp9NJTV7kIoMIJFMFKcoWBJcMt0Met7VTI3AmB4ckdgezIIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/KQHfVPWmZlNyaTTOBQJoarEtiPHaoWNx/rtmp/stream/z4hpfOZQktVdcNDqOCKgqwqh0kd1Btqkb39bURDPDASZeYntSa-VtFFvgegjulljCxPcc_NGLekZ/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEBAmkQAY1LZ5VEImHSYIcZKzYQWXbJA09Svdskp9NJTV7kIoMIJFMFKcoWBJcMt0Met7VTI3AmB4ckdgezIIIA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/lkjmCSmRPiaZySBThpPzJRQObtiLWRsj/rtmp/stream/qtpbY-jGoop-My3m2AoZwi0g3cNV7s8gUGJxrI5tW1I4Ir9p2hy-7XpHabvxBePDwb-Q0p8f-7blxNB2wA/1/playlist.m3u8"
-        },
-        {
           "channel_name": "Torino vs Monza (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEBAmkQAY1LZ5VEImHSYIcZKzYQWXbJA09Svdskp9NJTV7kIoMIJFMFKcoWBJcMt0Met7VTI3AmB4ckdgezIIIA.webp",
+          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDg4WaChDcQEXSAMGYIACaHjjCkz4ouYMvCLzRtprTD2xoiEA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgQpHtn4huIACYgYIRLr6GdF+AQpM+KLmDLwi80faa0wjsaIhA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/QkkqQNwRcYeGWcnzVGQFbQAXvfYreSgH/delta/stream/live_coppa-italia_torino-monza-live-streaming-612537552/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/SAbFxeHYHtgOGZUQlndmjJZtpoYstReK/delta/stream/live_coppa-italia_torino-monza-live-streaming-612537552/1/playlist.m3u8"
         }
       ]
     },
@@ -57,22 +45,10 @@
       },
       "streams": [
         {
-          "channel_name": "Sky Sports Football (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxCikYXhBDcQfECZz6pRkCgNWCwHTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/BqdzKuCakRJRmvMYjFQEYGDLsbElZbVo/rtmp/stream/J_ajGeQJhTQf3OiOGieM1prD8OUXL05mms0sGc6OSm78dl0oLowkLJDNte7DMJniwo2PqEOCLXqX/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports Football (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxCikYXhBDcQfECZz6pRkCgNWCwHTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/mAYTPTYwjAvhGWSEnfyYfeXVVujYMAcY/rtmp/stream/pAZ0qryZT8Aussn8UGapgUiaMsc8mA-zk50uWF3zRe6t4LNin4PvNHj9OLbUxP8GTAl-P__iVJ-YXOIc1g/1/playlist.m3u8"
-        },
-        {
           "channel_name": "Stoke City vs Norwich City (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxCikYXhBDcQfECZz6pRkCgNWCwHTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/yPGTHlNJJUzagWVxRrUkYpWfRYiJeKWT/delta/stream/live_championship_stoke-norwich-live-streaming-612547056/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/DaCPsYafGYdFmakFrHSziOxxHTCQRQCW/delta/stream/live_championship_stoke-norwich-live-streaming-612547056/1/playlist.m3u8"
         }
       ]
     },
@@ -91,358 +67,10 @@
       },
       "streams": [
         {
-          "channel_name": "Sky Sports+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSHr4Q3EBpy6+IYzgh6QRlDr0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/nthZIYlBzDkDGlZkcisvcHMsxboUtTLg/rtmp/stream/gzOzRcR0l-hS6YEXC8mOuzF_yhosHCtFBTb5ZgHZLxFWFv61lK0_j91bJMcy14-pWyYNW1j2wkFv/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSHr4Q3EBpy6+IYzgh6QRlDr0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/HudmRTCOLGAolHIPkXFJlTUkWfvqOomH/rtmp/stream/ewo3xO_UdbYn6be9sbGlcAuljLKgJlbZFsMhu6Y7tzsOQRtupIUSTiLozUNLD0SgqCrg0t7b4UfS9iO0KQ/1/playlist.m3u8"
-        },
-        {
           "channel_name": "Birmingham City vs Southampton (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSHr4Q3EBpy6+IYzgh6QRlDr0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/rRSzhnRfztFtDrPrDcbmlTGNZtkAuNeP/delta/stream/live_championship_birmingham-southampton-live-streaming-612546624/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "halifax-town-vs-hartlepool-united-2528214",
-      "title": "Halifax Town vs Hartlepool United",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "02 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788288300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8remDADuIKQhA6+IEiCM6diE4glMkFPsNn0UYFSi6vy9LLPdNamqL0QUA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN National League (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8remDADuIKQhA6+IEiCM6diE4glMkFPsNn0UYFSi6vy9LLPdNamqL0QUA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/ywiIaQHIgSYQpyeJQRvJbxjPOgiuhpdo/rtmp/stream/xCbOxlA1Vg2H0Vd-YVDrix6GJrzEzTSP6TYdGN1X1DHQyaaSao0ZyOXmWgpUmrxjRv2bpAQajEKx/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "DAZN National League (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8remDADuIKQhA6+IEiCM6diE4glMkFPsNn0UYFSi6vy9LLPdNamqL0QUA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb2.strmd.st/secure/MNRAPXzXFFupGAGMWDdHDIDBYbNZFojF/rtmp/stream/Lc2I-FKGTGFk4jfENjzaipwU_QdMHtL2mxi68qWRZmqnMbs6SSTITE8mPHaHo2sCdOpJkHfYbK5jvQgITQ/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "lincoln-city-vs-blackburn-rovers-2501292",
-      "title": "Lincoln City vs Blackburn Rovers",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "02 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788288300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxAyQIelESa+O3Lq0gjKExKZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxAyQIelESa+O3Lq0gjKExKZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/qcMQOvaNyMIforKFbbgyzmjzxsMvlfQV/rtmp/stream/4zrGkNWNsStjC92olc1-b9i_b8g524LpNZeTKuvQZxcmvdXrqYXqGcJgttzwuPtzmYQrUEoioNUk/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxAyQIelESa+O3Lq0gjKExKZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb2.strmd.st/secure/CdlDeRpTXsDGvbtNVTkwHnUoavxkWTRx/rtmp/stream/YQJ1bfwPxcufQox4dAuP0CpPEklUxBlY0S6w59uN575OcB2y-GDzjIBoiuVYWlYXEETgvTXlX1BWrjCAwA/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "portsmouth-vs-derby-county-2501291",
-      "title": "Portsmouth vs Derby County",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "02 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788288300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBIh6vKSD4hu+kCZwQQegylwgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBIh6vKSD4hu+kCZwQQegylwgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/tcKfSlUtQNiopoSnQQvNuogImSBdrvqy/rtmp/stream/8LO8M5u19piKQRzyTJAA4AI0EMsjebdBdFdQu5VIwB9Yw86ST6AojiAUFg5Io6_rNI1ml4cigXaG/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBIh6vKSD4hu+kCZwQQegylwgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb11.strmd.st/secure/AfwGkuvnrIzmiNxEfKjKPBkqXqUBxNUf/rtmp/stream/MGld444-LIOiHrOtb9fDoenzG2SBOOvOQgi4mFpBD6NPuh5yTg2E5pHwSeahrxQQjWya8PEgS5AUwSyYhQ/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "swansea-city-vs-watford-2501290",
-      "title": "Swansea City vs Watford",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "02 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788288300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQLL0mEENxB8QRnLqkGQKPRYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQLL0mEENxB8QRnLqkGQKPRYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/wKPLiiUDJVhhnTPcgPrthFvgUAiWvrec/rtmp/stream/Jh7Sv-CODPOAwFfyiVOZAP1HZr_KfrXAZy9Ifu8Kb9KFWJ0MB3G8cSD-zQ0Q9Aa0qLyKiv7xJyH6/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQLL0mEENxB8QRnLqkGQKPRYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb11.strmd.st/secure/aGLuvhCNDrZRuKiJFltvCkoPVPzDDJtG/rtmp/stream/fcfHxNE9qumnXn4SlZ3OkhYQXMP3QOvufWkIJOrka0NXjYs1yx_XPHYD54ts2W7HmZJ1qeK_EfWp8kpYig/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "sheffield-united-vs-bolton-wanderers-2501288",
-      "title": "Sheffield United vs Bolton Wanderers",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "02 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788288300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHwpgNIGCBIhuOkLhAQQUnSkMmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHwpgNIGCBIhuOkLhAQQUnSkMmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/PdJnhrKzucGYbRdcdApNGbYxUGfJZoXT/rtmp/stream/0-tQ2IhyQwO9y5i5GKsm5g5RBbo8iPPIimuA8fpVI4cvKYf0YQcU9OXaSPgGWg8b6hN6RQjbi_C_/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHwpgNIGCBIhuOkLhAQQUnSkMmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/snZXnWCOOGZkLYOFTMUxgTsBKxdrztmm/rtmp/stream/BtDanAWvJ7tylGUOfD6F-_jvJbHAY0vdiVqXouUvF6BZ8IbuPFXDnkyqzWQLdwCrXd_tu5E0rLxBQ9v1eQ/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "preston-north-end-vs-bristol-city-2501287",
-      "title": "Preston North End vs Bristol City",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "02 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788288300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELShIQfWGG3cdIYzgggpRlCEN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELShIQfWGG3cdIYzgggpRlCEN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/eeWNjgmUVsMAmLonHZolFfFJguqDuIsx/rtmp/stream/l67oZwnuufagQCYcDwcVLQYWJvCkffPOW59V4ZCSlhSAZ8uAwl96OjzBodGx6ZgV0lzPZ8z_Xi5W/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELShIQfWGG3cdIYzgggpRlCEN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb2.strmd.st/secure/hMiABHaIlYrvxvfJgjMslgociWulQflT/rtmp/stream/LgB410wW40KxX_zPjbF_3WYBQRaYEr_VEhxbuxQBs9y-pr_3m9XDyX1zObP0AznMN6kFBl-ii_sDXIbbPw/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "west-ham-united-vs-wolverhampton-wanderers-2501285",
-      "title": "West Ham United vs Wolverhampton Wanderers",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "02 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788288300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBghuFfCBLaQfECZwQQUoyA3d9BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports Plus (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBghuFfCBLaQfECZwQQUoyA3d9BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/YSZjCemBbxqRvhquurYZsPLTXyUtQtLg/rtmp/stream/7LKu8qAvvtRG9IPVQ90YRL7KkgonY9vtaTAm_MQh9tLpIGsfsmF7DfU0FtLCpzlkzc6HPfFq55Hh/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports Plus (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBghuFfCBLaQfECZwQQUoyA3d9BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb2.strmd.st/secure/UtSnRNgTzNArorsWoZzNbIqxiCpbvLqb/rtmp/stream/dtFmafGzOl6-XjK96-K1CpX1FTdBjt2QVF4oZaIdMuhpUYQgyXQV6wEJk2y6qEnya7ZjPgZq6o3OuOKQxA/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "bromley-vs-leyton-orient-2500743",
-      "title": "Bromley vs Leyton Orient",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "02 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788288300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBJg2plgYhuIPiFM4IGkCWMgYxgjop9hs+ijAqUXD+Xr7RXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBJg2plgYhuIPiFM4IGkCWMgYxgjop9hs+ijAqUXD+Xr7RXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb11.strmd.st/secure/LhRrHbUFGibpdQQTTWYIVZdvrzZDLiaN/rtmp/stream/hnUBzE0m-Abqt_oNtDKMLr3qauEpBvAkepDI9U3VNPpKs31lbYZwAQh1AXBVXF3aU55IedUhJqc_/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBJg2plgYhuIPiFM4IGkCWMgYxgjop9hs+ijAqUXD+Xr7RXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb11.strmd.st/secure/KsfCTdNXZvXGHkkVkdDAwwDAOWrVcdVl/rtmp/stream/O1_2RtXIMmmEa7RLg_6_Uw4bNMY4aMRtDM7cKUiJmDmiNT-19K4fATT6qslLCv_9mb8sEq5aoGFkPVjM6Q/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "doncaster-rovers-vs-notts-county-2500740",
-      "title": "Doncaster Rovers vs Notts County",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "02 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788288300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiBiVYNENxB8QRnBBBSQGwzBAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiBiVYNENxB8QRnBBBSQGwzBAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/ydUxKYVoGyhLSVWgYqZyuUYDWixkNSXp/rtmp/stream/o-iDV1kFcjpi8dqzuFaSgNqyTkRKwwWMPtWhV0G6E6kas7wAke1dZ7twTbdzeXmgsigzcoOuWBe1/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiBiVYNENxB8QRnBBBSQGwzBAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/VxlyljijZQPObUScLySPwKmQljSUAgLx/rtmp/stream/dNQHcgBEud2juaycVReEYNfNdAEt95eC7u8jCGPTY-9IEA7Lcrwx9h5bvvpsiq-ZRxZuyJ2E9_cMmKYclA/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "leicester-city-vs-plymouth-argyle-2500734",
-      "title": "Leicester City vs Plymouth Argyle",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "02 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788288300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCD7UBUDd00hDOCCCkgSpkBpQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCD7UBUDd00hDOCCCkgSpkBpQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/mAngRYbVjvgmgUGrOyoSfyVtyfLrWVwc/rtmp/stream/4_OetFth2FbJ0OOjVUaQcR9XYN1UNJZPhuIKrD--y7k67KROsd3wkv4T4a0fW_B87iFkKY0HRA0r/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCD7UBUDd00hDOCCCkgSpkBpQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/XlzAJaWVFkVRQLGPbsMOGBKNiZEKGNHk/rtmp/stream/iwlP5V4GGbiwhV17Bh_AOMj8ezvLniDET24cYQAXSfQZ3htNfMDw2Z43KVd0eZCfaXZ3jmJnEfruJXtvUQ/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "fleetwood-town-vs-oldham-athletic-2500182",
-      "title": "Fleetwood Town vs Oldham Athletic",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "02 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788288300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSA0hmYDTm4g+IYzgiaQiFCCvwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSA0hmYDTm4g+IYzgiaQiFCCvwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/HrLsBrQAJGVuAiIAUwQzNsMuhMCGQmmI/rtmp/stream/WmkMiHTFN0CTxdCzrhENNiF3hUB2TPd6CP8pxHarFf8CVSDToZtSCCt8swdFkb4YQiLSE7w7hwKa/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSA0hmYDTm4g+IYzgiaQiFCCvwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/xssEUCBJijNvpYbOfxctNttxqgoFMHTi/rtmp/stream/J4rkzozkNglaNS5tBY7JgtnV3B5ftz5Z94BJlSbgjLQF-yTmpQS6VfHPH6IV7qtfN3I58xbREkZhv5vbqw/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "hebc-hamburg-vs-borussia-dortmund-2483318",
-      "title": "HEBC Hamburg vs Borussia Dortmund",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "02 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788288300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYQYsGBDAwnELxBYQ5s4hjGQKENOMskFLCLmMUYVSh5fyjajkffFYDL3ExCCA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "German - Sky Sport Mix (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYQYsGBDAwnELxBYQ5s4hjGQKENOMskFLCLmMUYVSh5fyjajkffFYDL3ExCCA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/kdvwTPAvHaokrSbBEpSorntfJSYVfgml/rtmp/stream/Sy_yd3TnVpJownjW-JSMkjgNq4j8pTfVbn4KSwTxUvE1NTxHdm0qtB48MEqQRLUjJm5Tx3e7V5ns/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - Sky Sport Mix (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYQYsGBDAwnELxBYQ5s4hjGQKENOMskFLCLmMUYVSh5fyjajkffFYDL3ExCCA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb4.strmd.st/secure/uOuEqiKeYcAYQtDdbtGBvDyVQWlvlCKV/rtmp/stream/T7IYcBwX_AA9-Dexhu_sj3iq93E63_7JolCEnQLC66RADyAomJ_l6F_hs0yp-4BKJR_EmMTyWxDgEvcxMA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/BpQDkyltFlkNqySjfhqeiJIQKgNYLloY/delta/stream/live_championship_birmingham-southampton-live-streaming-612546624/1/playlist.m3u8"
         }
       ]
     }
