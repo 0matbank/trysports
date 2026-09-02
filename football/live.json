@@ -1,11 +1,46 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-02 | 16:56:55",
-  "updated_at_bd": "2026-09-02T16:56:55+06:00",
+  "total_items": 3,
+  "total_matches": 1,
+  "total_streams": 3,
+  "updated_time_bd": "2026-09-02 | 21:01:34",
+  "updated_at_bd": "2026-09-02T21:01:34+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "sassuolo-vs-frosinone-2579097",
+      "title": "Sassuolo vs Frosinone",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "02 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1788354000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcRGziRIGLPEgUwRCnmqSakAGMQ8YFRDDlILCDIrgEEFdPDdJ8Uv5hBIptnphCwJLi1KhF1ZJIzIlAmVyF0tSSyA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcRGziRIGLPEgUwRCnmqSakAGMQ8YFRDDlILCDIrgEEFdPDdJ8Uv5hBIptnphCwJLi1KhF1ZJIzIlAmVyF0tSSyA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/lChiuwJsJdrclTJKFWAgrCTjyDABuqNp/rtmp/stream/YIN4xyg9xdoGjXWDk-E7J5400OvXI1_aI8O8Afui0acyPquJxQkqDDVjY-l_qb-Ldb8EMjssTJbm/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcRGziRIGLPEgUwRCnmqSakAGMQ8YFRDDlILCDIrgEEFdPDdJ8Uv5hBIptnphCwJLi1KhF1ZJIzIlAmVyF0tSSyA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/LJrvBKVudpeqZzcqntZOtTTzCBenhNiB/rtmp/stream/wYR8BBxfG1mzq0jTo_dJQE_dbt2ID7CmEQd-CTRBgjWcokOpvw0TfJQGaes_AxrVhhnMwhNDlLGwFYjllg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sassuolo vs Frosinone (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcRGziRIGLPEgUwRCnmqSakAGMQ8YFRDDlILCDIrgEEFdPDdJ8Uv5hBIptnphCwJLi1KhF1ZJIzIlAmVyF0tSSyA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/tspPtmrpyisunYRpbPOLujoVeLBrodcg/delta/stream/live_coppa-italia_sassuolo-frosinone-live-streaming-612537984/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
