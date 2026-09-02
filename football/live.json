@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 16,
-  "total_matches": 7,
-  "total_streams": 16,
-  "updated_time_bd": "2026-09-03 | 03:16:59",
-  "updated_at_bd": "2026-09-03T03:16:59+06:00",
+  "total_items": 2,
+  "total_matches": 2,
+  "total_streams": 2,
+  "updated_time_bd": "2026-09-03 | 05:22:41",
+  "updated_at_bd": "2026-09-03T05:22:41+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -23,22 +23,10 @@
       },
       "streams": [
         {
-          "channel_name": "Sky Sports Main Event (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGCTAADJWwgD3EHwO4QEEFOMgUZxsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/ygYWgmCfyhcSqZEHSKBsQgmwVDNCOREH/rtmp/stream/UdJJCr6eZ2H7OJhBHlj0ySUtVmg-pZYu-tGhdXr7VBrk1g-jhrFR0zvdNJZ6RqPU3aopaDjzF8Nw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports Main Event (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGCTAADJWwgD3EHwO4QEEFOMgUZxsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb1.strmd.st/secure/yLBpRDZepBSNdTyokYpqzNxzstFfphzP/rtmp/stream/tMcpiQxV-B0issHbpy3uam6TdqJ_86ubtRhIEcctJDbFuox_xTkpayPwH1ir9Zpr7N9Y5AimaLFJYslXQQ/1/playlist.m3u8"
-        },
-        {
           "channel_name": "Burnley vs Middlesbrough (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGCTAADJWwgD3EHwO4QEEFOMgUZxsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/LtqnGloIYMkDXnTgbuLvHcjGYRCaHXYB/delta/stream/live_championship_burnley-middlesbrough-live-streaming-612947088/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/yxuhTAtJEEjUdsfoSBEtXybWrdQAeoJl/delta/stream/live_championship_burnley-middlesbrough-live-streaming-612947088/1/playlist.m3u8"
         }
       ]
     },
@@ -60,159 +48,7 @@
           "channel_name": "Falkirk vs Rangers (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRm0mA9dxB8QRnPpQhEiGCAlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/SCajFhheKqAXxBdjdINDkmUFYZwRzXch/delta/stream/live_premiership_falkirk-rangers-live-streaming-612928944/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "ppv-vf-l-osnabruck-vs-bayern-munich",
-      "title": "VfL Osnabruck vs. Bayern Munich",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IFCBolJICJOByJcqiDLDgKicJA7pAYxBZ5U1QpAxzpHdmskU5CKDCCRTbPTCFgSXHvtDnVkd1MnsCYHhyZwVSBSA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Premier Sports 2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IFCBolJICJOByJcqiDLDgKicJA7pAYxBZ5U1QpAxzpHdmskU5CKDCCRTbPTCFgSXHvtDnVkd1MnsCYHhyZwVSBSA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/lcSfarTfIhZJsbUXKThwynwGoqqZnzeo/rtmp/stream/ZExSvwTkDQ3VShfpEFXTmsscWnP9bgRgiEYvoldodjE9uFCJrsBrsrIZfEReDuTCJ1AUi0KcMU9y/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Premier Sports 2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IFCBolJICJOByJcqiDLDgKicJA7pAYxBZ5U1QpAxzpHdmskU5CKDCCRTbPTCFgSXHvtDnVkd1MnsCYHhyZwVSBSA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/wDCxuhalviYsncrYNlbFymBTTyPykQHt/rtmp/stream/ExQVMlmHE-DKaIZBR19Lta8TQNk1ZpuejQ82f2aBIFTSxXHCPOnP51o0CZOkzD1jejS3bCSHlMhM7EUMKA/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - Sky Sport Mix (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IFCBolJICJOByJcqiDLDgKicJA7pAYxBZ5U1QpAxzpHdmskU5CKDCCRTbPTCFgSXHvtDnVkd1MnsCYHhyZwVSBSA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/oZdsdIvQhQNqMekPaWHegOwXVvfZXFWB/rtmp/stream/xO3HlgenvRv6DSB_5p6CgCpG5F-erx7WjrqOlhxQnwx12lVKy89jMH4NMpV4v-Rmc-LoSoPtOccVqw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - Sky Sport Mix (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IFCBolJICJOByJcqiDLDgKicJA7pAYxBZ5U1QpAxzpHdmskU5CKDCCRTbPTCFgSXHvtDnVkd1MnsCYHhyZwVSBSA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb1.strmd.st/secure/MYwLsVjlElBvOtLIbmCGSVceLypsbRlp/rtmp/stream/hdYqlWwNtaBKeCC-hrpeRgdKfIwe-TCIGxCOmsHmk_bICqGqZOD5PBfqF9cDPj4tPV5akuVS3PaiHVxuqRg/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "queens-park-rangers-vs-cardiff-city-2501296",
-      "title": "Queens Park Rangers vs Cardiff City",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBIQOnAPwhuIPjtwgIG4yBRmFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBIQOnAPwhuIPjtwgIG4yBRmFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/hkesYjoUmpmcBLRptQpGCGdoMVeUDHad/rtmp/stream/y3CoUaTWqeEvEWVcVeQZpJkg34pjx6w1HRWhcqE-Jgl0XgKT5yEs7vqysuwYTNWoZPDiL_WwVCS-/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBIQOnAPwhuIPjtwgIG4yBRmFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/kXNsycgneSmPmKeXtgGGVyCaOHtMlnYV/rtmp/stream/6LJQLfiXWI5h_v7TfujWfDU1THrKS_xX3QJVSXma9PNlU4o-_nwsiY11O7bqG7ikG4D9ocqrbhxPb-na5w/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "west-bromwich-albion-vs-charlton-athletic-2501295",
-      "title": "West Bromwich Albion vs Charlton Athletic",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMCT8Q3HXR0g+IYzgggphkClwh4BTRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMCT8Q3HXR0g+IYzgggphkClwh4BTRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/bkYAFRnItHimxWsiQiRnYxOCpqqxBfnS/rtmp/stream/zaAln-BqmAJ_8ydklwvvlbSiump2-Y0DTg4rl-U1SjSNb2s4grdBMDUwjn5fn-h7t-FoStUvz88u/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMCT8Q3HXR0g+IYzgggphkClwh4BTRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/zTppmYPyshPFyRkoCTjRQvterbGBopMX/rtmp/stream/_xIOTJyx3kEjYgmYQwwTQspIm3bhRYyHiHL9mrkN9H-LTnEHzE8L5Lje7Yl25J5Qw0UMKBBCpZ3hy7ivwg/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "millwall-vs-wrexham-2501294",
-      "title": "Millwall vs Wrexham",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLNhBb4YUXxDcQ+rTgggpRkClwh4BYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLNhBb4YUXxDcQ+rTgggpRkClwh4BYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/mUBEZzOThSlzDaszdorZgbdxthYcLELU/rtmp/stream/BkZUGGKI73u3t4veBJ2bWmWY31z3GLM2UcmEefcnJ1DkxkNH5eSvEN98qYbFT5o3IUmkL_D4vsRV/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLNhBb4YUXxDcQ+rTgggpRkClwh4BYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/ykZQTMNRsvoXejTQgZPSetKHbOzzIolD/rtmp/stream/IxKwgPhL0BqWSXWTviR7hzIJ1yZ9FQAC68ahIcgAXXs0bd6D9hhZ2o-ohQJAa2AEI8C42PTo5c_vw6ATSQ/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "celtic-vs-aberdeen-2494434",
-      "title": "Celtic vs Aberdeen",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKJRyePMCBDcQffbgMgUIRDgt8CwJBVusRYlGBVa278vSyytTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Celtic Player (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKJRyePMCBDcQffbgMgUIRDgt8CwJBVusRYlGBVa278vSyytTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/dHILRVgPBaAWSttcFZCwfeLZPQztzAqw/rtmp/stream/IJDbwphvScpr_OLYBe9LkfCNgpEJUgAMl5nxby7m2W135Sw5CPJE3oR4P7UmMgwDrafIJegy5KRR/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Celtic Player (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKJRyePMCBDcQffbgMgUIRDgt8CwJBVusRYlGBVa278vSyytTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/PPYVbENwLLAVUxnGyedcIAxrhtrIcYqe/rtmp/stream/w4wJXwpbb5ABjnFrtOHsB4h3ySMD4MhRQoX0iYq-lSSibDAIQDdPleQFuPoRcxOsxM3ta9uV1k3HswNBPA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/gSPupABhAZOVlwgdPfQzJWWjmvTqBEzw/delta/stream/live_premiership_falkirk-rangers-live-streaming-612928944/1/playlist.m3u8"
         }
       ]
     }

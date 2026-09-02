@@ -1,22 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 133,
-  "total_matches": 133,
+  "total_items": 132,
+  "total_matches": 132,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-03 | 03:16:59",
-  "updated_at_bd": "2026-09-03T03:16:59+06:00",
+  "updated_time_bd": "2026-09-03 | 05:22:41",
+  "updated_at_bd": "2026-09-03T05:22:41+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "flamengo-vs-mirassol-2398226",
-      "title": "Flamengo vs Mirassol",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 04:30 AM (BD Time)",
-      "start_epoch_ms": 1788388200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbtAHwwJEHxDc9IKSBTGQFnBCOmmSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp"
-    },
     {
       "id": "v-lez-sarsfield-vs-boca-juniors-2540103",
       "title": "Vélez Sarsfield vs Boca Juniors",
