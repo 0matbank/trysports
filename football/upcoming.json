@@ -1,166 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 148,
-  "total_matches": 148,
+  "total_items": 133,
+  "total_matches": 133,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-03 | 00:34:47",
-  "updated_at_bd": "2026-09-03T00:34:47+06:00",
+  "updated_time_bd": "2026-09-03 | 03:16:59",
+  "updated_at_bd": "2026-09-03T03:16:59+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "barnsley-vs-blackpool-2500736",
-      "title": "Barnsley vs Blackpool",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUd3JJmICCG4g+IYzj1SQJQyBj6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "burton-albion-vs-afc-wimbledon-2500737",
-      "title": "Burton Albion vs AFC Wimbledon",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUVmZgk-NiG4g+IYzgggpIEoZAx9BYEgp9hs+ijAqUXD+XqbRXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "celtic-vs-aberdeen-2494434",
-      "title": "Celtic vs Aberdeen",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKJRyePMCBDcQffbgMgUIRDgt8CwJBVusRYlGBVa278vSyytTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "dundee-vs-st-johnstone-2494437",
-      "title": "Dundee vs St Johnstone",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCE0hKwJGBQcQvEFi2nEKEIkTGULPTAEi5jFGFUGO78o2pyD+KzAYO7iYhBAA.webp"
-    },
-    {
-      "id": "kilmarnock-vs-st-mirren-2494436",
-      "title": "Kilmarnock vs St Mirren",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCERSQISjxDcQfHbgMgUm0xfNMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "luton-town-vs-stockport-county-2500742",
-      "title": "Luton Town vs Stockport County",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUUykgSIGXxDcQ+kLhARd2oyBi6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "millwall-vs-wrexham-2501294",
-      "title": "Millwall vs Wrexham",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLNhBb4YUXxDcQ+rTgggpRkClwh4BYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp"
-    },
-    {
-      "id": "motherwell-vs-dundee-united-2494438",
-      "title": "Motherwell vs Dundee United",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8relmBJ+YJGBAhuIPgdyGQKEIkQwQMAlop9hs+ijAqUXD+Q2yvTLRgHmKiEEA.webp"
-    },
-    {
-      "id": "osnabr-ck-vs-bayern-munich-2483317",
-      "title": "Osnabrück vs Bayern Munich",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHg0wSPtzAheILCFMnEMQyBQhpIGCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp"
-    },
-    {
-      "id": "ppv-vf-l-osnabruck-vs-bayern-munich",
-      "title": "VfL Osnabruck vs. Bayern Munich",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IFCBolJICJOByJcqiDLDgKicJA7pAYxBZ5U1QpAxzpHdmskU5CKDCCRTbPTCFgSXHvtDnVkd1MnsCYHhyZwVSBSA.webp"
-    },
-    {
-      "id": "qpr-vs-cardiff-football-1563129",
-      "title": "QPR vs Cardiff",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCZ1yDRc3E94IqtwJdWYMLnxmgA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIePXIMAxs3E94IqtwJdWYMLnxmgA.webp"
-    },
-    {
-      "id": "queens-park-rangers-vs-cardiff-city-2501296",
-      "title": "Queens Park Rangers vs Cardiff City",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBIQOnAPwhuIPjtwgIG4yBRmFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "west-bromwich-albion-vs-charlton-athletic-2501295",
-      "title": "West Bromwich Albion vs Charlton Athletic",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMCT8Q3HXR0g+IYzgggphkClwh4BTRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "wigan-athletic-vs-milton-keynes-dons-2500735",
-      "title": "Wigan Athletic vs Milton Keynes Dons",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788374700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXjiz9KIXdxB9duEBBBSQJAyBjWCwJBT7DZ9FGBUou78vS2jPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "burnley-vs-middlesbrough-2501293",
-      "title": "Burnley vs Middlesbrough",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1788375600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGCTAADJWwgD3EHwO4QEEFOMgUZxsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "falkirk-vs-rangers-2494439",
-      "title": "Falkirk vs Rangers",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1788375600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRm0mA9dxB8QRnPpQhEiGCAlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "reading-vs-mansfield-town-2500744",
-      "title": "Reading vs Mansfield Town",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1788375600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiFokQAxDg18QRnBBBSQ2wzB0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "flamengo-vs-mirassol-2398226",
       "title": "Flamengo vs Mirassol",
@@ -756,6 +603,15 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMsNIgAxiCwhhIFCBWIYIRLPjAIKkDGBU96g5MWSairNg1SzIlOQigwgkU2z0whYElzTHIVdWZ0kyRwJgbTBXHVIdIA.webp"
     },
     {
+      "id": "ppv-fenerbahce-vs-besiktas",
+      "title": "Fenerbahce vs. Besiktas",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "05 Sep 2026, 11:00 PM (BD Time)",
+      "start_epoch_ms": 1788627600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcEQBjYBBDypIeCJBkqIOTHmzgNLNkkgtxyaeFHsIfXpDrlvchFBhBIpgZTlCwJLimehF1YnCTJPAlMwFx0yCCA.webp"
+    },
+    {
       "id": "ppv-ajax-amsterdam-vs-psv-eindhoven",
       "title": "Ajax Amsterdam vs. PSV Eindhoven",
       "category": "football",
@@ -763,6 +619,15 @@
       "start_time_bd": "06 Sep 2026, 12:00 AM (BD Time)",
       "start_epoch_ms": 1788631200000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILOODwpwGjQghh4kAGMpIFCERLNKEdlkgSy6VRAwZiCwouJNWPfzCD9BA48LAkuFXqHPWCH0yPTdpMGdgILIIIA.webp"
+    },
+    {
+      "id": "ppv-al-ittihad-vs-al-nassr",
+      "title": "Al Ittihad vs. Al Nassr",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "06 Sep 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1788631200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCDKIJMEHMQBjYImGSRIGlRAoQWYFqwgFIRfqMhVxkhvNbrchSnIRQYQSKbZ6YQsCS5HIXJuThdhUnoCZXI3YBcyCCA.webp"
     },
     {
       "id": "ppv-dynamo-dresden-vs-vf-l-bochum",
