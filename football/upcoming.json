@@ -1,76 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 155,
-  "total_matches": 155,
+  "total_items": 148,
+  "total_matches": 148,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-02 | 21:01:34",
-  "updated_at_bd": "2026-09-02T21:01:34+06:00",
+  "updated_time_bd": "2026-09-03 | 00:34:47",
+  "updated_at_bd": "2026-09-03T00:34:47+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "udinese-vs-venezia-2577930",
-      "title": "Udinese vs Venezia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "02 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1788364800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRGWEgpIEGSwgq0kAqUQQEYOuEiN2ECjnB4xkAGMQMA4ulaVc8ynKaBQkU2z0whYElxmnITBuTk0dMicCY3JgrVItIA.webp"
-    },
-    {
-      "id": "agf-aarhus-vs-fc-midtjylland-2481826",
-      "title": "AGF Aarhus vs FC Midtjylland",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1788372000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqxherLXxDcQ+zbgMgS5jSBgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "doncaster-vs-liverpool-u21-football-1588859",
-      "title": "Doncaster vs Liverpool U21",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1788372000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNhAR65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIgUIfvXINFzcT3giq3Al1ZgwufFaA.webp"
-    },
-    {
-      "id": "grasshoppers-vs-st--gallen-2493359",
-      "title": "Grasshoppers vs St. Gallen",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1788373800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbghARcIGaG4g+hnQaNSQMXVoLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "luzern-vs-vaduz-2493357",
-      "title": "Luzern vs Vaduz",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1788373800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChBx6KSCBIhuIPiFM4cMXIZCI+BYEgp3WIsbpUouYMvCJZZnky0YN5iohBAA.webp"
-    },
-    {
-      "id": "sint-truiden-vs-union-saint-gilloise-2496725",
-      "title": "Sint-Truiden vs Union Saint-Gilloise",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1788373800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxAyUDECRAQNIPsb24QKEIkSGSBYEgp9hs+ijAqdbD+XpZZOky0YB5iohBAA.webp"
-    },
-    {
-      "id": "thun-vs-lausanne-sport-2493358",
-      "title": "Thun vs Lausanne-Sport",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1788373800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMClheIZiG76QfI7kPGphkiBQFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
-    },
     {
       "id": "barnsley-vs-blackpool-2500736",
       "title": "Barnsley vs Blackpool",
@@ -333,13 +270,13 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFG4gYDbCERa+IYxH0gSII4mMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
-      "id": "diriyah-vs-qadisiya-4788115",
-      "title": "Diriyah vs Qadisiya",
+      "id": "al-diriyah-vs-al-qadisiyah-fc-football-1603010",
+      "title": "Al Diriyah vs Al-Qadisiyah FC",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "04 Sep 2026, 12:00 AM (BD Time)",
       "start_epoch_ms": 1788458400000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELgYgzMYyOmt4enqWy12YMKR1ugA/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMZQgIIAiOmt4enqWy12YMKR1ugA.webp"
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfiADGIRCHrkGq5uJ7wRVbgS6swYXPmtA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCETx65BgGNm4nvBFVuBLqzBhc+S0A.webp"
     },
     {
       "id": "fc-copenhagen-vs-fc-nordsjaelland-football-1549009",

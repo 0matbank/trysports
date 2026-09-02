@@ -1,27 +1,20 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 3
-# UPDATED Time and date BD: 2026-09-02 | 21:01:34
+# TOTAL-ITEMS: 2
+# UPDATED Time and date BD: 2026-09-03 | 00:34:47
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
-#EXTINF:-1 tvg-id="Paramount+ (HD)" tvg-name="Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcRGziRIGLPEgUwRCnmqSakAGMQ8YFRDDlILCDIrgEEFdPDdJ8Uv5hBIptnphCwJLi1KhF1ZJIzIlAmVyF0tSSyA.webp" group-title="Football", Paramount+ (HD)
+#EXTINF:-1 tvg-id="Paramount+ (HD)" tvg-name="Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRGWEgpIEGSwgq0kAqUQQEYOuEiN2ECjnB4xkAGMQMA4ulaVc8ynKaBQkU2z0whYElxmnITBuTk0dMicCY3JgrVItIA.webp" group-title="Football", Paramount+ (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb9.strmd.st/secure/lChiuwJsJdrclTJKFWAgrCTjyDABuqNp/rtmp/stream/YIN4xyg9xdoGjXWDk-E7J5400OvXI1_aI8O8Afui0acyPquJxQkqDDVjY-l_qb-Ldb8EMjssTJbm/1/playlist.m3u8
+https://lb2.strmd.st/secure/QrVRASKcjywdKDlhuQbCUTYyiPwPJjsx/admin/stream/ppv-udinese-vs-venezia/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Paramount+ (SD)" tvg-name="Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcRGziRIGLPEgUwRCnmqSakAGMQ8YFRDDlILCDIrgEEFdPDdJ8Uv5hBIptnphCwJLi1KhF1ZJIzIlAmVyF0tSSyA.webp" group-title="Football", Paramount+ (SD)
+#EXTINF:-1 tvg-id="Paramount+ (SD)" tvg-name="Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRGWEgpIEGSwgq0kAqUQQEYOuEiN2ECjnB4xkAGMQMA4ulaVc8ynKaBQkU2z0whYElxmnITBuTk0dMicCY3JgrVItIA.webp" group-title="Football", Paramount+ (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb9.strmd.st/secure/LJrvBKVudpeqZzcqntZOtTTzCBenhNiB/rtmp/stream/wYR8BBxfG1mzq0jTo_dJQE_dbt2ID7CmEQd-CTRBgjWcokOpvw0TfJQGaes_AxrVhhnMwhNDlLGwFYjllg/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sassuolo vs Frosinone (HD)" tvg-name="Sassuolo vs Frosinone (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcRGziRIGLPEgUwRCnmqSakAGMQ8YFRDDlILCDIrgEEFdPDdJ8Uv5hBIptnphCwJLi1KhF1ZJIzIlAmVyF0tSSyA.webp" group-title="Football", Sassuolo vs Frosinone (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb9.strmd.st/secure/tspPtmrpyisunYRpbPOLujoVeLBrodcg/delta/stream/live_coppa-italia_sassuolo-frosinone-live-streaming-612537984/1/playlist.m3u8
+https://lb2.strmd.st/secure/ccZoyXyWSsVnBVkktuFUBhftiXCGLBCo/admin/stream/ppv-udinese-vs-venezia/2/playlist.m3u8
 
