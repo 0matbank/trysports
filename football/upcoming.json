@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 154,
-  "total_matches": 154,
+  "total_items": 156,
+  "total_matches": 156,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-02 | 11:55:39",
-  "updated_at_bd": "2026-09-02T11:55:39+06:00",
+  "updated_time_bd": "2026-09-02 | 16:56:55",
+  "updated_at_bd": "2026-09-02T16:56:55+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -15,7 +15,7 @@
       "status": "UPCOMING",
       "start_time_bd": "02 Sep 2026, 07:00 PM (BD Time)",
       "start_epoch_ms": 1788354000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnApyUACawQ3EBD0hDhmCA06QiEAQpM+KLmDLwi80faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24g+YEDxCqS2kABMQMEIlV8jenDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcRGziRIGLPEgUwRCnmqSakAGMQ8YFRDDlILCDIrgEEFdPDdJ8Uv5hBIptnphCwJLi1KhF1ZJIzIlAmVyF0tSSyA.webp"
     },
     {
       "id": "udinese-vs-venezia-2577930",
@@ -24,7 +24,7 @@
       "status": "UPCOMING",
       "start_time_bd": "02 Sep 2026, 10:00 PM (BD Time)",
       "start_epoch_ms": 1788364800000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPmDXxoObiAj6QRozBArjeiYRjAmfFFzBlt9eaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmDTksghuIPiH06YuECpAoTICAQpM+KLmDLwi80faa0wjsaIhA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRGWEgpIEGSwgq0kAqUQQEYOuEiN2ECjnB4xkAGMQMA4ulaVc8ynKaBQkU2z0whYElxmnITBuTk0dMicCY3JgrVItIA.webp"
     },
     {
       "id": "agf-aarhus-vs-fc-midtjylland-2481826",
@@ -36,13 +36,13 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqxherLXxDcQ+zbgMgS5jSBgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "doncaster-rovers-vs-liverpool-u21-2531825",
-      "title": "Doncaster Rovers vs Liverpool U21",
+      "id": "doncaster-vs-liverpool-u21-football-1588859",
+      "title": "Doncaster vs Liverpool U21",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "03 Sep 2026, 12:00 AM (BD Time)",
       "start_epoch_ms": 1788372000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCE0pNIWVhAQQvEPs36YIRIf3HJ+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp"
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNhAR65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIgUIfvXINFzcT3giq3Al1ZgwufFaA.webp"
     },
     {
       "id": "grasshoppers-vs-st--gallen-2493359",
@@ -160,6 +160,15 @@
       "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
       "start_epoch_ms": 1788374700000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHg0wSPtzAheILCFMnEMQyBQhpIGCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp"
+    },
+    {
+      "id": "ppv-vf-l-osnabruck-vs-bayern-munich",
+      "title": "VfL Osnabruck vs. Bayern Munich",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788374700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IFCBolJICJOByJcqiDLDgKicJA7pAYxBZ5U1QpAxzpHdmskU5CKDCCRTbPTCFgSXHvtDnVkd1MnsCYHhyZwVSBSA.webp"
     },
     {
       "id": "qpr-vs-cardiff-football-1563129",
@@ -475,6 +484,15 @@
       "start_time_bd": "05 Sep 2026, 12:00 AM (BD Time)",
       "start_epoch_ms": 1788544800000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IFMAggAxiCziZimApjBE8UiJDKUc0nJA0sawyDLCQGqiAjBrs-OVsChIptnphCwJLmkShMG5OW2FNCQI1ciDJTQggA.webp"
+    },
+    {
+      "id": "ppv-vitesse-vs-top-oss",
+      "title": "Vitesse vs. TOP Oss",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "05 Sep 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1788544800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEMOwgqIcTBEh5WKSGDiQ0tYoUBjRRP00a45YjJkZ4xL3IRQYQSKbZ6YQsCS4dKIeW6c7STIfAmB4cgc1UjUgA.webp"
     },
     {
       "id": "ppv-vf-b-stuttgart-vs-fc-cologne",
