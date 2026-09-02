@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 153,
-  "total_matches": 153,
+  "total_items": 154,
+  "total_matches": 154,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-02 | 07:16:23",
-  "updated_at_bd": "2026-09-02T07:16:23+06:00",
+  "updated_time_bd": "2026-09-02 | 11:55:39",
+  "updated_at_bd": "2026-09-02T11:55:39+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -169,6 +169,15 @@
       "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
       "start_epoch_ms": 1788374700000,
       "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCZ1yDRc3E94IqtwJdWYMLnxmgA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIePXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    {
+      "id": "queens-park-rangers-vs-cardiff-city-2501296",
+      "title": "Queens Park Rangers vs Cardiff City",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "03 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788374700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBIQOnAPwhuIPjtwgIG4yBRmFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "west-bromwich-albion-vs-charlton-athletic-2501295",
@@ -427,8 +436,8 @@
       "title": "América de Cali vs Alianza de Valledupar",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 05:00 AM (BD Time)",
-      "start_epoch_ms": 1788476400000,
+      "start_time_bd": "04 Sep 2026, 03:00 AM (BD Time)",
+      "start_epoch_ms": 1788469200000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFSDLgZObiD4hDEfYZOGSIKQWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
     },
     {

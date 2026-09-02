@@ -1,78 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 3,
-  "total_matches": 3,
-  "total_streams": 3,
-  "updated_time_bd": "2026-09-02 | 07:16:23",
-  "updated_at_bd": "2026-09-02T07:16:23+06:00",
+  "total_items": 0,
+  "total_matches": 0,
+  "total_streams": 0,
+  "updated_time_bd": "2026-09-02 | 11:55:39",
+  "updated_at_bd": "2026-09-02T11:55:39+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "torino-vs-monza-2577931",
-      "title": "Torino vs Monza",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "02 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1788289200000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDg4WaChDcQEXSAMGYIACaHjjCkz4ouYMvCLzRtprTD2xoiEA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgQpHtn4huIACYgYIRLr6GdF+AQpM+KLmDLwi80faa0wjsaIhA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Torino vs Monza (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDg4WaChDcQEXSAMGYIACaHjjCkz4ouYMvCLzRtprTD2xoiEA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgQpHtn4huIACYgYIRLr6GdF+AQpM+KLmDLwi80faa0wjsaIhA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/KMxdoGfZWuRIDdnLCPlrqVgDKfuerNNA/delta/stream/live_coppa-italia_torino-monza-live-streaming-612537552/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "stoke-city-vs-norwich-city-2501289",
-      "title": "Stoke City vs Norwich City",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "02 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1788289200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxCikYXhBDcQfECZz6pRkCgNWCwHTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Stoke City vs Norwich City (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxCikYXhBDcQfECZz6pRkCgNWCwHTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/gurxAcwIRAOJPCDUirSdZYVADskIhGxk/delta/stream/live_championship_stoke-norwich-live-streaming-612547056/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "birmingham-city-vs-southampton-2501286",
-      "title": "Birmingham City vs Southampton",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "02 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1788289200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSHr4Q3EBpy6+IYzgh6QRlDr0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Birmingham City vs Southampton (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSHr4Q3EBpy6+IYzgh6QRlDr0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/KJmHaKebFHpUwKgsmbbatflDTxCRJFtN/delta/stream/live_championship_birmingham-southampton-live-streaming-612546624/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
