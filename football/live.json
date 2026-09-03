@@ -1,58 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 5,
-  "total_matches": 1,
-  "total_streams": 5,
-  "updated_time_bd": "2026-09-03 | 11:55:10",
-  "updated_at_bd": "2026-09-03T11:55:10+06:00",
+  "total_items": 0,
+  "total_matches": 0,
+  "total_streams": 0,
+  "updated_time_bd": "2026-09-03 | 16:56:13",
+  "updated_at_bd": "2026-09-03T16:56:13+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "am-rica-vs-monterrey-2594957",
-      "title": "América vs Monterrey",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "03 Sep 2026, 09:30 AM (BD Time)",
-      "start_epoch_ms": 1788406200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRMJBYQMyVSkiQiAMZKpM7NgUklwGtPkQQMYyBRqdR+KRBUU5CKDCCRTTfbCFgSXMvtDnVkdhUnoCYGswZ2BHMgggA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Apple TV (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRMJBYQMyVSkiQiAMZKpM7NgUklwGtPkQQMYyBRqdR+KRBUU5CKDCCRTTfbCFgSXMvtDnVkdhUnoCYGswZ2BHMgggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/FfHokSELTQyfryuhxmPuRUgUoBbUDzrB/rtmp/stream/r0nKU62rbUNwBoBm4HSOEduRqJqPDFQQWhdyUUWc_wiRFcvSKQ4lAqi6w3OeJaUjdL9_2vzJxGi_/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Apple TV (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRMJBYQMyVSkiQiAMZKpM7NgUklwGtPkQQMYyBRqdR+KRBUU5CKDCCRTTfbCFgSXMvtDnVkdhUnoCYGswZ2BHMgggA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb14.strmd.st/secure/NSXHVgEtLHypelNeVwFQYgcAgieINRCu/rtmp/stream/4KuteXih4HH5A7m-6Cp9fepApa0z_lYo8ZjAZykHUIq3QxT9mgGm0tq4dQdu26qOgvoGpt_syMkkCV_-CA/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - Apple TV (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRMJBYQMyVSkiQiAMZKpM7NgUklwGtPkQQMYyBRqdR+KRBUU5CKDCCRTTfbCFgSXMvtDnVkdhUnoCYGswZ2BHMgggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/sKQXYAMLItodIvBlRIMSoqsPobSQicrT/rtmp/stream/TjB5zCAHo1DuGY48KY5ZZi1LBWorKetvKhWgMcdu-vmeuaXWOXc95rtA-sz5W9pJEXNJldb6scc/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - Apple TV (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRMJBYQMyVSkiQiAMZKpM7NgUklwGtPkQQMYyBRqdR+KRBUU5CKDCCRTTfbCFgSXMvtDnVkdhUnoCYGswZ2BHMgggA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb14.strmd.st/secure/PkVIAQzKLAACcDQGdFuZXeVMdSfFNero/rtmp/stream/ktQmzo3vSOGlBgo8LdYE4K53NDMDoZsa04vaNBWLSJLj5BGPtv4JHutJKc6J6ERS61WQ8R5zMTbxSoI7/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "América vs Monterrey (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRMJBYQMyVSkiQiAMZKpM7NgUklwGtPkQQMYyBRqdR+KRBUU5CKDCCRTTfbCFgSXMvtDnVkdhUnoCYGswZ2BHMgggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/FCqtdswLMkqlImTpAMIlMuKRCaElacft/delta/stream/live_leagues-cup_america-monterrey-live-streaming-621769824/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
