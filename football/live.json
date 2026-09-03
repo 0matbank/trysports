@@ -2,20 +2,20 @@
   "schema_version": 2,
   "category_name": "Football Live",
   "total_items": 2,
-  "total_matches": 2,
+  "total_matches": 1,
   "total_streams": 2,
-  "updated_time_bd": "2026-09-03 | 05:22:41",
-  "updated_at_bd": "2026-09-03T05:22:41+06:00",
+  "updated_time_bd": "2026-09-03 | 07:15:22",
+  "updated_at_bd": "2026-09-03T07:15:22+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "burnley-vs-middlesbrough-2501293",
-      "title": "Burnley vs Middlesbrough",
+      "id": "toluca-vs-le-n-2594956",
+      "title": "Toluca vs León",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "03 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1788375600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGCTAADJWwgD3EHwO4QEEFOMgUZxsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+      "start_time_bd": "03 Sep 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1788397200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEAGMQiLMAggSIGsJArxMScEQasIFHJEhdwuQqXYLi2bqknE+chFBhBIphf1hCwJLgn6hF1YnEzJ9Ai1yFwMyCCA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,32 +23,16 @@
       },
       "streams": [
         {
-          "channel_name": "Burnley vs Middlesbrough (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGCTAADJWwgD3EHwO4QEEFOMgUZxsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEAGMQiLMAggSIGsJArxMScEQasIFHJEhdwuQqXYLi2bqknE+chFBhBIphf1hCwJLgn6hF1YnEzJ9Ai1yFwMyCCA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/yxuhTAtJEEjUdsfoSBEtXybWrdQAeoJl/delta/stream/live_championship_burnley-middlesbrough-live-streaming-612947088/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "falkirk-vs-rangers-2494439",
-      "title": "Falkirk vs Rangers",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "03 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1788375600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRm0mA9dxB8QRnPpQhEiGCAlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
+          "direct_stream_url": "https://lb1.strmd.st/secure/VvqyIhugayCwSZxuyfNvkUjxIAKCiiOM/rtmp/stream/_gTp4uEuXYLGmMPMAGyxeALX6Q-AGCVPY9sMV31qyeMNtMV-cydhUKzboy5Z5uoVSXWPjc8QZK-x/1/playlist.m3u8"
+        },
         {
-          "channel_name": "Falkirk vs Rangers (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRm0mA9dxB8QRnPpQhEiGCAlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/gSPupABhAZOVlwgdPfQzJWWjmvTqBEzw/delta/stream/live_premiership_falkirk-rangers-live-streaming-612928944/1/playlist.m3u8"
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEAGMQiLMAggSIGsJArxMScEQasIFHJEhdwuQqXYLi2bqknE+chFBhBIphf1hCwJLgn6hF1YnEzJ9Ai1yFwMyCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb1.strmd.st/secure/jGoEyXvnoZQvzMqEcDqUfkJFGqzieHhE/rtmp/stream/H3ESpUjd9WcSiY6ffGC6-n18MaT3vcNWxA_ki_PSjC-P1I61Jmy0eeop8USsmdweBJo6OA4Wu2TrBF2KzA/1/playlist.m3u8"
         }
       ]
     }
