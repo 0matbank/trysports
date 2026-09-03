@@ -1,49 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 151,
-  "total_matches": 151,
+  "total_items": 147,
+  "total_matches": 147,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-03 | 07:15:22",
-  "updated_at_bd": "2026-09-03T07:15:22+06:00",
+  "updated_time_bd": "2026-09-03 | 11:55:10",
+  "updated_at_bd": "2026-09-03T11:55:10+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "independiente-santa-fe-vs-millonarios-2481242",
-      "title": "Independiente Santa Fe vs Millonarios",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 07:25 AM (BD Time)",
-      "start_epoch_ms": 1788398700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRDH5ywUsCRDcQfEPoghEifYjNSCwJBT7DZ9FHrYoue8vSyzPTLRg7vSiEEA.webp"
-    },
-    {
-      "id": "vancouver-whitecaps-vs-cf-montr-al-2532328",
-      "title": "Vancouver Whitecaps vs CF Montréal",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 08:00 AM (BD Time)",
-      "start_epoch_ms": 1788400800000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpNhg+YcHBQhuICCD4hEJIyAAmIEzgmEYwJnxRcwZeEXminTWmBdjREEA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDswAEzFgQibiHUg+IFDpAQzx3CGWEYwJnxRcwZeEXminTWmBdjREEA.webp"
-    },
-    {
-      "id": "am-rica-vs-monterrey-2594957",
-      "title": "América vs Monterrey",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 09:30 AM (BD Time)",
-      "start_epoch_ms": 1788406200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRMJBYQMyVSkiQiAMZKpM7NgUklwGtPkQQMYyBRqdR+KRBUU5CKDCCRTTfbCFgSXMvtDnVkdhUnoCYGswZ2BHMgggA.webp"
-    },
-    {
-      "id": "club-america-vs-monterrey-football-1635864",
-      "title": "Club America vs Monterrey",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Sep 2026, 09:30 AM (BD Time)",
-      "start_epoch_ms": 1788406200000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCoDG9cg3VZxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCqZ1yDAMbNxPeCKrcCXVmDC58FoA.webp"
-    },
     {
       "id": "al-fayha-vs-al-kholood-2573337",
       "title": "Al-Fayha vs Al-Kholood",
