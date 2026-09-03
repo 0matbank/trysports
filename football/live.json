@@ -1,11 +1,68 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-03 | 20:55:56",
-  "updated_at_bd": "2026-09-03T20:55:56+06:00",
+  "total_items": 4,
+  "total_matches": 2,
+  "total_streams": 4,
+  "updated_time_bd": "2026-09-04 | 00:25:41",
+  "updated_at_bd": "2026-09-04T00:25:41+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "mj-llby-vs-djurg-rden-2398828",
+      "title": "Mjällby vs Djurgården",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "03 Sep 2026, 11:00 PM (BD Time)",
+      "start_epoch_ms": 1788454800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFG4gYDbCERa+IYxH0gSII4mMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Swedish - TV4 Fotboll (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFG4gYDbCERa+IYxH0gSII4mMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/IlODwgGiYyfZEMPhbCtcIXJofTIEYULm/rtmp/stream/Savg-5ABEElxAZeOvWUFpWrcprOGl3V7noTRDIE2ZcoBmHIcEz4GprKlelDhup5j7VBeH38WgqM/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Swedish - TV4 Fotboll (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFG4gYDbCERa+IYxH0gSII4mMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/lunZhEeftAgRGnpCkWUGAPVZLlYPJmtd/rtmp/stream/TdV84YaGxaDmML4Nejd4edw0MYjgT6WejaWuXnuRL5a0ahwHy4LJKiN_Rr_q2SH-9h0mQuX51B35yot5/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "palermo-vs-mantova-2579100",
+      "title": "Palermo vs Mantova",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "03 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1788451200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiBjZgEECnHBEMECUkgAxuJWkQEaapAajKEUcPCdNWSYkTR5PQKEim0k2ELAkudSaFhuTj0LMhMCRXIAmVIZIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiBjZgEECnHBEMECUkgAxuJWkQEaapAajKEUcPCdNWSYkTR5PQKEim0k2ELAkudSaFhuTj0LMhMCRXIAmVIZIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/wqsCJWriDnRfJYjlRTDXOhdSeCLXstMK/rtmp/stream/bfqfM2M8mExPjgWBR_riT3Vez4a7S6mh6UVv825LAS_0eG0YSXwBIU5wJ9Qb2G-S3cdtlrQ2UkzN/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiBjZgEECnHBEMECUkgAxuJWkQEaapAajKEUcPCdNWSYkTR5PQKEim0k2ELAkudSaFhuTj0LMhMCRXIAmVIZIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/zeOZKXppZjgjhNWuqODYqlkQcslsDCfY/rtmp/stream/12cwQaqBjCuj3ZBNFTyhg9-zkCf2-iZyzXWIOfsnIBczcHchvu7L4TQCe4nIZ5ylezceVr6CBSsiacvWMA/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
