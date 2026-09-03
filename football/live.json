@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 10,
-  "total_matches": 3,
-  "total_streams": 10,
-  "updated_time_bd": "2026-09-04 | 03:15:14",
-  "updated_at_bd": "2026-09-04T03:15:14+06:00",
+  "total_items": 2,
+  "total_matches": 1,
+  "total_streams": 2,
+  "updated_time_bd": "2026-09-04 | 05:20:24",
+  "updated_at_bd": "2026-09-04T05:20:24+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "cagliari-vs-hellas-verona-2578589",
-      "title": "Cagliari vs Hellas Verona",
+      "id": "gr-mio-vs-internacional-2570522",
+      "title": "Grêmio vs Internacional",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "04 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1788462000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEPBEhpJCdhARgiFNlJyqIFCADGCkMJBky4kMHGKNGmHLIGavcooFCRTVSrCFgSXNpVCwbk5FYVJ6AiVyQLMwiCA.webp",
+      "start_time_bd": "04 Sep 2026, 05:00 AM (BD Time)",
+      "start_epoch_ms": 1788476400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADGIFMCogIIGHPHZgEbCGGbhIGhpryjIRIumGQlkKRlKVJWfzCCRTNY8LAkuSbKHPWDW0yWQJgeHJndVJ1IA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,96 +23,16 @@
       },
       "streams": [
         {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEPBEhpJCdhARgiFNlJyqIFCADGCkMJBky4kMHGKNGmHLIGavcooFCRTVSrCFgSXNpVCwbk5FYVJ6AiVyQLMwiCA.webp",
+          "channel_name": "Premier Sports 2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADGIFMCogIIGHPHZgEbCGGbhIGhpryjIRIumGQlkKRlKVJWfzCCRTNY8LAkuSbKHPWDW0yWQJgeHJndVJ1IA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/TRwWIwjgWZJxKXADcKXqPvGdPOxaqylI/rtmp/stream/B2mC-eemZgIXTLpstf9EF7ZO-McAv9-GlAK1Olqs1tIaxIuQjj4veQQa-bNX6GtjDYwZ_VfET8sG/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/egyALTjFptVorIOevNIBCDhFFgjDUUoz/rtmp/stream/Y-KGKudYJXBJk1YZvCfNPQTpg5cbHa4of_BAgL7YGVBrpRk53JsHGGWyLqo_0AmbvM4iEogXPm_O/1/playlist.m3u8"
         },
         {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEPBEhpJCdhARgiFNlJyqIFCADGCkMJBky4kMHGKNGmHLIGavcooFCRTVSrCFgSXNpVCwbk5FYVJ6AiVyQLMwiCA.webp",
+          "channel_name": "Premier Sports 2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADGIFMCogIIGHPHZgEbCGGbhIGhpryjIRIumGQlkKRlKVJWfzCCRTNY8LAkuSbKHPWDW0yWQJgeHJndVJ1IA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb13.strmd.st/secure/WcMvhmgQMYUICDhgwZOaUjSGbmxItqWE/rtmp/stream/gThJZ0HK0EIJ6ISYVp16Udvw8VzMyd90bfin-Rg2Cm36mqT3Zgg9R5HGrvNWg7mkk1IKsfgbHam8ImONLw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Cagliari vs Hellas Verona (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEPBEhpJCdhARgiFNlJyqIFCADGCkMJBky4kMHGKNGmHLIGavcooFCRTVSrCFgSXNpVCwbk5FYVJ6AiVyQLMwiCA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/CfdQYISOfzypUVuEjjuLMZVosMHuDUKT/delta/stream/live_coppa-italia_cagliari-verona-live-streaming-613205856/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "real-sociedad-vs-celta-vigo-2506226",
-      "title": "Real Sociedad vs Celta Vigo",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "04 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1788462000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJqCkgoJEDBDcQfECYggUe7VZMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJqCkgoJEDBDcQfECYggUe7VZMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/xPXbFUNrfuEYojfUFGDjDqMRylAbRcql/rtmp/stream/JUqKfz3aCBX7ZM8FwZDWs-ydOVwGooyqdSUChpUD6C3vsAOYY6SLd97WIJmgZ7mzcMQjADOCgxw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJqCkgoJEDBDcQfECYggUe7VZMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb13.strmd.st/secure/cgfQKxNUmPMlDhOuUxByFyvwqaqDjINL/rtmp/stream/BkVpMC5EVNfzFuNTyTKwyJMAg-VxYMx-L5IyuXAZvZ3EcjrF7B9hhJ_a4puOdScbTGxvUz_HGAJryBpR/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJqCkgoJEDBDcQfECYggUe7VZMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/RqBRbKYexUFDdFaZoukqClTyhrXWUUvA/rtmp/stream/iJULV-753iUIsdh2IGwF8sOlRuvgigVYDKiPe37c4pAu74XxzaAkzLYU6i7boJgShp-1kT5WJgsU/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJqCkgoJEDBDcQfECYggUe7VZMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb3.strmd.st/secure/eXQffrndsiHDqSAioekkHlmOoJGKgMxD/rtmp/stream/iIlXjpyZF9-PCOrA9DVKnHEDFLbPb7yCqyHOG0bshF4mQSFBl3gg6JxShOwv4EOdZiM7pfdkBX-0pFzDXA/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Real Sociedad vs Celta Vigo (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJqCkgoJEDBDcQfECYggUe7VZMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/jXkwsGnViVITYFkUWsSSMszlUCOIUeDw/delta/stream/live_laliga_real-sociedad-celta-live-streaming-613193760/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "toulouse-vs-lille-2489485",
-      "title": "Toulouse vs Lille",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "04 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788461100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBC0pYHbT4huIAyRAQQFzRYspcBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "French - Ligue 1+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBC0pYHbT4huIAyRAQQFzRYspcBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb13.strmd.st/secure/rIBHvYuUHirfZDcXuIFnCGKgMsKMlapl/rtmp/stream/DqbAkdGGUqW7l9EsSjBYNbbww-2xmC82pK9PW0ui2YJImpYzZ2dK8OApo7wXUwYP2BiTuR-h7iM/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "French - Ligue 1+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBC0pYHbT4huIAyRAQQFzRYspcBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb13.strmd.st/secure/jzdRjooRavacPDIyJdEqZcjXWzVuoYic/rtmp/stream/a_ILBHCygMN-ybrjHGE9xO56Zv1ihsAnEDdtuaVeGXwmBGG-GzVdzUjlBnEtwMj-ypQldb6xADy0lCFi/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/ktbrPDtVVdsdiGIHBfFCIsvVGWDripGA/rtmp/stream/Q_dz4dkZsOaMNMD0YeOvveW7IbRKtPGrlvdvUpBRPhJkftImoUHQxUDOLhZTEHgE2WakCYPa4o-tnE2GHA/1/playlist.m3u8"
         }
       ]
     }
