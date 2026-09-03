@@ -1,103 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 140,
-  "total_matches": 140,
+  "total_items": 130,
+  "total_matches": 130,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-04 | 00:25:41",
-  "updated_at_bd": "2026-09-04T00:25:41+06:00",
+  "updated_time_bd": "2026-09-04 | 03:15:14",
+  "updated_at_bd": "2026-09-04T03:15:14+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "anderlecht-vs-kortrijk-2496713",
-      "title": "Anderlecht vs Kortrijk",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1788460200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFLjC9eKkNxBSQJAyBgg+IRGZBGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "basel-vs-sion-2493360",
-      "title": "Basel vs Sion",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1788460200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCFFgQKELRzcQfI7hCHjUkDBCWUBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "lech-pozna--vs-jagiellonia-bia-ystok-2490227",
-      "title": "Lech Poznań vs Jagiellonia Białystok",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1788460200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUCFxhR8MFJDcQ+kiBN9TmoyBTWCwJBT7DZ9FNrYou28vSyzPTLRg7vSiEEA.webp"
-    },
-    {
-      "id": "lugano-vs-servette-2493361",
-      "title": "Lugano vs Servette",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1788460200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHFi6tRfENxC7dOfbql6QJCwWBIKfYbPoowKlFxfl6m0W6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "ppv-kaa-gent-vs-oh-leuven",
-      "title": "KAA Gent vs. OH Leuven",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1788460200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZGvGARgNLCDkTgiYSADGIGlRBlEINSBTZS2PRtPSVWmPJsxD-MIJFMj9wsCS5VhoY9YXjQwIlckcpYwggA.webp"
-    },
-    {
-      "id": "hibernian-vs-heart-of-midlothian-2494435",
-      "title": "Hibernian vs Heart of Midlothian",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788461100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFXOBSQtHNxB8QRvSBQ7cpowWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "toulouse-vs-lille-2489485",
-      "title": "Toulouse vs Lille",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788461100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBC0pYHbT4huIAyRAQQFzRYspcBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "cagliari-vs-hellas-verona-2578589",
-      "title": "Cagliari vs Hellas Verona",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1788462000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEPBEhpJCdhARgiFNlJyqIFCADGCkMJBky4kMHGKNGmHLIGavcooFCRTVSrCFgSXNpVCwbk5FYVJ6AiVyQLMwiCA.webp"
-    },
-    {
-      "id": "real-sociedad-vs-celta-vigo-2506226",
-      "title": "Real Sociedad vs Celta Vigo",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1788462000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJqCkgoJEDBDcQfECYggUe7VZMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "am-rica-de-cali-vs-alianza-de-valledupar-2481171",
-      "title": "América de Cali vs Alianza de Valledupar",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 03:00 AM (BD Time)",
-      "start_epoch_ms": 1788469200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFSDLgZObiD4hDEfYZOGSIKQWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
     {
       "id": "deportivo-pereira-vs-independiente-medell-n-2481153",
       "title": "Deportivo Pereira vs Independiente Medellín",
