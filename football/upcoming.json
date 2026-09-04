@@ -1,85 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 220,
-  "total_matches": 220,
+  "total_items": 212,
+  "total_matches": 212,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-04 | 20:11:53",
-  "updated_at_bd": "2026-09-04T20:11:53+06:00",
+  "updated_time_bd": "2026-09-04 | 23:36:51",
+  "updated_at_bd": "2026-09-04T23:36:51+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "abha-vs-al-ettifaq-2573340",
-      "title": "Abha vs Al-Ettifaq",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1788537600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiChZBIYEhAapIFJpB8QRjSAOaCein2Gz6KMCpRc35ettEemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "arminia-bielefeld-vs-st-pauli-2511769",
-      "title": "Arminia Bielefeld vs St Pauli",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1788539400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzB15FFxzcQfEMcQxDIKcYsgYBYEgp9hs+ijArdbd+XpZZuplowdzFRCCA.webp"
-    },
-    {
-      "id": "hannover-96-vs-karlsruhe-2511766",
-      "title": "Hannover 96 vs Karlsruhe",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1788539400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwhEcWmDBIQ3EHxCntxkFNMgSIFAWBIKfYbPoowKlF0-l6WWW8mXU8xUQggA.webp"
-    },
-    {
-      "id": "hoffenheim-women-vs-bayer-leverkusen-women-2539440",
-      "title": "Hoffenheim Women vs Bayer Leverkusen Women",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1788539400000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnlsqZJCBghuIACYhE27Tl3aSICAQpM+KLmDLwi80faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRhuFbiC2bNAExCIYIIzk1GSIFAQpM+KLmDLwi80faa0wjsaIhA.webp"
-    },
-    {
-      "id": "-stanbul-ba-ak-ehir-vs-galatasaray-2527751",
-      "title": "İstanbul Başakşehir vs Galatasaray",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 11:00 PM (BD Time)",
-      "start_epoch_ms": 1788541200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIngJiSDSG4g+IY1MMgYIU4iMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "ingolstadt-vs-alemannia-aachen-2525351",
-      "title": "Ingolstadt vs Alemannia Aachen",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 11:00 PM (BD Time)",
-      "start_epoch_ms": 1788541200000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBl5tWiDYhuIACYg+h1SZwGUOghSZ8UXMGXhF5ou01pgHY0RCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDMGlMABMwSENxB9cITSBIhEiE-r4EKTG1zBl4ReaJTAmtME7GiIQA.webp"
-    },
-    {
-      "id": "lyon-vs-auxerre-2489481",
-      "title": "Lyon vs Auxerre",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 11:00 PM (BD Time)",
-      "start_epoch_ms": 1788541200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGSmYJgUsNxD6+IEiAghzMcyBQgpIGAWBIKfYbPoowKzWy-l6WLKaTLRgXmKiEEA.webp"
-    },
-    {
-      "id": "viborg-vs-lyngby-2481828",
-      "title": "Viborg vs Lyngby",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Sep 2026, 11:00 PM (BD Time)",
-      "start_epoch_ms": 1788541200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJJVAg+IEMCkhu23blNGSIC7sbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
     {
       "id": "al-ahli-vs-al-riyadh-2573341",
       "title": "Al-Ahli vs Al-Riyadh",
@@ -306,13 +234,13 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiA19NYKSBghuIbdqPaNiCPsMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "puebla-vs-toluca-2487506",
+      "id": "puebla-vs-toluca-football-1550948",
       "title": "Puebla vs Toluca",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "05 Sep 2026, 07:00 AM (BD Time)",
       "start_epoch_ms": 1788570000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELxQhtEEPRIaQfbXtMwQB84hgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAk65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCpJ1yDAMbNxPeCKrcCXVmDC58FoA.webp"
     },
     {
       "id": "ppv-fc-juarez-vs-pachuca",
@@ -1485,13 +1413,13 @@
       "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEIRSBj1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfopDx65BgGNm4nvBFVuBLqzBhc+S0A.webp"
     },
     {
-      "id": "quer-taro-vs-monterrey-2487508",
-      "title": "Querétaro vs Monterrey",
+      "id": "ppv-quer-taro-vs-monterrey",
+      "title": "Querétaro vs. Monterrey",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "06 Sep 2026, 05:00 AM (BD Time)",
       "start_epoch_ms": 1788649200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSD64QG+txD6tIEBBMgYmkCUsgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IRCRBYQMKSBpZgVeSADGU4IhQiQu4ZvGHZ6-cvXrlIYBFKkQ+cjYFCRTbPTCFgSXKu1Cwbk4bfTJtAk1yQOtbCCA.webp"
     },
     {
       "id": "independiente-santa-fe-vs-fortaleza-fc-2481172",
