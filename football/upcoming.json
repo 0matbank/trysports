@@ -1,40 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 190,
-  "total_matches": 190,
+  "total_items": 187,
+  "total_matches": 187,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-05 | 03:52:42",
-  "updated_at_bd": "2026-09-05T03:52:42+06:00",
+  "updated_time_bd": "2026-09-05 | 05:32:20",
+  "updated_at_bd": "2026-09-05T05:32:20+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "belgrano-cordoba-vs-huracan-football-1493109",
-      "title": "Belgrano Cordoba vs Huracan",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "05 Sep 2026, 04:00 AM (BD Time)",
-      "start_epoch_ms": 1788559200000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIikDHrkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIikNnrkGAY2bie8EVW4EurMGFz5zQA.webp"
-    },
-    {
-      "id": "platense-vs-deportivo-riestra-2398064",
-      "title": "Platense vs Deportivo Riestra",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "05 Sep 2026, 04:00 AM (BD Time)",
-      "start_epoch_ms": 1788559200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiHBIwISsB0a+IKSBTGQRoyXMKm2mP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "new-york-city-fc-vs-nashville-sc-2407038",
-      "title": "New York City FC vs Nashville SC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "05 Sep 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1788564600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiA19NYKSBghuIbdqPaNiCPsMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "puebla-vs-toluca-football-1550948",
       "title": "Puebla vs Toluca",
