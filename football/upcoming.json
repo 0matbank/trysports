@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 252,
-  "total_matches": 252,
+  "total_items": 249,
+  "total_matches": 249,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-05 | 11:52:52",
-  "updated_at_bd": "2026-09-05T11:52:52+06:00",
+  "updated_time_bd": "2026-09-05 | 15:38:03",
+  "updated_at_bd": "2026-09-05T15:38:03+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -306,6 +306,15 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiJZKIcHxDcQ+3YhhGQU84ikFgSCn2Gz6mlSi5gy8LbPdNaYJ5iohBAA.webp"
     },
     {
+      "id": "ppv-2-bundesliga-konferenz",
+      "title": "2. Bundesliga Konferenz",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "05 Sep 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1788615000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCERUQAY0kgIIaSFlLgEUiuBSRShSBLjsmmaXUqLKAyCsaqKchoFCRTYw7CFgSXDIdCwbk4NYTMHAm1yQPUzCCA.webp"
+    },
+    {
       "id": "werder-bremen-vs-rb-leipzig-2508342",
       "title": "Werder Bremen vs RB Leipzig",
       "category": "football",
@@ -394,15 +403,6 @@
       "start_time_bd": "05 Sep 2026, 08:00 PM (BD Time)",
       "start_epoch_ms": 1788616800000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKUTb1usENxB8QRnBBBSQJA3pDwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "charleroi-vs-union-saint-gilloise-2496727",
-      "title": "Charleroi vs Union Saint-Gilloise",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "05 Sep 2026, 08:00 PM (BD Time)",
-      "start_epoch_ms": 1788616800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKEjAoEssCG4g+IYzgMoQMCyAjGCwTTH7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp"
     },
     {
       "id": "cheltenham-town-vs-grimsby-town-2500202",
@@ -810,15 +810,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJjMS9QJENxB8DuPUakgYIXSQLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
-      "id": "mechelen-vs-westerlo-2496728",
-      "title": "Mechelen vs Westerlo",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "05 Sep 2026, 10:15 PM (BD Time)",
-      "start_epoch_ms": 1788624900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFJw1SQOiCG4htJQyBgg+IRGYtSCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp"
-    },
-    {
       "id": "ad-ceuta-fc-vs-celta-de-vigo-ii-football-1569906",
       "title": "AD Ceuta FC vs Celta de Vigo II",
       "category": "football",
@@ -1015,24 +1006,6 @@
       "start_time_bd": "06 Sep 2026, 12:45 AM (BD Time)",
       "start_epoch_ms": 1788633900000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKL4g4myiG4gtIbcZAozF4-ALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "sint-truiden-vs-raal-la-louvi-re-2496730",
-      "title": "Sint-Truiden vs RAAL La Louvière",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788633900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxACZ8sJs18QRnJpQgY5kBCMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "standard-li-ge-vs-antwerp-2496729",
-      "title": "Standard Liège vs Antwerp",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788633900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMT4g4o-CG4gtWkrhAoQiSyCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
       "id": "bragantino-vs-bahia-2398442",
