@@ -1,6 +1,132 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-09-05 | 15:38:03
+# TOTAL-ITEMS: 18
+# UPDATED Time and date BD: 2026-09-05 | 19:02:36
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="EFL Championship (HD)" tvg-name="EFL Championship (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHyIAGMElwgYIbhpCmcEEFJMoQiBUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", EFL Championship (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/gxCBSVZUYVjKiNIzoIYJJiOGkmCqdxJx/rtmp/stream/MmTP8Xtx2Nd6t20xKA0rI6IwM_hnEhPwU7pgqQErJZBAbUmn8TUmM4M6hAxdpBQi9u_--TPpIIY1/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EFL Championship (SD)" tvg-name="EFL Championship (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHyIAGMElwgYIbhpCmcEEFJMoQiBUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", EFL Championship (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/vsqlKwDAWhyZYKdqslyjgJmCJCMbIuVV/rtmp/stream/uR9MODjZGlwTzy1PUdZFJBJ_5hkx6Vum9euTH86Vj-e0VuaaoOQHtoHz4X-dxy6bvVGDCRCfqMhbepeujA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports Football (HD)" tvg-name="Sky Sports Football (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAykQ4FHUghuIPttwgIIKUZApT1pkgp9hs+ijArdbd+XpZZuplowdzFRCCA.webp" group-title="Football", Sky Sports Football (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/aeIZnfHUFfDvjYccSJLMvDakneEWbTYw/rtmp/stream/FtODE3F-T0BaaXlgTGTOxyYPBd4N7_9VZ9tIftxHY2xnPWZ7SBL1RtI691W42glqN8bZJ3SO1kh8/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports Football (SD)" tvg-name="Sky Sports Football (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAykQ4FHUghuIPttwgIIKUZApT1pkgp9hs+ijArdbd+XpZZuplowdzFRCCA.webp" group-title="Football", Sky Sports Football (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/glgCMqcwGCCkKRACRhJnKXYVOUkcRhlN/rtmp/stream/qx9loAxthz0ResG0NOQzK5zQs_BbYgRJ9Q9k506cNn59Xk_wviKyITKI2p83vJk3Kx0xLrpEvMez_AF7DQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 1 (HD)" tvg-name="TNT Sports 1 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKNYpiWUiG4g+IYxA0hTKEIhi4CwJBT7DZ9FGBXa278vV2jtTLRg7mKiEEA.webp" group-title="Football", TNT Sports 1 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/nNbzUKrOKtLDuFmwHUbfCHmhuvtCxGyT/rtmp/stream/H_c8fpp3atNU0dY9BnYmoKJ6OG1uvqpgSHT2NAtzsn802ltiQSrZVmaoCfkgePc8v9IHPzFYe1Y/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 1 (SD)" tvg-name="TNT Sports 1 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKNYpiWUiG4g+IYxA0hTKEIhi4CwJBT7DZ9FGBXa278vV2jtTLRg7mKiEEA.webp" group-title="Football", TNT Sports 1 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/ZHwAJTAdZsKqttSbGdWdrWtwKOYHEwtu/rtmp/stream/R0fGoRcxxf9yX_MEGzHIZkig88dh8M_fMYPA4D5PqJIM1vPOto0mqfIFx9nurSOrdM2jPWQYv_HroRil/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sport 8 (HD)" tvg-name="Sky Sport 8 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKNYpiWUiG4g+IYxA0hTKEIhi4CwJBT7DZ9FGBXa278vV2jtTLRg7mKiEEA.webp" group-title="Football", Sky Sport 8 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/UBzjTdOgHlNxfZkeVetYnTjAUubqYvfQ/rtmp/stream/vIa3ZMhWMMzaz2Ycrr8Kf1svRZrkleGmWqbvTNkFmUyHPq2pEpZcZ6T-XBs1RYsbzHYoIRPxD8DE/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sport 8 (SD)" tvg-name="Sky Sport 8 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKNYpiWUiG4g+IYxA0hTKEIhi4CwJBT7DZ9FGBXa278vV2jtTLRg7mKiEEA.webp" group-title="Football", Sky Sport 8 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/dWnJicdzZVWrrcsPBpQcFhZCQQHANuOl/rtmp/stream/9Kb4bPTtUvb7yybUOHY2kFkFo61CDaAoa_mHIBH40-N2yxfLRZ-Fwuu_M50xWBO_rNFC2BghHNbpKimiow/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Newcastle United vs Bournemouth (HD)" tvg-name="Newcastle United vs Bournemouth (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKNYpiWUiG4g+IYxA0hTKEIhi4CwJBT7DZ9FGBXa278vV2jtTLRg7mKiEEA.webp" group-title="Football", Newcastle United vs Bournemouth (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/AvmgQUkXUIqTRTsLhSoFvmnHZzdmSHkh/delta/stream/live_premier-league_newcastle-bournemouth-live-streaming-613192464/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Newcastle United vs Bournemouth (HD)" tvg-name="Newcastle United vs Bournemouth (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKNYpiWUiG4g+IYxA0hTKEIhi4CwJBT7DZ9FGBXa278vV2jtTLRg7mKiEEA.webp" group-title="Football", Newcastle United vs Bournemouth (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://cdn12.zohanayaan.com:1686/hls/nnewcastleunited.m3u8?md5=SO24twoI0dlnO_mDJh7eCg&expires=1788620545
+
+#EXTINF:-1 tvg-id="German - Sky Sport Bundesliga 3 (HD)" tvg-name="German - Sky Sport Bundesliga 3 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBt4aUIelJDcQfECV0gYZnIePwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", German - Sky Sport Bundesliga 3 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/imrlsucDHmAnjeBAQOkrJuyghreLBboS/rtmp/stream/1wt-eKi7pPb9AV8BPwuxHGtRXq7GiG3eO6uU9dtPO0c7JlRUX6w9c8Ej9TtYFPNb0RKj7OBzv35H/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="German - Sky Sport Bundesliga 3 (SD)" tvg-name="German - Sky Sport Bundesliga 3 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBt4aUIelJDcQfECV0gYZnIePwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", German - Sky Sport Bundesliga 3 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/nhcTkDXiRUdZmdZPKVtAzCBYzhtQCMUo/rtmp/stream/f7xoWpRyK2KnHGK700l1Hup_Zc6bl-Z_zPUwXvL07bvi82epPOWsveeKatWJfpLWvJYHiSZaqLpttyn1lw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="German - Sky Sport Bundesliga 4 (HD)" tvg-name="German - Sky Sport Bundesliga 4 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVkxDApIUfhDcQOkCaMhEJEDDMKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", German - Sky Sport Bundesliga 4 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb14.strmd.st/secure/BGGqjxDshwJXrDkNYRtjvgpqRgivbxPG/rtmp/stream/SzevcpqW_Pj1knNedB0n4osp8R9Y8mQwMFMhUCh0uJEMxG18be1FtUIlBQZzMA9YJZdz8WGLCPFh/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="German - Sky Sport Bundesliga 4 (SD)" tvg-name="German - Sky Sport Bundesliga 4 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVkxDApIUfhDcQOkCaMhEJEDDMKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", German - Sky Sport Bundesliga 4 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb14.strmd.st/secure/qRZYWAuFrpVsqkciVoPQhZDHnJSySQfI/rtmp/stream/ctVK6M0Viq1AAQWqsOQHCRLYIpvC7jKuIr8WhHq2sF5YVVZpkmfh5T_IrL4F-w_ZDiANrGbiFikPa18F_g/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="German - Sky Sport Bundesliga 5 (HD)" tvg-name="German - Sky Sport Bundesliga 5 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCDIpKwMPxDcQfECcQwjIKSc0mCwJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="Football", German - Sky Sport Bundesliga 5 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/ofqfHTdjgQKuupCIFrMbqIsxvMWnllVn/rtmp/stream/HgwM0hXMs_wsbquCAJpPnmhbmzeLs5s98PfwU20ijdDrvV0trnCDeuBSGiZvwbDayzCo-1Wf8Qij/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="German - Sky Sport Bundesliga 5 (SD)" tvg-name="German - Sky Sport Bundesliga 5 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCDIpKwMPxDcQfECcQwjIKSc0mCwJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="Football", German - Sky Sport Bundesliga 5 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/uNXiMgqvlXlYvoHOmPyYrTKlnVqdgeDf/rtmp/stream/IxAfiNuFEuGVDJloZGMgLqHFq5fKeccp9lOk5rNSGgIopyr6zLfBO-yxz-c0epf-u2A2f08QPzkn_9Kg3w/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="German - Sky Sport Bundesliga 2 (HD)" tvg-name="German - Sky Sport Bundesliga 2 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCERUQAY0kgIIaSFlLgEUiuBSRShSBLjsmmaXUqLKAyCsaqKchoFCRTYw7CFgSXDIdCwbk4NYTMHAm1yQPUzCCA.webp" group-title="Football", German - Sky Sport Bundesliga 2 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/cbLfSYcfwMhmTXPcTGXyVYECEuTMzyuG/rtmp/stream/w0uPmbeV8HeocR1yQSzxtRc8_EDU6LTV4P8y-eOKTNBqGQdjVWJFwYj_aFLCKx3NjQDHKGDp1mcPrfbKkcW_/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="German - Sky Sport Bundesliga 2 (SD)" tvg-name="German - Sky Sport Bundesliga 2 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCERUQAY0kgIIaSFlLgEUiuBSRShSBLjsmmaXUqLKAyCsaqKchoFCRTYw7CFgSXDIdCwbk4NYTMHAm1yQPUzCCA.webp" group-title="Football", German - Sky Sport Bundesliga 2 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/CIFGAEZjHZIBzgmFMzEfojejkSplNEVu/rtmp/stream/etCiQBsRCpTSkuK8C3LUpsdzh0ZFWRUOkKi40EMeIlvM0UJ1JRqYZJtfMUWHpN_jKZbxZU0fXkWgg1qWQQz0PMZX1Q/1/playlist.m3u8
 
