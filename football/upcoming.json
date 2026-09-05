@@ -1,22 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 251,
-  "total_matches": 251,
+  "total_items": 252,
+  "total_matches": 252,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-05 | 07:20:51",
-  "updated_at_bd": "2026-09-05T07:20:51+06:00",
+  "updated_time_bd": "2026-09-05 | 11:52:52",
+  "updated_at_bd": "2026-09-05T11:52:52+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "ppv-fc-juarez-vs-pachuca",
-      "title": "FC Juarez vs. Pachuca",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "05 Sep 2026, 09:00 AM (BD Time)",
-      "start_epoch_ms": 1788577200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkAGNgESSBlZpweMCogFiCSBQqQIJSFWJh0kGTIzxiMjQuyaJbfzCCRTbPTCFgSXBO1DnVghXMm0CJXJnRXMgA.webp"
-    },
     {
       "id": "hamburger-sv-w-vs-rb-leipzig-w-football-1593123",
       "title": "Hamburger SV W vs RB Leipzig W",
@@ -297,6 +288,15 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzAypYXkwghuGkCRAGYZwyGumUBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
+      "id": "multiview-bundesliga-202627-game-199555",
+      "title": "Multiview : Bundesliga 2026/27",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "05 Sep 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1788615000000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
       "id": "paderborn-vs-freiburg-2508350",
       "title": "Paderborn vs Freiburg",
       "category": "football",
@@ -475,6 +475,15 @@
       "start_time_bd": "05 Sep 2026, 08:00 PM (BD Time)",
       "start_epoch_ms": 1788616800000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHFD4heTKdpBaQICCBLGQKEIhi4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "goal-rush-match-week-3-game-1826262",
+      "title": "Goal Rush : Match week 3",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "05 Sep 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1788616800000,
+      "poster": "https://streamed.pk/favicon.ico"
     },
     {
       "id": "huddersfield-town-vs-notts-county-2500745",
