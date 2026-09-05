@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 2,
-  "total_matches": 1,
-  "total_streams": 2,
-  "updated_time_bd": "2026-09-06 | 04:05:47",
-  "updated_at_bd": "2026-09-06T04:05:47+06:00",
+  "total_items": 25,
+  "total_matches": 9,
+  "total_streams": 25,
+  "updated_time_bd": "2026-09-06 | 05:53:14",
+  "updated_at_bd": "2026-09-06T05:53:14+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "sporting-cp-vs-nacional-de-madeira-2513974",
-      "title": "Sporting CP vs Nacional de Madeira",
+      "id": "charlotte-fc-vs-houston-dynamo-2407045",
+      "title": "Charlotte FC vs Houston Dynamo",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "06 Sep 2026, 01:30 AM (BD Time)",
-      "start_epoch_ms": 1788636600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDlhuYJMAAMBkNxB8Q5qaePmQKECXMFgSCn2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp",
+      "start_time_bd": "06 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1788651000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXnzBJiABhAkQ3EH2OHTBxBBAwQ8AsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,16 +23,282 @@
       },
       "streams": [
         {
-          "channel_name": "beIN SPORTS CONNECT 3 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDlhuYJMAAMBkNxB8Q5qaePmQKECXMFgSCn2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp",
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXnzBJiABhAkQ3EH2OHTBxBBAwQ8AsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/GixrBMFkrSfufzTrGCqSHjqYPtILhbHr/rtmp/stream/uJXR1LYUv09Uw5MqmW7-UFvCfT8OF3xLYyvn9PcaCk07Fry4GtRvyqxVeu3WTHKk8sBARj3sdQO5/1/playlist.m3u8"
+          "direct_stream_url": "https://lb12.strmd.st/secure/sJrsWFcXsOZXMHeuPOLZCJkKhhHMSaUQ/rtmp/stream/2acjxcRhRqGit-P0j4UcH0zKTjPKjN1dBV5EtWs0en-pFJEu2xPg4WLhAB393RNiQCaiKBxW7qST/1/playlist.m3u8"
         },
         {
-          "channel_name": "beIN SPORTS CONNECT 3 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDlhuYJMAAMBkNxB8Q5qaePmQKECXMFgSCn2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp",
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXnzBJiABhAkQ3EH2OHTBxBBAwQ8AsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb14.strmd.st/secure/vmSWPkGKTJQdqGTOBmJPIlJHMtdidlGo/rtmp/stream/xVIGa3WfTZ4Wxk0FLv2Gf3sxNrdwYqrRhozDGLdlLDA_pI8hwnJpFNV409YB_YzXyRztYiJNCykOpNS0Kg/1/playlist.m3u8"
+          "direct_stream_url": "https://lb12.strmd.st/secure/STKoByBtnPbLEZcEcOITuEnBuUhQHJhp/rtmp/stream/_Ko-j2KF_h0RQvTWRjLKBdguEyxhi3HIHNEDjXBGROr99iiVW8SpquCIE4LHpTD5TvA614a2hjUZzB1lpQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Charlotte FC vs Houston Dynamo (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXnzBJiABhAkQ3EH2OHTBxBBAwQ8AsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/KOPMUOGocWAQISjDbQGEQEUWExqzNiVY/delta/stream/live_mls_charlotte-houston-live-streaming-539036208/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "toronto-fc-vs-chicago-fire-2407044",
+      "title": "Toronto FC vs Chicago Fire",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "06 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1788651000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWijBSQmgWhDcQfEDBDbjhxDhIgFTJBT7DZ9TSpRcwZeESyyPTLRgXmKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWijBSQmgWhDcQfEDBDbjhxDhIgFTJBT7DZ9TSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/XUeNNSaUwpavcsUPPjJGMaduVyoHQJLE/rtmp/stream/lM0eVdrfLQaMUKkGyy5DrHDjEw3o2A0MAIOQoR8_LQKTf4C5Macg29dQifbiR0mD20wgBx6hRuNc/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWijBSQmgWhDcQfEDBDbjhxDhIgFTJBT7DZ9TSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/GJOlKldYSNDpGXRyfdoZEbCMMAsydvgs/rtmp/stream/zKPtAgAMIY7Er-IkXKBRS_DCJI-PkPGVNe-17xGx-eQQs2-MRsnpiVW2BxLA-jAStDmKDpXlcXe6qXPYag/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Toronto FC vs Chicago Fire (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWijBSQmgWhDcQfEDBDbjhxDhIgFTJBT7DZ9TSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/SZHirfAxulMtTqMBuQanXADAekYfMBMX/delta/stream/live_mls_toronto-chicago-live-streaming-539038800/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "columbus-crew-vs-colorado-rapids-2407043",
+      "title": "Columbus Crew vs Colorado Rapids",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "06 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1788651000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBJo4ECAghuGkH31m9OEnpAoCwbTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBJo4ECAghuGkH31m9OEnpAoCwbTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/WwypMoGofbCpgKxkczBnVvIctBpMDEKL/rtmp/stream/ioYys9oNKEZuFpaS6TPY7x39qzR4B2Wi-UGX87TWzZ6BZ9BraKbLqtV8pUDRraYD7RzmwViDbrWC/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBJo4ECAghuGkH31m9OEnpAoCwbTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/jFSKHJirowWTbqfNiwlhUhPpxnXlMWmI/rtmp/stream/_Q2uWRytuoHUuoMliOLa-gRSWTZO-Mgyd7Xzfu9fWtjOtl4pPKii_iHHAe5ulhHJFRDdbog6xGpgXvZKFA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Columbus Crew vs Colorado Rapids (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBJo4ECAghuGkH31m9OEnpAoCwbTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/RbOdJfRPGtlkAvaeQVAQEMDaPKxwqwRG/delta/stream/live_mls_columbus-colorado-live-streaming-539036640/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "orlando-city-vs-san-diego-fc-2407042",
+      "title": "Orlando City vs San Diego FC",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "06 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1788651000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCChIuABjBSQ3EH2OHTJEIg0xcBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCChIuABjBSQ3EH2OHTJEIg0xcBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/PVxJPYPRieDWgpevKtXCZyXNmlymHpKF/rtmp/stream/BkrkcVaP92aWS3ER7zMQONzgEtLURTZMJIC1PfQkO3JiRiCSQJvMXU4iKjUbAw-27WYUMkUcTi40/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCChIuABjBSQ3EH2OHTJEIg0xcBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb14.strmd.st/secure/SONIkwEXfHgsGrgYgumdJyhcxjGuBPYB/rtmp/stream/24DXMYHFufGjCXsIr4bJte_mJKaLnn_Ca-gcJNsnu-GXIdkkgnXBtoDzwjbCs0eU3biO8dg3MCNmGWcEhA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Orlando City vs San Diego FC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCChIuABjBSQ3EH2OHTJEIg0xcBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/yCvQjOoNCYANzktXxTMDHATrljEwkHwi/delta/stream/live_mls_orlando-san-diego-live-streaming-539037936/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "fc-cincinnati-vs-dc-united-2407041",
+      "title": "FC Cincinnati vs DC United",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "06 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1788651000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHLRkoQ9fCG4g+IGCCmH9IRAZMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHLRkoQ9fCG4g+IGCCmH9IRAZMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/uBUZSFVAbsylTVRrelyqcyExxjKpXHEV/rtmp/stream/T1EUYC-Bs8-g3yTL1pR3j7DmR_PHjItoTFud_z08yGzajaLUuupWkbLfyuakD3Ve0p2_mhYLjuM_/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHLRkoQ9fCG4g+IGCCmH9IRAZMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/zveLGwiIJKrUXpPArJQVuVUmtVfVcDaG/rtmp/stream/pPHKdft1HmeJ8IgnQiM_ZHkYMWCKYl_sQepPz4xgWrz3VKCeq9iKyg9hBuyxs23vvkhbEf304OAdmrZVww/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "FC Cincinnati vs DC United (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHLRkoQ9fCG4g+IGCCmH9IRAZMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/QkcxMUKDNOWxeRBgUzyWFqllXanMREYH/delta/stream/live_mls_cincinnati-dc-united-live-streaming-539037072/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "philadelphia-union-vs-cf-montr-al-2407040",
+      "title": "Philadelphia Union vs CF Montréal",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "06 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1788651000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCE0ow3EChAQQuviBggpIE7sQ5DjYEgp9hs+tpUouYMvCJZZnky0YN5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCE0ow3EChAQQuviBggpIE7sQ5DjYEgp9hs+tpUouYMvCJZZnky0YN5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/AXLdBrePeMCBwkDcwLWUuQmLaohBvdas/rtmp/stream/V22c9vIvd3AwXP2qEvGUSVPxSvgEeRg_94nvgoc4uGCFlIxapk1NVkRQab1Z2VgvTz9E1Xieo_aj/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCE0ow3EChAQQuviBggpIE7sQ5DjYEgp9hs+tpUouYMvCJZZnky0YN5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb11.strmd.st/secure/idkzHvODukUOaZvKhVeGVLJrbsbxFofF/rtmp/stream/7vYCA8HQOnegINWtHGZMS7FS1xWUp7isn67OephqMbDHQGAac1hf1eySzH_2JCfh9kzbO0mwjW1b3SSlLQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Philadelphia Union vs CF Montréal (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCE0ow3EChAQQuviBggpIE7sQ5DjYEgp9hs+tpUouYMvCJZZnky0YN5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/WRNcoCMvAwrQLYcGBHeOZiraNAymVmJj/delta/stream/live_mls_philadelphia-montreal-live-streaming-539038368/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "inter-miami-vs-atlanta-united-2407039",
+      "title": "Inter Miami vs Atlanta United",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "06 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1788651000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VetLDgUIRNxB8QMEFIMh9iHHoLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VetLDgUIRNxB8QMEFIMh9iHHoLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/lvqWGbWbbliGDQyMKeZyKkUIGGhmqQqL/rtmp/stream/e0tRY1lhuX8UCboR3WNHVaaI2QQ4h23668Co0YcLpKEGmOD6JKqwgpDXCglAvE_wsPNuOiRLcXi0/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VetLDgUIRNxB8QMEFIMh9iHHoLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb11.strmd.st/secure/pRnRkbdwFMVEXiLgyydEuIqhQisbULZX/rtmp/stream/8-oEPIgoJQrVlT_3XxZfEMgW7WhsVIw5BfWeWQceuEKFWtlkkQy4c1rZpRMANsNTFpEO0s_Y-2ixB0wkGA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Inter Miami vs Atlanta United (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VetLDgUIRNxB8QMEFIMh9iHHoLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/RHjxikUwkDDtYawdwzGLSUxfbtprlPyU/delta/stream/live_mls_inter-miami-atlanta-live-streaming-539037504/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ppv-quer-taro-vs-monterrey",
+      "title": "Querétaro vs. Monterrey",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "06 Sep 2026, 05:00 AM (BD Time)",
+      "start_epoch_ms": 1788649200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IRCRBYQMKSBpZgVeSADGU4IhQiQu4ZvGHZ6-cvXrlIYBFKkQ+cjYFCRTbPTCFgSXKu1Cwbk4bfTJtAk1yQOtbCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - Liga MX (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IRCRBYQMKSBpZgVeSADGU4IhQiQu4ZvGHZ6-cvXrlIYBFKkQ+cjYFCRTbPTCFgSXKu1Cwbk4bfTJtAk1yQOtbCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/rNBAHJSAOeYDqXQSGQVdtCQTXgdYVPij/rtmp/stream/fCaUZqZ9uIrylvilaCpRGMdGBgfExG3ZpMMjpAD3RppsKYPFcyXbP9Eoi4_55LnbIe2r7WBych8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - Liga MX (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IRCRBYQMKSBpZgVeSADGU4IhQiQu4ZvGHZ6-cvXrlIYBFKkQ+cjYFCRTbPTCFgSXKu1Cwbk4bfTJtAk1yQOtbCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb13.strmd.st/secure/PYzvDRYooFNADxooOlKcOMvYiYloGDwA/rtmp/stream/qTykzFgp8omznKtHQ2AHsnAs3KpEQtTydyav0pY9f7704oquy4ra4Tvxa7RODYbucya86vj7ECKX3Abf/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "atl-tico-de-san-luis-vs-cd-guadalajara-2487509",
+      "title": "Atlético de San Luis vs CD Guadalajara",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "06 Sep 2026, 05:00 AM (BD Time)",
+      "start_epoch_ms": 1788649200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXvVBkQOkNxB9dEEMZggSIM4ngFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - Liga MX (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXvVBkQOkNxB9dEEMZggSIM4ngFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/DpHFwSdFYQgDFTkghbmedHUXQjNSyhiI/rtmp/stream/FAykm1vhlFJanduGxklFU40nd1vS7cMAwz_JgPSKNUPA_QJUnQXQacGOX2li_kYDXLEPEW15kS8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - Liga MX (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXvVBkQOkNxB9dEEMZggSIM4ngFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb13.strmd.st/secure/cxIZnvgRTYXkrDqdgltOQnKtsEakoDah/rtmp/stream/EYF8Hnf6A0SWZgdIYLIJWpJNtGaRRBTFSo-DBjdRyWDym01WQKezq_Dm8kr7KbXOoE5QrXBPsp6RFCSU/1/playlist.m3u8"
         }
       ]
     }
