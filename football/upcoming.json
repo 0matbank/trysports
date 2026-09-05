@@ -1,40 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 128,
-  "total_matches": 128,
+  "total_items": 126,
+  "total_matches": 126,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-06 | 02:16:01",
-  "updated_at_bd": "2026-09-06T02:16:01+06:00",
+  "updated_time_bd": "2026-09-06 | 04:05:47",
+  "updated_at_bd": "2026-09-06T04:05:47+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "chico-vs-once-caldas-football-1549766",
-      "title": "Chico vs Once Caldas",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 03:00 AM (BD Time)",
-      "start_epoch_ms": 1788642000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIiZ1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIn71yDAMbNxPeCKrcCXVmDC58FoA.webp"
-    },
-    {
-      "id": "sao-paulo-vs-atletico-mg-football-1492368",
-      "title": "Sao Paulo vs Atletico-MG",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 03:30 AM (BD Time)",
-      "start_epoch_ms": 1788643800000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIKiH71yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCH4gmdcgwDGzcT3giq3Al1ZgwufFaA.webp"
-    },
-    {
-      "id": "san-lorenzo-vs-talleres-de-c-rdoba-2398068",
-      "title": "San Lorenzo vs Talleres de Córdoba",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 04:00 AM (BD Time)",
-      "start_epoch_ms": 1788645600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAWz5FgYbiD18QUkCiMhDh43oVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
     {
       "id": "atl-tico-de-san-luis-vs-cd-guadalajara-2487509",
       "title": "Atlético de San Luis vs CD Guadalajara",
@@ -79,6 +52,15 @@
       "start_time_bd": "06 Sep 2026, 05:00 AM (BD Time)",
       "start_epoch_ms": 1788649200000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IRCRBYQMKSBpZgVeSADGU4IhQiQu4ZvGHZ6-cvXrlIYBFKkQ+cjYFCRTbPTCFgSXKu1Cwbk4bfTJtAk1yQOtbCCA.webp"
+    },
+    {
+      "id": "c-cuta-deportivo-vs-deportivo-pasto-2481175",
+      "title": "Cúcuta Deportivo vs Deportivo Pasto",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "06 Sep 2026, 05:10 AM (BD Time)",
+      "start_epoch_ms": 1788649800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChB9cwJGE3cQh7SBAQtpi6ZKmCuin2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
       "id": "independiente-santa-fe-vs-fortaleza-fc-2481172",
