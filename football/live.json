@@ -1,243 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 25,
-  "total_matches": 8,
-  "total_streams": 25,
-  "updated_time_bd": "2026-09-06 | 23:09:37",
-  "updated_at_bd": "2026-09-06T23:09:37+06:00",
+  "total_items": 10,
+  "total_matches": 3,
+  "total_streams": 10,
+  "updated_time_bd": "2026-09-07 | 01:08:50",
+  "updated_at_bd": "2026-09-07T01:08:50+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "deportivo-alav-s-vs-osasuna-2506204",
-      "title": "Deportivo Alavés vs Osasuna",
+      "id": "marseille-vs-paris-fc-2489482",
+      "title": "Marseille vs Paris FC",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "06 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1788712200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBJKYEiBUhuIPiFMQQKDSHPm9jLRT7DZ9FLrYouu8vSyzPTLRg7vSiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBJKYEiBUhuIPiFMQQKDSHPm9jLRT7DZ9FLrYouu8vSyzPTLRg7vSiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/odhJeZPJWtOwtUpURZmwXhIoAXJQEsHy/rtmp/stream/v6UAmWID_fC4-ON_sc8PfXET8XwyGdH3Ng70fQXDZNAFmm4uhOb3Vv27zBxqh-S8_91AayWLsn4/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBJKYEiBUhuIPiFMQQKDSHPm9jLRT7DZ9FLrYouu8vSyzPTLRg7vSiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb10.strmd.st/secure/LzDQycsORbYKibGkVafNYSqxRwtqfwRs/rtmp/stream/8_l6dq0K5YuywioQZFos7tS9NBoHXW7kbycxIuDB7kaQW36vTBRP1sCm-iZq0FB2EamYH-cQE1XqBWvS/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Deportivo Alavés vs Osasuna (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBJKYEiBUhuIPiFMQQKDSHPm9jLRT7DZ9FLrYouu8vSyzPTLRg7vSiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/WfaxtWCIMOiDpTFpggiJexJuCWIMYJFh/delta/stream/live_laliga_alaves-osasuna-live-streaming-613932048/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "m-laga-vs-levante-2506202",
-      "title": "Málaga vs Levante",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "06 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1788712200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8revhCjawbCG4g+IYxBAoQMEKdMkLBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8revhCjawbCG4g+IYxBAoQMEKdMkLBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/DCtUkQHOsnwshmbGKsdZntGlVjWHWXsh/rtmp/stream/P7pWnmpAoDZzRzvv3NR2iDZys9Voc4Zpa_IJmMstDAOwgcbdV0-wDUVbM60-GEbDmFVUcXtqdqg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8revhCjawbCG4g+IYxBAoQMEKdMkLBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb14.strmd.st/secure/MwDRcNZanymDeCJHYhqKWsxvLKRNHANH/rtmp/stream/KU9uijCMkXTFDTT9W1QWf1bJwonxW9mzMDw8sauMGemjBzenL-3BIJGZ4YGWweNib1tc3lfDVSJkqER2/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Málaga vs Levante (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8revhCjawbCG4g+IYxBAoQMEKdMkLBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/PKNrRUHocWvyhtSqTIKzhLiwtnhauMpb/delta/stream/live_laliga_malaga-levante-live-streaming-613932480/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "bologna-vs-sassuolo-2482163",
-      "title": "Bologna vs Sassuolo",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "06 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1788710400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUUhDcwSMChAwtIPiBKmQ+xBBCITjYLpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUUhDcwSMChAwtIPiBKmQ+xBBCITjYLpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/zQAbmvSplzgPxkdNBjwjtohzvJjPewXn/rtmp/stream/9QrTY-C5yRtlDKrDZ74H9vgR0Q_bMoNJKiI8QE26FuJ95NDsUmduwsvrkCCsOkHhTfyOUl24PO8/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUUhDcwSMChAwtIPiBKmQ+xBBCITjYLpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb14.strmd.st/secure/DKQlQbjqRvPExwSJlFMcgafljAoqPVsD/rtmp/stream/umEiFLOf7GaJOhKGhA1mM3OBps0tFTq8E8TcUsjc8qGsOhSRsD7KSS55ey5seMlxFd2OMQE9GfHGnJAc/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Bologna vs Sassuolo (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUUhDcwSMChAwtIPiBKmQ+xBBCITjYLpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/xnbNmaNaaeEFBQMxXcgdyHcvIJHJkCRl/delta/stream/live_serie-a_bologna-sassuolo-live-streaming-613930752/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "eintracht-frankfurt-vs-augsburg-2508346",
-      "title": "Eintracht Frankfurt vs Augsburg",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "06 Sep 2026, 09:30 PM (BD Time)",
-      "start_epoch_ms": 1788708600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMCQgZZFNhDcQfECcQwj2i4gVMkFPsNn09KlFzBl4RLLLdNaYB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Fandango (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMCQgZZFNhDcQfECcQwj2i4gVMkFPsNn09KlFzBl4RLLLdNaYB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/aYClAmkMMXgOjFaNvMrXMToIWvczgcJl/rtmp/stream/AtBA8cnI58mSk-NFbPjlW2w6yr1ydP5XADkmAvJXLYjxgc-0S-MdRRrYpKF2WzEG3eRqz8TnfZA/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Fandango (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMCQgZZFNhDcQfECcQwj2i4gVMkFPsNn09KlFzBl4RLLLdNaYB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/EATqnIBGbqgMOyvOuIkmxlwFblPprsRA/rtmp/stream/FxxH8Vwdh5cRxymi0gtJYIH9cXa_ercDJjYt0dimogN00TnhFo6eEBjgKGva7NuCuKGrh-gCunFeqL9F/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - DAZN 2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMCQgZZFNhDcQfECcQwj2i4gVMkFPsNn09KlFzBl4RLLLdNaYB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/bKgEKezxHwDAnZftvZjjVAROHXfhJHLo/rtmp/stream/W0MRmzsaWC4upetiI7bta-s8vMAoFPNvYsXXKPilmPiXfNLABaUElGn-E5LltimiXTjxeMbEmnER/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "German - DAZN 2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMCQgZZFNhDcQfECcQwj2i4gVMkFPsNn09KlFzBl4RLLLdNaYB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/EiwhhwYSqxAzPhjvwUYclpfSTpXApnXk/rtmp/stream/UP7Pjm_uRiCDP-FJtDeD8CiuI5XWAMinAp5sKMqFGEBqX4V9gu76wTuxba1zYIpA4Qxr6r2UQnkr_IEWhg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Eintracht Frankfurt vs Augsburg (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMCQgZZFNhDcQfECcQwj2i4gVMkFPsNn09KlFzBl4RLLLdNaYB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/ViyDbEwWsadtyFHmOaBdEOdDLSoPBiFW/delta/stream/live_bundesliga_frankfurt-augsburg-live-streaming-613934208/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "arsenal-vs-chelsea-2494022",
-      "title": "Arsenal vs Chelsea",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "06 Sep 2026, 09:30 PM (BD Time)",
-      "start_epoch_ms": 1788708600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMsp5dQ3EHxAGSIFCES6jiRsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports Premier League (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMsp5dQ3EHxAGSIFCES6jiRsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/mloSrswNMILnmDstJqBJHQGHdNHpvFIT/rtmp/stream/YROe-BipWUpm4Nr3d5nA2dFSr6V-G6xkR91W-wP-o1lihDhoKn9J_0LP8q22BF57bNFQqnzNcgc/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports Premier League (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMsp5dQ3EHxAGSIFCES6jiRsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/VEfbzmxYzNeQGJrgcqOWaPxLeTnOMALL/rtmp/stream/8-Lc5UvJuhf6gt63caFTf1yVXAwQqPS6mRNscGGMktf_jiaQDqy9ttyK2C-KFxa26Lvrb-gbHldnDacd/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Arsenal vs Chelsea (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMsp5dQ3EHxAGSIFCES6jiRsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/VZmtHqGqMKTBcbUaQjIpYFUEuWzDDTEc/delta/stream/live_premier-league_arsenal-chelsea-live-streaming-613930320/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Arsenal vs Chelsea (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMsp5dQ3EHxAGSIFCES6jiRsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/DOkKMYLBXvqIbBEDAdpxobAGmReQxZOx/delta/stream/live_premier-league_arsenal-chelsea-live-streaming-613930320/2/playlist.m3u8"
-        },
-        {
-          "channel_name": "Arsenal vs Chelsea (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMsp5dQ3EHxAGSIFCES6jiRsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://cdn12.zohanayaan.com:1686/hls/narsenal.m3u8?md5=mjXXFSNJboTVR9Sq1fYNjg&expires=1788721769"
-        }
-      ]
-    },
-    {
-      "id": "lech-pozna--vs-rak-w-cz-stochowa-2490245",
-      "title": "Lech Poznań vs Raków Częstochowa",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "06 Sep 2026, 09:30 PM (BD Time)",
-      "start_epoch_ms": 1788708600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLDAoKrfCG4gpIEsZB9TIQyEQSmGmP2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Polish - CANAL+ Sport 3 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLDAoKrfCG4gpIEsZB9TIQyEQSmGmP2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/VqXjDcDMxqdTXvqtmkxEBgzWIrsUrIHw/rtmp/stream/01BtGhdHsHtKGatIc21z_odqI2EPRPmiqSYZLl4L5kPYc2dmotw3S7vjfUggPR6TPcdxB9Dyl-engdLf-A/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Polish - CANAL+ Sport 3 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLDAoKrfCG4gpIEsZB9TIQyEQSmGmP2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/axKVGtKILVnCwrqBZywMJYziumFPPAVz/rtmp/stream/8JeDv_JipVoFGgq0vpPA9MBstVqqBXs86UITQf4sb59Iijt4gJqJMgmxHoUJwsfmm9caIdlyxhgkjwMGaNvQzwo/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "ppv-angers-vs-stade-rennais",
-      "title": "Angers vs. Stade Rennais",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "06 Sep 2026, 09:15 PM (BD Time)",
-      "start_epoch_ms": 1788707700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw7CAggYIFCCogsIAMYg1UmMAhbJK0qRAlFa4DTKJEWYIlVKZNySnLaBQkU2z0whYElzKnITBuTm1xMicCa3JgrX0IIA.webp",
+      "start_time_bd": "07 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788720300000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN1wgUDEFESa+IY5pwRte43oLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -246,26 +24,32 @@
       "streams": [
         {
           "channel_name": "French - Ligue 1+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw7CAggYIFCCogsIAMYg1UmMAhbJK0qRAlFa4DTKJEWYIlVKZNySnLaBQkU2z0whYElzKnITBuTm1xMicCa3JgrX0IIA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN1wgUDEFESa+IY5pwRte43oLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/kJDMAMygCqxyCdPGHbFtSwEzolvayngz/rtmp/stream/jpPM5ACdHankD2fpv2rWKZn6PewSlPBUrshEQkSGr5uceaIaoCRmZCIM23HSZT1QWdZ7gcp9KIc/1/playlist.m3u8"
+          "direct_stream_url": "https://lb4.strmd.st/secure/mPNqEXHmzPaoJzUhgHzgdOnruQdgKjPW/rtmp/stream/VHld0H8_QroRugsEVdPAi93Oaer79WvkUUfSLvB6s5uB2vjVevDtTRhNAZj_hP9AVF3apvm3WrQ/1/playlist.m3u8"
         },
         {
           "channel_name": "French - Ligue 1+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw7CAggYIFCCogsIAMYg1UmMAhbJK0qRAlFa4DTKJEWYIlVKZNySnLaBQkU2z0whYElzKnITBuTm1xMicCa3JgrX0IIA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN1wgUDEFESa+IY5pwRte43oLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb5.strmd.st/secure/SaQRTjTYSBExPtRKNLRYXWivjPErqvrS/rtmp/stream/WGbcjKZWzggQFoHzFjyeFqLeLilpNl7g1ljypN2LLxZjGdC7sYdKuDmtbRMGGBVtVfsCZxPlq-2rs-JJ/1/playlist.m3u8"
+          "direct_stream_url": "https://lb4.strmd.st/secure/LmComkoBXTNWGjhyHViWLskfBvuBNQvv/rtmp/stream/qpzJJa-sWk44Rxo5pXf0Ow_7h3Owbxc_yk0FjbP21kZHO5JLzT0Zvg4AdE22u5_jE8cFIoo8WT8lz0pj/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Marseille vs Paris FC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN1wgUDEFESa+IY5pwRte43oLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/ZTTXndatmvhPIEwtZBopKNnIuFfVLujk/delta/stream/live_ligue-1_marseille-paris-live-streaming-613933776/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "ado-den-haag-vs-fortuna-sittard-2489108",
-      "title": "ADO Den Haag vs Fortuna Sittard",
+      "id": "juventus-vs-ac-milan-2482161",
+      "title": "Juventus vs AC Milan",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "06 Sep 2026, 08:45 PM (BD Time)",
-      "start_epoch_ms": 1788705900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL3Aw6IFGw0g+IYzhwxdF4zALAkFPsNn0UYFXravy9LLL1NaYK5iohBAA.webp",
+      "start_time_bd": "07 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788720300000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -273,16 +57,62 @@
       },
       "streams": [
         {
-          "channel_name": "Dutch - ESPN2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL3Aw6IFGw0g+IYzhwxdF4zALAkFPsNn0UYFXravy9LLL1NaYK5iohBAA.webp",
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/ORxMIrzbsDSUDcQzHFPSsfFpFPVXZvHV/rtmp/stream/8AqXMtMdQyYUDri0xS3yhb2wLG3V3PUmb-mzWy5fiFQJxkvJxMyl3sczAG8EJRIMbMxCjQJOzLE/1/playlist.m3u8"
+          "direct_stream_url": "https://lb4.strmd.st/secure/bluUXYwhmWrwDIYBuVrLWQzaZIsKMweX/rtmp/stream/-x34IJH24BgFlhTcNN430_xwJx5Jm35m74hUXkqTjq1WEZ2BLNseopZK4ZgmPEIOmB5jMAa_dak/1/playlist.m3u8"
         },
         {
-          "channel_name": "Dutch - ESPN2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL3Aw6IFGw0g+IYzhwxdF4zALAkFPsNn0UYFXravy9LLL1NaYK5iohBAA.webp",
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb3.strmd.st/secure/aAhdigADYFZJFRXqFFtYoawxvdgFCFvn/rtmp/stream/j8zi6FzUtcVqlufa3Z4hvyPTOOwB6s5jlxwlSPadP4_t5rIYG-aLtgYYPjV9M4eClPtvqPQaEDntIBaF/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/SzXJvjCGGKkdqIlhxOEqGnftNjBgThgz/rtmp/stream/I0m5ELy9vV0YJjS_QKcyxiraPh54NIUaeR0RKT7F2Nl2cjwPoFwGwctwcHqccaN7Gp5NlxC_EC5Ly3e2/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Italian - DAZN 1 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/aEAZewwnuLhUnWlMeHCgmVwGFIWoPCYZ/rtmp/stream/JkDw_Y1GrJHlhIntT8ZDanHe-gmlwjMuD9YMEs4WsIvLh-h7XNelKS8wzBBVDv2TNQNdVUpliq45/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Italian - DAZN 1 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/XzzUveSktHZuOveIXTfHApBLPBcNjTxu/rtmp/stream/ST6e3tlWo2J6fPVT4vSTAvEH7phiKPC04rPaYwp12lQ66ZFnrhTTQ6lncJ7c5usCl6lnJ0MjHwUvFl52uw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Juventus vs AC Milan (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/PHYGcTODjnOpjHuiGqcPNVTcWGRnSDRr/delta/stream/live_serie-a_juventus-milan-live-streaming-613931184/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "jagiellonia-bia-ystok-vs--l-sk-wroc-aw-2490243",
+      "title": "Jagiellonia Białystok vs Śląsk Wrocław",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "07 Sep 2026, 12:15 AM (BD Time)",
+      "start_epoch_ms": 1788718500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHJBaBSMFJDcQ+kiBN9TWo5ZQFgumP2Gz6KMCo1s35ellkamtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Polish - CANAL+ Sport 3 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHJBaBSMFJDcQ+kiBN9TWo5ZQFgumP2Gz6KMCo1s35ellkamtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/IawBLosksDydGlcYQCEdkQUCBEdAIBba/rtmp/stream/xOXuucx-kjv6pnDCwy7d1Qh7syr-QUjUHLupP2YC5SDZZ1OJ7Fl5ysx3n5njs6znxxFUfx_9JKRqaqjv1w/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Polish - CANAL+ Sport 3 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHJBaBSMFJDcQ+kiBN9TWo5ZQFgumP2Gz6KMCo1s35ellkamtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb14.strmd.st/secure/xvIIRZrMrOvyQZmhlAbLyMVZazayGCVm/rtmp/stream/8BwTFO8VDJyTlyskGXgrAr44EwjkocQxlX84VR5CjJxVldjnjdQn5mdurLpYkZNT3hOdfO7GtAND30-RP8latrw/1/playlist.m3u8"
         }
       ]
     }
