@@ -1,67 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 54,
-  "total_matches": 54,
+  "total_items": 48,
+  "total_matches": 48,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-07 | 03:18:44",
-  "updated_at_bd": "2026-09-07T03:18:44+06:00",
+  "updated_time_bd": "2026-09-07 | 04:55:51",
+  "updated_at_bd": "2026-09-07T04:55:51+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "botafogo-vs-palmeiras-2398441",
-      "title": "Botafogo vs Palmeiras",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Sep 2026, 03:30 AM (BD Time)",
-      "start_epoch_ms": 1788730200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAL6wN-MNxD6+IYxGMbcIGGakFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "le-n-vs-am-rica-2599041",
-      "title": "León vs América",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Sep 2026, 04:00 AM (BD Time)",
-      "start_epoch_ms": 1788732000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgSIGNhEgaVEMJAoFweMAjAlIGVPUQ9ILKVIKp2ZSCMq90yaPLaBQkUzkpyhYElzivITBuTm1hMy8CDXJgrTMIIA.webp"
-    },
-    {
-      "id": "leon-vs-club-amrica-4845439",
-      "title": "Leon vs Club América",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Sep 2026, 04:00 AM (BD Time)",
-      "start_epoch_ms": 1788732000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aECgamUI6a3h6epbLXZgwpHS6A/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhBcWLEdNbw9PUtlrswYUjtdA.webp"
-    },
-    {
-      "id": "vancouver-fc-vs-supra-du-qu-bec-2427405",
-      "title": "Vancouver FC vs Supra du Québec",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Sep 2026, 04:00 AM (BD Time)",
-      "start_epoch_ms": 1788732000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWlBiUGDENxB8QRiCBghEKPeZAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "river-plate-vs-independiente-rivadavia-2398066",
-      "title": "River Plate vs Independiente Rivadavia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Sep 2026, 04:15 AM (BD Time)",
-      "start_epoch_ms": 1788732900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBQhaUkCDkhuIPiF1bdJkyT2aCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "corinthians-vs-chapecoense-2398443",
-      "title": "Corinthians vs Chapecoense",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Sep 2026, 04:30 AM (BD Time)",
-      "start_epoch_ms": 1788733800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWkzIx2kENxB8QUkCiMhziQzHMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "deportivo-pereira-vs-millonarios-2481173",
       "title": "Deportivo Pereira vs Millonarios",
@@ -72,13 +18,13 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAYGIKNxBSQeviBI6QiRKdMRzBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
     },
     {
-      "id": "racing-club-vs-atletico-tucuman-4633320",
+      "id": "racing-club-vs-atletico-tucuman-football-1493116",
       "title": "Racing Club vs Atletico Tucuman",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "07 Sep 2026, 06:30 AM (BD Time)",
       "start_epoch_ms": 1788741000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMYIhGI6a3h6epbLXZgwpHS6A/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEM1wsQKnNNbw9PUtlrswYUjtdA.webp"
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIRP3rkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbMvrkGAY2bie8EVW4EurMGFz5zQA.webp"
     },
     {
       "id": "toluca-vs-monterrey-2599040",
@@ -225,22 +171,22 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSHoAGEDBAo6IbiD4gSICzhS59NhUyQU+w2fRRgVBth-L0ssgyZaMA8xUQggA.webp"
     },
     {
-      "id": "pogon-vs-wisla-plock-4736409",
-      "title": "Pogon vs Wisla Plock",
+      "id": "pogon-szczecin-vs-wisla-plock-football-1553161",
+      "title": "Pogon Szczecin vs Wisla Plock",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "08 Sep 2026, 12:30 AM (BD Time)",
       "start_epoch_ms": 1788805800000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMxghcxkdNbw9PUtlrswYUjtdA/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEF2MMQuEdNbw9PUtlrswYUjtdA.webp"
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEECHrkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEECTrkGAY2bie8EVW4EurMGFz5zQA.webp"
     },
     {
-      "id": "sabadell-vs-cordoba-4751210",
+      "id": "sabadell-vs-cordoba-football-1569913",
       "title": "Sabadell vs Cordoba",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "08 Sep 2026, 12:30 AM (BD Time)",
       "start_epoch_ms": 1788805800000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEM1zGQMEdNbw9PUtlrswYUjtdA/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhDNiI6a3h6epbLXZgwpHS6A.webp"
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbIpDx65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIh49cg0XNxPeCKrcCXVmDC58FoA.webp"
     },
     {
       "id": "nantes-vs-nancy-lorraine-2488742",
@@ -315,13 +261,13 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKijAyADCBTAkIbiD4gSICCESJzlnHwIGKD1iLGaV+tmDLwiWWX0mWjAfMVEIIA.webp"
     },
     {
-      "id": "vitoria-vs-gremio-4632688",
+      "id": "vitoria-vs-gremio-football-1492369",
       "title": "Vitoria vs Gremio",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "08 Sep 2026, 05:00 AM (BD Time)",
       "start_epoch_ms": 1788822000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhBdTIECOmt4enqWy12YMKR1ugA/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhBdjIECOmt4enqWy12YMKR1ugA.webp"
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRP3rkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRDHrkGAY2bie8EVW4EurMGFz5zQA.webp"
     },
     {
       "id": "1029",

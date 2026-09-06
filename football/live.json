@@ -1,13 +1,53 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 9,
-  "total_matches": 3,
-  "total_streams": 9,
-  "updated_time_bd": "2026-09-07 | 03:18:44",
-  "updated_at_bd": "2026-09-07T03:18:44+06:00",
+  "total_items": 5,
+  "total_matches": 2,
+  "total_streams": 5,
+  "updated_time_bd": "2026-09-07 | 04:55:51",
+  "updated_at_bd": "2026-09-07T04:55:51+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "le-n-vs-am-rica-2599041",
+      "title": "León vs América",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "07 Sep 2026, 04:00 AM (BD Time)",
+      "start_epoch_ms": 1788732000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgSIGNhEgaVEMJAoFweMAjAlIGVPUQ9ILKVIKp2ZSCMq90yaPLaBQkUzkpyhYElzivITBuTm1hMy8CDXJgrTMIIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgSIGNhEgaVEMJAoFweMAjAlIGVPUQ9ILKVIKp2ZSCMq90yaPLaBQkUzkpyhYElzivITBuTm1hMy8CDXJgrTMIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/oaYsiEZhIWCrIckDiehffJCpMZDbFlrp/rtmp/stream/-7XnrA0vRC_Cq34vNqeJ09BOhDesRfr74_P6tPm1Dkmp93A_2xXAItoOV3zasQfFJW835q2lYLzA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgSIGNhEgaVEMJAoFweMAjAlIGVPUQ9ILKVIKp2ZSCMq90yaPLaBQkUzkpyhYElzivITBuTm1hMy8CDXJgrTMIIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/ScxXWzdMtcCvKCVURQNRLOJPjOJmOqDp/rtmp/stream/TQcjUGekWqm7UhcwnB0QqPGQST9CkGJCOqnEtvzUe0b3UOLw3RdpZ4xgRENe10OhH1xI4NqSJCnrqmn3tw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgSIGNhEgaVEMJAoFweMAjAlIGVPUQ9ILKVIKp2ZSCMq90yaPLaBQkUzkpyhYElzivITBuTm1hMy8CDXJgrTMIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/uQlWUWyTlRTozqIDpmDfdAeIyUvZxLKe/rtmp/stream/s6dbAzF146cOznsiJMcx6U7I5ZcF2kXeA-bkj74sHPg0R2O7U7aryTp3StSb2mJAl56iIy08OXU/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgSIGNhEgaVEMJAoFweMAjAlIGVPUQ9ILKVIKp2ZSCMq90yaPLaBQkUzkpyhYElzivITBuTm1hMy8CDXJgrTMIIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/rOPIjpobnlFUjUgXLdYogAZqhLlqOOxh/rtmp/stream/P88uOCxV1VQkZ3_Avl8DN0FnqYmYPBYtSg-wFYgfa_JsZgAOkMjAY65Vah-Pit7DoE_Fau7C1lX8A9-p/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "espanyol-vs-sevilla-2506203",
       "title": "Espanyol vs Sevilla",
@@ -23,90 +63,10 @@
       },
       "streams": [
         {
-          "channel_name": "ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rErnJYEwJCG4g+IYxBAoQMEKdMaJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/fqyKMyljRbJztPAIqfAHtcaeFXHRudHk/rtmp/stream/eTPeJWZo5gyhVE5ZjIL7VUtHMJsaZ7N7FtFc3lfc2TX7Lzj1n89qT6PmQq9002SPfUWCW-zcTi4/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rErnJYEwJCG4g+IYxBAoQMEKdMaJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb5.strmd.st/secure/YPQRGoINYDnlhdKHCUbnWWbCwthYqVNn/rtmp/stream/FvjdhUEZeIzw-1uJnTPb2RHg4MwWsPdeBgpHQf9xk5xVJUGBB-3UodfmJA4n5sByvMTvqKqvhb7RjbF8/1/playlist.m3u8"
-        },
-        {
           "channel_name": "Espanyol vs Sevilla (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rErnJYEwJCG4g+IYxBAoQMEKdMaJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/JnTiserzqtPEGydYffpsUkrnsnQjZQmf/delta/stream/live_laliga_espanyol-sevilla-live-streaming-613932912/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "marseille-vs-paris-fc-2489482",
-      "title": "Marseille vs Paris FC",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "07 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788720300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN1wgUDEFESa+IY5pwRte43oLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "French - Ligue 1+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN1wgUDEFESa+IY5pwRte43oLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/agdVTnBqJntTfZabdLqrjVBMCwJbwkYo/rtmp/stream/zVx0lXqBYl03Hq-GIPn9PsWOWKUMzzY_U-fKaRJWjIN6nq_NBvEFCd9SYj6CPG0CYRyfUwuZGco/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "French - Ligue 1+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN1wgUDEFESa+IY5pwRte43oLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/SaASBFZdGXPKSqsCYmQuJOHjSlmryJbD/rtmp/stream/lwt-T_m9NSSJF35kzJ8W5wgy_H0fr83lyoDCCi3OHk45Q_8gan3liNfjJWKxjhfCbB8IUivoo99gKrlp/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "juventus-vs-ac-milan-2482161",
-      "title": "Juventus vs AC Milan",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "07 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1788720300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/uBZXgUULREzZroVbNZNPmOLHNJaFaPtW/rtmp/stream/NAFXcI5APuceKxByyasPO8LY5JBbKxFmZFB20IQGIMdyEFOWsJ8o-v1YEUcH_P25uTIKv1FsrNo/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/WoGrFOcPBBVPyeFWHnVazsmfJVtiyQwf/rtmp/stream/AQigBdwUv1iaXtWlWGdpEEX__NvDLvIaWrFUz5Zotp2u3SZyVnkPjpbHnTfyFSHgKH_jNDPVnDGCFF1v/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Italian - DAZN 1 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/KgwLiUsQzKeaXLVgtkHITfWCJfGVQMqo/rtmp/stream/330qrypteRV4Ywxyat1EcDFJTZ7kYZpa_UDClBBxCHSWbwTw63gxNKlleJG3W9kPTSlDsmnJGMue/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Italian - DAZN 1 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/nsWDPSvdspYwRKPiqDfyHkXKbtNxfvgX/rtmp/stream/S2FpdGYY8EOSpkN5S-VjyaQwkFAq3na2FSjIkN8mNOM8TiEYfVw4Re9VbNSkUP9uCMDK1epri-PtDwPvUA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb9.strmd.st/secure/LjRuXYDzFVsaPraCdTNNpqhDCQZMfbQb/delta/stream/live_laliga_espanyol-sevilla-live-streaming-613932912/1/playlist.m3u8"
         }
       ]
     }
