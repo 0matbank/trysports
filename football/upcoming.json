@@ -1,49 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 56,
-  "total_matches": 56,
+  "total_items": 54,
+  "total_matches": 54,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-07 | 01:08:50",
-  "updated_at_bd": "2026-09-07T01:08:50+06:00",
+  "updated_time_bd": "2026-09-07 | 03:18:44",
+  "updated_at_bd": "2026-09-07T03:18:44+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "gil-vicente-vs-acad-mico-de-viseu-2513976",
-      "title": "Gil Vicente vs Académico de Viseu",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Sep 2026, 01:30 AM (BD Time)",
-      "start_epoch_ms": 1788723000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUdxDgU-MEhCa+WkFJBHNWlCYMFgSCn2Gz6KMCp1s35ellk6mtGBuYqIQQA.webp"
-    },
-    {
-      "id": "central-cordoba-de-santiago-vs-independiente-football-1493110",
-      "title": "Central Cordoba de Santiago vs Independiente",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Sep 2026, 02:00 AM (BD Time)",
-      "start_epoch_ms": 1788724800000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCH4hs9cgwDGzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCHj1yDAMbNxPeCKrcCXVmDC58FoA.webp"
-    },
-    {
-      "id": "lan-s-vs-defensa-y-justicia-2398063",
-      "title": "Lanús vs Defensa y Justicia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Sep 2026, 02:00 AM (BD Time)",
-      "start_epoch_ms": 1788724800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLPzBluW4FJDcQfEPpQmjFkuZgFgSCn2Gz6KXZzZby9DaJRzmwGC69KIQQA.webp"
-    },
-    {
-      "id": "internacional-de-bogota-vs-aguilas-doradas-football-1549768",
-      "title": "Internacional de Bogota vs Águilas Doradas",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Sep 2026, 03:00 AM (BD Time)",
-      "start_epoch_ms": 1788728400000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIgj1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikBBX1yDAMbNxPeCKrcCXVmDC58FoA.webp"
-    },
     {
       "id": "botafogo-vs-palmeiras-2398441",
       "title": "Botafogo vs Palmeiras",
@@ -54,13 +18,22 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAL6wN-MNxD6+IYxGMbcIGGakFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "leon-vs-club-america-football-1638067",
-      "title": "Leon vs Club America",
+      "id": "le-n-vs-am-rica-2599041",
+      "title": "León vs América",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "07 Sep 2026, 04:00 AM (BD Time)",
       "start_epoch_ms": 1788732000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCpT1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCoDG9cg3VZxPeCKrcCXVmDC58FoA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgSIGNhEgaVEMJAoFweMAjAlIGVPUQ9ILKVIKp2ZSCMq90yaPLaBQkUzkpyhYElzivITBuTm1hMy8CDXJgrTMIIA.webp"
+    },
+    {
+      "id": "leon-vs-club-amrica-4845439",
+      "title": "Leon vs Club América",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "07 Sep 2026, 04:00 AM (BD Time)",
+      "start_epoch_ms": 1788732000000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aECgamUI6a3h6epbLXZgwpHS6A/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhBcWLEdNbw9PUtlrswYUjtdA.webp"
     },
     {
       "id": "vancouver-fc-vs-supra-du-qu-bec-2427405",
@@ -99,13 +72,13 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAYGIKNxBSQeviBI6QiRKdMRzBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
     },
     {
-      "id": "racing-club-vs-atletico-tucuman-football-1493116",
+      "id": "racing-club-vs-atletico-tucuman-4633320",
       "title": "Racing Club vs Atletico Tucuman",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "07 Sep 2026, 06:30 AM (BD Time)",
       "start_epoch_ms": 1788741000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIRP3rkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbMvrkGAY2bie8EVW4EurMGFz5zQA.webp"
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMYIhGI6a3h6epbLXZgwpHS6A/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEM1wsQKnNNbw9PUtlrswYUjtdA.webp"
     },
     {
       "id": "toluca-vs-monterrey-2599040",
@@ -114,7 +87,7 @@
       "status": "UPCOMING",
       "start_time_bd": "07 Sep 2026, 07:15 AM (BD Time)",
       "start_epoch_ms": 1788743700000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgAJiCh8wq1dxAlcIRHuMh9IdQQpM+KLmDLwi80faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphT9gYYEhAoQ3XSD659JEBCMmAJroIUmfVWzBl4ReaNVNaYJ2NEQgA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRBUQMiCBggAxsHjYQclCCwhEKYNMXqV+kCXWmppkyDUxgEfSp17+YQSKbZ6YQsCS5FPSE3VgcJMj0CYzA3e1J7IA.webp"
     },
     {
       "id": "cruz-azul-vs-santos-laguna-2487514",
@@ -252,22 +225,22 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSHoAGEDBAo6IbiD4gSICzhS59NhUyQU+w2fRRgVBth-L0ssgyZaMA8xUQggA.webp"
     },
     {
-      "id": "pogon-szczecin-vs-wisla-plock-football-1553161",
-      "title": "Pogon Szczecin vs Wisla Plock",
+      "id": "pogon-vs-wisla-plock-4736409",
+      "title": "Pogon vs Wisla Plock",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "08 Sep 2026, 12:30 AM (BD Time)",
       "start_epoch_ms": 1788805800000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEECHrkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEECTrkGAY2bie8EVW4EurMGFz5zQA.webp"
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEMxghcxkdNbw9PUtlrswYUjtdA/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEF2MMQuEdNbw9PUtlrswYUjtdA.webp"
     },
     {
-      "id": "sabadell-vs-cordoba-football-1569913",
+      "id": "sabadell-vs-cordoba-4751210",
       "title": "Sabadell vs Cordoba",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "08 Sep 2026, 12:30 AM (BD Time)",
       "start_epoch_ms": 1788805800000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbIpDx65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIh49cg0XNxPeCKrcCXVmDC58FoA.webp"
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEM1zGQMEdNbw9PUtlrswYUjtdA/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhDNiI6a3h6epbLXZgwpHS6A.webp"
     },
     {
       "id": "nantes-vs-nancy-lorraine-2488742",
@@ -342,13 +315,13 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKijAyADCBTAkIbiD4gSICCESJzlnHwIGKD1iLGaV+tmDLwiWWX0mWjAfMVEIIA.webp"
     },
     {
-      "id": "vitoria-vs-gremio-football-1492369",
+      "id": "vitoria-vs-gremio-4632688",
       "title": "Vitoria vs Gremio",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "08 Sep 2026, 05:00 AM (BD Time)",
       "start_epoch_ms": 1788822000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRP3rkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRDHrkGAY2bie8EVW4EurMGFz5zQA.webp"
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhBdTIECOmt4enqWy12YMKR1ugA/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhBdjIECOmt4enqWy12YMKR1ugA.webp"
     },
     {
       "id": "1029",
@@ -511,6 +484,15 @@
       "start_time_bd": "11 Sep 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1789066800000,
       "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "ppv-pumas-unam-vs-le-n",
+      "title": "Pumas UNAM vs. León",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "11 Sep 2026, 09:00 AM (BD Time)",
+      "start_epoch_ms": 1789095600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEOJggY2EMJAhg8UguA0IIAMbSt0kXJDLxGqcogqUW4BvlYdJFOXMChIptnphCwJLk2OhMG5Oc2FSegIlciDrcIggA.webp"
     }
   ]
 }

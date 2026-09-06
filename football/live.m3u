@@ -1,76 +1,69 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 10
-# UPDATED Time and date BD: 2026-09-07 | 01:08:50
+# TOTAL-ITEMS: 9
+# UPDATED Time and date BD: 2026-09-07 | 03:18:44
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="ESPN+ (HD)" tvg-name="ESPN+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rErnJYEwJCG4g+IYxBAoQMEKdMaJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", ESPN+ (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb5.strmd.st/secure/fqyKMyljRbJztPAIqfAHtcaeFXHRudHk/rtmp/stream/eTPeJWZo5gyhVE5ZjIL7VUtHMJsaZ7N7FtFc3lfc2TX7Lzj1n89qT6PmQq9002SPfUWCW-zcTi4/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN+ (SD)" tvg-name="ESPN+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rErnJYEwJCG4g+IYxBAoQMEKdMaJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", ESPN+ (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb5.strmd.st/secure/YPQRGoINYDnlhdKHCUbnWWbCwthYqVNn/rtmp/stream/FvjdhUEZeIzw-1uJnTPb2RHg4MwWsPdeBgpHQf9xk5xVJUGBB-3UodfmJA4n5sByvMTvqKqvhb7RjbF8/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Espanyol vs Sevilla (HD)" tvg-name="Espanyol vs Sevilla (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rErnJYEwJCG4g+IYxBAoQMEKdMaJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Espanyol vs Sevilla (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb5.strmd.st/secure/JnTiserzqtPEGydYffpsUkrnsnQjZQmf/delta/stream/live_laliga_espanyol-sevilla-live-streaming-613932912/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="French - Ligue 1+ (HD)" tvg-name="French - Ligue 1+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN1wgUDEFESa+IY5pwRte43oLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp" group-title="Football", French - Ligue 1+ (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/mPNqEXHmzPaoJzUhgHzgdOnruQdgKjPW/rtmp/stream/VHld0H8_QroRugsEVdPAi93Oaer79WvkUUfSLvB6s5uB2vjVevDtTRhNAZj_hP9AVF3apvm3WrQ/1/playlist.m3u8
+https://lb9.strmd.st/secure/agdVTnBqJntTfZabdLqrjVBMCwJbwkYo/rtmp/stream/zVx0lXqBYl03Hq-GIPn9PsWOWKUMzzY_U-fKaRJWjIN6nq_NBvEFCd9SYj6CPG0CYRyfUwuZGco/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="French - Ligue 1+ (SD)" tvg-name="French - Ligue 1+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN1wgUDEFESa+IY5pwRte43oLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp" group-title="Football", French - Ligue 1+ (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/LmComkoBXTNWGjhyHViWLskfBvuBNQvv/rtmp/stream/qpzJJa-sWk44Rxo5pXf0Ow_7h3Owbxc_yk0FjbP21kZHO5JLzT0Zvg4AdE22u5_jE8cFIoo8WT8lz0pj/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Marseille vs Paris FC (HD)" tvg-name="Marseille vs Paris FC (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN1wgUDEFESa+IY5pwRte43oLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp" group-title="Football", Marseille vs Paris FC (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/ZTTXndatmvhPIEwtZBopKNnIuFfVLujk/delta/stream/live_ligue-1_marseille-paris-live-streaming-613933776/1/playlist.m3u8
+https://lb9.strmd.st/secure/SaASBFZdGXPKSqsCYmQuJOHjSlmryJbD/rtmp/stream/lwt-T_m9NSSJF35kzJ8W5wgy_H0fr83lyoDCCi3OHk45Q_8gan3liNfjJWKxjhfCbB8IUivoo99gKrlp/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+ (HD)" tvg-name="Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp" group-title="Football", Paramount+ (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/bluUXYwhmWrwDIYBuVrLWQzaZIsKMweX/rtmp/stream/-x34IJH24BgFlhTcNN430_xwJx5Jm35m74hUXkqTjq1WEZ2BLNseopZK4ZgmPEIOmB5jMAa_dak/1/playlist.m3u8
+https://lb5.strmd.st/secure/uBZXgUULREzZroVbNZNPmOLHNJaFaPtW/rtmp/stream/NAFXcI5APuceKxByyasPO8LY5JBbKxFmZFB20IQGIMdyEFOWsJ8o-v1YEUcH_P25uTIKv1FsrNo/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+ (SD)" tvg-name="Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp" group-title="Football", Paramount+ (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb7.strmd.st/secure/SzXJvjCGGKkdqIlhxOEqGnftNjBgThgz/rtmp/stream/I0m5ELy9vV0YJjS_QKcyxiraPh54NIUaeR0RKT7F2Nl2cjwPoFwGwctwcHqccaN7Gp5NlxC_EC5Ly3e2/1/playlist.m3u8
+https://lb9.strmd.st/secure/WoGrFOcPBBVPyeFWHnVazsmfJVtiyQwf/rtmp/stream/AQigBdwUv1iaXtWlWGdpEEX__NvDLvIaWrFUz5Zotp2u3SZyVnkPjpbHnTfyFSHgKH_jNDPVnDGCFF1v/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Italian - DAZN 1 (HD)" tvg-name="Italian - DAZN 1 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp" group-title="Football", Italian - DAZN 1 (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb7.strmd.st/secure/aEAZewwnuLhUnWlMeHCgmVwGFIWoPCYZ/rtmp/stream/JkDw_Y1GrJHlhIntT8ZDanHe-gmlwjMuD9YMEs4WsIvLh-h7XNelKS8wzBBVDv2TNQNdVUpliq45/1/playlist.m3u8
+https://lb9.strmd.st/secure/KgwLiUsQzKeaXLVgtkHITfWCJfGVQMqo/rtmp/stream/330qrypteRV4Ywxyat1EcDFJTZ7kYZpa_UDClBBxCHSWbwTw63gxNKlleJG3W9kPTSlDsmnJGMue/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Italian - DAZN 1 (SD)" tvg-name="Italian - DAZN 1 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp" group-title="Football", Italian - DAZN 1 (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb7.strmd.st/secure/XzzUveSktHZuOveIXTfHApBLPBcNjTxu/rtmp/stream/ST6e3tlWo2J6fPVT4vSTAvEH7phiKPC04rPaYwp12lQ66ZFnrhTTQ6lncJ7c5usCl6lnJ0MjHwUvFl52uw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Juventus vs AC Milan (HD)" tvg-name="Juventus vs AC Milan (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCBR0wSHiBghuIPiBKnNIRIhSGQUgsCQU+w2fRRgVWtp-L0sslpMtGCeYqIQQA.webp" group-title="Football", Juventus vs AC Milan (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb7.strmd.st/secure/PHYGcTODjnOpjHuiGqcPNVTcWGRnSDRr/delta/stream/live_serie-a_juventus-milan-live-streaming-613931184/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Polish - CANAL+ Sport 3 (HD)" tvg-name="Polish - CANAL+ Sport 3 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHJBaBSMFJDcQ+kiBN9TWo5ZQFgumP2Gz6KMCo1s35ellkamtGBuYqIQQA.webp" group-title="Football", Polish - CANAL+ Sport 3 (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/IawBLosksDydGlcYQCEdkQUCBEdAIBba/rtmp/stream/xOXuucx-kjv6pnDCwy7d1Qh7syr-QUjUHLupP2YC5SDZZ1OJ7Fl5ysx3n5njs6znxxFUfx_9JKRqaqjv1w/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Polish - CANAL+ Sport 3 (SD)" tvg-name="Polish - CANAL+ Sport 3 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHJBaBSMFJDcQ+kiBN9TWo5ZQFgumP2Gz6KMCo1s35ellkamtGBuYqIQQA.webp" group-title="Football", Polish - CANAL+ Sport 3 (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/xvIIRZrMrOvyQZmhlAbLyMVZazayGCVm/rtmp/stream/8BwTFO8VDJyTlyskGXgrAr44EwjkocQxlX84VR5CjJxVldjnjdQn5mdurLpYkZNT3hOdfO7GtAND30-RP8latrw/1/playlist.m3u8
+https://lb9.strmd.st/secure/nsWDPSvdspYwRKPiqDfyHkXKbtNxfvgX/rtmp/stream/S2FpdGYY8EOSpkN5S-VjyaQwkFAq3na2FSjIkN8mNOM8TiEYfVw4Re9VbNSkUP9uCMDK1epri-PtDwPvUA/1/playlist.m3u8
 
