@@ -1,6 +1,41 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-09-06 | 12:32:23
+# TOTAL-ITEMS: 5
+# UPDATED Time and date BD: 2026-09-06 | 17:18:10
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="EFL Championship (HD)" tvg-name="EFL Championship (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECljQpIKZBDcQfECZwRdRjbiMFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp" group-title="Football", EFL Championship (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb5.strmd.st/secure/gkCAlZyBhqOLrwUJvLOfxNBwmkILNeVO/rtmp/stream/IdGOKpnN16zf8C1NUV00ByZ14_GAp_FO0e9cowkT6IM5NTc6JUuzeAjl4YCn079XVMTi37-ENejC/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EFL Championship (SD)" tvg-name="EFL Championship (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECljQpIKZBDcQfECZwRdRjbiMFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp" group-title="Football", EFL Championship (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb5.strmd.st/secure/WwQhnIuxeKgRfXmZUlvgyzFKhshTHmsz/rtmp/stream/QD61R52EI_jnjzSH2XY46JwaWVvwhI93v-uUpUjNxjWZcdAP6Yh1oIvMeltE-UoKPujcj6qxeGY1jZh4Rw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Birmingham City vs Wolverhampton Wanderers (HD)" tvg-name="Birmingham City vs Wolverhampton Wanderers (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECljQpIKZBDcQfECZwRdRjbiMFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp" group-title="Football", Birmingham City vs Wolverhampton Wanderers (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb10.strmd.st/secure/JlZoqPdpQkldjVmNqJnpDcRsuItKTJsx/delta/stream/live_championship_birmingham-wolves-live-streaming-613630512/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dutch - ESPN2 (HD)" tvg-name="Dutch - ESPN2 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmBIhR8kHxDc9IYzhwwQKC0YtMkFPsNn0Umtii6by9LLPdNaYK70ohBAA.webp" group-title="Football", Dutch - ESPN2 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb5.strmd.st/secure/xIuXLmKWUJPlTLVYSpomqJBirWqofPww/rtmp/stream/SZM1atMHgGJkTPDn1l7c4gvVNT3GwNW0fkcfGqMeYW6iF5gJIDqwgWA5qW6oWYj2hcAqlxPmtUA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dutch - ESPN2 (SD)" tvg-name="Dutch - ESPN2 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmBIhR8kHxDc9IYzhwwQKC0YtMkFPsNn0Umtii6by9LLPdNaYK70ohBAA.webp" group-title="Football", Dutch - ESPN2 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb5.strmd.st/secure/KZqTaNqcKTciltpHiZzvoUGeoCIAzDgN/rtmp/stream/PGY0q9XjxqHjhhJPgUlMtyvLoWRe7evOHcVWZ9TRsnvAU-yILegeN3C66NahubJMOQ8ocn2ep9EeA0X0/1/playlist.m3u8
 
