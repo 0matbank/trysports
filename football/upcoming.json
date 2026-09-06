@@ -1,40 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 120,
-  "total_matches": 120,
+  "total_items": 118,
+  "total_matches": 118,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-06 | 07:45:48",
-  "updated_at_bd": "2026-09-06T07:45:48+06:00",
+  "updated_time_bd": "2026-09-06 | 12:32:23",
+  "updated_at_bd": "2026-09-06T12:32:23+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "portland-timbers-vs-minnesota-united-2407052",
-      "title": "Portland Timbers vs Minnesota United",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1788661800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCHhgQwKSD4hD3fSBgg9B44hyGpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "vancouver-whitecaps-vs-st--louis-city-sc-2407051",
-      "title": "Vancouver Whitecaps vs St. Louis City SC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1788661800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXHQohgYBCG4g+h-cZIhEEEDEMFgSCn2Gz6KMCpRc35ellkemtLqi9MFAA.webp"
-    },
-    {
-      "id": "atlas-vs-atlante-2487512",
-      "title": "Atlas vs Atlante",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Sep 2026, 09:00 AM (BD Time)",
-      "start_epoch_ms": 1788663600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLMCSVgABjC9uIQ3xCmIIczBAkQVxFIKaKfYbPoowKlF0-l6G0W8mWjBPMVEIIA.webp"
-    },
     {
       "id": "vizela-vs-felgueiras-2512966",
       "title": "Vizela vs Felgueiras",
@@ -52,6 +25,15 @@
       "start_time_bd": "06 Sep 2026, 04:15 PM (BD Time)",
       "start_epoch_ms": 1788689700000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmBIhR8kHxDc9IYzhwwQKC0YtMkFPsNn0Umtii6by9LLPdNaYK70ohBAA.webp"
+    },
+    {
+      "id": "birmingham-city-vs-wolverhampton-wanderers-2501299",
+      "title": "Birmingham City vs Wolverhampton Wanderers",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "06 Sep 2026, 05:00 PM (BD Time)",
+      "start_epoch_ms": 1788692400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECljQpIKZBDcQfECZwRdRjbiMFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp"
     },
     {
       "id": "birmingham-vs-wolves-football-1563131",
