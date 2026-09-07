@@ -1,31 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 48,
-  "total_matches": 48,
+  "total_items": 74,
+  "total_matches": 74,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-07 | 04:55:51",
-  "updated_at_bd": "2026-09-07T04:55:51+06:00",
+  "updated_time_bd": "2026-09-07 | 06:48:09",
+  "updated_at_bd": "2026-09-07T06:48:09+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "deportivo-pereira-vs-millonarios-2481173",
-      "title": "Deportivo Pereira vs Millonarios",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Sep 2026, 05:10 AM (BD Time)",
-      "start_epoch_ms": 1788736200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAYGIKNxBSQeviBI6QiRKdMRzBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-    },
-    {
-      "id": "racing-club-vs-atletico-tucuman-football-1493116",
-      "title": "Racing Club vs Atletico Tucuman",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Sep 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1788741000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIRP3rkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbMvrkGAY2bie8EVW4EurMGFz5zQA.webp"
-    },
     {
       "id": "toluca-vs-monterrey-2599040",
       "title": "Toluca vs Monterrey",
@@ -34,15 +16,6 @@
       "start_time_bd": "07 Sep 2026, 07:15 AM (BD Time)",
       "start_epoch_ms": 1788743700000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRBUQMiCBggAxsHjYQclCCwhEKYNMXqV+kCXWmppkyDUxgEfSp17+YQSKbZ6YQsCS5FPSE3VgcJMj0CYzA3e1J7IA.webp"
-    },
-    {
-      "id": "cruz-azul-vs-santos-laguna-2487514",
-      "title": "Cruz Azul vs Santos Laguna",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Sep 2026, 08:00 AM (BD Time)",
-      "start_epoch_ms": 1788746400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiJgEIEOxDcQfXSAimQMECQshEfAsCQV7rEWM0qUXMGXhEssl5MtNqi9GFAA.webp"
     },
     {
       "id": "asteras-tripolis-vs-iraklis-1908-2539939",
@@ -270,58 +243,319 @@
       "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRP3rkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRDHrkGAY2bie8EVW4EurMGFz5zQA.webp"
     },
     {
-      "id": "1029",
-      "title": "Club Brugge - Aston Villa",
+      "id": "union-santa-fe-vs-instituto-cordoba-football-1493120",
+      "title": "Union Santa Fe vs Instituto Cordoba",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "08 Sep 2026, 06:15 AM (BD Time)",
+      "start_epoch_ms": 1788826500000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIikCTrkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIAMYgQ9cg2XNxPeCKrcCXVmDC58FoA.webp"
+    },
+    {
+      "id": "llaneros-vs-deportivo-cali-2481174",
+      "title": "Llaneros vs Deportivo Cali",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "08 Sep 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1788829200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiClgQIekjYhuIDTojGd5nSWMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "aek-athens-youth-vs-lask-youth-2598290",
+      "title": "AEK Athens Youth vs LASK Youth",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "08 Sep 2026, 03:00 PM (BD Time)",
+      "start_epoch_ms": 1788858000000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS60Z4wgBMQvEFhAGD1EMZghtx+AQr4BKHmDLwiCsfdv0wj8WIhA/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS4gQJEP2ogUYFJpBY1x7dpiGdOghXwCUPMGXhEFY+7fphH4sRCA.webp"
+    },
+    {
+      "id": "porto-u19-vs-manchester-city-u19-football-1637310",
+      "title": "Porto U19 vs Manchester City U19",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "08 Sep 2026, 05:00 PM (BD Time)",
+      "start_epoch_ms": 1788865200000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQgqa+uQaLm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQgiICPXINFzcT3giq3Al1ZgwufFaA.webp"
+    },
+    {
+      "id": "club-brugge-youth-vs-aston-villa-youth-2598286",
+      "title": "Club Brugge Youth vs Aston Villa Youth",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "08 Sep 2026, 06:00 PM (BD Time)",
+      "start_epoch_ms": 1788868800000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gUYVSRAhKIbiFU4AJgZAmYuEBDMEKTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIFBQAmYJCD4hue3CE1HThxCRAwCFJnxRcwZeEXmjHTWmGdjREIA.webp"
+    },
+    {
+      "id": "lille-u19-vs-real-betis-u19-football-1637311",
+      "title": "Lille U19 vs Real Betis U19",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "08 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1788872400000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQgYIFXXINFzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCCIgUy+uQYBjZuJ7wRVbgS6swYXPmtA.webp"
+    },
+    {
+      "id": "borussia-dortmund-u19-vs-villarreal-u19-football-1637309",
+      "title": "Borussia Dortmund U19 vs Villarreal U19",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "08 Sep 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1788876000000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBUoQMeuQaLm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIAMYqQMEEzrkGy5uJ7wRVbgS6swYXPmtA.webp"
+    },
+    {
+      "id": "real-madrid-u19-vs-internazionale-u19-football-1637312",
+      "title": "Real Madrid U19 vs Internazionale U19",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "08 Sep 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1788876000000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQgqIfvXINFzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQgYIePXINFzcT3giq3Al1ZgwufFaA.webp"
+    },
+    {
+      "id": "al-ettifaq-vs-al-faisaly-2573348",
+      "title": "Al-Ettifaq vs Al-Faisaly",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "08 Sep 2026, 09:30 PM (BD Time)",
+      "start_epoch_ms": 1788881400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlXAwQKPgxC8QWECeOIUIRIhKWWSClhFzGKMKt0c35RtTm78rMBgbuJiEEA.webp"
+    },
+    {
+      "id": "al-hazm-vs-al-taawon-football-1603020",
+      "title": "Al-Hazm vs Al Taawon",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "08 Sep 2026, 09:55 PM (BD Time)",
+      "start_epoch_ms": 1788882900000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCAghs9cgwDGzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCET965BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    {
+      "id": "aek-athens-vs-lask-2594650",
+      "title": "AEK Athens vs LASK",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "08 Sep 2026, 10:45 PM (BD Time)",
       "start_epoch_ms": 1788885900000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrxDSQqsKpCasIY0ZQGdWkEZAskFLCLmMUejih57yjanPf5WwGCujGIQQA.webp"
     },
     {
-      "id": "1030",
-      "title": "AEK Athens - LASK",
+      "id": "club-brugge-vs-aston-villa-2594644",
+      "title": "Club Brugge vs Aston Villa",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "08 Sep 2026, 10:45 PM (BD Time)",
       "start_epoch_ms": 1788885900000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjmkgSIQSgQheukCawgUh7SC1n4LJBSwi5jfapQ8wZeEWpyP+KzAYF7iYhBAA.webp"
     },
     {
-      "id": "1031",
-      "title": "Lille - Real Betis",
+      "id": "nec-nijmegen-vs-excelsior-2489085",
+      "title": "NEC Nijmegen vs Excelsior",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "08 Sep 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1788885900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFGF5SwIEDGYhuIPrtxmYIFJZBTDBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp"
+    },
+    {
+      "id": "al-ittihad-vs-al-fayha-2573351",
+      "title": "Al-Ittihad vs Al-Fayha",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1788890400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKolFMkzENxB8QJECZwpcICEZBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "al-qadisiyah-fc-vs-al-ahli-jeddah-football-1603022",
+      "title": "Al-Qadisiyah FC vs Al-Ahli Jeddah",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1788890400000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCETx65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFIuX1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    {
+      "id": "doncaster-rovers-vs-huddersfield-town-2531823",
+      "title": "Doncaster Rovers vs Huddersfield Town",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1788890400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBgMQKENLBjpIXiCwhzZmCEQRTmnSyQUsIuYxQGOKHgfKNqct74rMBgnoxiEEA.webp"
+    },
+    {
+      "id": "exeter-city-vs-tottenham-hotspur-u21-2531843",
+      "title": "Exeter City vs Tottenham Hotspur U21",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1788890400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiE1hVIMtRC8QWTUZAwQiCKf0kWSClhFzGKbRxQ9t5RtTkf8rMBgboxiEEA.webp"
+    },
+    {
+      "id": "blackburn-vs-sheffield-utd-football-1563143",
+      "title": "Blackburn vs Sheffield Utd",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788893100000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IAMb1yDVVnE94IqtwJdWYMLnxmgA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IJnXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    {
+      "id": "bournemouth-vs-lincoln-city-2594453",
+      "title": "Bournemouth vs Lincoln City",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788893100000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgYIEMCa8ADCG4gSIRBDUg++ywYAmBCkz4ouYMvCLzRTprTAuxoiCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphAgIIACZEk7ENxB89IFKs0gYRxDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    {
+      "id": "cardiff-city-vs-stoke-city-2501312",
+      "title": "Cardiff City vs Stoke City",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788893100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwh6rWkykhuIPiBM4IIfcZQhEfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp"
+    },
+    {
+      "id": "crystal-palace-vs-middlesbrough-2594457",
+      "title": "Crystal Palace vs Middlesbrough",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788893100000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQ8QAE3YhaobhpAl9MEHoggU53AQpM+qtmDLwi80aqa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15QAJsCT8QfENx0hDMEMbWGQKE7gIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    {
+      "id": "leyton-orient-vs-bradford-city-2594465",
+      "title": "Leyton Orient vs Bradford City",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788893100000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4h6EECgbsQ3EABMQRo4dVHVKEHwIUm1rmDLwi80Vqa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1HywIcEnUhuIPhp16QifRGO4CFJnxRcwZeEXmjbTWmHtjREIA.webp"
+    },
+    {
+      "id": "oxford-united-vs-reading-2500723",
+      "title": "Oxford United vs Reading",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788893100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGCRgQoEHCkhuIPiFM4IIAyUunTBYFpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "southampton-vs-swansea-city-2501311",
+      "title": "Southampton vs Swansea City",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788893100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGD4gQ-diBghuILdpwQQU4yBQhEfAsCQV7rEWJRgVKLp-L0sst5MtGCeYqIQQA.webp"
+    },
+    {
+      "id": "sunderland-vs-hull-city-2594461",
+      "title": "Sunderland vs Hull City",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788893100000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpNjUoZRNxARtIPXq2IdKPQQpM+KLmA1F5oq01pgbY0RCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmDMNw1juIHSpAxdIPrhD6dO+AQpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    {
+      "id": "watford-vs-preston-north-end-2501309",
+      "title": "Watford vs Preston North End",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788893100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEInjkpIXiF0g++3CAggdRlBpAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "wrexham-vs-burnley-2501320",
+      "title": "Wrexham vs Burnley",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788893100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiBggN3XOxC6+IYzgggpIIyhBmFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "bolton-wanderers-vs-west-ham-united-2501315",
+      "title": "Bolton Wanderers vs West Ham United",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "09 Sep 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1788894000000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBT8EzEIm4g+IYzgggphzSDMwCwJBT7DZ9FGBVa278vSyytTLRg7mKiEEA.webp"
     },
     {
-      "id": "1032",
-      "title": "Borussia Dortmund - Villarreal",
+      "id": "borussia-dortmund-vs-villarreal-2594572",
+      "title": "Borussia Dortmund vs Villarreal",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "09 Sep 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1788894000000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEYQQ1EGP67eILCFMmUIIyRDSQMEChZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp"
     },
     {
-      "id": "1033",
-      "title": "Porto - Manchester City",
+      "id": "lille-vs-real-betis-2594556",
+      "title": "Lille vs Real Betis",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "09 Sep 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1788894000000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdilxxpIHVhC8Q+kEZAoDIEpbMhF+YEgpYRcxptUoeYMvCLU5nvb0YN7iYhBAA.webp"
     },
     {
-      "id": "1034",
-      "title": "Real Madrid - Inter Milan",
+      "id": "millwall-vs-newcastle-united-2594460",
+      "title": "Millwall vs Newcastle United",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "09 Sep 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1788894000000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkYIbmCSrgABg2qQiPrhDqQFyyAIUmfFFzBl4ReaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzCgwfMKJRgkIbiAAmuPSBIgUIRIhi4CFJnxRdN5evK3AmtMJrGiIQA.webp"
+    },
+    {
+      "id": "porto-vs-manchester-city-2594591",
+      "title": "Porto vs Manchester City",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1788894000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCCjSwJEDGDbeII1hBnTKYyF3SQ1ayyQUsIuYxQ6OKHjvKNqct74rMBgnoxiEEA.webp"
+    },
+    {
+      "id": "real-madrid-vs-inter-milan-2594629",
+      "title": "Real Madrid vs Inter Milan",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1788894000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmWogcOGPJC9tIY1hAoDIEiGnWDLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp"
+    },
+    {
+      "id": "fluminense-vs-platense-2580242",
+      "title": "Fluminense vs Platense",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 04:00 AM (BD Time)",
+      "start_epoch_ms": 1788904800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBRgUA4AAYQ9XiGNYQ5s2emab1mCyQUsIuYy2qdHMGXhFqcnXxWYDBvcTEIIA.webp"
+    },
+    {
+      "id": "independiente-santa-fe-vs-vasco-da-gama-2594419",
+      "title": "Independiente Santa Fe vs Vasco da Gama",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "09 Sep 2026, 04:00 AM (BD Time)",
+      "start_epoch_ms": 1788904800000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcQAEzCbEfELrXrcIFKqM5dh5YRjAmfFFzBl4ReaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTBCvMGBCUQ3EABMQiGCBK5dFkygIUmfVWzBl4ReaNVNam0VLpA.webp"
     },
     {
       "id": "1035",

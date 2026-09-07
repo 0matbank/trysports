@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 5,
-  "total_matches": 2,
-  "total_streams": 5,
-  "updated_time_bd": "2026-09-07 | 04:55:51",
-  "updated_at_bd": "2026-09-07T04:55:51+06:00",
+  "total_items": 7,
+  "total_matches": 3,
+  "total_streams": 7,
+  "updated_time_bd": "2026-09-07 | 06:48:09",
+  "updated_at_bd": "2026-09-07T06:48:09+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -26,25 +26,25 @@
           "channel_name": "Apple TV (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgSIGNhEgaVEMJAoFweMAjAlIGVPUQ9ILKVIKp2ZSCMq90yaPLaBQkUzkpyhYElzivITBuTm1hMy8CDXJgrTMIIA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/oaYsiEZhIWCrIckDiehffJCpMZDbFlrp/rtmp/stream/-7XnrA0vRC_Cq34vNqeJ09BOhDesRfr74_P6tPm1Dkmp93A_2xXAItoOV3zasQfFJW835q2lYLzA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/cPmtbiBitMHmwWDpzlnpxiNdaQsucwTM/rtmp/stream/cTL-BXeJ8KOXbutOjxYzOMcQuerTj7k4a32wscPXF6aruCqBXtBjq61JjbFPNawzxfeqdV9B0brp/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgSIGNhEgaVEMJAoFweMAjAlIGVPUQ9ILKVIKp2ZSCMq90yaPLaBQkUzkpyhYElzivITBuTm1hMy8CDXJgrTMIIA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/ScxXWzdMtcCvKCVURQNRLOJPjOJmOqDp/rtmp/stream/TQcjUGekWqm7UhcwnB0QqPGQST9CkGJCOqnEtvzUe0b3UOLw3RdpZ4xgRENe10OhH1xI4NqSJCnrqmn3tw/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/eGwJJXoZIGcuDtJiEHotTwyrZAcGcbhM/rtmp/stream/KL1IaQd4mKjQ6kc04Jabx02hTg_VvutlEZIZddhDC9Jt9FXMLgr5RLOCFFlsPQbLIam0kcyAvcQ9adRiQw/1/playlist.m3u8"
         },
         {
           "channel_name": "Spanish - Apple TV (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgSIGNhEgaVEMJAoFweMAjAlIGVPUQ9ILKVIKp2ZSCMq90yaPLaBQkUzkpyhYElzivITBuTm1hMy8CDXJgrTMIIA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/uQlWUWyTlRTozqIDpmDfdAeIyUvZxLKe/rtmp/stream/s6dbAzF146cOznsiJMcx6U7I5ZcF2kXeA-bkj74sHPg0R2O7U7aryTp3StSb2mJAl56iIy08OXU/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/spYnKQVjqPdMpunKiiNhSMeaPoEopnhA/rtmp/stream/kQPSIpnJbuq3Bcj3FGflNogRdPfZLaNE_xkevZufMMloHy2dVyhyd169l8T4m3EoON2zliLOEpA/1/playlist.m3u8"
         },
         {
           "channel_name": "Spanish - Apple TV (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgSIGNhEgaVEMJAoFweMAjAlIGVPUQ9ILKVIKp2ZSCMq90yaPLaBQkUzkpyhYElzivITBuTm1hMy8CDXJgrTMIIA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb4.strmd.st/secure/rOPIjpobnlFUjUgXLdYogAZqhLlqOOxh/rtmp/stream/P88uOCxV1VQkZ3_Avl8DN0FnqYmYPBYtSg-wFYgfa_JsZgAOkMjAY65Vah-Pit7DoE_Fau7C1lX8A9-p/1/playlist.m3u8"
+          "direct_stream_url": "https://lb1.strmd.st/secure/JkIkVcnPxPFGffyuhomhyWAKXFTQFnRK/rtmp/stream/DOmgmg59YKV-vomwOXv-ZYCmVO1B77yklJARjetYkVpmEch-pWDcHArCZE46_1lWUeVPoK1HDjvI2LMo/1/playlist.m3u8"
         }
       ]
     },
@@ -66,7 +66,35 @@
           "channel_name": "Espanyol vs Sevilla (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rErnJYEwJCG4g+IYxBAoQMEKdMaJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/LjRuXYDzFVsaPraCdTNNpqhDCQZMfbQb/delta/stream/live_laliga_espanyol-sevilla-live-streaming-613932912/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/YrSFrCApfOdtwEsFNKdwkrDHOKqJcRsm/delta/stream/live_laliga_espanyol-sevilla-live-streaming-613932912/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "cruz-azul-vs-santos-laguna-2487514",
+      "title": "Cruz Azul vs Santos Laguna",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "07 Sep 2026, 08:00 AM (BD Time)",
+      "start_epoch_ms": 1788746400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiJgEIEOxDcQfXSAimQMECQshEfAsCQV7rEWM0qUXMGXhEssl5MtNqi9GFAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - TUDN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiJgEIEOxDcQfXSAimQMECQshEfAsCQV7rEWM0qUXMGXhEssl5MtNqi9GFAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/yDzrxTjxCcPKNpDVIBqAokZdNqOpjLUi/rtmp/stream/uqtZ38cutUsz2H1IyngVEnx1EICg2rhdcSiKqtQ7AZ8W9WzDzkxsMikd04b-BcOZGRrh1Zt_-ZA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - TUDN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiJgEIEOxDcQfXSAimQMECQshEfAsCQV7rEWM0qUXMGXhEssl5MtNqi9GFAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/nkeNmwNWFLUNzckzzkQEKGXZQMrazixG/rtmp/stream/6oMS0ERaBRCVKTSJRj7ZKU_tLFjHnac8Z9i6_KbBTUx4doBgEoU1ZdRDWNWIK42qub-u9I7DxRD6lsoV/1/playlist.m3u8"
         }
       ]
     }
