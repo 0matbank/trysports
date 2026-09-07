@@ -1,22 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 164,
-  "total_matches": 164,
+  "total_items": 163,
+  "total_matches": 163,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-08 | 01:50:52",
-  "updated_at_bd": "2026-09-08T01:50:52+06:00",
+  "updated_time_bd": "2026-09-08 | 04:18:45",
+  "updated_at_bd": "2026-09-08T04:18:45+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "barracas-central-vs-argentinos-juniors-2398057",
-      "title": "Barracas Central vs Argentinos Juniors",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "08 Sep 2026, 04:00 AM (BD Time)",
-      "start_epoch_ms": 1788818400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMzDcQEEPDAoQ2viCkhDZkyd0gQJAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
     {
       "id": "llaneros-vs-deportes-tolima-2481134",
       "title": "Llaneros vs Deportes Tolima",
