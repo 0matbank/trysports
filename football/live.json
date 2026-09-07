@@ -1,11 +1,130 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-07 | 21:59:53",
-  "updated_at_bd": "2026-09-07T21:59:53+06:00",
+  "total_items": 9,
+  "total_matches": 4,
+  "total_streams": 9,
+  "updated_time_bd": "2026-09-08 | 01:50:52",
+  "updated_at_bd": "2026-09-08T01:50:52+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "elche-vs-real-sociedad-2506208",
+      "title": "Elche vs Real Sociedad",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "08 Sep 2026, 01:30 AM (BD Time)",
+      "start_epoch_ms": 1788809400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7NgABlhg+IbiEMgQEECg3mbJMwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7NgABlhg+IbiEMgQEECg3mbJMwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/zJAutjFmYysyGVoOKJbBkjSNEdtlKdCa/rtmp/stream/LCBBhISlknaz91XHLGpcQx7U5_RhXB1_QcTobf8ddls_o9J2FRJhAlb4rnb1zuM_8k18R7J1HYY/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "ESPN+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7NgABlhg+IbiEMgQEECg3mbJMwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb8.strmd.st/secure/OEnDLkhenbAPwZgBfdkgZMnUwIsZFMIw/rtmp/stream/wodo6WxQLxdJ0h4mIt9glaHPYbAeh7r-APg2_95VbKl9mkIDZT5OZdzmWdJsoJi0xBc-NeLbKqf-FQdp/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Elche vs Real Sociedad (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7NgABlhg+IbiEMgQEECg3mbJMwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/MDlYvkpfaDvAhTRMTqfUIsdVxKulLKcF/delta/stream/live_laliga_elche-real-sociedad-live-streaming-614104848/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "nantes-vs-nancy-lorraine-2488742",
+      "title": "Nantes vs Nancy Lorraine",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "08 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788806700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAYQcFGBIgUIbiD4gzxnBDMGQVmAWBIKfYbPq6VKLnvL0ssryZaMD0xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "French - beIN SPORTS 1 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAYQcFGBIgUIbiD4gzxnBDMGQVmAWBIKfYbPq6VKLnvL0ssryZaMD0xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/IBDWDvQYVywwPDcpEJbemKDmBMmeelwn/rtmp/stream/Y3nahfT2yWkVdDqnYzeOJN_XsjVeG6lE2Lt1T1co6Ol0GohA1F_3XczZGqUjV8wW54XJmLsR3oKx/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "French - beIN SPORTS 1 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAYQcFGBIgUIbiD4gzxnBDMGQVmAWBIKfYbPq6VKLnvL0ssryZaMD0xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/dAcjLReIXftzEaPTPgZbdccdaHNkIYuT/rtmp/stream/nw94d0fUqFt4qs9rZ9rzPezIfJ6yOt-HX7n1irEpSwrsR7aMUbWW_Aip29z6ygosYz90oQRA9_NdQ1lM6Q/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "udinese-vs-lazio-2482159",
+      "title": "Udinese vs Lazio",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "08 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1788806700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAhZwWJBDcNIEsZAoQiCCCsxcBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAhZwWJBDcNIEsZAoQiCCCsxcBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/ZsNgoNhCckCnXJWHWtioETSYSczdFWOE/rtmp/stream/n2tIaO92T8QmbsVQCQTTJe8sNhoMHj0DMipAVF10NT102YdBroNwrF3aKEeStygfVBIFNB93Rho/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAhZwWJBDcNIEsZAoQiCCCsxcBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/LvccxgeozgdbtXoFgzCFMeUakzwYbPWu/rtmp/stream/OmkCsZJfgACxSzhTmYYz71xyZNmV9Y8g_sunJ6KpkgnndUQMT4piatGty1XIgs56cC4Fwg2L59htVMBx/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Udinese vs Lazio (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAhZwWJBDcNIEsZAoQiCCCsxcBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/ClYrGykyDrbIiRRxGQzhbmonYvSrfcQG/delta/stream/live_serie-a_udinese-lazio-live-streaming-614103984/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "al-hilal-vs-neom-2573347",
+      "title": "Al-Hilal vs Neom",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "08 Sep 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1788804000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSHoAGEDBAo6IbiD4gSICzhS59NhUyQU+w2fRRgVBth-L0ssgyZaMA8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Al-Hilal vs Neom (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSHoAGEDBAo6IbiD4gSICzhS59NhUyQU+w2fRRgVBth-L0ssgyZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/EJZTKwujHTLzPiRvDiBaZdmtmNRPdIeS/delta/stream/live_saudi-pro-league_al-hilal-neom-live-streaming-614113488/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
