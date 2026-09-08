@@ -1,34 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 1,
-  "total_matches": 1,
-  "total_streams": 1,
-  "updated_time_bd": "2026-09-08 | 04:18:45",
-  "updated_at_bd": "2026-09-08T04:18:45+06:00",
+  "total_items": 0,
+  "total_matches": 0,
+  "total_streams": 0,
+  "updated_time_bd": "2026-09-08 | 06:30:24",
+  "updated_at_bd": "2026-09-08T06:30:24+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "elche-vs-real-sociedad-2506208",
-      "title": "Elche vs Real Sociedad",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "08 Sep 2026, 01:30 AM (BD Time)",
-      "start_epoch_ms": 1788809400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7NgABlhg+IbiEMgQEECg3mbJMwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Elche vs Real Sociedad (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7NgABlhg+IbiEMgQEECg3mbJMwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/ZuKgeiHEzyOfgJstAceHvkaaxCWCxlqk/delta/stream/live_laliga_elche-real-sociedad-live-streaming-614104848/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
