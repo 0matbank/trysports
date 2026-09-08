@@ -1,22 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 186,
-  "total_matches": 186,
+  "total_items": 185,
+  "total_matches": 185,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-08 | 06:30:24",
-  "updated_at_bd": "2026-09-08T06:30:24+06:00",
+  "updated_time_bd": "2026-09-08 | 11:06:30",
+  "updated_at_bd": "2026-09-08T11:06:30+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "llaneros-vs-deportivo-cali-2481174",
-      "title": "Llaneros vs Deportivo Cali",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "08 Sep 2026, 07:00 AM (BD Time)",
-      "start_epoch_ms": 1788829200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiClgQIekjYhuIDTojGd5nSWMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "aek-athens-youth-vs-lask-youth-2598290",
       "title": "AEK Athens Youth vs LASK Youth",
