@@ -1,6 +1,76 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-09-09 | 20:16:19
+# TOTAL-ITEMS: 10
+# UPDATED Time and date BD: 2026-09-09 | 23:52:18
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="TNT Sports 3 (HD)" tvg-name="TNT Sports 3 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLAgGIHElAheukCawgUhkCRDSrhlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football", TNT Sports 3 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb12.strmd.st/secure/ZQoRgyQmyFUQMFJNCxfOUuWZQvbWkwVE/rtmp/stream/ilACJRJnwkXdWmszQmQC0Zh97T4Oh3dyyaQi34SSCQl70ak0Wa7Z9ppPIrtJGXFgREsV51UxPJUT/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 3 (SD)" tvg-name="TNT Sports 3 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLAgGIHElAheukCawgUhkCRDSrhlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football", TNT Sports 3 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb12.strmd.st/secure/UBQdaeSgUeOERKBSzDxXOmpzutdKtuvU/rtmp/stream/c8qfYyjOSbBiJjz7UxOmV6TYocR8OrGxb7cLbAzTlczfdzzyJu6Jr4kwt3q_Qr0tNvAfR4DrYuKflW9mkg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+ (HD)" tvg-name="Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLAgGIHElAheukCawgUhkCRDSrhlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football", Paramount+ (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb12.strmd.st/secure/tiftIxYETShafqKwbEMjoiHoKrJYJqzu/rtmp/stream/RLGwfHdmuAOgsGtV4izViOWT69ZyIjDrQin0eaYWB7usflMTnjqYNkVwyzjwJllk40sgdSaJklynGg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+ (SD)" tvg-name="Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLAgGIHElAheukCawgUhkCRDSrhlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football", Paramount+ (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb12.strmd.st/secure/uxWfwwhfpxpNfSEAkFrRbrexYSCneAFH/rtmp/stream/L1KceYkJ4XBp0iavA9kt4ng9_iSH9PQsJZrB2d1OpSvfNlyDA5r82fW8nhjwr9AWT5KR2h5zt46gitSTHOo/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Barcelona vs Feyenoord (HD)" tvg-name="Barcelona vs Feyenoord (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLAgGIHElAheukCawgUhkCRDSrhlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football", Barcelona vs Feyenoord (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/ZMElUuRfYWHEmyvUsqnIOVaifDAEqpSS/delta/stream/live_uefa-champions-league_barcelona-feyenoord-live-streaming-614240928/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Barcelona vs Feyenoord (HD)" tvg-name="Barcelona vs Feyenoord (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLAgGIHElAheukCawgUhkCRDSrhlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football", Barcelona vs Feyenoord (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://cdn14.zohanayaan.com:1686/hls/mmevent10.m3u8?md5=ZeXRgdd9NApdr2T4SFacww&expires=1788983534
+
+#EXTINF:-1 tvg-id="Paramount+ (HD)" tvg-name="Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRD8QIeNg5aQWHUZApDm6YcX5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp" group-title="Football", Paramount+ (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb4.strmd.st/secure/eWnMGMnsIORDNswVgsszymqEhhkqlvdQ/rtmp/stream/wfNpoHLq5cmGXA0dL_3_c4pb8KkKJuBzLd3-3fy1ByiodA1mFIW3FKEUIYTCU8UX-xZvk-ahNR00/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+ (SD)" tvg-name="Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRD8QIeNg5aQWHUZApDm6YcX5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp" group-title="Football", Paramount+ (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb4.strmd.st/secure/DTtPIRCAbyntnQaOKgcpcMAsMuYOyVRB/rtmp/stream/ukn7Duyev4Dn9raqjDfM_KkFO_jYleWKnBEGNtTTjBrc3WJMtHxbh66K06N0pRuMfuE9MfZBhTVYDobY2w/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Stuttgart vs Viking (HD)" tvg-name="Stuttgart vs Viking (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRD8QIeNg5aQWHUZApDm6YcX5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp" group-title="Football", Stuttgart vs Viking (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb4.strmd.st/secure/DMYhbuOEBbZAEOxcuRKTUrQmoplCpMTq/delta/stream/live_uefa-champions-league_stuttgart-viking-live-streaming-614281104/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Stuttgart vs Viking (HD)" tvg-name="Stuttgart vs Viking (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRD8QIeNg5aQWHUZApDm6YcX5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp" group-title="Football", Stuttgart vs Viking (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://cdn13.zohanayaan.com:1686/hls/mevent11.m3u8?md5=gG3X-m5hCj_ObchW2mAMTg&expires=1788983527
 
