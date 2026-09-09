@@ -1,67 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 165,
-  "total_matches": 165,
+  "total_items": 160,
+  "total_matches": 160,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-09 | 15:53:41",
-  "updated_at_bd": "2026-09-09T15:53:41+06:00",
+  "updated_time_bd": "2026-09-09 | 20:16:19",
+  "updated_at_bd": "2026-09-09T20:16:19+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "barcelona-u19-vs-feyenoord-u19-football-1637313",
-      "title": "Barcelona U19 vs Feyenoord U19",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "09 Sep 2026, 04:00 PM (BD Time)",
-      "start_epoch_ms": 1788948000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBUrs9cg0XNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQg1JOuQaLm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    {
-      "id": "stuttgart-youth-vs-viking-youth-2598295",
-      "title": "Stuttgart Youth vs Viking Youth",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "09 Sep 2026, 04:30 PM (BD Time)",
-      "start_epoch_ms": 1788949800000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzi6FfCG4g+uEABMdBrSBhGJhGMCZ8UXMGXhF5ou01pgHY0RCA/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSXQgSakLRCtYIXiCwgjR6npAoDIGJoIV8AlDzBl4RBWMf36YZ+LEQgA.webp"
-    },
-    {
-      "id": "napoli-u19-vs-arsenal-u19-football-1637315",
-      "title": "Napoli U19 vs Arsenal U19",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "09 Sep 2026, 06:00 PM (BD Time)",
-      "start_epoch_ms": 1788955200000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQgiS+uQaLm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikIgDGIEnXINVzcT3giq3Al1ZgwufFaA.webp"
-    },
-    {
-      "id": "psg-u19-vs-slovan-bratislava-u19-football-1637316",
-      "title": "PSG U19 vs Slovan Bratislava U19",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "09 Sep 2026, 06:30 PM (BD Time)",
-      "start_epoch_ms": 1788957000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQgqIEnXINFzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQhEEeuQaLm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    {
-      "id": "sporting-cp-youth-vs-galatasaray-youth-2600497",
-      "title": "Sporting CP Youth vs Galatasaray Youth",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "09 Sep 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1788958800000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSXQgxOEMDBgSIXnpBYQx49QMo1IM80Ixg+ASh47yjBWKcP62sdIZA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAgotMkkghuIPiBggSuEyjUgAJkYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-    },
-    {
-      "id": "liverpool-u19-vs-atletico-madrid-u19-football-1637314",
-      "title": "Liverpool U19 vs Atlético Madrid U19",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "09 Sep 2026, 08:00 PM (BD Time)",
-      "start_epoch_ms": 1788962400000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQgYK+uQaLm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBUqI9cg0XNxPeCKrcCXVmDC58FoA.webp"
-    },
     {
       "id": "levadiakos-vs-aris-2593106",
       "title": "Levadiakos vs Aris",
@@ -448,6 +394,15 @@
       "start_time_bd": "10 Sep 2026, 08:30 AM (BD Time)",
       "start_epoch_ms": 1789007400000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFDzBJcYGQAYQ3EH2OHTJEIgggYIFAWBIKfYbPoowKjW0-l6WWQ0mWjBPMVEIIA.webp"
+    },
+    {
+      "id": "barcelona-u19-vs-feyenoord-u19-football-1637313",
+      "title": "Barcelona U19 vs Feyenoord U19",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "10 Sep 2026, 01:30 PM (BD Time)",
+      "start_epoch_ms": 1789025400000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBUrs9cg0XNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQg1JOuQaLm4nvBFVuBLqzBhc+S0A.webp"
     },
     {
       "id": "fenerbahce-u19-vs-roma-u19-football-1637321",
