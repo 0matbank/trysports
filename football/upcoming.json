@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 164,
-  "total_matches": 164,
+  "total_items": 165,
+  "total_matches": 165,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-09 | 06:43:10",
-  "updated_at_bd": "2026-09-09T06:43:10+06:00",
+  "updated_time_bd": "2026-09-09 | 11:19:45",
+  "updated_at_bd": "2026-09-09T11:19:45+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -178,6 +178,15 @@
       "start_time_bd": "10 Sep 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1788980400000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkgYPWoi28QWECZPGT1TVekskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp"
+    },
+    {
+      "id": "goals-show-game-1888922",
+      "title": "⚽ ⚽ ⚽ Goals Show ⚽ ⚽ ⚽",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "10 Sep 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1788980400000,
+      "poster": "https://streamed.pk/favicon.ico"
     },
     {
       "id": "liverpool-vs-atl-tico-madrid-2594541",
