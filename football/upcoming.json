@@ -1,76 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 147,
-  "total_matches": 147,
+  "total_items": 142,
+  "total_matches": 142,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-10 | 11:09:20",
-  "updated_at_bd": "2026-09-10T11:09:20+06:00",
+  "updated_time_bd": "2026-09-10 | 15:41:08",
+  "updated_at_bd": "2026-09-10T15:41:08+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "barcelona-u19-vs-feyenoord-u19-football-1637313",
-      "title": "Barcelona U19 vs Feyenoord U19",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 01:30 PM (BD Time)",
-      "start_epoch_ms": 1789025400000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBUrs9cg0XNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQg1JOuQaLm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    {
-      "id": "fenerbahce-u19-vs-roma-u19-football-1637321",
-      "title": "Fenerbahce U19 vs Roma U19",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 05:00 PM (BD Time)",
-      "start_epoch_ms": 1789038000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIZUoghs9cgwDGzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQh+a+uQaLm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    {
-      "id": "psv-eindhoven-youth-vs-shakhtar-donetsk-youth-2598299",
-      "title": "PSV Eindhoven Youth vs Shakhtar Donetsk Youth",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 06:00 PM (BD Time)",
-      "start_epoch_ms": 1789041600000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgSIFMAAmwJLpDcQfEDDW4QiRKcQbCMYEz6a2YMvCLzRmprTCuxohBAA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl5gQMdkRIhuIPupDacObQBNcIFAQpM+KLmDLwi80faa0wjsaIhA.webp"
-    },
-    {
-      "id": "slavia-praha-u19-vs-lens-u19-football-1637324",
-      "title": "Slavia Praha U19 vs Lens U19",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 06:00 PM (BD Time)",
-      "start_epoch_ms": 1789041600000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQhE8euQaLm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikIgDGi+uQarm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    {
-      "id": "como-youth-vs-rb-leipzig-youth-2598300",
-      "title": "Como Youth vs RB Leipzig Youth",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1789045200000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxwCkCECFIhuIPpoM4cMPSBPLCMYEz4ouYMvCLzRdprTAOxoiEA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDgQXMDzB8Q3EDpggSuEzp0RVBCkz4oNZeEXmi7TWmDCipdIA.webp"
-    },
-    {
-      "id": "manchester-united-youth-vs-sabah-baku-youth-2598298",
-      "title": "Manchester United Youth vs Sabah Baku Youth",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1789045200000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzCCQwACZgkIPiG66QMECVwhEEIyEuMKTPii5gy8IvNGOmtMM7GiIQA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgUpfpTYhuIPiAggAJiBghEiQyRDLCMYEz7q2YMvCLzR6prTCuxohBAA.webp"
-    },
-    {
-      "id": "bayern-munchen-u19-vs-bodo-glimt-u19-football-1637319",
-      "title": "Bayern München U19 vs Bodø / Glimt U19",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 08:00 PM (BD Time)",
-      "start_epoch_ms": 1789048800000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBUrF9cg3VZxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiGyqQ8euQYBjZuJ7wRVbgS6swYXPmtA.webp"
-    },
     {
       "id": "asteras-tripolis-vs-aris-2600186",
       "title": "Asteras Tripolis vs Aris",
@@ -81,8 +18,8 @@
       "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh2nAAJrjBqGIbiD4hDJfSYM4DKAhSZ8UXMGXhF5ou01pgHY0RCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulx0Q3MEk4h1IACYgYuEHxMhEBiOoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
     },
     {
-      "id": "ppv-sundy-vs-fc-midtjylland",
-      "title": "Sundy vs. FC Midtjylland",
+      "id": "sundby-vs-fc-midtjylland-2595373",
+      "title": "Sundby vs FC Midtjylland",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "10 Sep 2026, 10:00 PM (BD Time)",
@@ -153,6 +90,15 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHPTZUUIPiG66QRvToMkQUkDoVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
+      "id": "goals-show-game-1888922",
+      "title": "⚽ ⚽ ⚽ Goals Show ⚽ ⚽ ⚽",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "11 Sep 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1789066800000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
       "id": "manchester-united-vs-sabah-baku-2594538",
       "title": "Manchester United vs Sabah Baku",
       "category": "football",
@@ -160,6 +106,15 @@
       "start_time_bd": "11 Sep 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1789066800000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMohIgZYXCG4g+IY0ZT6QWrUcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+    },
+    {
+      "id": "ppv-the-golazo-show",
+      "title": "The Golazo Show",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "11 Sep 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1789066800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp"
     },
     {
       "id": "slavia-prague-vs-lens-2594641",
