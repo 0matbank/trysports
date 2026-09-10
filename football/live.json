@@ -1,69 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 12,
-  "total_matches": 5,
-  "total_streams": 12,
-  "updated_time_bd": "2026-09-11 | 03:59:17",
-  "updated_at_bd": "2026-09-11T03:59:17+06:00",
+  "total_items": 2,
+  "total_matches": 2,
+  "total_streams": 2,
+  "updated_time_bd": "2026-09-11 | 05:55:48",
+  "updated_at_bd": "2026-09-11T05:55:48+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "ppv-the-golazo-show",
-      "title": "The Golazo Show",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "11 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1789066800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/RczDYyiYyOkoeyZmZRapCTwZGJqnQRmF/rtmp/stream/jf_krv80zxsBfprE-AQD06JwB2xz7nD15pjVfR45HiY_K-WMzNlG8lFgvyV0EE07if_Qdxo7u_A/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb12.strmd.st/secure/cIgdVfTyDPZHKsZGClAgDkJzOqxxdsbq/rtmp/stream/Njw6zoJm6IE3kdPmTlovQcFP3RcOW-K4ZlRyYQjXsOVFrM-V7uopZLDCen1hKzQwxUwDbLW28pgVAcEA/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "como-vs-rb-leipzig-2594669",
-      "title": "Como vs RB Leipzig",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "11 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1789066800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHPTZUUIPiG66QRvToMkQUkDoVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Como vs RB Leipzig (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHPTZUUIPiG66QRvToMkQUkDoVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/pGquWPAjVzuUGIfoGrYdvuNFIayzvmtR/ingest/stream/mevent12/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Como vs RB Leipzig (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHPTZUUIPiG66QRvToMkQUkDoVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://cdn14.zohanayaan.com:1686/hls/mevent12.m3u8?md5=bcl2HvmZGUoJmk7ZrVTWuA&expires=1789084745"
-        }
-      ]
-    },
     {
       "id": "slavia-prague-vs-lens-2594641",
       "title": "Slavia Prague vs Lens",
@@ -82,19 +26,7 @@
           "channel_name": "Slavia Prague vs Lens (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNlBlJsPENxB8QRwyj0gSIKQb0Fg2mP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/LawuJhxSzGKfRLLTMRGLZGJTYAOUNaIE/delta/stream/live_uefa-champions-league_slavia-praha-lens-live-streaming-614272464/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Slavia Prague vs Lens (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNlBlJsPENxB8QRwyj0gSIKQb0Fg2mP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/ikdDlaOoBggliefhKiwdDjHigmltGzQj/ingest/stream/mevent13/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Slavia Prague vs Lens (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNlBlJsPENxB8QRwyj0gSIKQb0Fg2mP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://cdn12.zohanayaan.com:1686/hls/mevent13.m3u8?md5=uXDHerO2JwkaooW4chJ2Zg&expires=1789084749"
+          "direct_stream_url": "https://lb9.strmd.st/secure/CVHchfOwVRnoKHztnyNUmpZCtDUzRcnR/delta/stream/live_uefa-champions-league_slavia-praha-lens-live-streaming-614272464/1/playlist.m3u8"
         }
       ]
     },
@@ -116,47 +48,7 @@
           "channel_name": "Bayern Munich vs Bodø/Glimt (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMCTAp0cChDcQfECeP7DJEFJAwrBTRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/gkSgWMhDpsHGmTUmUqZprmkQmALuVoiB/delta/stream/live_uefa-champions-league_bayern-bodoglimt-live-streaming-614241792/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Bayern Munich vs Bodø/Glimt (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMCTAp0cChDcQfECeP7DJEFJAwrBTRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/dcjFHhDlUkVejFtmwKsYeuxiSesoOTjE/ingest/stream/mevent14/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Bayern Munich vs Bodø/Glimt (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMCTAp0cChDcQfECeP7DJEFJAwrBTRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://cdn14.zohanayaan.com:1686/hls/mevent14.m3u8?md5=Ai1ILuMA1KvUzaKftP4EmQ&expires=1789084752"
-        }
-      ]
-    },
-    {
-      "id": "manchester-united-vs-sabah-baku-2594538",
-      "title": "Manchester United vs Sabah Baku",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "11 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1789066800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMohIgZYXCG4g+IY0ZT6QWrUcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Manchester United vs Sabah Baku (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMohIgZYXCG4g+IY0ZT6QWrUcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/YuOhDugdXDVJYKsBxiaMJfLSugkknTrn/ingest/stream/mevent15/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Manchester United vs Sabah Baku (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMohIgZYXCG4g+IY0ZT6QWrUcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://cdn12.zohanayaan.com:1686/hls/mevent15.m3u8?md5=Wf1gmikX6MZ1t3mhEYr7RQ&expires=1789084749"
+          "direct_stream_url": "https://lb9.strmd.st/secure/ovQMwUglUTOKhYSAhQohIncFufSevHGy/delta/stream/live_uefa-champions-league_bayern-bodoglimt-live-streaming-614241792/1/playlist.m3u8"
         }
       ]
     }
