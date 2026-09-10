@@ -1,67 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 153,
-  "total_matches": 153,
+  "total_items": 147,
+  "total_matches": 147,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-10 | 06:32:15",
-  "updated_at_bd": "2026-09-10T06:32:15+06:00",
+  "updated_time_bd": "2026-09-10 | 11:09:20",
+  "updated_at_bd": "2026-09-10T11:09:20+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "chico-vs-atletico-nacional-football-1549685",
-      "title": "Chico vs Atletico Nacional",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 07:00 AM (BD Time)",
-      "start_epoch_ms": 1789002000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIiZ1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIgDG9cg3VZxPeCKrcCXVmDC58FoA.webp"
-    },
-    {
-      "id": "los-angeles-fc-vs-new-york-red-bulls-2407063",
-      "title": "Los Angeles FC vs New York Red Bulls",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1789007400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMCQgpYECBgMQ3EH33aTRkImNS9BTRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "portland-timbers-vs-st--louis-city-sc-2407067",
-      "title": "Portland Timbers vs St. Louis City SC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1789007400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reNkqkQMHiG4g+h-cZIhEEE42BIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "ppv-lafc-vs-red-bull-new-york",
-      "title": "LAFC vs. Red Bull New York",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1789007400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGsODxgNGllKkQiKiBTZVIAMaqZICCGEgjKIzpLiDM3SpoQpwCGv5hBIptnphCwJLk1qhF1Y7STI1AnswFwcFCCA.webp"
-    },
-    {
-      "id": "san-diego-fc-vs-san-jose-earthquakes-2407066",
-      "title": "San Diego FC vs San Jose Earthquakes",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1789007400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMTCCIIPiG67DBvSRCIdBiUyQU+w2fRRgVGts-L0ssjU1phnYqIQQA.webp"
-    },
-    {
-      "id": "vancouver-whitecaps-vs-la-galaxy-2407064",
-      "title": "Vancouver Whitecaps vs LA Galaxy",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1789007400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFDzBJcYGQAYQ3EH2OHTJEIgggYIFAWBIKfYbPoowKjW0-l6WWQ0mWjBPMVEIIA.webp"
-    },
     {
       "id": "barcelona-u19-vs-feyenoord-u19-football-1637313",
       "title": "Barcelona U19 vs Feyenoord U19",
