@@ -1,58 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 142,
-  "total_matches": 142,
+  "total_items": 137,
+  "total_matches": 137,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-10 | 19:49:56",
-  "updated_at_bd": "2026-09-10T19:49:56+06:00",
+  "updated_time_bd": "2026-09-10 | 23:19:34",
+  "updated_at_bd": "2026-09-10T23:19:34+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "asteras-tripolis-vs-aris-2600186",
-      "title": "Asteras Tripolis vs Aris",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 08:45 PM (BD Time)",
-      "start_epoch_ms": 1789051500000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh2nAAJrjBqGIbiD4hDJfSYM4DKAhSZ8UXMGXhF5ou01pgHY0RCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulx0Q3MEk4h1IACYgYuEHxMhEBiOoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-    },
-    {
-      "id": "sundby-vs-fc-midtjylland-2595373",
-      "title": "Sundby vs FC Midtjylland",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1789056000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw4PFIiQJEBBAppkxGRXYQkrMBpb5IYPJQgY6qnNIh9Zk+KqL+YQSKbZ6YQsCS4AxoqGPWCGcyRQIJckcDKQggA.webp"
-    },
-    {
-      "id": "fenerbah-e-vs-roma-2594652",
-      "title": "Fenerbahçe vs Roma",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 10:45 PM (BD Time)",
-      "start_epoch_ms": 1789058700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCHpIwfCiRDcQfECeMoDIfVJMgYBYNpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "ppv-fenerbahce-vs-as-roma",
-      "title": "Fenerbahce vs. AS Roma",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 10:45 PM (BD Time)",
-      "start_epoch_ms": 1789058700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcWUSIsIGMGkhhIFCHgiQk1cpARSwGjURKIs1fJBUtKmDtIpyugUJFNs9MIWBJcAY3tCwbk5dYT17AnlyQOBdMgggA.webp"
-    },
-    {
-      "id": "psv-eindhoven-vs-shakhtar-donetsk-2594585",
-      "title": "PSV Eindhoven vs Shakhtar Donetsk",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Sep 2026, 10:45 PM (BD Time)",
-      "start_epoch_ms": 1789058700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGJkoQ8MNxD6+IY0e36SIKbhAwCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp"
-    },
     {
       "id": "panathinaikos-vs-kifisia-2539921",
       "title": "Panathinaikos vs Kifisia",

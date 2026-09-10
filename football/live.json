@@ -1,11 +1,172 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-10 | 19:49:56",
-  "updated_at_bd": "2026-09-10T19:49:56+06:00",
+  "total_items": 16,
+  "total_matches": 4,
+  "total_streams": 16,
+  "updated_time_bd": "2026-09-10 | 23:19:34",
+  "updated_at_bd": "2026-09-10T23:19:34+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "ppv-fenerbahce-vs-as-roma",
+      "title": "Fenerbahce vs. AS Roma",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "10 Sep 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1789058700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcWUSIsIGMGkhhIFCHgiQk1cpARSwGjURKIs1fJBUtKmDtIpyugUJFNs9MIWBJcAY3tCwbk5dYT17AnlyQOBdMgggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT Sports 2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcWUSIsIGMGkhhIFCHgiQk1cpARSwGjURKIs1fJBUtKmDtIpyugUJFNs9MIWBJcAY3tCwbk5dYT17AnlyQOBdMgggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/NGuRmtCHUrMNozAfLNpYvwhfRWBtBdse/rtmp/stream/T26h-G_ot-_ypQ8oZnHbGelr0-aOGbBXlUcykb9KBV2zZIne6Jo2lL1BZKq3IQgR9MHEym1oJNOS/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT Sports 2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcWUSIsIGMGkhhIFCHgiQk1cpARSwGjURKIs1fJBUtKmDtIpyugUJFNs9MIWBJcAY3tCwbk5dYT17AnlyQOBdMgggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/QhHmefIovuLpXxTbsFLgiWWzvavGNJyH/rtmp/stream/ockBRznREo5To0WXGtmxgZUu5JTSLhf7jk92bySTiwMjyTqcPVbxEMoqQKhLNAg91crOSQiRQILTh9g4Ug/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcWUSIsIGMGkhhIFCHgiQk1cpARSwGjURKIs1fJBUtKmDtIpyugUJFNs9MIWBJcAY3tCwbk5dYT17AnlyQOBdMgggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/eBPxcxWLLPIynkigxIvDOuqFFSWjPPie/rtmp/stream/mpZkxrKOy8YMcTD3P02onmVG5Wh5xDpM7SMrB6s0YNpDzi8FkGO3FCv_4Vx9GHaIFIKpFFavieZq4A/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcWUSIsIGMGkhhIFCHgiQk1cpARSwGjURKIs1fJBUtKmDtIpyugUJFNs9MIWBJcAY3tCwbk5dYT17AnlyQOBdMgggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/NqfnmoYYtgdoYmRaYkJylkcTXprJMYBw/rtmp/stream/s6zDFEDsJQnXWofzdSQZVT4vHKI9Q8RnCHfD9ciLGNpZDp7M7uMQPrhhd-bbmiiCUCRSxl0UzBIzxgeMIKI/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "fenerbah-e-vs-roma-2594652",
+      "title": "Fenerbahçe vs Roma",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "10 Sep 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1789058700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCHpIwfCiRDcQfECeMoDIfVJMgYBYNpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fenerbahçe vs Roma (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCHpIwfCiRDcQfECeMoDIfVJMgYBYNpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/aKDyZGPjzVrPSIKGHjOhJxglwGjSIMWu/delta/stream/live_uefa-champions-league_fenerbahce-roma-live-streaming-614245680/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fenerbahçe vs Roma (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCHpIwfCiRDcQfECeMoDIfVJMgYBYNpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/EnHdnPmgrnIuuGRwxuTWftBgAXtxoiUq/ingest/stream/mmevent10/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fenerbahçe vs Roma (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCHpIwfCiRDcQfECeMoDIfVJMgYBYNpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://cdn15.zohanayaan.com:1686/hls/mmevent10.m3u8?md5=pCuvxEbb8XO_sGBJkKXfpw&expires=1789067970"
+        }
+      ]
+    },
+    {
+      "id": "psv-eindhoven-vs-shakhtar-donetsk-2594585",
+      "title": "PSV Eindhoven vs Shakhtar Donetsk",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "10 Sep 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1789058700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGJkoQ8MNxD6+IY0e36SIKbhAwCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT Sports 3 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGJkoQ8MNxD6+IY0e36SIKbhAwCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/almHyhDtrZvVCfUbFsudJDeoCZtGfJco/rtmp/stream/JIQTbNRvaLeq788EqNTqoy4r9j31L9QPbet_ES3hTet8G6m7zN3A_VmnjPw4m8gXwmW-VePu09N4/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT Sports 3 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGJkoQ8MNxD6+IY0e36SIKbhAwCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/ExchkXYxOyrkmvrjyrHyuAqZpDovEflZ/rtmp/stream/nn5ww1sx1obr9X5ihvfYfyoa3tYHfanVYuga27jxFfykkKeKVhM-uKUmxbqZ23bXnA8c7xLKxwY5bUbHjA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGJkoQ8MNxD6+IY0e36SIKbhAwCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/bocmXWVMSnMzxrpcvYnMulPtFqQLEiuL/rtmp/stream/HAxx_zEm_zWyuGRS5_sVCqYbthy7vobWov1QMDLm1ChyxUMpRmW1kwDD1JoO29HsRwj7QaY1gKaa7Q/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGJkoQ8MNxD6+IY0e36SIKbhAwCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/BKgQKRRyOnxAVTFlYFDSFdogOkBAacov/rtmp/stream/ZVEUORubd-YwB2aKdT0UX35peUwtXXchy2KKKNJYXcDUQVcBIhHKWkTTVgQeOeb57zr1dgEk721ItESDEnw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "PSV Eindhoven vs Shakhtar Donetsk (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGJkoQ8MNxD6+IY0e36SIKbhAwCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/EFZRwkOerCReYCowrweqaHqkjlEktHLp/delta/stream/live_uefa-champions-league_psv-shakhtar-live-streaming-614261664/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "PSV Eindhoven vs Shakhtar Donetsk (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGJkoQ8MNxD6+IY0e36SIKbhAwCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/YXGFGHVDVymNNAuzgIwCiHidfdwGBREw/ingest/stream/mevent11/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "PSV Eindhoven vs Shakhtar Donetsk (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGJkoQ8MNxD6+IY0e36SIKbhAwCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://cdn14.zohanayaan.com:1686/hls/mevent11.m3u8?md5=wy5QP50s_PJbg6K175_AgQ&expires=1789067967"
+        }
+      ]
+    },
+    {
+      "id": "sundby-vs-fc-midtjylland-2595373",
+      "title": "Sundby vs FC Midtjylland",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "10 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1789056000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw4PFIiQJEBBAppkxGRXYQkrMBpb5IYPJQgY6qnNIh9Zk+KqL+YQSKbZ6YQsCS4AxoqGPWCGcyRQIJckcDKQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Danish - Viaplay Sport News (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw4PFIiQJEBBAppkxGRXYQkrMBpb5IYPJQgY6qnNIh9Zk+KqL+YQSKbZ6YQsCS4AxoqGPWCGcyRQIJckcDKQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/xcToGXwILHSUBsqqcGyDXEqwFIsYxNbh/rtmp/stream/qXgypgdYcK4JLDxU_lncHAALN6Et91GWiWGodpva5H5bN6sm4hlxqceXw2kk9O_t9Jj-rIsY89ex/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Danish - Viaplay Sport News (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw4PFIiQJEBBAppkxGRXYQkrMBpb5IYPJQgY6qnNIh9Zk+KqL+YQSKbZ6YQsCS4AxoqGPWCGcyRQIJckcDKQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/ieKBHgctUItBXjNlnhjKTKOfBbbZbVPr/rtmp/stream/3BX_zgL_JVP47VZlTmiUx-VmKn_8WYFtavPEBtTIsPD917za-89dglap0KEnYnAbPsFdL8Ml9v9TSXZ1LQ/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
