@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 2,
-  "total_matches": 1,
-  "total_streams": 2,
-  "updated_time_bd": "2026-09-10 | 04:32:06",
-  "updated_at_bd": "2026-09-10T04:32:06+06:00",
+  "total_items": 18,
+  "total_matches": 6,
+  "total_streams": 18,
+  "updated_time_bd": "2026-09-10 | 06:32:15",
+  "updated_at_bd": "2026-09-10T06:32:15+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "ppv-the-golazo-show",
-      "title": "The Golazo Show",
+      "id": "new-york-city-fc-vs-new-england-revolution-2407057",
+      "title": "New York City FC vs New England Revolution",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "10 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1788980400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEOOEgqILNhBlx4lCBXD5ZGonFk5e6QZDSRwePJmJ1JFOQigwgkwWz0whYElwBjG0Ies7K3pnMzAHYDtFIA.webp",
+      "start_time_bd": "10 Sep 2026, 06:00 AM (BD Time)",
+      "start_epoch_ms": 1788998400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGCnUofMCRDcQfIwZP7EEEDBAgCwJBT7DZ9FHrYoue8vSyzPTLRg7vSiEEA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,16 +23,192 @@
       },
       "streams": [
         {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEOOEgqILNhBlx4lCBXD5ZGonFk5e6QZDSRwePJmJ1JFOQigwgkwWz0whYElwBjG0Ies7K3pnMzAHYDtFIA.webp",
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGCnUofMCRDcQfIwZP7EEEDBAgCwJBT7DZ9FHrYoue8vSyzPTLRg7vSiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/qYPjtthjwnDaBRmhyrZvYyQWcVQOKcfI/rtmp/stream/zWRYqaCQcalkM6cBX0uwUcYF2xLs9Qupr7nrcuWl8IOaIn9Lk3y8mr9N2tYFHKk-JRmVmGbKSOc/1/playlist.m3u8"
+          "direct_stream_url": "https://lb11.strmd.st/secure/hENJWPbkpMPjsLKYAvKPIBFHZoqNSWdt/rtmp/stream/C8f3kgwFGzwTbtwdjojyOARkxNmI7P-5ckqvO_Vzyqt_-mqximZqbH-DjaGKkyU5lDOeEUEk4c5E/1/playlist.m3u8"
         },
         {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEOOEgqILNhBlx4lCBXD5ZGonFk5e6QZDSRwePJmJ1JFOQigwgkwWz0whYElwBjG0Ies7K3pnMzAHYDtFIA.webp",
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGCnUofMCRDcQfIwZP7EEEDBAgCwJBT7DZ9FHrYoue8vSyzPTLRg7vSiEEA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/hqjvByRgxFIZQBVdRYnCwcIudMFwARrS/rtmp/stream/2LFpAWBjhcRiZXNCVTKCWddHNtg0IXesIpb-1NktioYPoj-SYWug_q2zwizIFivecKA8wOoCdZIK-1Xf/1/playlist.m3u8"
+          "direct_stream_url": "https://lb11.strmd.st/secure/jthWloEQylTddjCypLYAlOwuwZMykjOc/rtmp/stream/hbQ3AxAYAVbF9ZYy1-bQRPsmwBuQj6R-b51KWv0Ixyi3aAopEakgurTWVy25LLFWEQppzm0qQ-MCGcselg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "New York City FC vs New England Revolution (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGCnUofMCRDcQfIwZP7EEEDBAgCwJBT7DZ9FHrYoue8vSyzPTLRg7vSiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/YgXpDltTPlSsyGJwzOBVFwbIuXjUtrIb/delta/stream/live_mls_ny-city-new-england-live-streaming-539139024/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "cf-montr-al-vs-charlotte-fc-2407058",
+      "title": "CF Montréal vs Charlotte FC",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "10 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1788996600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCCkgQwAAxgUdENxB8QMTaeMhEiLfALAkFPsNn0UYFYbZfy9LFlDJlowLzFRCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCCkgQwAAxgUdENxB8QMTaeMhEiLfALAkFPsNn0UYFYbZfy9LFlDJlowLzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/htUYaiyOhAliSxoOrrSShIBeLTOCzqiV/rtmp/stream/INSpNk8oRJ0sKRVRG5Zm5VbcBNokn8WlNd01WmStxjUr3RLfA6n3raq29kLtVLeGHQqYLZ6FqRfQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCCkgQwAAxgUdENxB8QMTaeMhEiLfALAkFPsNn0UYFYbZfy9LFlDJlowLzFRCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/FsBZmFZJMCylSfqEMwpkxXohEefMnAbJ/rtmp/stream/wsORQX4j-FgDN1GoUk6BnbAi8ttluVK-v0DrBbaVWfULLEoql6qJqHS7-YQDXMG0a0R6XnIKEyro5cYuCw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "CF Montréal vs Charlotte FC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCCkgQwAAxgUdENxB8QMTaeMhEiLfALAkFPsNn0UYFYbZfy9LFlDJlowLzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/VYCxekycbXiOdEXpBfugAZgWiDyrqdyD/delta/stream/live_mls_montreal-charlotte-live-streaming-539138160/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "dc-united-vs-columbus-crew-2407056",
+      "title": "DC United vs Columbus Crew",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "10 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1788996600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCgh+Y-CG4g+IGCCmH9IRIhS4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCgh+Y-CG4g+IGCCmH9IRIhS4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/nDbQsGlcOuiMNkXoTEJwTBDnbbGdPLQk/rtmp/stream/uYOnO7OCQpni2Mr8uFnUe-QlB6R239tUAB_PPE4phH-Co_Un_JRQ7hTHjELd6Tqp5oFGDEZSXs4/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCgh+Y-CG4g+IGCCmH9IRIhS4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/zSPHzFaYkiIgZEJPsWDcGOMMNiuhcRrt/rtmp/stream/lVWMzDejhkmbS3BY2IyzyZ9LvHqZmoDjqMN1xdNOySmOjxPeQdqo79aNweqStoJ8i-fcMpM0DD-zVcAv/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DC United vs Columbus Crew (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCgh+Y-CG4g+IGCCmH9IRIhS4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/FKdKWUBPpsgeqAPmUmIewNErauZAXxYu/delta/stream/live_mls_dc-united-columbus-live-streaming-539138592/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "toronto-fc-vs-nashville-sc-2407055",
+      "title": "Toronto FC vs Nashville SC",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "10 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1788996600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBT8x4FCA18QMEFJCGNiHKcbAkFPsNn0UYFVravy9LLK1NaYK5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBT8x4FCA18QMEFJCGNiHKcbAkFPsNn0UYFVravy9LLK1NaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/RYGusDVdLpDsFSOenmXQJvvHEAQBxyzQ/rtmp/stream/ecOmjLRGBozUwbMOOmSZ0VyCHsHBFV6IZ4wTq6ouOr7LzA1rACsillJEdBQ8jjRVf5S3MYhKW5gh/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBT8x4FCA18QMEFJCGNiHKcbAkFPsNn0UYFVravy9LLK1NaYK5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/LmKBKvRCXfnprNDcWgGEEtyiXcQZbjBC/rtmp/stream/uU6_SJ7eBqSQDBqfwGz_i0FmsalAmv3LFan1ZcL0Kyqx8C6-9HlmeIf97Dc0Ss5yWe615bZBt1-CTG4J_Q/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Toronto FC vs Nashville SC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBT8x4FCA18QMEFJCGNiHKcbAkFPsNn0UYFVravy9LLK1NaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/VeEbpRdNBznXzikmtJNSOktMzNUoMoqW/delta/stream/live_mls_toronto-nashville-live-streaming-539139888/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "atlanta-united-vs-orlando-city-2407054",
+      "title": "Atlanta United vs Orlando City",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "10 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1788996600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMvSgxgUsHxDcQ+mCClGDIRIZwwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMvSgxgUsHxDcQ+mCClGDIRIZwwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/EvaXbdbHftPWqhyRtvJJIlCCIMBnBNvB/rtmp/stream/YhaifVbEoBYBl_sAX2Vw99ee4YdEidRlDR0H_vpX8xzxT0bGeLwWWIU0f_9sXjGothnJeMUhioLu/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMvSgxgUsHxDcQ+mCClGDIRIZwwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/KphhBDjmdhnttIGWJuEcCfQDNcoepYvc/rtmp/stream/PO_b2RKvjSqmnN319hPwmCY9Hmdd6LBe2dfgXphOrgzkA-kOTVj61h3Xa04q-UZrztVk7jUR11p_D0x0KQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Atlanta United vs Orlando City (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMvSgxgUsHxDcQ+mCClGDIRIZwwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/FupuuhTiuEifrjYupOcRhnsczrrenJNf/delta/stream/live_mls_atlanta-orlando-live-streaming-539137728/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "philadelphia-union-vs-fc-cincinnati-2407053",
+      "title": "Philadelphia Union vs FC Cincinnati",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "10 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1788996600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJG0ghRrbiD18QMEFJCG9iCLhMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJG0ghRrbiD18QMEFJCG9iCLhMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/vfZcldwXcJgzLzEoddRLoIRZmNMskMCC/rtmp/stream/b7zDpzs89C-laDTPBJAdK3o-UwI1txHwkDdOG1v22rdNmyJcATTFOV9SyxizuI-3FBsgcqrvSXeu/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJG0ghRrbiD18QMEFJCG9iCLhMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb6.strmd.st/secure/oqjjppvkfiaUdafNCZVTUXJwnRZerTWg/rtmp/stream/o1ZihnXwA148YxmbOSZIdHBckVIVWcquzq9ODwSw704GV-LQaacaG7ivGZiNJX5jNp2MlnD7JT9c8anYqA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Philadelphia Union vs FC Cincinnati (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJG0ghRrbiD18QMEFJCG9iCLhMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/jJbltPtXCtBtNnYxrVYXJBxkofORctLU/delta/stream/live_mls_philadelphia-cincinnati-live-streaming-539139456/1/playlist.m3u8"
         }
       ]
     }
