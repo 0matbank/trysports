@@ -1,31 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 182,
-  "total_matches": 182,
+  "total_items": 180,
+  "total_matches": 180,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-12 | 03:52:00",
-  "updated_at_bd": "2026-09-12T03:52:00+06:00",
+  "updated_time_bd": "2026-09-12 | 05:36:06",
+  "updated_at_bd": "2026-09-12T05:36:06+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "defensa-y-justicia-vs-gimnasia-y-esgrima-de-mendoza-2398075",
-      "title": "Defensa y Justicia vs Gimnasia y Esgrima de Mendoza",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Sep 2026, 04:15 AM (BD Time)",
-      "start_epoch_ms": 1789164900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMCQhwKMEgYhuIPiCkgUp41bMljBTRT7DZ9XSo1swZeESyyNTLRgXmKiEEA.webp"
-    },
-    {
-      "id": "jaguares-de-c-rdoba-vs-fortaleza-fc-2481177",
-      "title": "Jaguares de Córdoba vs Fortaleza FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Sep 2026, 05:15 AM (BD Time)",
-      "start_epoch_ms": 1789168500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUTLAIQ3MEh0g+IYxEPGzxqSBgFgSCn2Gz6KMCpRc35ellkemtFqi9MFAA.webp"
-    },
     {
       "id": "coritiba-vs-athletico-paranaense-2398455",
       "title": "Coritiba vs Athletico Paranaense",
