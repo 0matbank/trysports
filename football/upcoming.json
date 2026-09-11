@@ -1,67 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 208,
-  "total_matches": 208,
+  "total_items": 207,
+  "total_matches": 207,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-11 | 18:58:30",
-  "updated_at_bd": "2026-09-11T18:58:30+06:00",
+  "updated_time_bd": "2026-09-11 | 22:58:00",
+  "updated_at_bd": "2026-09-11T22:58:00+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "al-qadisiyah-fc-vs-al-ettifaq-football-1603030",
-      "title": "Al-Qadisiyah FC vs Al-Ettifaq",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Sep 2026, 09:25 PM (BD Time)",
-      "start_epoch_ms": 1789140300000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCETx65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCEQR65BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    {
-      "id": "al-faisaly-vs-al-ittihad-2573357",
-      "title": "Al-Faisaly vs Al-Ittihad",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Sep 2026, 09:45 PM (BD Time)",
-      "start_epoch_ms": 1789141500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGWhApmbEBBDcQfECeOIUIRIhIgSBYEgp9hs+ijArtbD+XpZZ2ky0YB5iohBAA.webp"
-    },
-    {
-      "id": "rak-w-cz-stochowa-vs-motor-lublin-2490259",
-      "title": "Raków Częstochowa vs Motor Lublin",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1789142400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECEEapYHdxD6+GgyCkgUJmCcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "darmstadt-vs-arminia-bielefeld-2511777",
-      "title": "Darmstadt vs Arminia Bielefeld",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1789144200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSClgUIFGDIgQ3EHxAkQEEDAu4QiHfALAkFPsNn09KlF33l6WLI+TLRg+mKiEEA.webp"
-    },
-    {
-      "id": "n-rnberg-vs-hannover-96-2511773",
-      "title": "Nürnberg vs Hannover 96",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1789144200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCG7ktWUJpB8QRxDAMgpR87gLAkFPsNn0UYFSi6vy9XaPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "werder-bremen-w-vs-hamburger-sv-w-football-1593134",
-      "title": "Werder Bremen W vs Hamburger SV W",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1789144200000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZQGMQMeuQYrm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIGCAggUIdXXIMAxs3E94IqtwJdWYMLnw2gA.webp"
-    },
     {
       "id": "be-ikta--vs-erzurumspor-2527760",
       "title": "Beşiktaş vs Erzurumspor",
@@ -207,6 +153,15 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBqIspYInjAqIYcAjjFGrMpApJIEKRABjVcZ2LzZGhJpqJMFOQigwgkU2z0whYElxHHIVdWZxUyRwI5cldVWQggA.webp"
     },
     {
+      "id": "mechelen-vs-anderlecht-2496735",
+      "title": "Mechelen vs Anderlecht",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "12 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1789152300000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VekhBwctUNxBSQJA1pB8QiGCBQgFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
       "id": "ppv-stade-rennais-vs-marseille",
       "title": "Stade Rennais vs. Marseille",
       "category": "football",
@@ -349,6 +304,15 @@
       "start_time_bd": "12 Sep 2026, 09:00 AM (BD Time)",
       "start_epoch_ms": 1789182000000,
       "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCpj1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAx65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    {
+      "id": "tijuana-vs-quer-taro-2487516",
+      "title": "Tijuana vs Querétaro",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "12 Sep 2026, 09:10 AM (BD Time)",
+      "start_epoch_ms": 1789182600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFsDByQIYEhDcQfHSAimQMIyBJWQBPRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "portimonense-vs-tondela-2512969",
@@ -1591,6 +1555,33 @@
       "start_time_bd": "13 Sep 2026, 05:00 PM (BD Time)",
       "start_epoch_ms": 1789297200000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcRGCSsICCBnxgNYcEVkSIFKRDCQMTXuziQZRAGMlso2fFKpJkGa38wgkU2z0whYElxOhcm5OSRUyLQJVclcpUikgA.webp"
+    },
+    {
+      "id": "ppv-1-fc-heidenheim-1846-vs-holstein-kiel",
+      "title": "1. FC Heidenheim 1846 vs. Holstein Kiel",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "13 Sep 2026, 05:30 PM (BD Time)",
+      "start_epoch_ms": 1789299000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEbCBghEWEChEgAxiBqqQ4qiC3CQO8fGD7J03YePyysqZaXz+YQSKbZ6YQsCS5F8oQ9bjhUnoCYAMwB0MgiCA.webp"
+    },
+    {
+      "id": "ppv-karlsruher-sc-vs-energie-cottbus",
+      "title": "Karlsruher SC vs. Energie Cottbus",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "13 Sep 2026, 05:30 PM (BD Time)",
+      "start_epoch_ms": 1789299000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKRA1hIFCBggZAY2A0skiWRIht24avnjDCmTKqyRIdROsiU5CQKEim2emELAkuJfaFhuTgl9MnsCYHhyAOBNGKA.webp"
+    },
+    {
+      "id": "ppv-vf-l-osnabruck-vs-hertha-berlin",
+      "title": "VfL Osnabruck vs. Hertha Berlin",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "13 Sep 2026, 05:30 PM (BD Time)",
+      "start_epoch_ms": 1789299000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMAjB4IkFRABjEFjkgywtdJDaYICCBnyZwrSpmINIUiA1l9VyxP5hBIptnphCwJLgUShF1YpEzIJAmlyF0lSSSA.webp"
     },
     {
       "id": "ppv-celta-vigo-vs-m-laga",

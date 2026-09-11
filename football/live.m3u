@@ -1,6 +1,34 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-09-11 | 18:58:30
+# TOTAL-ITEMS: 4
+# UPDATED Time and date BD: 2026-09-11 | 22:58:00
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 (HD)" tvg-name="Sky Sport Bundesliga 4 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSClgUIFGDIgQ3EHxAkQEEDAu4QiHfALAkFPsNn09KlF33l6WLI+TLRg+mKiEEA.webp" group-title="Football", Sky Sport Bundesliga 4 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/OJFcysagIUWtFmIQNoQKKsOjflrCrWOQ/rtmp/stream/WGJxpWHgWvsHwhTmpEpH-21bgYP8ex93yDraXO0bNhwMlCkbuPo5urXIFL18w_gWXlXTMAGoTAJ3/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 (SD)" tvg-name="Sky Sport Bundesliga 4 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSClgUIFGDIgQ3EHxAkQEEDAu4QiHfALAkFPsNn09KlF33l6WLI+TLRg+mKiEEA.webp" group-title="Football", Sky Sport Bundesliga 4 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/aPOmdBINOqNUuYVvwFIBnKhoaIcWDRUZ/rtmp/stream/WmPUFh-Z_PPhPkyJhJIWrIUsej7IHANYLd232mwpaG5MqOLzkoiuRMziMdr3UPjsWgGtaIOBn9VgdSZGhQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="German - Sky Sport Bundesliga 3 (HD)" tvg-name="German - Sky Sport Bundesliga 3 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCG7ktWUJpB8QRxDAMgpR87gLAkFPsNn0UYFSi6vy9XaPdNaYK5iohBAA.webp" group-title="Football", German - Sky Sport Bundesliga 3 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/zQZGAvUiUFjOxeznwdvAMLXUTmQDAkVO/rtmp/stream/9eTUyxRlgX9gvlwbW8tBb7GNsg7S81WgrJWrB1jmHRK3H6dvbl2_CZ2JZmr-zxbDdOHeQmN_HYJV/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="German - Sky Sport Bundesliga 3 (SD)" tvg-name="German - Sky Sport Bundesliga 3 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCG7ktWUJpB8QRxDAMgpR87gLAkFPsNn0UYFSi6vy9XaPdNaYK5iohBAA.webp" group-title="Football", German - Sky Sport Bundesliga 3 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/HVxaWZmiCCtpmGjUlsfBYqMwrgnfrHFS/rtmp/stream/rwXHVfiWnifIZzWdQx94XFnU39ZH3BCh3kd9SLKh-kXuFpDflIbQFgJIEoP98BzwQoUGdkqd_37An2R5jQ/1/playlist.m3u8
 

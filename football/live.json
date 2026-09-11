@@ -1,11 +1,68 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-11 | 18:58:30",
-  "updated_at_bd": "2026-09-11T18:58:30+06:00",
+  "total_items": 4,
+  "total_matches": 2,
+  "total_streams": 4,
+  "updated_time_bd": "2026-09-11 | 22:58:00",
+  "updated_at_bd": "2026-09-11T22:58:00+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "darmstadt-vs-arminia-bielefeld-2511777",
+      "title": "Darmstadt vs Arminia Bielefeld",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "11 Sep 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1789144200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSClgUIFGDIgQ3EHxAkQEEDAu4QiHfALAkFPsNn09KlF33l6WLI+TLRg+mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sport Bundesliga 4 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSClgUIFGDIgQ3EHxAkQEEDAu4QiHfALAkFPsNn09KlF33l6WLI+TLRg+mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/OJFcysagIUWtFmIQNoQKKsOjflrCrWOQ/rtmp/stream/WGJxpWHgWvsHwhTmpEpH-21bgYP8ex93yDraXO0bNhwMlCkbuPo5urXIFL18w_gWXlXTMAGoTAJ3/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sport Bundesliga 4 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSClgUIFGDIgQ3EHxAkQEEDAu4QiHfALAkFPsNn09KlF33l6WLI+TLRg+mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb8.strmd.st/secure/aPOmdBINOqNUuYVvwFIBnKhoaIcWDRUZ/rtmp/stream/WmPUFh-Z_PPhPkyJhJIWrIUsej7IHANYLd232mwpaG5MqOLzkoiuRMziMdr3UPjsWgGtaIOBn9VgdSZGhQ/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "n-rnberg-vs-hannover-96-2511773",
+      "title": "Nürnberg vs Hannover 96",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "11 Sep 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1789144200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCG7ktWUJpB8QRxDAMgpR87gLAkFPsNn0UYFSi6vy9XaPdNaYK5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "German - Sky Sport Bundesliga 3 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCG7ktWUJpB8QRxDAMgpR87gLAkFPsNn0UYFSi6vy9XaPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/zQZGAvUiUFjOxeznwdvAMLXUTmQDAkVO/rtmp/stream/9eTUyxRlgX9gvlwbW8tBb7GNsg7S81WgrJWrB1jmHRK3H6dvbl2_CZ2JZmr-zxbDdOHeQmN_HYJV/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "German - Sky Sport Bundesliga 3 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCG7ktWUJpB8QRxDAMgpR87gLAkFPsNn0UYFSi6vy9XaPdNaYK5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb8.strmd.st/secure/HVxaWZmiCCtpmGjUlsfBYqMwrgnfrHFS/rtmp/stream/rwXHVfiWnifIZzWdQx94XFnU39ZH3BCh3kd9SLKh-kXuFpDflIbQFgJIEoP98BzwQoUGdkqd_37An2R5jQ/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
