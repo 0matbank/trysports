@@ -2,20 +2,20 @@
   "schema_version": 2,
   "category_name": "Football Live",
   "total_items": 2,
-  "total_matches": 2,
+  "total_matches": 1,
   "total_streams": 2,
-  "updated_time_bd": "2026-09-11 | 05:55:48",
-  "updated_at_bd": "2026-09-11T05:55:48+06:00",
+  "updated_time_bd": "2026-09-11 | 09:53:00",
+  "updated_at_bd": "2026-09-11T09:53:00+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "slavia-prague-vs-lens-2594641",
-      "title": "Slavia Prague vs Lens",
+      "id": "pumas-unam-vs-le-n-2487513",
+      "title": "Pumas UNAM vs León",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "11 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1789066800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNlBlJsPENxB8QRwyj0gSIKQb0Fg2mP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "start_time_bd": "11 Sep 2026, 09:00 AM (BD Time)",
+      "start_epoch_ms": 1789095600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAb3ooQOiCG4g+OkHr0wQJEOcRSCwJBT7DZWsCpRc35ellkemtGBuYqIQQA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,32 +23,16 @@
       },
       "streams": [
         {
-          "channel_name": "Slavia Prague vs Lens (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNlBlJsPENxB8QRwyj0gSIKQb0Fg2mP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "channel_name": "Spanish - TUDN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAb3ooQOiCG4g+OkHr0wQJEOcRSCwJBT7DZWsCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/CVHchfOwVRnoKHztnyNUmpZCtDUzRcnR/delta/stream/live_uefa-champions-league_slavia-praha-lens-live-streaming-614272464/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "bayern-munich-vs-bod--glimt-2594568",
-      "title": "Bayern Munich vs Bodø/Glimt",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "11 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1789066800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMCTAp0cChDcQfECeP7DJEFJAwrBTRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
+          "direct_stream_url": "https://lb4.strmd.st/secure/XhsfjOJZyJSHTQYDmQjvGiaoQPQRThCZ/rtmp/stream/AiJ1WpvQh9XMu-57883uso5uVQA8RG_3ap6AVS9_fimfjdb3ko1e6qBIGr43BECMfH-M8RAD/1/playlist.m3u8"
+        },
         {
-          "channel_name": "Bayern Munich vs Bodø/Glimt (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMCTAp0cChDcQfECeP7DJEFJAwrBTRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/ovQMwUglUTOKhYSAhQohIncFufSevHGy/delta/stream/live_uefa-champions-league_bayern-bodoglimt-live-streaming-614241792/1/playlist.m3u8"
+          "channel_name": "Spanish - TUDN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAb3ooQOiCG4g+OkHr0wQJEOcRSCwJBT7DZWsCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/OStSJfyQewrcMqRGcaxOpcjhnkafjljm/rtmp/stream/AJ0GqpAsW21iQG3En-jDjqebcoB-U-bwfKx57Hnx6abnqfGf68Fc3gQQJaPd109ucODXqr1i55-4AQ/1/playlist.m3u8"
         }
       ]
     }
