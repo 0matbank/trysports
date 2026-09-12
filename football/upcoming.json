@@ -1,58 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 124,
-  "total_matches": 124,
+  "total_items": 119,
+  "total_matches": 119,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-13 | 01:18:28",
-  "updated_at_bd": "2026-09-13T01:18:28+06:00",
+  "updated_time_bd": "2026-09-13 | 03:29:28",
+  "updated_at_bd": "2026-09-13T03:29:28+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "academico-viseu-vs-vitoria-sc-football-1575491",
-      "title": "Academico Viseu vs Vitória SC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 01:30 AM (BD Time)",
-      "start_epoch_ms": 1789241400000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRCHrkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikBHrkGAY2bie8EVW4EurMGFz5zQA.webp"
-    },
-    {
-      "id": "chapecoense-vs-internacional-2398454",
-      "title": "Chapecoense vs Internacional",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 02:00 AM (BD Time)",
-      "start_epoch_ms": 1789243200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBoggSIFKDB8Q3EIam6QZjYkNbdTJBT7DZ9FGBV6278vSyy9TLRg7mKiEEA.webp"
-    },
-    {
-      "id": "supra-du-qu-bec-vs-hfx-wanderers-2427408",
-      "title": "Supra du Québec vs HFX Wanderers",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 02:00 AM (BD Time)",
-      "start_epoch_ms": 1789243200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzDdcxXvg0g+IYxBAwQiFAdMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "atletico-tucuman-vs-river-plate-football-1493123",
-      "title": "Atletico Tucuman vs River Plate",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 02:30 AM (BD Time)",
-      "start_epoch_ms": 1789245000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbMvrkGAY2bie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIRNnrkGAY2bie8EVW4EurMGFz5zQA.webp"
-    },
-    {
-      "id": "internacional-de-bogot--vs-llaneros-2481178",
-      "title": "Internacional de Bogotá vs Llaneros",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 03:05 AM (BD Time)",
-      "start_epoch_ms": 1789247100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgBIkLTAhuIPiBMQjJ8yakGCwJBT7DZ9FGBUoub8vSyyPTPTcxUQggA.webp"
-    },
     {
       "id": "palmeiras-vs-s-o-paulo-2398459",
       "title": "Palmeiras vs São Paulo",
