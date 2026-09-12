@@ -1,58 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 119,
-  "total_matches": 119,
+  "total_items": 114,
+  "total_matches": 114,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-13 | 03:29:28",
-  "updated_at_bd": "2026-09-13T03:29:28+06:00",
+  "updated_time_bd": "2026-09-13 | 05:13:07",
+  "updated_at_bd": "2026-09-13T05:13:07+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "palmeiras-vs-s-o-paulo-2398459",
-      "title": "Palmeiras vs São Paulo",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 03:30 AM (BD Time)",
-      "start_epoch_ms": 1789248600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSBBjwSBiG4g+mkBGNGcMMwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "forge-vs-atl-tico-ottawa-2427409",
-      "title": "Forge vs Atlético Ottawa",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 05:00 AM (BD Time)",
-      "start_epoch_ms": 1789254000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXm1rcKIENxB9dICCBghEKPcdwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "talleres-cordoba-vs-union-santa-fe-football-1493135",
-      "title": "Talleres Cordoba vs Union Santa Fe",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 05:00 AM (BD Time)",
-      "start_epoch_ms": 1789254000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCH71yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIikCTrkGAY2bie8EVW4EurMGFz5zQA.webp"
-    },
-    {
-      "id": "toluca-vs-atlas-2487519",
-      "title": "Toluca vs Atlas",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 05:00 AM (BD Time)",
-      "start_epoch_ms": 1789254000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCHqsy9AAwhuIPiBMRNIGCBIXzEpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-    },
-    {
-      "id": "chico-vs-independiente-medellin-football-1549776",
-      "title": "Chico vs Independiente Medellin",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 05:10 AM (BD Time)",
-      "start_epoch_ms": 1789254600000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIiZ1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikFRAh65BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
     {
       "id": "botafogo-vs-bragantino-2398453",
       "title": "Botafogo vs Bragantino",
