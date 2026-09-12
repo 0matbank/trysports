@@ -1,40 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 236,
-  "total_matches": 236,
+  "total_items": 234,
+  "total_matches": 234,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-12 | 07:32:48",
-  "updated_at_bd": "2026-09-12T07:32:48+06:00",
+  "updated_time_bd": "2026-09-12 | 12:26:06",
+  "updated_at_bd": "2026-09-12T12:26:06+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "atlante-vs-pachuca-2487517",
-      "title": "Atlante vs Pachuca",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Sep 2026, 09:00 AM (BD Time)",
-      "start_epoch_ms": 1789182000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVFrg+YECG4g+ekBBMgYIEuZCIUBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "club-tijuana-vs-club-queretaro-football-1550958",
-      "title": "Club Tijuana vs Club Queretaro",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Sep 2026, 09:10 AM (BD Time)",
-      "start_epoch_ms": 1789182600000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCpj1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAx65BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    {
-      "id": "tijuana-vs-quer-taro-2487516",
-      "title": "Tijuana vs Querétaro",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Sep 2026, 09:10 AM (BD Time)",
-      "start_epoch_ms": 1789182600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFsDByQIYEhDcQfHSAimQMIyBJWQBPRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
     {
       "id": "portimonense-vs-tondela-2512969",
       "title": "Portimonense vs Tondela",
@@ -709,6 +682,15 @@
       "start_time_bd": "12 Sep 2026, 09:50 PM (BD Time)",
       "start_epoch_ms": 1789228200000,
       "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCET965BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCERM65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    {
+      "id": "al-taawoun-vs-al-hilal-2573359",
+      "title": "Al-Taawoun vs Al-Hilal",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "12 Sep 2026, 09:50 PM (BD Time)",
+      "start_epoch_ms": 1789228200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rErjmwaIbiD4gNIXCBS7TFlAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
     },
     {
       "id": "lazio-vs-ac-milan-2482168",

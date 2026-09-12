@@ -1,40 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 2,
-  "total_matches": 1,
-  "total_streams": 2,
-  "updated_time_bd": "2026-09-12 | 07:32:48",
-  "updated_at_bd": "2026-09-12T07:32:48+06:00",
+  "total_items": 0,
+  "total_matches": 0,
+  "total_streams": 0,
+  "updated_time_bd": "2026-09-12 | 12:26:06",
+  "updated_at_bd": "2026-09-12T12:26:06+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "necaxa-vs-puebla-2487515",
-      "title": "Necaxa vs Puebla",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "12 Sep 2026, 07:00 AM (BD Time)",
-      "start_epoch_ms": 1789174800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDLDApYJGCkhD3EH0MgI5kDBAkrIRCALA9MfsNn0UYFSi7fy9Fiyvky0YN5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Spanish - FOX Deportes (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDLDApYJGCkhD3EH0MgI5kDBAkrIRCALA9MfsNn0UYFSi7fy9Fiyvky0YN5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/ttUirpDuZxQLuLEOhXFPQNErpOVfCIzq/rtmp/stream/cYJOuzGfTTK-mkfDnsA3k_E53NIYtrfKRzCS29fK6Vkl_e1yrWWA8yzT74bOu-eJ757o89fmPv8/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - FOX Deportes (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDLDApYJGCkhD3EH0MgI5kDBAkrIRCALA9MfsNn0UYFSi7fy9Fiyvky0YN5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/DozHEpGxxBVuEkskDOfBZEvzytXThKxs/rtmp/stream/EfVBBY6tDFfKEoPDKM03uJTIbupaKg9GZG7sx57-t2R0ps5FEL5apIxsBwEhGRedTbgxhW_hQdeXdPUk/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
