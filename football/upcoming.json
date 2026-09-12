@@ -1,58 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 234,
-  "total_matches": 234,
+  "total_items": 230,
+  "total_matches": 230,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-12 | 12:26:06",
-  "updated_at_bd": "2026-09-12T12:26:06+06:00",
+  "updated_time_bd": "2026-09-12 | 17:09:19",
+  "updated_at_bd": "2026-09-12T17:09:19+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "portimonense-vs-tondela-2512969",
-      "title": "Portimonense vs Tondela",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Sep 2026, 04:00 PM (BD Time)",
-      "start_epoch_ms": 1789207200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWlKI4sYEiG4g+IY1MO4QMfWZIFgSCn2Gz6KXWxRdd5ellkemtGBu9KIQQA.webp"
-    },
-    {
-      "id": "rb-leipzig-women-vs-n-rnberg-women-2539452",
-      "title": "RB Leipzig Women vs Nürnberg Women",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Sep 2026, 04:00 PM (BD Time)",
-      "start_epoch_ms": 1789207200000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnms0IcGRQhuIACYaQJfSEQGDEEBAIUmfFFzBl4ReaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiRhwfChBDbuIACbaQJfSEQHdMEBAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-    },
-    {
-      "id": "bochum-vs-greuther-f-rth-2511774",
-      "title": "Bochum vs Greuther Fürth",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Sep 2026, 05:00 PM (BD Time)",
-      "start_epoch_ms": 1789210800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhRyN5biD18QJEBBAwTG-UdwFgSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp"
-    },
-    {
-      "id": "eintracht-braunschweig-vs-dynamo-dresden-2511779",
-      "title": "Eintracht Braunschweig vs Dynamo Dresden",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Sep 2026, 05:00 PM (BD Time)",
-      "start_epoch_ms": 1789210800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECFozlpENxB8QJEBBAwTm3FYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "magdeburg-vs-kaiserslautern-2511775",
-      "title": "Magdeburg vs Kaiserslautern",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Sep 2026, 05:00 PM (BD Time)",
-      "start_epoch_ms": 1789210800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLJQbAZMsCG4g+IEiAggYpkIhxHGwJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp"
-    },
     {
       "id": "bolton-wanderers-vs-cardiff-city-2501328",
       "title": "Bolton Wanderers vs Cardiff City",
@@ -502,6 +457,15 @@
       "start_time_bd": "12 Sep 2026, 08:00 PM (BD Time)",
       "start_epoch_ms": 1789221600000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzCiQIKWBByNIPjtwgIu8yBhG+BYEgp3WIsSi1sUXLeXpZZXky0YB70ohBAA.webp"
+    },
+    {
+      "id": "ppv-goal-rush",
+      "title": "Goal Rush",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "12 Sep 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1789221600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp"
     },
     {
       "id": "preston-north-end-vs-lincoln-city-2501324",

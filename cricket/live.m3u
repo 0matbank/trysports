@@ -1,6 +1,20 @@
 #EXTM3U
 # CATEGORY NAME: Cricket Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-09-12 | 12:26:06
+# TOTAL-ITEMS: 2
+# UPDATED Time and date BD: 2026-09-12 | 17:09:19
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Sky Sports Cricket (HD)" tvg-name="Sky Sports Cricket (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp" group-title="Cricket", Sky Sports Cricket (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb1.strmd.st/secure/xeFyBBKeGuTmHVEpGgNJoPfiNenBJEey/rtmp/stream/uUA0f-mAluZxD3j0IbSSfBKZlCswTqy41By63t6IIIXLZgYQny4u5FMfkOras19vqKuh3h8tUZPYbDc2A60/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports Cricket (SD)" tvg-name="Sky Sports Cricket (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp" group-title="Cricket", Sky Sports Cricket (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb1.strmd.st/secure/pGLLbWNXgcbmXYFdGMDDGChqQgvJoKwA/rtmp/stream/ACvxvm1ywWk0JkIZ5y4Fl8JQWve71sbxm1KrDcp82gBf4xjATCAv-fXtjuvcNObckvDuSuEOFY0_ucJzKYdIbPZ5/1/playlist.m3u8
 

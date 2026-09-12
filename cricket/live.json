@@ -1,11 +1,40 @@
 {
   "schema_version": 2,
   "category_name": "Cricket Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-12 | 12:26:06",
-  "updated_at_bd": "2026-09-12T12:26:06+06:00",
+  "total_items": 2,
+  "total_matches": 1,
+  "total_streams": 2,
+  "updated_time_bd": "2026-09-12 | 17:09:19",
+  "updated_at_bd": "2026-09-12T17:09:19+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "ppv-3-rd-test-england-vs-pakistan",
+      "title": "3rd Test: England vs. Pakistan",
+      "category": "cricket",
+      "status": "LIVE_NOW",
+      "start_time_bd": "12 Sep 2026, 03:15 PM (BD Time)",
+      "start_epoch_ms": 1789204500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports Cricket (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/xeFyBBKeGuTmHVEpGgNJoPfiNenBJEey/rtmp/stream/uUA0f-mAluZxD3j0IbSSfBKZlCswTqy41By63t6IIIXLZgYQny4u5FMfkOras19vqKuh3h8tUZPYbDc2A60/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports Cricket (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb1.strmd.st/secure/pGLLbWNXgcbmXYFdGMDDGChqQgvJoKwA/rtmp/stream/ACvxvm1ywWk0JkIZ5y4Fl8JQWve71sbxm1KrDcp82gBf4xjATCAv-fXtjuvcNObckvDuSuEOFY0_ucJzKYdIbPZ5/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
