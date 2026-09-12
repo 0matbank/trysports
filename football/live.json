@@ -1,11 +1,296 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-12 | 17:09:19",
-  "updated_at_bd": "2026-09-12T17:09:19+06:00",
+  "total_items": 26,
+  "total_matches": 8,
+  "total_streams": 26,
+  "updated_time_bd": "2026-09-12 | 20:06:24",
+  "updated_at_bd": "2026-09-12T20:06:24+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "augsburg-vs-bayer-leverkusen-2508355",
+      "title": "Augsburg vs Bayer Leverkusen",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "12 Sep 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1789219800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJBAQQfEDGBSQ3HSFOIYJw7sQoCwDfr7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fandango (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJBAQQfEDGBSQ3HSFOIYJw7sQoCwDfr7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/hTJJsSuBuPSsePRUAdLPWvWifekkRVhA/rtmp/stream/6qE1i7qi8GXqoBQFtm6MsqVjCLiM2vP63T_FykTOimEA232IEvRyjbvXadAX3irnUfutx7hFeso/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fandango (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJBAQQfEDGBSQ3HSFOIYJw7sQoCwDfr7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/uMJpYKyLDhogqtNagcbvBTxeMKZFgGgk/rtmp/stream/8CpoIU9az9CB9zRcKqaKUsDoL268Orb4IXQVgLjUWmci6QDU3RbKMHButz743A0XdPmfupOvMyzudTxq/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Augsburg vs Bayer Leverkusen (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJBAQQfEDGBSQ3HSFOIYJw7sQoCwDfr7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/KotSbJZAJFjpSQQyNoyWLhVisGoAbejb/delta/stream/live_bundesliga_augsburg-leverkusen-live-streaming-615057408/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "hoffenheim-vs-stuttgart-2508354",
+      "title": "Hoffenheim vs Stuttgart",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "12 Sep 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1789219800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLMxAoGcuiG4g+IEiAggYp-VpBT9BYEgp9hs+ijArtbD+XobR2ky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fandango (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLMxAoGcuiG4g+IEiAggYp-VpBT9BYEgp9hs+ijArtbD+XobR2ky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/sHsTlXFmKofngNTorjipYxgzHGFtZRsP/rtmp/stream/8kp5bLl0DRVwSa08tPK6-gYSRXDrlrKeSgo3DFA5VT5z-focFpxqQtcke-GOzVEzcJF0RceefNM/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fandango (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLMxAoGcuiG4g+IEiAggYp-VpBT9BYEgp9hs+ijArtbD+XobR2ky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb3.strmd.st/secure/khnpjuVskvdDiGGbAUGurRAzHGMswpuS/rtmp/stream/AVnJ-zLnaS7FIxim66dA91wdjOcffTViTCwSutH49AVDWw4Q4yMEejEOTB_hY0VRxgwZ1rVG_O-W7A92/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Hoffenheim vs Stuttgart (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLMxAoGcuiG4g+IEiAggYp-VpBT9BYEgp9hs+ijArtbD+XobR2ky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/TmvcqLzHhVAdkAYrTItQzAaLxxAkRBbn/delta/stream/live_bundesliga_hoffenheim-stuttgart-live-streaming-615058272/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "borussia-dortmund-vs-paderborn-2508353",
+      "title": "Borussia Dortmund vs Paderborn",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "12 Sep 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1789219800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVlOwh4YJMDAhuIPiFOIYxkFMuIQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fandango (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVlOwh4YJMDAhuIPiFOIYxkFMuIQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/SSFVJUDNtgZQIDvGtOyHEvfkYeagLXnz/rtmp/stream/hZemOSs3RQp_Q0LikheNF2plXFqAUEDb3JusYgD-cpDWYOB3pJ16FwmGE_mdmKEuKY7rERTaWFA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fandango (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVlOwh4YJMDAhuIPiFOIYxkFMuIQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb12.strmd.st/secure/CPacQzRSCXwhVmFWKzRvvfMmMEkFOHFy/rtmp/stream/PzweBsetpgXEgGDm3HmD-dvH9tagmr-DCEdZoyA3a1Rr7v1R5m_q39Le_MT56bg7EW_H6YZ-uf9f3MOo/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Borussia Dortmund vs Paderborn (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVlOwh4YJMDAhuIPiFOIYxkFMuIQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/EJGfsXxwMsFNuESZZSpfjbTnxTJdKGkV/delta/stream/live_bundesliga_dortmund-paderborn-live-streaming-615056976/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "mainz-vs-eintracht-frankfurt-2508352",
+      "title": "Mainz vs Eintracht Frankfurt",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "12 Sep 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1789219800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcFjDcKfXCG4hdJEBBAwT+wyCn6CwJDuGz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fandango (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcFjDcKfXCG4hdJEBBAwT+wyCn6CwJDuGz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/XEWVgpZkzlmhXtufCGJTsJvktYBxsBfg/rtmp/stream/J1HzEJhDo51SjoWbpn8hPjJRlomAGDLT1sf8fUJQCvD-D8NCMiOZdKm_4Z1gMIIieCHbDhP2Iy0/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fandango (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcFjDcKfXCG4hdJEBBAwT+wyCn6CwJDuGz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/MsNShMQentLXIqTupAQSRKTbVZQheitk/rtmp/stream/hsOW1t0bMxNjAm_PHiyYswM7JthOoFTFpQUFVZol811JR9AbrXELhUJZ3-WFM_w_umZnSyLXAAFGcxSp/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Mainz vs Eintracht Frankfurt (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcFjDcKfXCG4hdJEBBAwT+wyCn6CwJDuGz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/WbdGHHzAAMOVCTWIvMgLaHpTSUxNAfzp/delta/stream/live_bundesliga_mainz-05-frankfurt-live-streaming-615056544/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "freiburg-vs-borussia-m-nchengladbach-2508351",
+      "title": "Freiburg vs Borussia Mönchengladbach",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "12 Sep 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1789219800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcFCQgIIeGCkhuIPiBLaQMc0YNGQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fandango (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcFCQgIIeGCkhuIPiBLaQMc0YNGQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/nXQboZnKHkInNKnERAhpisWWENYnCKce/rtmp/stream/QaYSLH15CQeGJLsgPl0ye_T87BeXSzPXyt7OfOJRNLNKtcdqb0g0hNm0GfNzKV4dHH59U69iHh8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fandango (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcFCQgIIeGCkhuIPiBLaQMc0YNGQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/zJgWjelEXfPwlHnRExmLWjqqntxTFZOq/rtmp/stream/11v-khw-wdhmfMG2JpBldcpjTy6l9m0CJhgbteD13amcE06-QZxPOR4i-qeZvJXLw9CNPG_o2kjgKTkP/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Freiburg vs Borussia Mönchengladbach (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcFCQgIIeGCkhuIPiBLaQMc0YNGQBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/bkduOiTdeBvSMSJrbwKqYqIrLXnCTjcV/delta/stream/live_bundesliga_freiburg-mgladbach-live-streaming-615057840/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "genoa-vs-frosinone-2482171",
+      "title": "Genoa vs Frosinone",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "12 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1789218000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgZISiCkgD3PQZP6SIFCHN8Q8AsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgZISiCkgD3PQZP6SIFCHN8Q8AsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/UxDPNJjyfnGgLCVBwFqaWiKXjuaQCcRh/rtmp/stream/vmflY3xN_xA03KAO6dr8pZU7JlIMA-mmS1LO2kNBajO8mGfZv9SXVZzzWCaEMhHhnSQobBD-Rdw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgZISiCkgD3PQZP6SIFCHN8Q8AsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/AKoKKgCQAsiUZdfHPvtgIaFTeVsZggBE/rtmp/stream/pZd2d2AJzJFtIDIqg-EcHOAZBfBkL1sSx59NT-CSqVOARi9MH907urNEX7jYnpCO20uiatRU_3HYakCV/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Italian - DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgZISiCkgD3PQZP6SIFCHN8Q8AsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/UVovUStMTUDufflZulypGttnWqCNzahV/rtmp/stream/bf1zuQR7I1gBUxfqLaLVpiM1CnH8LVV1gnIjICAqewcLcIVU_xMMXL_vlWB4fVWfudaedkXRQGND/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Italian - DAZN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgZISiCkgD3PQZP6SIFCHN8Q8AsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/TpTATNfYTRqcfLIzftsgRviOYaEnEqbm/rtmp/stream/_0zNX6Hg4SqAtNLWZwQzLILD3dfJbGiIOakpDRBwlGmUu6dHHhmhlcNTRf7-Lz-f6j7EtYCNjba6x3aFIg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Genoa vs Frosinone (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgZISiCkgD3PQZP6SIFCHN8Q8AsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/hltvJmBAmRGpITeZeVOkpgSmtcgdcGED/delta/stream/live_serie-a_genoa-frosinone-live-streaming-615055248/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "aik-vs-v-ster-s-2398911",
+      "title": "AIK vs Västerås",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "12 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1789218000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKRRCCkYFCG4g+IYxBCIShkKZwoCwHTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Swedish - TV4 Fotboll (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKRRCCkYFCG4g+IYxBCIShkKZwoCwHTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/eDcbChaFlJJyPlwNjAFJNCarhAIXDKHR/rtmp/stream/SyoowPpQOopiw_24n7YZE-XeW62XrIdDe1zYPVw6O6teUS8MJHUqtnW_gw9eppaF0hQJfF69_6Y/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Swedish - TV4 Fotboll (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKRRCCkYFCG4g+IYxBCIShkKZwoCwHTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/ZGFnFxCiFlmsKLwIdplJQHeJuHzHGpdZ/rtmp/stream/8ymK1rSG6h7LwjSaBbIZq35uQ4j5eGSpLH_OoQeSbwd7LvkeFMbZCgRa0ezyycI_f30j7yhZjTZt9CEH/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "racing-de-santander-vs-deportivo-alav-s-2506218",
+      "title": "Racing de Santander vs Deportivo Alavés",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "12 Sep 2026, 06:00 PM (BD Time)",
+      "start_epoch_ms": 1789214400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGQFgGYEMAAMIbiD4gzEEChAwQFi6fgFgSCn2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGQFgGYEMAAMIbiD4gzEEChAwQFi6fgFgSCn2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/LSBnxhfzeXbVtUqvboNzxMjJOXxDtRsF/rtmp/stream/lueuPBlbd58qrDSCln5i5rrl3eOK6IuGnrpbCtaQl2cVPKsPU7TsfBP3COO0GXGh_ofSlBMBhao/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "ESPN+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGQFgGYEMAAMIbiD4gzEEChAwQFi6fgFgSCn2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/ZgTSUPAVmbQbUsmexJpDIfNYjnGGerQn/rtmp/stream/PO2QyneMByGq-EXz2ZUHEkJbHt2jZpmal1BQ1W0ay6rcbNcvjQx8yHBdoeD9eepnQONtqXqe7Rh9ktyQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - ESPN+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGQFgGYEMAAMIbiD4gzEEChAwQFi6fgFgSCn2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/swJYLSyydiRkReFBjOxKEIwgDByMpkYS/rtmp/stream/yWMTnXYOXnNp_DfR_5Ok66z6CCEcBHkPHOdUds2qHvyY2YTgXNPDqOeAkkJVP70nPFcPrNzV_wZK/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Racing de Santander vs Deportivo Alavés (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGQFgGYEMAAMIbiD4gzEEChAwQFi6fgFgSCn2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/wOAzHSBpaJPKQoQJfNCHWDiFKAVFDiSG/delta/stream/live_laliga_r-racing-club-alaves-live-streaming-615783168/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
