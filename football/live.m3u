@@ -1,13 +1,20 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 1
-# UPDATED Time and date BD: 2026-09-12 | 05:36:06
+# TOTAL-ITEMS: 2
+# UPDATED Time and date BD: 2026-09-12 | 07:32:48
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
-#EXTINF:-1 tvg-id="Sevilla vs Valencia (HD)" tvg-name="Sevilla vs Valencia (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiG4IeIFG00g+IYxF0gYIU6akh4BYEgp9hs+ijAq9bD+XpZZeky0YB5iohBAA.webp" group-title="Football", Sevilla vs Valencia (HD)
+#EXTINF:-1 tvg-id="Spanish - FOX Deportes (HD)" tvg-name="Spanish - FOX Deportes (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDLDApYJGCkhD3EH0MgI5kDBAkrIRCALA9MfsNn0UYFSi7fy9Fiyvky0YN5iohBAA.webp" group-title="Football", Spanish - FOX Deportes (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb1.strmd.st/secure/MydQuOVLSmJGGWlPjymUIyBZXCHTyUfT/delta/stream/live_laliga_sevilla-valencia-live-streaming-615784032/1/playlist.m3u8
+https://lb6.strmd.st/secure/ttUirpDuZxQLuLEOhXFPQNErpOVfCIzq/rtmp/stream/cYJOuzGfTTK-mkfDnsA3k_E53NIYtrfKRzCS29fK6Vkl_e1yrWWA8yzT74bOu-eJ757o89fmPv8/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spanish - FOX Deportes (SD)" tvg-name="Spanish - FOX Deportes (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDLDApYJGCkhD3EH0MgI5kDBAkrIRCALA9MfsNn0UYFSi7fy9Fiyvky0YN5iohBAA.webp" group-title="Football", Spanish - FOX Deportes (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/DozHEpGxxBVuEkskDOfBZEvzytXThKxs/rtmp/stream/EfVBBY6tDFfKEoPDKM03uJTIbupaKg9GZG7sx57-t2R0ps5FEL5apIxsBwEhGRedTbgxhW_hQdeXdPUk/1/playlist.m3u8
 
