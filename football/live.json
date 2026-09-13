@@ -1,11 +1,108 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-13 | 11:59:00",
-  "updated_at_bd": "2026-09-13T11:59:00+06:00",
+  "total_items": 8,
+  "total_matches": 3,
+  "total_streams": 8,
+  "updated_time_bd": "2026-09-13 | 17:31:12",
+  "updated_at_bd": "2026-09-13T17:31:12+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "rangers-vs-celtic-2578586",
+      "title": "Rangers vs Celtic",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "13 Sep 2026, 05:00 PM (BD Time)",
+      "start_epoch_ms": 1789297200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8raWDJIQIOiG4g+OkFJAozIEiBi4zBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Premier Sports 1 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8raWDJIQIOiG4g+OkFJAozIEiBi4zBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb18.strmd.st/secure/dYtAbrHKjoqWGeiGLmigzkkhcqzzQkmM/rtmp/stream/_5TrGuJa71LfH1OlpRXKcatMIHLk0mxBf6QRYqc-g2I3q5kbBF6gWzvCF_XBok_zSqAZK_RLUkJ8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Premier Sports 1 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8raWDJIQIOiG4g+OkFJAozIEiBi4zBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/TFvHIShyJvqwpTtcEILuTrWRNadCCMkl/rtmp/stream/IXaCa_Y_-ndMA8n_nxkifTX5n8mlu43gr7hOxAS9Jaz72IoB141hBVsqbuJPDCa6ptUKsff5daOxUesy6A/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Rangers vs Celtic (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8raWDJIQIOiG4g+OkFJAozIEiBi4zBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/pUdCvnEifpsmkeMnqpcCSFszvWriAbcN/delta/stream/live_scottish-league-cup_rangers-celtic-live-streaming-647917488/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "sheffield-united-vs-wolverhampton-wanderers-2501326",
+      "title": "Sheffield United vs Wolverhampton Wanderers",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "13 Sep 2026, 05:00 PM (BD Time)",
+      "start_epoch_ms": 1789297200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEfzkg+YFCG7aQRnBBBTDe0ygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports Football (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEfzkg+YFCG7aQRnBBBTDe0ygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb18.strmd.st/secure/NrxlZFAPxnolcWnazvphjumqQheVDxbG/rtmp/stream/wWXNoZVuxCeC18ieZTHov4CSrgNQrET8iWef0ec0Lx_mEa4uAOuBYz3YaRxxEJCIaTbiLy1wehex4m-hwGjo/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports Football (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEfzkg+YFCG7aQRnBBBTDe0ygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb18.strmd.st/secure/CiRdopWFAkdTAgycZEFAOaHvDYLsFkhK/rtmp/stream/cvuNIOrhcCCpr0zQMcPTwnNo9HJUL3vInuXuTNcPjEk_-w2Osi-hPKLHRLXEdQTnLdQEwG6P99vK15ZzCwcIkAtIrA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sheffield United vs Wolverhampton Wanderers (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEfzkg+YFCG7aQRnBBBTDe0ygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb18.strmd.st/secure/SAdyGuUPickwVvrAisIQPcDMdqyufOUs/delta/stream/live_championship_sheffield-utd-wolves-live-streaming-615429360/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "excelsior-vs-utrecht-2489115",
+      "title": "Excelsior vs Utrecht",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "13 Sep 2026, 04:15 PM (BD Time)",
+      "start_epoch_ms": 1789294500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDkMtOPiG4g9GnDhggU5jSCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Dutch - ESPN2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDkMtOPiG4g9GnDhggU5jSCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/hnqvYzDzxafUFikTomfWtWqxKvuFKjnV/rtmp/stream/f2JVoEhp4xwQBTX6M25XzncpMdxsLdStIHOMzVfUoGCGDBSykNefFijr_5bV5js85XtsC7Yf-aY/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Dutch - ESPN2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDkMtOPiG4g9GnDhggU5jSCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/SlQhJeDECFfqtRfBZMxGMaFnFwnDWgrC/rtmp/stream/syHPp618BokUn0E-5cqopPegOvnhJH8qUrPJCepSr2yYFEfWv3MzVtyfXAKEnGBi1kqNU5tmJ6DBWjy2/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }

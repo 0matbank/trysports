@@ -1,6 +1,62 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-09-13 | 11:59:00
+# TOTAL-ITEMS: 8
+# UPDATED Time and date BD: 2026-09-13 | 17:31:12
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Premier Sports 1 (HD)" tvg-name="Premier Sports 1 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8raWDJIQIOiG4g+OkFJAozIEiBi4zBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="Football", Premier Sports 1 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb18.strmd.st/secure/dYtAbrHKjoqWGeiGLmigzkkhcqzzQkmM/rtmp/stream/_5TrGuJa71LfH1OlpRXKcatMIHLk0mxBf6QRYqc-g2I3q5kbBF6gWzvCF_XBok_zSqAZK_RLUkJ8/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premier Sports 1 (SD)" tvg-name="Premier Sports 1 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8raWDJIQIOiG4g+OkFJAozIEiBi4zBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="Football", Premier Sports 1 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb7.strmd.st/secure/TFvHIShyJvqwpTtcEILuTrWRNadCCMkl/rtmp/stream/IXaCa_Y_-ndMA8n_nxkifTX5n8mlu43gr7hOxAS9Jaz72IoB141hBVsqbuJPDCa6ptUKsff5daOxUesy6A/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rangers vs Celtic (HD)" tvg-name="Rangers vs Celtic (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8raWDJIQIOiG4g+OkFJAozIEiBi4zBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="Football", Rangers vs Celtic (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb7.strmd.st/secure/pUdCvnEifpsmkeMnqpcCSFszvWriAbcN/delta/stream/live_scottish-league-cup_rangers-celtic-live-streaming-647917488/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports Football (HD)" tvg-name="Sky Sports Football (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEfzkg+YFCG7aQRnBBBTDe0ygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", Sky Sports Football (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb18.strmd.st/secure/NrxlZFAPxnolcWnazvphjumqQheVDxbG/rtmp/stream/wWXNoZVuxCeC18ieZTHov4CSrgNQrET8iWef0ec0Lx_mEa4uAOuBYz3YaRxxEJCIaTbiLy1wehex4m-hwGjo/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports Football (SD)" tvg-name="Sky Sports Football (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEfzkg+YFCG7aQRnBBBTDe0ygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", Sky Sports Football (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb18.strmd.st/secure/CiRdopWFAkdTAgycZEFAOaHvDYLsFkhK/rtmp/stream/cvuNIOrhcCCpr0zQMcPTwnNo9HJUL3vInuXuTNcPjEk_-w2Osi-hPKLHRLXEdQTnLdQEwG6P99vK15ZzCwcIkAtIrA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sheffield United vs Wolverhampton Wanderers (HD)" tvg-name="Sheffield United vs Wolverhampton Wanderers (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEfzkg+YFCG7aQRnBBBTDe0ygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", Sheffield United vs Wolverhampton Wanderers (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb18.strmd.st/secure/SAdyGuUPickwVvrAisIQPcDMdqyufOUs/delta/stream/live_championship_sheffield-utd-wolves-live-streaming-615429360/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dutch - ESPN2 (HD)" tvg-name="Dutch - ESPN2 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDkMtOPiG4g9GnDhggU5jSCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Dutch - ESPN2 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb7.strmd.st/secure/hnqvYzDzxafUFikTomfWtWqxKvuFKjnV/rtmp/stream/f2JVoEhp4xwQBTX6M25XzncpMdxsLdStIHOMzVfUoGCGDBSykNefFijr_5bV5js85XtsC7Yf-aY/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dutch - ESPN2 (SD)" tvg-name="Dutch - ESPN2 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDkMtOPiG4g9GnDhggU5jSCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Dutch - ESPN2 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb7.strmd.st/secure/SlQhJeDECFfqtRfBZMxGMaFnFwnDWgrC/rtmp/stream/syHPp618BokUn0E-5cqopPegOvnhJH8qUrPJCepSr2yYFEfWv3MzVtyfXAKEnGBi1kqNU5tmJ6DBWjy2/1/playlist.m3u8
 
