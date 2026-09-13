@@ -1,58 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 36,
-  "total_matches": 36,
+  "total_items": 31,
+  "total_matches": 31,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-14 | 02:46:16",
-  "updated_at_bd": "2026-09-14T02:46:16+06:00",
+  "updated_time_bd": "2026-09-14 | 04:40:52",
+  "updated_at_bd": "2026-09-14T04:40:52+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "atletico-nacional-vs-aguilas-doradas-football-1549775",
-      "title": "Atletico Nacional vs Águilas Doradas",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 03:05 AM (BD Time)",
-      "start_epoch_ms": 1789333500000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIgDG9cg3VZxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikBBX1yDAMbNxPeCKrcCXVmDC58FoA.webp"
-    },
-    {
-      "id": "chicago-fire-vs-new-england-revolution-2407081",
-      "title": "Chicago Fire vs New England Revolution",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 03:30 AM (BD Time)",
-      "start_epoch_ms": 1789335000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBnww4GTu4g+hkAaMkQiCCZBSCwJBT7DZ9FGBUou78vSyzPTLQaovQhQA.webp"
-    },
-    {
-      "id": "pacific-vs-cavalry-2427411",
-      "title": "Pacific vs Cavalry",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 04:00 AM (BD Time)",
-      "start_epoch_ms": 1789336800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHRDww3MDJzcQfECYggYWkChCGzCpkgp9hs+ijAqUXD+XobRXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "independiente-vs-san-lorenzo-2398079",
-      "title": "Independiente vs San Lorenzo",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 04:15 AM (BD Time)",
-      "start_epoch_ms": 1789337700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFAxDcQMWRC0g+IKSBTHDFk0cbAkFPsL3swKjWxfl6WWRqa0wLmKiEEA.webp"
-    },
-    {
-      "id": "vancouver-whitecaps-vs-austin-fc-2407080",
-      "title": "Vancouver Whitecaps vs Austin FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 04:30 AM (BD Time)",
-      "start_epoch_ms": 1789338600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChBkUYPrnYhuIPTBBTjhkIiMhcBYEgp9hs+jpUouYMvCJZZnky0YN5iohBAA.webp"
-    },
     {
       "id": "once-caldas-vs-deportivo-cali-2481179",
       "title": "Once Caldas vs Deportivo Cali",

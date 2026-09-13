@@ -1,62 +1,48 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 8
-# UPDATED Time and date BD: 2026-09-14 | 02:46:16
+# TOTAL-ITEMS: 6
+# UPDATED Time and date BD: 2026-09-14 | 04:40:52
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
-#EXTINF:-1 tvg-id="beIN SPORTS CONNECT 4 (HD)" tvg-name="beIN SPORTS CONNECT 4 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVDhxEMENxB8QRqQb1GQKUygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", beIN SPORTS CONNECT 4 (HD)
+#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChBkUYPrnYhuIPTBBTjhkIiMhcBYEgp9hs+jpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", Apple TV (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb15.strmd.st/secure/diaKniVBHTWTlKgWongfCBBzbOWPCDzO/rtmp/stream/-QdAb-FgrMMfiEOkUsNPDpa7EVnOHqa6Bc7O96aimiYv-fOvTz6XG6fvL9BsxkPoJSiFzdkEIIgQ/1/playlist.m3u8
+https://lb15.strmd.st/secure/xMqCeBPROmQprrWwNUyyXuGlpEtVPhdT/rtmp/stream/gZ983abg-NuTsm5UVBm98Svk9_UHlI2ddDnRYgBMZeFUdCKzPi74B3aS5qXTDLlK9AQv_8uXrNPs/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS CONNECT 4 (SD)" tvg-name="beIN SPORTS CONNECT 4 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVDhxEMENxB8QRqQb1GQKUygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", beIN SPORTS CONNECT 4 (SD)
+#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChBkUYPrnYhuIPTBBTjhkIiMhcBYEgp9hs+jpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", Apple TV (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb15.strmd.st/secure/KONOFVkwFgHLKorfRkJVYnzodpPqNncM/rtmp/stream/6ltWJssDF_pvWT2sXjMJsV5sOeCRbmZPPXWGkgsjSUe-BADB0ugVwjC1sDnH5gCp5B35qyBITk9bqk-JPg/1/playlist.m3u8
+https://lb15.strmd.st/secure/YVoFWSlqmVhEjfVNHjYYGBmmhUWcpBoD/rtmp/stream/-Kg6K826tFm8noM5ujzZJmQIF__bdYh3xCwFWWCcUC78H2f3mM1FDmM-MsvQde__IJ0YjPZZK-d_W3HqYQ/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN+ (HD)" tvg-name="ESPN+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRFLB8woiCH3cQffSD0oQMU1eMwCwJBT7DZ9FDrYouO8vSyzPTLRg7vS6QA.webp" group-title="Football", ESPN+ (HD)
+#EXTINF:-1 tvg-id="Vancouver Whitecaps vs Austin FC (HD)" tvg-name="Vancouver Whitecaps vs Austin FC (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChBkUYPrnYhuIPTBBTjhkIiMhcBYEgp9hs+jpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", Vancouver Whitecaps vs Austin FC (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb18.strmd.st/secure/vOuEPJoOEXaqLGiwEJmignqeDRByRRFw/rtmp/stream/tSvI3c3mlPWHCY6ODNhLxp9j4lHdgAJxuNib9IDMSEOv4brMK83Hrvv62R6vJVCphjSCH2TEzos/1/playlist.m3u8
+https://lb15.strmd.st/secure/mBBAyQmDfQonQTTTArzZdOqKksIAyQWw/delta/stream/live_mls_vancouver-austin-live-streaming-539229744/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN+ (SD)" tvg-name="ESPN+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRFLB8woiCH3cQffSD0oQMU1eMwCwJBT7DZ9FDrYouO8vSyzPTLRg7vS6QA.webp" group-title="Football", ESPN+ (SD)
+#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBnww4GTu4g+hkAaMkQiCCZBSCwJBT7DZ9FGBUou78vSyzPTLQaovQhQA.webp" group-title="Football", Apple TV (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb18.strmd.st/secure/ucPdYsyGsYCvDJUpyBSjZIuCiIPqMYTM/rtmp/stream/JW83KLO_5udRI4ZcI8fRe8RSXfNCDxQDLB8ziuxab8FhvhGwB2hlA2kvu104FFMzt_OQGvmJsL373hNw/1/playlist.m3u8
+https://lb15.strmd.st/secure/kNwcCETooZtHDfrRnlAjeHwFtwaTdPAz/rtmp/stream/UIOXrLKlxHNfLuq64595emsgoXCJWBFNv5DADDc8vP9ep59t_71vC4UNnvUjuY1xa5JXx1Hh_-Mz/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="French - Ligue 1+ (HD)" tvg-name="French - Ligue 1+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHN1zEmGkHxAHNOCCBQgjBgsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp" group-title="Football", French - Ligue 1+ (HD)
+#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBnww4GTu4g+hkAaMkQiCCZBSCwJBT7DZ9FGBUou78vSyzPTLQaovQhQA.webp" group-title="Football", Apple TV (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb18.strmd.st/secure/uFxouyXteXsGsYGeAZdQTddVieslmccn/rtmp/stream/hMu_opGf1-wJLlvMF9NMFDwaNJKzueygW--GLoE6iU-Bi_ucHDf-B1zGwNECsJS5ObVXfAS2f1A/1/playlist.m3u8
+https://lb20.strmd.st/secure/aZdQLIixwqrqqWYCkviVSRLJMVhljkuM/rtmp/stream/AIgX08LWk26Cq7VnGnSIOan93ofTiw8KWvV09iBcT_wMI1d3uZx6-OV5MR7Vcqj1x2k28hTgd6wg3fhcng/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="French - Ligue 1+ (SD)" tvg-name="French - Ligue 1+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHN1zEmGkHxAHNOCCBQgjBgsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp" group-title="Football", French - Ligue 1+ (SD)
+#EXTINF:-1 tvg-id="Chicago Fire vs New England Revolution (HD)" tvg-name="Chicago Fire vs New England Revolution (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBnww4GTu4g+hkAaMkQiCCZBSCwJBT7DZ9FGBUou78vSyzPTLQaovQhQA.webp" group-title="Football", Chicago Fire vs New England Revolution (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb18.strmd.st/secure/pXWWwdWVkuwktXTlOZXnFdmwaqaRqbgg/rtmp/stream/HWjyPvqbxz2hA6RebPIfFWHkvt_Lc3_CjtwdphWU1gL6QmLq4frtQkxzdKWVJ_62CR8ShvUxOx9CZVqh/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Paramount+ (HD)" tvg-name="Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKOBRgyKkNxB8QJIyBQhEEEJcMwCwJBT7DZ9LSpRdt5ellkemtGDaYqIQQA.webp" group-title="Football", Paramount+ (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb15.strmd.st/secure/zqFWpDwDuiVPOVMmsXRYswWIwEEhXKfB/rtmp/stream/Fn7Et7LRsxHTB_inh7RsD2sAeyGRh_6ER6Saz6Yp8OG8xC6VVxzyFTrhu1hGEQUcrcnSgvxLZ8g/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Paramount+ (SD)" tvg-name="Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKOBRgyKkNxB8QJIyBQhEEEJcMwCwJBT7DZ9LSpRdt5ellkemtGDaYqIQQA.webp" group-title="Football", Paramount+ (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb15.strmd.st/secure/EIBypdRCFFgRAIoZQKfssCVpgXYHWaNs/rtmp/stream/5mYW1e1Vr0IMD5VYKn85fvRteZxBC1x4udY1ESvHamcJtZpLjTz6YmXwrhy-Q3439H6hwxMpwFBcasfM/1/playlist.m3u8
+https://lb20.strmd.st/secure/NPxtHdfKQeebwCXpRwEfOcnjXGZSCDcR/delta/stream/live_mls_chicago-new-england-live-streaming-539229312/1/playlist.m3u8
 
