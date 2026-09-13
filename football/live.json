@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 16,
-  "total_matches": 5,
-  "total_streams": 16,
-  "updated_time_bd": "2026-09-14 | 00:05:39",
-  "updated_at_bd": "2026-09-14T00:05:39+06:00",
+  "total_items": 8,
+  "total_matches": 4,
+  "total_streams": 8,
+  "updated_time_bd": "2026-09-14 | 02:46:16",
+  "updated_at_bd": "2026-09-14T02:46:16+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "benfica-vs-gil-vicente-2513979",
-      "title": "Benfica vs Gil Vicente",
+      "id": "famalicao-vs-sporting-cp-2513986",
+      "title": "Famalicao vs Sporting CP",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "13 Sep 2026, 11:00 PM (BD Time)",
-      "start_epoch_ms": 1789318800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUSGBIeYnNxB8QRqQZD6jKECZAEtFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+      "start_time_bd": "14 Sep 2026, 01:30 AM (BD Time)",
+      "start_epoch_ms": 1789327800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVDhxEMENxB8QRqQb1GQKUygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -24,26 +24,26 @@
       "streams": [
         {
           "channel_name": "beIN SPORTS CONNECT 4 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUSGBIeYnNxB8QRqQZD6jKECZAEtFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVDhxEMENxB8QRqQb1GQKUygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb20.strmd.st/secure/HdDuAdcsrhsXItFATuNyHPXVUiJfNYUs/rtmp/stream/e5OZEzHH73wldOnLDuRCD1OHk4y3VmQEMPvVJfVecc_hZN_vzh51vq6oNuytrPmbDQLGOsAqMCBa/1/playlist.m3u8"
+          "direct_stream_url": "https://lb15.strmd.st/secure/diaKniVBHTWTlKgWongfCBBzbOWPCDzO/rtmp/stream/-QdAb-FgrMMfiEOkUsNPDpa7EVnOHqa6Bc7O96aimiYv-fOvTz6XG6fvL9BsxkPoJSiFzdkEIIgQ/1/playlist.m3u8"
         },
         {
           "channel_name": "beIN SPORTS CONNECT 4 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUSGBIeYnNxB8QRqQZD6jKECZAEtFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVDhxEMENxB8QRqQb1GQKUygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb20.strmd.st/secure/ltEaTJCBnQBhYNlzMtALuaJyKabEzCAA/rtmp/stream/480-DuIr_YbGxWo6ceW3EKW5FavC7bPoyq7U1p7bnmCU4BZvl6v_BaC8KzUkNeW43eOdzEwNLEwhzHOYKQ/1/playlist.m3u8"
+          "direct_stream_url": "https://lb15.strmd.st/secure/KONOFVkwFgHLKorfRkJVYnzodpPqNncM/rtmp/stream/6ltWJssDF_pvWT2sXjMJsV5sOeCRbmZPPXWGkgsjSUe-BADB0ugVwjC1sDnH5gCp5B35qyBITk9bqk-JPg/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "getafe-vs-deportivo-de-a-coru-a-2506215",
-      "title": "Getafe vs Deportivo de A Coruña",
+      "id": "real-sociedad-vs-atl-tico-madrid-2506216",
+      "title": "Real Sociedad vs Atlético Madrid",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "13 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1789317000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKeSkgBGxN20hDEEChAwQx41pNMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+      "start_time_bd": "14 Sep 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1789326000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRFLB8woiCH3cQffSD0oQMU1eMwCwJBT7DZ9FDrYouO8vSyzPTLRg7vS6QA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -52,26 +52,54 @@
       "streams": [
         {
           "channel_name": "ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKeSkgBGxN20hDEEChAwQx41pNMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRFLB8woiCH3cQffSD0oQMU1eMwCwJBT7DZ9FDrYouO8vSyzPTLRg7vS6QA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb20.strmd.st/secure/iiVKfUcrqCJGMsRSdXDCJfQhVSYVtBMe/rtmp/stream/ZfXFjeK7ZiDOPXwRyLfTeg0fokFrjgRnQRplNZOHUnWV98TDhFHds-w3eABSUUD1TCOPKBjIpMU/1/playlist.m3u8"
+          "direct_stream_url": "https://lb18.strmd.st/secure/vOuEPJoOEXaqLGiwEJmignqeDRByRRFw/rtmp/stream/tSvI3c3mlPWHCY6ODNhLxp9j4lHdgAJxuNib9IDMSEOv4brMK83Hrvv62R6vJVCphjSCH2TEzos/1/playlist.m3u8"
         },
         {
           "channel_name": "ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKeSkgBGxN20hDEEChAwQx41pNMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRFLB8woiCH3cQffSD0oQMU1eMwCwJBT7DZ9FDrYouO8vSyzPTLRg7vS6QA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb20.strmd.st/secure/OktnGxSAKWBgKrdqWRLbMlnSYOcSbuyf/rtmp/stream/cBfFeo9bf0i2ovc-MG7q6_-mUQTMKSwZTiJZX6PJ0UxebyK7jy5WYNS3n3QNexZOAucLCggIql_GeYbg/1/playlist.m3u8"
+          "direct_stream_url": "https://lb18.strmd.st/secure/ucPdYsyGsYCvDJUpyBSjZIuCiIPqMYTM/rtmp/stream/JW83KLO_5udRI4ZcI8fRe8RSXfNCDxQDLB8ziuxab8FhvhGwB2hlA2kvu104FFMzt_OQGvmJsL373hNw/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "napoli-vs-bologna-2482170",
-      "title": "Napoli vs Bologna",
+      "id": "brest-vs-paris-saint-germain-2489493",
+      "title": "Brest vs Paris Saint-Germain",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "13 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1789315200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VekiJJmsENxB8QJIyBQhEx-ThIFgmmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "start_time_bd": "14 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1789325100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHN1zEmGkHxAHNOCCBQgjBgsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "French - Ligue 1+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHN1zEmGkHxAHNOCCBQgjBgsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb18.strmd.st/secure/uFxouyXteXsGsYGeAZdQTddVieslmccn/rtmp/stream/hMu_opGf1-wJLlvMF9NMFDwaNJKzueygW--GLoE6iU-Bi_ucHDf-B1zGwNECsJS5ObVXfAS2f1A/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "French - Ligue 1+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHN1zEmGkHxAHNOCCBQgjBgsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb18.strmd.st/secure/pXWWwdWVkuwktXTlOZXnFdmwaqaRqbgg/rtmp/stream/HWjyPvqbxz2hA6RebPIfFWHkvt_Lc3_CjtwdphWU1gL6QmLq4frtQkxzdKWVJ_62CR8ShvUxOx9CZVqh/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "sassuolo-vs-juventus-2482169",
+      "title": "Sassuolo vs Juventus",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "14 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1789325100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKOBRgyKkNxB8QJIyBQhEEEJcMwCwJBT7DZ9LSpRdt5ellkemtGDaYqIQQA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -80,107 +108,15 @@
       "streams": [
         {
           "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VekiJJmsENxB8QJIyBQhEx-ThIFgmmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKOBRgyKkNxB8QJIyBQhEEEJcMwCwJBT7DZ9LSpRdt5ellkemtGDaYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb18.strmd.st/secure/yWnEbeofxofEXGSIjiLUSmZOmeWyZeCm/rtmp/stream/L1IHlmncwDT88N7SRAGiCl9QMUeDLMGhNS66O86SMyKnkJPfd2DKnA2HlDFpI2ZGwom0-wqD0TE/1/playlist.m3u8"
+          "direct_stream_url": "https://lb15.strmd.st/secure/zqFWpDwDuiVPOVMmsXRYswWIwEEhXKfB/rtmp/stream/Fn7Et7LRsxHTB_inh7RsD2sAeyGRh_6ER6Saz6Yp8OG8xC6VVxzyFTrhu1hGEQUcrcnSgvxLZ8g/1/playlist.m3u8"
         },
         {
           "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VekiJJmsENxB8QJIyBQhEx-ThIFgmmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKOBRgyKkNxB8QJIyBQhEEEJcMwCwJBT7DZ9LSpRdt5ellkemtGDaYqIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb18.strmd.st/secure/yXEDXjsMtztjDCiixOcoYbeEEJyRqUdz/rtmp/stream/2uvvSzX5oJfJRoG6VlCs8x1_6GHWFyaYeiNoRGJ1ayVX4nbXFU39RVdMnv75QUjqJ_-PSHnwp9iNLaTg/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "elversberg-vs-bayern-munich-2508359",
-      "title": "Elversberg vs Bayern Munich",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "13 Sep 2026, 09:30 PM (BD Time)",
-      "start_epoch_ms": 1789313400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGD4huIPmBAgS23QZCIYJqSYhmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "USA (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGD4huIPmBAgS23QZCIYJqSYhmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb18.strmd.st/secure/RmniytAlXnjufdLFEtBdyCkMlOQXNMcn/rtmp/stream/hUKekFj6qIQo999kErjvdg3OO9yrfoIAmaLwACYOddOPblDT8La8enUUIE4WneoDojuINa1_22A/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "USA (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGD4huIPmBAgS23QZCIYJqSYhmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb18.strmd.st/secure/bJAwgmOhrxhMYPXfaHVbDUqZxaAbdIAi/rtmp/stream/QsnJzA5Bcaw8jbt7CkawKZule3Q8-CnMTw256mOsCbj7v9o1mInkBxeXsS2dos1TaiFE4mLJnN6btfgb/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "manchester-united-vs-manchester-city-2494030",
-      "title": "Manchester United vs Manchester City",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "13 Sep 2026, 09:30 PM (BD Time)",
-      "start_epoch_ms": 1789313400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNryxcADGCQhuIPiBMQQJEGZQhEMECgLAkFPsNn0UYFSi5fy9LVEfJlowLzFRCCA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports Premier League (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNryxcADGCQhuIPiBMQQJEGZQhEMECgLAkFPsNn0UYFSi5fy9LVEfJlowLzFRCCA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb18.strmd.st/secure/VQGWztmrfeLjEaUdWMHMxXkLXJVnFnFL/rtmp/stream/yPz4Ns5bD-a688H7sz9jjQe7LogMZznMExBQc_UpiJiKnjIr9xM2gmkma9jgQn2V9U90fckHgeom/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports Premier League (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNryxcADGCQhuIPiBMQQJEGZQhEMECgLAkFPsNn0UYFSi5fy9LVEfJlowLzFRCCA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb18.strmd.st/secure/IIevXtQqlPUzNtlvsXzAmJyfKubrrqQg/rtmp/stream/tHSe7dOeecLxaJMWXy6TO-RV8abzOBBFb5uEzGdg6FMLJ_tt9P71-s5dwJpLjmdSc5sIlqB8V76uc1fVAw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Dutch - Viaplay (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNryxcADGCQhuIPiBMQQJEGZQhEMECgLAkFPsNn0UYFSi5fy9LVEfJlowLzFRCCA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb18.strmd.st/secure/lTjHDmCjpMARYRIeHhHodeyQSzaaICOk/rtmp/stream/Vce5jwna380vFul_QYrV-5sQvDoLFItOy2EfJEMNabmAjnbLpBjrkRGJhI4EbhnhY1UVQHoEdV6i5ic/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Dutch - Viaplay (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNryxcADGCQhuIPiBMQQJEGZQhEMECgLAkFPsNn0UYFSi5fy9LVEfJlowLzFRCCA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb16.strmd.st/secure/mXIPABdKJXJnXTNHvokJrjPFdpHfvVlf/rtmp/stream/h9-F9FH_indWZ0eVMoGHP-4pTGUJM7XnqXbuy176xIZtpx12MzMYcG1wR58rFlOZ1gqe2Sq516yHFWeapGJa/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Manchester United vs Manchester City (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNryxcADGCQhuIPiBMQQJEGZQhEMECgLAkFPsNn0UYFSi5fy9LVEfJlowLzFRCCA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb16.strmd.st/secure/YqYYXaYRUOpvSNCWxvBxUWUSlgBdRjvU/ingest/stream/nmanchestercity/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Manchester United vs Manchester City (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNryxcADGCQhuIPiBMQQJEGZQhEMECgLAkFPsNn0UYFSi5fy9LVEfJlowLzFRCCA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb16.strmd.st/secure/HNjtejtKjLVQIXZilYlQgFMaqhLbAscg/ingest/stream/nmanchestercity/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Manchester United vs Manchester City (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNryxcADGCQhuIPiBMQQJEGZQhEMECgLAkFPsNn0UYFSi5fy9LVEfJlowLzFRCCA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb17.strmd.st/secure/jKrUoDOSIRSakBisXsWNGBHvHDdItCyE/ingest/stream/nmanchesterunited/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Manchester United vs Manchester City (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNryxcADGCQhuIPiBMQQJEGZQhEMECgLAkFPsNn0UYFSi5fy9LVEfJlowLzFRCCA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb17.strmd.st/secure/fsFZRlNOHUkMnCDHKWegbpQtITpOmxWo/ingest/stream/nmanchesterunited/1/playlist.m3u8"
+          "direct_stream_url": "https://lb15.strmd.st/secure/EIBypdRCFFgRAIoZQKfssCVpgXYHWaNs/rtmp/stream/5mYW1e1Vr0IMD5VYKn85fvRteZxBC1x4udY1ESvHamcJtZpLjTz6YmXwrhy-Q3439H6hwxMpwFBcasfM/1/playlist.m3u8"
         }
       ]
     }

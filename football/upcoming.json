@@ -1,112 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 46,
-  "total_matches": 46,
+  "total_items": 36,
+  "total_matches": 36,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-14 | 00:05:39",
-  "updated_at_bd": "2026-09-14T00:05:39+06:00",
+  "updated_time_bd": "2026-09-14 | 02:46:16",
+  "updated_at_bd": "2026-09-14T02:46:16+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "panathinaikos-vs-panetolikos-2539941",
-      "title": "Panathinaikos vs Panetolikos",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1789324200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiHoAGECmBJSIbiClGQ50ylwhEiKQX0U+w2fRRgVeth-L0ssvSZaMA8xUQggA.webp"
-    },
-    {
-      "id": "brest-vs-paris-saint-germain-2489493",
-      "title": "Brest vs Paris Saint-Germain",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1789325100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHN1zEmGkHxAHNOCCBQgjBgsCQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp"
-    },
-    {
-      "id": "sassuolo-vs-juventus-2482169",
-      "title": "Sassuolo vs Juventus",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1789325100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKOBRgyKkNxB8QJIyBQhEEEJcMwCwJBT7DZ9LSpRdt5ellkemtGDaYqIQQA.webp"
-    },
-    {
-      "id": "deportivo-pereira-vs-atl-tico-bucaramanga-2481184",
-      "title": "Deportivo Pereira vs Atlético Bucaramanga",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1789326000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECD4UwYDTBDcQUzSBIgIB3KcsSmSCn2Gz6KMCpRc35ellkemtDqi9MFAA.webp"
-    },
-    {
-      "id": "mirassol-vs-vitoria-football-1492377",
-      "title": "Mirassol vs Vitoria",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1789326000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBUQV9cg0XNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRP3rkGAY2bie8EVW4EurMGFz5zQA.webp"
-    },
-    {
-      "id": "real-sociedad-vs-atl-tico-madrid-2506216",
-      "title": "Real Sociedad vs Atlético Madrid",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1789326000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRFLB8woiCH3cQffSD0oQMU1eMwCwJBT7DZ9FDrYouO8vSyzPTLRg7vS6QA.webp"
-    },
-    {
-      "id": "tenerife-vs-leganes-football-1569924",
-      "title": "Tenerife vs Leganes",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1789326000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIgU9cg0XNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRAGN65Bmqzie8EVW4EurMGFz5zQA.webp"
-    },
-    {
-      "id": "york-united-vs-vancouver-fc-football-1517346",
-      "title": "York United vs Vancouver FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1789326000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfopDx65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIGCFWqSdcgwDGzcT3giq3Al1ZgwufFaA.webp"
-    },
-    {
-      "id": "famalicao-vs-sporting-cp-2513986",
-      "title": "Famalicao vs Sporting CP",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 01:30 AM (BD Time)",
-      "start_epoch_ms": 1789327800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVDhxEMENxB8QRqQb1GQKUygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "argentinos-jrs-vs-gimnasia-lp-football-1493122",
-      "title": "Argentinos JRS vs Gimnasia L.P.",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 02:00 AM (BD Time)",
-      "start_epoch_ms": 1789329600000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCBD1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIRBHrkGAY2bie8EVW4EurMGFz5zQA.webp"
-    },
-    {
-      "id": "flamengo-vs-corinthians-2398456",
-      "title": "Flamengo vs Corinthians",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 02:30 AM (BD Time)",
-      "start_epoch_ms": 1789331400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwhEZPiD6QQ3PSCkgUJkJcS7dCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-    },
     {
       "id": "atletico-nacional-vs-aguilas-doradas-football-1549775",
       "title": "Atletico Nacional vs Águilas Doradas",
@@ -160,6 +61,15 @@
       "start_time_bd": "14 Sep 2026, 05:10 AM (BD Time)",
       "start_epoch_ms": 1789341000000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHKIEQQtKSG4g9fECRDaDGwyBQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "marath-n-vs-cd-olimpia-2597605",
+      "title": "Marathón vs CD Olimpia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "14 Sep 2026, 05:15 AM (BD Time)",
+      "start_epoch_ms": 1789341300000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IccOwgUIEiCrTsIkDBBYQEYApnjViBWUlHgidaplyFw+ePkpymgUJFMl9sIWBJcAY3tCwbk5NSTJ7AhNyQOBNMgggA.webp"
     },
     {
       "id": "ppv-santos-vs-fc-juarez",
