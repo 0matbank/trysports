@@ -1,89 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 8,
-  "total_matches": 3,
-  "total_streams": 8,
-  "updated_time_bd": "2026-09-13 | 17:31:12",
-  "updated_at_bd": "2026-09-13T17:31:12+06:00",
+  "total_items": 27,
+  "total_matches": 10,
+  "total_streams": 27,
+  "updated_time_bd": "2026-09-13 | 21:01:41",
+  "updated_at_bd": "2026-09-13T21:01:41+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "rangers-vs-celtic-2578586",
-      "title": "Rangers vs Celtic",
+      "id": "pec-zwolle-vs-feyenoord-2489118",
+      "title": "PEC Zwolle vs Feyenoord",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "13 Sep 2026, 05:00 PM (BD Time)",
-      "start_epoch_ms": 1789297200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8raWDJIQIOiG4g+OkFJAozIEiBi4zBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Premier Sports 1 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8raWDJIQIOiG4g+OkFJAozIEiBi4zBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb18.strmd.st/secure/dYtAbrHKjoqWGeiGLmigzkkhcqzzQkmM/rtmp/stream/_5TrGuJa71LfH1OlpRXKcatMIHLk0mxBf6QRYqc-g2I3q5kbBF6gWzvCF_XBok_zSqAZK_RLUkJ8/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Premier Sports 1 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8raWDJIQIOiG4g+OkFJAozIEiBi4zBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb7.strmd.st/secure/TFvHIShyJvqwpTtcEILuTrWRNadCCMkl/rtmp/stream/IXaCa_Y_-ndMA8n_nxkifTX5n8mlu43gr7hOxAS9Jaz72IoB141hBVsqbuJPDCa6ptUKsff5daOxUesy6A/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Rangers vs Celtic (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8raWDJIQIOiG4g+OkFJAozIEiBi4zBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/pUdCvnEifpsmkeMnqpcCSFszvWriAbcN/delta/stream/live_scottish-league-cup_rangers-celtic-live-streaming-647917488/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "sheffield-united-vs-wolverhampton-wanderers-2501326",
-      "title": "Sheffield United vs Wolverhampton Wanderers",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "13 Sep 2026, 05:00 PM (BD Time)",
-      "start_epoch_ms": 1789297200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEfzkg+YFCG7aQRnBBBTDe0ygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports Football (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEfzkg+YFCG7aQRnBBBTDe0ygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb18.strmd.st/secure/NrxlZFAPxnolcWnazvphjumqQheVDxbG/rtmp/stream/wWXNoZVuxCeC18ieZTHov4CSrgNQrET8iWef0ec0Lx_mEa4uAOuBYz3YaRxxEJCIaTbiLy1wehex4m-hwGjo/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports Football (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEfzkg+YFCG7aQRnBBBTDe0ygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb18.strmd.st/secure/CiRdopWFAkdTAgycZEFAOaHvDYLsFkhK/rtmp/stream/cvuNIOrhcCCpr0zQMcPTwnNo9HJUL3vInuXuTNcPjEk_-w2Osi-hPKLHRLXEdQTnLdQEwG6P99vK15ZzCwcIkAtIrA/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sheffield United vs Wolverhampton Wanderers (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEfzkg+YFCG7aQRnBBBTDe0ygLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb18.strmd.st/secure/SAdyGuUPickwVvrAisIQPcDMdqyufOUs/delta/stream/live_championship_sheffield-utd-wolves-live-streaming-615429360/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "excelsior-vs-utrecht-2489115",
-      "title": "Excelsior vs Utrecht",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "13 Sep 2026, 04:15 PM (BD Time)",
-      "start_epoch_ms": 1789294500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDkMtOPiG4g9GnDhggU5jSCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "start_time_bd": "13 Sep 2026, 08:45 PM (BD Time)",
+      "start_epoch_ms": 1789310700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFPzBJN9biD18QRnDhggU5o0YLAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -92,15 +24,309 @@
       "streams": [
         {
           "channel_name": "Dutch - ESPN2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDkMtOPiG4g9GnDhggU5jSCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFPzBJN9biD18QRnDhggU5o0YLAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/hnqvYzDzxafUFikTomfWtWqxKvuFKjnV/rtmp/stream/f2JVoEhp4xwQBTX6M25XzncpMdxsLdStIHOMzVfUoGCGDBSykNefFijr_5bV5js85XtsC7Yf-aY/1/playlist.m3u8"
+          "direct_stream_url": "https://lb15.strmd.st/secure/mnknJRpSlaRTdFsdXqtsnxviVfWYtSzB/rtmp/stream/6MKsXU7ZwB-W8IyRbZ4nWmlL-hRiyAdm9xFa8oUMpuMgssWRg6BPXUPaZNYclmhaVLIfvWuiKhE/1/playlist.m3u8"
         },
         {
           "channel_name": "Dutch - ESPN2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDkMtOPiG4g9GnDhggU5jSCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFPzBJN9biD18QRnDhggU5o0YLAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb7.strmd.st/secure/SlQhJeDECFfqtRfBZMxGMaFnFwnDWgrC/rtmp/stream/syHPp618BokUn0E-5cqopPegOvnhJH8qUrPJCepSr2yYFEfWv3MzVtyfXAKEnGBi1kqNU5tmJ6DBWjy2/1/playlist.m3u8"
+          "direct_stream_url": "https://lb15.strmd.st/secure/MzKfQCDHgHRmDZMTUtxpVFAufygcfrZk/rtmp/stream/mNnqWRAae2Ts8FdhUBWz3d9aXNyArqEL5wM0KXRtm_CUJ1D_yUXguWteMidzwMQuueHYH_VE1CefvGtI/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "malm--vs--rgryte-2477942",
+      "title": "Malmö vs Örgryte",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "13 Sep 2026, 08:30 PM (BD Time)",
+      "start_epoch_ms": 1789309800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRndsGhCG4g+IYxA0gSxkFPO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Swedish - TV4 Sport Live 1 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRndsGhCG4g+IYxA0gSxkFPO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/dwfEYxqXxresRZdqBudLGafAFfOWplHk/rtmp/stream/0Pq52Zs4z13YM3M8ZXoR0RNEshE6VPVwV3JIHEdBaxA0o5uQm2CPVQFTdD1EIfKDkKYY3DCTkWU/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Swedish - TV4 Sport Live 1 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRndsGhCG4g+IYxA0gSxkFPO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/RgBtmqHcPEKMzBaPdqmkFjACVLiSRHSq/rtmp/stream/w77oXH8WosbqelWU13z_22gXPu8_RKg7nq56RWjoVOCdshUZzSsfXuMjf-AxPM5-OW8VrDx5KmV_v8Ni/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "levante-vs-barcelona-2506213",
+      "title": "Levante vs Barcelona",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "13 Sep 2026, 08:15 PM (BD Time)",
+      "start_epoch_ms": 1789308900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAUjEyADDxDcQfEMYggUIGCFOmpIKQWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAUjEyADDxDcQfEMYggUIGCFOmpIKQWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/wJozjsPTxLQTsVgGzlppCgwPcYVjOpei/rtmp/stream/9ktHWsVVCwckchIjghgIsYcgCMkRuN4594rKAA8dnkGBROwyPEAKfpIQ1uCPqK27g42gTPhDg64/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "ESPN+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAUjEyADDxDcQfEMYggUIGCFOmpIKQWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb6.strmd.st/secure/RPRzFfzYVnMKMOGyGevpwoupgHBQhioh/rtmp/stream/wmj6Ega7NnjtQnjPvjzlrfXp9ZWjyRhXGNKiHCSvway50kbKberZk_U0GbH4NQqr0EhnkbFh6MdqgBqm/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Levante vs Barcelona (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAUjEyADDxDcQfEMYggUIGCFOmpIKQWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/pynBYKPigUsXYvXboJEUntSRhBkNYNWH/delta/stream/live_laliga_levante-barcelona-live-streaming-615781872/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Levante vs Barcelona (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAUjEyADDxDcQfEMYggUIGCFOmpIKQWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/YphdFqdRRaoqQYbsPBtcMDcFdKgEriAP/ingest/stream/nbarcelona/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Levante vs Barcelona (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAUjEyADDxDcQfEMYggUIGCFOmpIKQWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb6.strmd.st/secure/EGJDgCEcEeTCfgSmdCpxgYIQuUfonmeZ/ingest/stream/nbarcelona/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "genk-vs-gent-2496741",
+      "title": "Genk vs Gent",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "13 Sep 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1789308000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJmDAoQiLKRDcQfECRAQQFw4YuIFTJBT7DZ9FGBUou78vT2jPTLSaovQhQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJmDAoQiLKRDcQfECRAQQFw4YuIFTJBT7DZ9FGBUou78vT2jPTLSaovQhQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/ZKLplqvDrNclXaSSggGfOIVDMoQRqaOA/rtmp/stream/NlOVer8dsxeQX_jEEJ5VkSA5TZb5ervAFEUu_71PGhhve41FhjFaESEhaseIiquBl3hh77bTCdgyNQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJmDAoQiLKRDcQfECRAQQFw4YuIFTJBT7DZ9FGBUou78vT2jPTLSaovQhQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/QWedkrzChWDNWlYlajvXPyZdoljyLith/rtmp/stream/nrJGGnVNRJa4En28tzAhvmdjQD_oKotr31JL31NQo2SVWMdr0Mq_mIRRMvxGirnN6FAsZO_sGvWRaF8X0Bs/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "rb-leipzig-vs-hamburg-2508356",
+      "title": "RB Leipzig vs Hamburg",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "13 Sep 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1789306200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRFJAp+YMom4g+IEiAggYp81utSCwJBT7DZ9FLrba2u8vSyztTLRg7vSiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fandango (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRFJAp+YMom4g+IEiAggYp81utSCwJBT7DZ9FLrba2u8vSyztTLRg7vSiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/SkwpeyayORIauGSnwlhWOUTFRednXTCg/rtmp/stream/QbrtUu2UFmehoHnCgdwg7ix2rDzn3mhZOAsB5k_Bif7QXR7VBu6UVHiRnUjLUDEs09If8nk1ne8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fandango (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRFJAp+YMom4g+IEiAggYp81utSCwJBT7DZ9FLrba2u8vSyztTLRg7vSiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb20.strmd.st/secure/fAQChQyORaAQNwfdEnUvlPlMYFTNVEAP/rtmp/stream/bEY1ZdC7koI7_oFXjnZkRI9qRJZWBWA4jzLwm5wZbO9_iyN46jGH5vCasM4ZRxX-2JXzLepBHKKhHVG3/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ppv-liverpool-vs-tottenham-hotspur",
+      "title": "Liverpool vs. Tottenham Hotspur",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "13 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1789304400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNnGkRIGvGCIQwCCGEgAxqpEylVECrKJNwySYjKNIMipoqYE-mEHaC2emELAkudRKFPWcxMyCVd5MCdlaQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNnGkRIGvGCIQwCCGEgAxqpEylVECrKJNwySYjKNIMipoqYE-mEHaC2emELAkudRKFPWcxMyCVd5MCdlaQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb20.strmd.st/secure/hCbNLQPTpYschJttmuYSKFKaujWijWzX/rtmp/stream/xjsNxNECx1YSBEzHIvmfID_0YOzOHoa5T1lLrH0w5tRzp3jv42F3JEvlAlgRmaG3hGh42ktbGLAc/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNnGkRIGvGCIQwCCGEgAxqpEylVECrKJNwySYjKNIMipoqYE-mEHaC2emELAkudRKFPWcxMyCVd5MCdlaQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb20.strmd.st/secure/eTXcshAqJVLHlvtPhbdpAIFAJasoEjBy/rtmp/stream/1s0lgR6JxQIwVSNq-Ol9CVKa9fSEmBEDti1eBgRy1hCiu1UuIc3e-Y-zmb9SKpBPj1jTah0mu6HClzCS5Q/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "coventry-city-vs-brighton-and-hove-albion-2494039",
+      "title": "Coventry City vs Brighton and Hove Albion",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "13 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1789304400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDhIwoplJDcQfDSAggSpkChCJDUgsG0x+w2fRQ62KLjvL0sst5MtGCe9KIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports Premier League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDhIwoplJDcQfDSAggSpkChCJDUgsG0x+w2fRQ62KLjvL0sst5MtGCe9KIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb20.strmd.st/secure/llfMEuUmoBwejFjxJtfPEtgjTglSNPig/rtmp/stream/FwWkSf54OvcW1wGDaBbEniU6loRg_GM66m_tMEP5ZK8uN3--MxKAIg-VRqm1TBJpeSHlthrNI4Tu/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports Premier League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDhIwoplJDcQfDSAggSpkChCJDUgsG0x+w2fRQ62KLjvL0sst5MtGCe9KIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb13.strmd.st/secure/AbbnoSVXtQBPdxlRrUmBRcMDKIaQwqfd/rtmp/stream/txoNTW9ID8Sij5R5rfV6El4d9LbX5J0mIkf1julc6tS-2QSu7aM0x-0qJoCLQXSdxS9TzYOB7OjdFO2zNQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Coventry City vs Brighton and Hove Albion (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDhIwoplJDcQfDSAggSpkChCJDUgsG0x+w2fRQ62KLjvL0sst5MtGCe9KIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/svnVPFWVRmEohUGIiCIBWaGrJzuOzeSL/delta/stream/live_premier-league_coventry-brighton-live-streaming-615393504/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Coventry City vs Brighton and Hove Albion (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDhIwoplJDcQfDSAggSpkChCJDUgsG0x+w2fRQ62KLjvL0sst5MtGCe9KIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/CZZnDLEgVGLGRIuKVAniSEMmuuhbDrcf/ingest/stream/nburnley/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Coventry City vs Brighton and Hove Albion (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDhIwoplJDcQfDSAggSpkChCJDUgsG0x+w2fRQ62KLjvL0sst5MtGCe9KIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb13.strmd.st/secure/UvJkMbeYcvqkwyqhkXWCAKHFYbEMNJHD/ingest/stream/nburnley/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "lille-vs-troyes-2489489",
+      "title": "Lille vs Troyes",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "13 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1789304400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqjh6bddxB8NIfTgggUx3CCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "French - Ligue 1+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqjh6bddxB8NIfTgggUx3CCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb19.strmd.st/secure/qynHvuOyDVdvuqPtmdvRFSKqRQoTQcDY/rtmp/stream/yxw1fI7GvN0wGPdGyU9jdj4loNTyf5CqYCjXa0pAo7glq76IjYh_wG0uU7cf7sc0AquafVs0KGB8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "French - Ligue 1+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqjh6bddxB8NIfTgggUx3CCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb19.strmd.st/secure/LPyjQYELwRIpKgAwmrJhZscpGKxGmWEW/rtmp/stream/AtJzhnu7uvVY3lHmOSu98WKrkPunuiNoIApM4BQSHX8ey638ZR4yQw1YFCV0xqTCNtGvxtwE4TqCAnv2qA/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "lecce-vs-monza-2482176",
+      "title": "Lecce vs Monza",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "13 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1789304400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJnxAowU3CAghuIXSFPGQJLRauNgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJnxAowU3CAghuIXSFPGQJLRauNgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb19.strmd.st/secure/cxBFEEIohGmLUtatadEMGohaLDSrneLs/rtmp/stream/XHodYXQBZPzsFGHUmX0FFB9ky9dTNHUWRbDOoyj6hOM9L7hLb9ifN8mXqotYAbK8zsajRo8CcPc/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJnxAowU3CAghuIXSFPGQJLRauNgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb19.strmd.st/secure/onAZsGJbdpyBdAoBIzlrmMqUkiBPNxSU/rtmp/stream/eQtmz4mCSXQaEqmzGqFOhbKSnOIokvfcnPqmfD-77Cu1C3W1od4DImDVaz87TJIdNaXH_Y3dQY3OuCg3/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Lecce vs Monza (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJnxAowU3CAghuIXSFPGQJLRauNgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/YUSlxwyNpevVcLRTSfBRvxWJbRAiTFHk/delta/stream/live_serie-a_lecce-monza-live-streaming-615395664/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "heerenveen-vs-telstar-2489114",
+      "title": "Heerenveen vs Telstar",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "13 Sep 2026, 06:30 PM (BD Time)",
+      "start_epoch_ms": 1789302600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFD0ggY7bCG4g+IYzhwwQKC8ZAkCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Dutch - ESPN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFD0ggY7bCG4g+IYzhwwQKC8ZAkCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/MUwhMzyQxBgwQncIAnThHagdxeitZGMH/rtmp/stream/SJQnZXGeSnEj-2SRGLDQTZAJmEjsS_z0Kw46REmMYhNgOqWSk0ZuOEQdoWF1NdG6LMZtR-ZkY2s/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Dutch - ESPN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFD0ggY7bCG4g+IYzhwwQKC8ZAkCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/GGSDTrjsIWAbadICsOXtlLeWRkIgcAMo/rtmp/stream/ywAtowX0dQf7k9NXV8Ja7DfcrMZJTX7h458fw6dY845u-8f8X1CLN4QnJP4hf1Rdql1HIpK0JItB82zg/1/playlist.m3u8"
         }
       ]
     }
