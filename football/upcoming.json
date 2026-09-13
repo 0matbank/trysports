@@ -1,76 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 119,
-  "total_matches": 119,
+  "total_items": 113,
+  "total_matches": 113,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-13 | 07:02:56",
-  "updated_at_bd": "2026-09-13T07:02:56+06:00",
+  "updated_time_bd": "2026-09-13 | 11:59:00",
+  "updated_at_bd": "2026-09-13T11:59:00+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "alianza-de-valledupar-vs-atl-tico-junior-2481183",
-      "title": "Alianza de Valledupar vs Atlético Junior",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 07:20 AM (BD Time)",
-      "start_epoch_ms": 1789262400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLHJDxswMGD4huIAyRAQtF06cRSCwJBT7DZ9FGBUou78vQ2jPTLR6ovQhQA.webp"
-    },
-    {
-      "id": "colorado-rapids-vs-cf-montr-al-2407077",
-      "title": "Colorado Rapids vs CF Montréal",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1789263000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbrjnQYIDRr4gD+kCRCIIukAqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "real-salt-lake-vs-new-york-city-fc-2407076",
-      "title": "Real Salt Lake vs New York City FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1789263000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiF4aY7MCU0gpIDRBCmQuQwfgFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp"
-    },
-    {
-      "id": "la-galaxy-vs-seattle-sounders-2407078",
-      "title": "LA Galaxy vs Seattle Sounders",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1789266600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMP0i5cwAAwhuIPkYMmSIRBFMkCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
-    },
-    {
-      "id": "san-jose-earthquakes-vs-houston-dynamo-2407079",
-      "title": "San Jose Earthquakes vs Houston Dynamo",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1789266600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmCTYGIXRBDcQfEDBBSjBkIkQ4FTLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "cruz-azul-vs-am-rica-2487520",
-      "title": "Cruz Azul vs América",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 09:00 AM (BD Time)",
-      "start_epoch_ms": 1789268400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjrY2IZSG4g+ukBBMgYIEubONgSCn2Gz6KMCs1s35ellmamtGBuYqIQQA.webp"
-    },
-    {
-      "id": "cruz-azul-vs-club-america-football-1550961",
-      "title": "Cruz Azul vs Club America",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Sep 2026, 09:15 AM (BD Time)",
-      "start_epoch_ms": 1789269300000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChDZ65BgGNm4nvBFVuBLqzBhc+S0A/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCoDG9cg3VZxPeCKrcCXVmDC58FoA.webp"
-    },
     {
       "id": "avs-vs-farense-2512977",
       "title": "AVS vs Farense",
@@ -1077,6 +1014,15 @@
       "status": "UPCOMING",
       "start_time_bd": "16 Sep 2026, 01:30 AM (BD Time)",
       "start_epoch_ms": 1789500600000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1345",
+      "title": "Barcelona - Racing de Santander",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Sep 2026, 01:30 AM (BD Time)",
+      "start_epoch_ms": 1789587000000,
       "poster": "https://streamed.pk/favicon.ico"
     }
   ]
