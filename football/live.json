@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 6,
-  "total_matches": 2,
-  "total_streams": 6,
-  "updated_time_bd": "2026-09-14 | 22:38:41",
-  "updated_at_bd": "2026-09-14T22:38:41+06:00",
+  "total_items": 20,
+  "total_matches": 3,
+  "total_streams": 20,
+  "updated_time_bd": "2026-09-15 | 02:34:01",
+  "updated_at_bd": "2026-09-15T02:34:01+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "como-vs-parma-2482177",
-      "title": "Como vs Parma",
+      "id": "villarreal-vs-real-betis-2506210",
+      "title": "Villarreal vs Real Betis",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "14 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1789403400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGJQkgpCG4g+IEsZAoQiEwYiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "start_time_bd": "15 Sep 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1789412400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAgQiXWw0g+2kBBAoQME1akaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,33 +23,121 @@
       },
       "streams": [
         {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGJQkgpCG4g+IEsZAoQiEwYiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_name": "ESPN+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAgQiXWw0g+2kBBAoQME1akaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb17.strmd.st/secure/LGIuoAqwRBoxXWRAouOEBSbJflMekfiK/rtmp/stream/ZctZ6xA0040w6B87qUnUQZtaq8awcauxv1Bkiu6wmyjnUAYw-r5BFOzdV_29wgGd_KQzJf4PrBNW/1/playlist.m3u8"
+          "direct_stream_url": "https://lb19.strmd.st/secure/XqDmdDOqdMiCWxQrpeFiqKSdEFOBsgLR/rtmp/stream/7_CsUbTaTvYpjOHjCQT-z-zstHoURvuYMyKCyTBp8BCdhHlgpkeWITkuSKbH_9t8T0Ur2RSSkgM/1/playlist.m3u8"
         },
         {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGJQkgpCG4g+IEsZAoQiEwYiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_name": "ESPN+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAgQiXWw0g+2kBBAoQME1akaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb17.strmd.st/secure/kMacEBJBPMZwKsEnWRSVaBxCLTUxSwaY/rtmp/stream/cxUw_K4b0Z2BsfvwEVjQeRywsmHXs_Hw9-4jSM7_xGSGpfIx17qSIm0H0GwCa1VBeUYvi5sG_B4_7_ypGg/1/playlist.m3u8"
+          "direct_stream_url": "https://lb19.strmd.st/secure/XeCFynNpQaUYFtAziTMbQhiXNPtQkKMt/rtmp/stream/XSbNaFmsS9U3nGkluQiBXx8fpN9pxT3Q0QJEQy9q6rVBBi4ZuTBP-DZrZEdPrt3IooCkATdYxFBoT4Be/1/playlist.m3u8"
         },
         {
-          "channel_name": "Como vs Parma (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGJQkgpCG4g+IEsZAoQiEwYiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_name": "Villarreal vs Real Betis (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAgQiXWw0g+2kBBAoQME1akaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb17.strmd.st/secure/CfnKKDklaHzFtdpWLirdTSLWkujJdAQf/delta/stream/live_serie-a_como-parma-live-streaming-615395232/1/playlist.m3u8"
+          "direct_stream_url": "https://lb19.strmd.st/secure/gKFfVruqeCwZOISKLJUcSHPGEbCfNMes/delta/stream/live_laliga_villarreal-real-betis-live-streaming-615784464/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "torino-vs-roma-2482173",
-      "title": "Torino vs Roma",
+      "id": "leeds-united-vs-newcastle-united-2494036",
+      "title": "Leeds United vs Newcastle United",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "14 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1789403400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKKPwgYIbpF0g+IKSBIgI53MYNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "start_time_bd": "15 Sep 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1789412400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports Premier League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb18.strmd.st/secure/DRfxXBpXdqmFcPsAeUnZJwJWBxvedzQo/rtmp/stream/qr-CEAGktG9OTDqmX4z9iszNnX-XCzKuz2oLe9_PcX5Rp1s9zP9-mnTg-ZZ8bA9-R4DxdsXcgr5N/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports Premier League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb18.strmd.st/secure/lGXNEJAmXGvzlKSazcnSUozeqHahyqgm/rtmp/stream/9B19YlXLv1h0AAlkb2Y9OyULUuL6OB5ucy_-w5b63X3k_m7-z2nzvHNYEJMMRnOYpQSWQkn5CGAUjcvyKg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sport 8 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb18.strmd.st/secure/azPzUxkzTtzgxPAnDZwIFPEGPJJGyzUE/rtmp/stream/AbkdtZhqW448VHUVy9En1PbVRuYmqgJ6jSs44qLsRikTEzH_kwZIo_cE7rfTRvQrhGgQnVy7qV4/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sport 8 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb18.strmd.st/secure/YzRoCynckWeJIpZwxMEAcGnnyKfpzIxh/rtmp/stream/h1oViD210trBTcvhCfyiXpsdxak71j9D6HqgKH3de3RMTtgoXnRMJCGsuGrVD5XCNxJT-a4ORBnQ90Fs/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "USA Network (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/bTONAvhSXNXTMAkZEwdBsvQGNvciVcxt/rtmp/stream/i48rGI05J6zv9N8AQwvnacoCvqJaKyTLVGoURK7y8ndnv0BH6STd9sqvGhtBZauNvkokkrQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "USA Network (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb13.strmd.st/secure/qgqMqMIBJcuylagFVbGZLZaMCuZaMKUJ/rtmp/stream/Z5TNdC8HAQKfXfT06dCCQ3FtXv1Dre7SoDF9VjFpbOLWZ0XAovCfhcMyoCpJnuFnjlISDfZHuolC/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "German - Sky Sport Premier League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/yntGnpqrpnIRdBgiUTakSklUewlRWxPX/rtmp/stream/WZd0iNY38yyzXhZUaSBoDC_Gunl4IrjRXcnq76lWovxxvIvfXBw4xIzxGLqUB6xkNtIcccCTnka2/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "German - Sky Sport Premier League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb13.strmd.st/secure/BjhuVJXYWqylprSVvPKdXCDaRazbRPeJ/rtmp/stream/aEwr12Uf-Yq6GbG9NO1YTGAsxe7bBKjKpK-JSnB1SQN3QX5Bv6FKaHhVvHCW77iyKlui1jd65-U0lv5_nA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Leeds United vs Newcastle United (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/TwPsAQcOocZPoofGepPbXLKQaoJQBtRH/delta/stream/live_premier-league_leeds-newcastle-live-streaming-616036752/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Leeds United vs Newcastle United (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/yhCXbsLXpaFTIlCVQtVgBSGClTayWwrW/delta/stream/live_premier-league_leeds-newcastle-live-streaming-616036752/2/playlist.m3u8"
+        },
+        {
+          "channel_name": "Leeds United vs Newcastle United (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/OsYvGhPYmYzUjseSuEIerrcYqlfGixzZ/ingest/stream/nleedsunited/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Leeds United vs Newcastle United (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb3.strmd.st/secure/ueCjvypydssfwPCbzeUTpFzpuDnTFXCD/ingest/stream/nleedsunited/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "inter-milan-vs-udinese-2482174",
+      "title": "Inter Milan vs Udinese",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1789411500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMDMCRBSwSENxB8QevShCJEZxCQLAkFPsNn0Uutii67y9LFkfJlowL3pRCCA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -58,21 +146,33 @@
       "streams": [
         {
           "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKKPwgYIbpF0g+IKSBIgI53MYNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMDMCRBSwSENxB8QevShCJEZxCQLAkFPsNn0Uutii67y9LFkfJlowL3pRCCA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb17.strmd.st/secure/zfhxPIIxOFFQeSbsZjykoSSZElNtERja/rtmp/stream/jWkFD48z85diT3XMFwSoj83PNg8OG-VSjX6ov9P4nwincvltqQKhOmtst1ZSdObeXH0prUs3xcM/1/playlist.m3u8"
+          "direct_stream_url": "https://lb19.strmd.st/secure/mzcjnTOFSNMbmNeGpOfuCBUDjClVKUPm/rtmp/stream/AuiPDNgZ0pkCvrOaHRh-HU8Z2qMTWpmkl9T9EotN7GtCdyE324ttZUE7POl_VDXyJkvrCgpGZqI/1/playlist.m3u8"
         },
         {
           "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKKPwgYIbpF0g+IKSBIgI53MYNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMDMCRBSwSENxB8QevShCJEZxCQLAkFPsNn0Uutii67y9LFkfJlowL3pRCCA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb4.strmd.st/secure/RWwUnLSNuwJkbFBUChdOYMbMsHAxaKvE/rtmp/stream/iLgEZPRypx1jAHvdtZyRFbJC9bdiosq8mKNJ0WsD16-LiSKXkau51MT3C93t7XqeJsdM-kStpdHcB-4V/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/UEpXQINCalGbdzOcmvMLJcakSpnHMAgA/rtmp/stream/CrOp588JYlYsy2-NxTDr-fQuSDZ2OG_UCvkjAU70N6mq92VM5802V0v6INhw4asi0UGT-_D3uEeLK5qe/1/playlist.m3u8"
         },
         {
-          "channel_name": "Torino vs Roma (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKKPwgYIbpF0g+IKSBIgI53MYNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_name": "Italian - Sky Sport Calcio (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMDMCRBSwSENxB8QevShCJEZxCQLAkFPsNn0Uutii67y9LFkfJlowL3pRCCA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/aqcsfkcRoufHxbBpQMRtJIRhqlfNWFpP/delta/stream/live_serie-a_torino-roma-live-streaming-615394800/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/pizNoUzkRDGVLrXhacYavyCMQuUvVLCr/rtmp/stream/zTc41n_P-WDoOuddyJLbWim-PCT9KxrcdWAbPxjTEDEdRuyOjTjz-sN5KAQ7aRoxOTYwKOE_xUwRmUE/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Italian - Sky Sport Calcio (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMDMCRBSwSENxB8QevShCJEZxCQLAkFPsNn0Uutii67y9LFkfJlowL3pRCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/CdxhxAvUAkDKeUhACnFLfubIPKWCHPbQ/rtmp/stream/0s3Yec2bj_XRMkA0jz8hs2QseL-ilXY-ZrtLzv6ohZ_eRs1wo_8vGGX1kl021IXoO7iwciV5Z_bdC2tlIEKC/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Inter Milan vs Udinese (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMDMCRBSwSENxB8QevShCJEZxCQLAkFPsNn0Uutii67y9LFkfJlowL3pRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/sIgvbJhhjNRkJSKywnFKfkEGRgYdOblM/delta/stream/live_serie-a_inter-udinese-live-streaming-616037184/1/playlist.m3u8"
         }
       ]
     }
