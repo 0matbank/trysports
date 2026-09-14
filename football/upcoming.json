@@ -1,40 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 183,
-  "total_matches": 183,
+  "total_items": 181,
+  "total_matches": 181,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-14 | 16:47:41",
-  "updated_at_bd": "2026-09-14T16:47:41+06:00",
+  "updated_time_bd": "2026-09-14 | 22:38:41",
+  "updated_at_bd": "2026-09-14T22:38:41+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "bayer-leverkusen-women-vs-bayern-munich-women-2539447",
-      "title": "Bayer Leverkusen Women vs Bayern Munich Women",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1789401600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMCRhuIEiBi4QOvrpAnEekPpBSQCplpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "como-vs-parma-2482177",
-      "title": "Como vs Parma",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1789403400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGJQkgpCG4g+IEsZAoQiEwYiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "torino-vs-roma-2482173",
-      "title": "Torino vs Roma",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1789403400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKKPwgYIbpF0g+IKSBIgI53MYNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
     {
       "id": "djurg-rden-vs-gais-2398912",
       "title": "Djurgården vs GAIS",
@@ -988,6 +961,15 @@
       "start_time_bd": "19 Sep 2026, 08:00 PM (BD Time)",
       "start_epoch_ms": 1789826400000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMCriQNGlhnYQAY2ARJqkSHirlu+ShBqyEEKZQbhpydJMms5-mEEim2emELAkuJeaFPWNWFSegJgbTAnDWMgA.webp"
+    },
+    {
+      "id": "ppv-wrexham-vs-southampton",
+      "title": "Wrexham vs. Southampton",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "19 Sep 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1789826400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCGGTxIEiCwh4wKiFUwR81SBTaQMVRqlqRGucOXAJqqVJ29yEUGEEmC2emELAkuAMYohcm5OR3MyALclMGdLUksgA.webp"
     },
     {
       "id": "ppv-athletic-club-vs-alav-s",

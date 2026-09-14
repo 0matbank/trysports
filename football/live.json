@@ -1,11 +1,80 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-14 | 16:47:41",
-  "updated_at_bd": "2026-09-14T16:47:41+06:00",
+  "total_items": 6,
+  "total_matches": 2,
+  "total_streams": 6,
+  "updated_time_bd": "2026-09-14 | 22:38:41",
+  "updated_at_bd": "2026-09-14T22:38:41+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "como-vs-parma-2482177",
+      "title": "Como vs Parma",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "14 Sep 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1789403400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGJQkgpCG4g+IEsZAoQiEwYiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGJQkgpCG4g+IEsZAoQiEwYiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb17.strmd.st/secure/LGIuoAqwRBoxXWRAouOEBSbJflMekfiK/rtmp/stream/ZctZ6xA0040w6B87qUnUQZtaq8awcauxv1Bkiu6wmyjnUAYw-r5BFOzdV_29wgGd_KQzJf4PrBNW/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGJQkgpCG4g+IEsZAoQiEwYiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb17.strmd.st/secure/kMacEBJBPMZwKsEnWRSVaBxCLTUxSwaY/rtmp/stream/cxUw_K4b0Z2BsfvwEVjQeRywsmHXs_Hw9-4jSM7_xGSGpfIx17qSIm0H0GwCa1VBeUYvi5sG_B4_7_ypGg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Como vs Parma (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGJQkgpCG4g+IEsZAoQiEwYiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb17.strmd.st/secure/CfnKKDklaHzFtdpWLirdTSLWkujJdAQf/delta/stream/live_serie-a_como-parma-live-streaming-615395232/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "torino-vs-roma-2482173",
+      "title": "Torino vs Roma",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "14 Sep 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1789403400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKKPwgYIbpF0g+IKSBIgI53MYNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKKPwgYIbpF0g+IKSBIgI53MYNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb17.strmd.st/secure/zfhxPIIxOFFQeSbsZjykoSSZElNtERja/rtmp/stream/jWkFD48z85diT3XMFwSoj83PNg8OG-VSjX6ov9P4nwincvltqQKhOmtst1ZSdObeXH0prUs3xcM/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKKPwgYIbpF0g+IKSBIgI53MYNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/RWwUnLSNuwJkbFBUChdOYMbMsHAxaKvE/rtmp/stream/iLgEZPRypx1jAHvdtZyRFbJC9bdiosq8mKNJ0WsD16-LiSKXkau51MT3C93t7XqeJsdM-kStpdHcB-4V/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Torino vs Roma (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKKPwgYIbpF0g+IKSBIgI53MYNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/aqcsfkcRoufHxbBpQMRtJIRhqlfNWFpP/delta/stream/live_serie-a_torino-roma-live-streaming-615394800/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
