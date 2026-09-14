@@ -1,13 +1,69 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 6,
-  "total_matches": 2,
-  "total_streams": 6,
-  "updated_time_bd": "2026-09-14 | 04:40:52",
-  "updated_at_bd": "2026-09-14T04:40:52+06:00",
+  "total_items": 9,
+  "total_matches": 4,
+  "total_streams": 9,
+  "updated_time_bd": "2026-09-14 | 06:27:38",
+  "updated_at_bd": "2026-09-14T06:27:38+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "ppv-santos-vs-fc-juarez",
+      "title": "Santos vs. FC Juarez",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "14 Sep 2026, 06:00 AM (BD Time)",
+      "start_epoch_ms": 1789344000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeKRDCpwRCGBUQAY1KyQNEspAQQKLZsRz1utTp2JzIGGs0kU5CKDCCRTbPTCFgSXEvtDnVkdhVXsCWXJnYEcyCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - TUDN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeKRDCpwRCGBUQAY1KyQNEspAQQKLZsRz1utTp2JzIGGs0kU5CKDCCRTbPTCFgSXEvtDnVkdhVXsCWXJnYEcyCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb16.strmd.st/secure/RMQCnePqNyWjdYcvNttdEKoPivRPYqOU/rtmp/stream/4Ri_ViA7NXJb_T6-4K155ws5mk5jMWG-PcB7ZOegUVuWjAQKvPoR_EGntlIiIVia2cxnszek/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - TUDN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeKRDCpwRCGBUQAY1KyQNEspAQQKLZsRz1utTp2JzIGGs0kU5CKDCCRTbPTCFgSXEvtDnVkdhVXsCWXJnYEcyCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb16.strmd.st/secure/ISWPuYaKkmvmfcLxMkZXwntfhwASFNev/rtmp/stream/TqSnsnu5xEAo8Mbt36VQ2M68onXNGOmWMZ_Yb_45xqS1bERKaokhF8-axR0rpPB3ZXAZcFDJCBzbuQ/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "marath-n-vs-cd-olimpia-2597605",
+      "title": "Marathón vs CD Olimpia",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "14 Sep 2026, 05:15 AM (BD Time)",
+      "start_epoch_ms": 1789341300000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IccOwgUIEiCrTsIkDBBYQEYApnjViBWUlHgidaplyFw+ePkpymgUJFMl9sIWBJcAY3tCwbk5NSTJ7AhNyQOBNMgggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - Centro America TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IccOwgUIEiCrTsIkDBBYQEYApnjViBWUlHgidaplyFw+ePkpymgUJFMl9sIWBJcAY3tCwbk5NSTJ7AhNyQOBNMgggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb16.strmd.st/secure/ckdLnaVhbAQjqdFANBnepLlXwiumMumK/rtmp/stream/gU5VM8wjfk-qRynheLs1fWsyVWvRFNFkTuC2iBPcJYnmQ_9nywH8LzMvrRYGqsNcgXLOk8xAyuri/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - Centro America TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IccOwgUIEiCrTsIkDBBYQEYApnjViBWUlHgidaplyFw+ePkpymgUJFMl9sIWBJcAY3tCwbk5NSTJ7AhNyQOBNMgggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb16.strmd.st/secure/swhGHhhijOVvzaDdqFaTgaoolehLoMAV/rtmp/stream/2PjgOXoEQs66ry49Fv-FmPjz2e-RtbEUuAI6BhzxQZELvOnpjgnYNSeZGXbxoxSkUZ9ovufPDli5PtXDvA/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "vancouver-whitecaps-vs-austin-fc-2407080",
       "title": "Vancouver Whitecaps vs Austin FC",
@@ -26,19 +82,19 @@
           "channel_name": "Apple TV (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChBkUYPrnYhuIPTBBTjhkIiMhcBYEgp9hs+jpUouYMvCJZZnky0YN5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/xMqCeBPROmQprrWwNUyyXuGlpEtVPhdT/rtmp/stream/gZ983abg-NuTsm5UVBm98Svk9_UHlI2ddDnRYgBMZeFUdCKzPi74B3aS5qXTDLlK9AQv_8uXrNPs/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/zfAaLsbIhtZXgvDhsaZGhRbtbsJcfnkP/rtmp/stream/Azs5xxRDZjbYE5Ff_o5pFnUT44UDmJ8rORyeaTBU1P8mhXPpNtADGLlEWEAOk3zxvP0VEh8_Els1/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChBkUYPrnYhuIPTBBTjhkIiMhcBYEgp9hs+jpUouYMvCJZZnky0YN5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb15.strmd.st/secure/YVoFWSlqmVhEjfVNHjYYGBmmhUWcpBoD/rtmp/stream/-Kg6K826tFm8noM5ujzZJmQIF__bdYh3xCwFWWCcUC78H2f3mM1FDmM-MsvQde__IJ0YjPZZK-d_W3HqYQ/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/MIAWIyzkDmWNtZDtnLkUWnywzmlSrths/rtmp/stream/olIOdC91D93jvzxDyxQ_wNoi0IkNy2YUMj4XhYwZ7jdEIYLwbiodVxR71Frt-HbaIzJ59uNNNj5txLWMig/1/playlist.m3u8"
         },
         {
           "channel_name": "Vancouver Whitecaps vs Austin FC (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChBkUYPrnYhuIPTBBTjhkIiMhcBYEgp9hs+jpUouYMvCJZZnky0YN5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/mBBAyQmDfQonQTTTArzZdOqKksIAyQWw/delta/stream/live_mls_vancouver-austin-live-streaming-539229744/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/KUqIzfitRdmShgnQmfMSJcwsAifeiaCQ/delta/stream/live_mls_vancouver-austin-live-streaming-539229744/1/playlist.m3u8"
         }
       ]
     },
@@ -60,19 +116,13 @@
           "channel_name": "Apple TV (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBnww4GTu4g+hkAaMkQiCCZBSCwJBT7DZ9FGBUou78vSyzPTLQaovQhQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/kNwcCETooZtHDfrRnlAjeHwFtwaTdPAz/rtmp/stream/UIOXrLKlxHNfLuq64595emsgoXCJWBFNv5DADDc8vP9ep59t_71vC4UNnvUjuY1xa5JXx1Hh_-Mz/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/dsZHNttvAiTjFQSjcvtWRGohwZSqbvPJ/rtmp/stream/muE_9PGYrF8ljJTTUV47xJ_iEqTcLB0mBSL6eBXFY0-Ar2TymRQpRXoM9NK21o79STBDPxsWrsMm/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBnww4GTu4g+hkAaMkQiCCZBSCwJBT7DZ9FGBUou78vSyzPTLQaovQhQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb20.strmd.st/secure/aZdQLIixwqrqqWYCkviVSRLJMVhljkuM/rtmp/stream/AIgX08LWk26Cq7VnGnSIOan93ofTiw8KWvV09iBcT_wMI1d3uZx6-OV5MR7Vcqj1x2k28hTgd6wg3fhcng/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Chicago Fire vs New England Revolution (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBnww4GTu4g+hkAaMkQiCCZBSCwJBT7DZ9FGBUou78vSyzPTLQaovQhQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb20.strmd.st/secure/NPxtHdfKQeebwCXpRwEfOcnjXGZSCDcR/delta/stream/live_mls_chicago-new-england-live-streaming-539229312/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/tzjnDNsRAFOAwubeHhqTSduKvueNVYps/rtmp/stream/zSJqHZgb9oKjYBK_r3bS_TSI0V-7E73hsLehdYmWh4Og2JPC2gB5ceVgABfwZuFGZJ6_oyzMjHlvQfZL2Q/1/playlist.m3u8"
         }
       ]
     }
