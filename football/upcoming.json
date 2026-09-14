@@ -1,40 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 171,
-  "total_matches": 171,
+  "total_items": 168,
+  "total_matches": 168,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-15 | 02:34:01",
-  "updated_at_bd": "2026-09-15T02:34:01+06:00",
+  "updated_time_bd": "2026-09-15 | 05:28:01",
+  "updated_at_bd": "2026-09-15T05:28:01+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "banfield-vs-barracas-central-2398073",
-      "title": "Banfield vs Barracas Central",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Sep 2026, 04:00 AM (BD Time)",
-      "start_epoch_ms": 1789423200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiBQhuIRBpDaQfEFM0mjF0xpgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "deportivo-riestra-vs-lan-s-2398076",
-      "title": "Deportivo Riestra vs Lanús",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Sep 2026, 04:00 AM (BD Time)",
-      "start_epoch_ms": 1789423200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEM01ZKoENxB8QUkCiMHzx4xKZIKfYbPoowKlFxfl620W6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "bahia-vs-remo-2398452",
-      "title": "Bahia vs Remo",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Sep 2026, 05:00 AM (BD Time)",
-      "start_epoch_ms": 1789426800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzBNZFLDBSQ3EHxAGUpkJcQmIhgsCQU+w2fV0qUXMGXhEsszyZaMG8xUQggA.webp"
-    },
     {
       "id": "instituto-vs-estudiantes-de-r-o-cuarto-2398081",
       "title": "Instituto vs Estudiantes de Río Cuarto",
@@ -342,13 +315,13 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCBT8QApCG76dIYxpQgYIDRuOamSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp"
     },
     {
-      "id": "deportivo-pereira-vs-independiente-santa-fe-2481114",
-      "title": "Deportivo Pereira vs Independiente Santa Fe",
+      "id": "deportivo-pereira-vs-santa-fe-football-1549712",
+      "title": "Deportivo Pereira vs Santa Fe",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "16 Sep 2026, 02:00 AM (BD Time)",
       "start_epoch_ms": 1789502400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXAgZgU0EiG4gpIPiD0R9uU5ZgFgSCn2Gz6OlSi5gy8IllnumtGCeYqIQQA.webp"
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiICCH4gmdcgwDGzcT3giq3Al1ZgwufFaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIhT1yDAMbNxPeCKrcCXVmDC58FoA.webp"
     },
     {
       "id": "platense-vs-fluminense-2600652",

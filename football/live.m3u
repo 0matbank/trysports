@@ -1,146 +1,34 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 20
-# UPDATED Time and date BD: 2026-09-15 | 02:34:01
+# TOTAL-ITEMS: 4
+# UPDATED Time and date BD: 2026-09-15 | 05:28:01
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
-
-#EXTINF:-1 tvg-id="ESPN+ (HD)" tvg-name="ESPN+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAgQiXWw0g+2kBBAoQME1akaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", ESPN+ (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb19.strmd.st/secure/XqDmdDOqdMiCWxQrpeFiqKSdEFOBsgLR/rtmp/stream/7_CsUbTaTvYpjOHjCQT-z-zstHoURvuYMyKCyTBp8BCdhHlgpkeWITkuSKbH_9t8T0Ur2RSSkgM/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPN+ (SD)" tvg-name="ESPN+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAgQiXWw0g+2kBBAoQME1akaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", ESPN+ (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb19.strmd.st/secure/XeCFynNpQaUYFtAziTMbQhiXNPtQkKMt/rtmp/stream/XSbNaFmsS9U3nGkluQiBXx8fpN9pxT3Q0QJEQy9q6rVBBi4ZuTBP-DZrZEdPrt3IooCkATdYxFBoT4Be/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Villarreal vs Real Betis (HD)" tvg-name="Villarreal vs Real Betis (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAgQiXWw0g+2kBBAoQME1akaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Villarreal vs Real Betis (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb19.strmd.st/secure/gKFfVruqeCwZOISKLJUcSHPGEbCfNMes/delta/stream/live_laliga_villarreal-real-betis-live-streaming-615784464/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sports Premier League (HD)" tvg-name="Sky Sports Premier League (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Sky Sports Premier League (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb18.strmd.st/secure/DRfxXBpXdqmFcPsAeUnZJwJWBxvedzQo/rtmp/stream/qr-CEAGktG9OTDqmX4z9iszNnX-XCzKuz2oLe9_PcX5Rp1s9zP9-mnTg-ZZ8bA9-R4DxdsXcgr5N/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sports Premier League (SD)" tvg-name="Sky Sports Premier League (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Sky Sports Premier League (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb18.strmd.st/secure/lGXNEJAmXGvzlKSazcnSUozeqHahyqgm/rtmp/stream/9B19YlXLv1h0AAlkb2Y9OyULUuL6OB5ucy_-w5b63X3k_m7-z2nzvHNYEJMMRnOYpQSWQkn5CGAUjcvyKg/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport 8 (HD)" tvg-name="Sky Sport 8 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Sky Sport 8 (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb18.strmd.st/secure/azPzUxkzTtzgxPAnDZwIFPEGPJJGyzUE/rtmp/stream/AbkdtZhqW448VHUVy9En1PbVRuYmqgJ6jSs44qLsRikTEzH_kwZIo_cE7rfTRvQrhGgQnVy7qV4/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport 8 (SD)" tvg-name="Sky Sport 8 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Sky Sport 8 (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb18.strmd.st/secure/YzRoCynckWeJIpZwxMEAcGnnyKfpzIxh/rtmp/stream/h1oViD210trBTcvhCfyiXpsdxak71j9D6HqgKH3de3RMTtgoXnRMJCGsuGrVD5XCNxJT-a4ORBnQ90Fs/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA Network (HD)" tvg-name="USA Network (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", USA Network (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/bTONAvhSXNXTMAkZEwdBsvQGNvciVcxt/rtmp/stream/i48rGI05J6zv9N8AQwvnacoCvqJaKyTLVGoURK7y8ndnv0BH6STd9sqvGhtBZauNvkokkrQ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA Network (SD)" tvg-name="USA Network (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", USA Network (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/qgqMqMIBJcuylagFVbGZLZaMCuZaMKUJ/rtmp/stream/Z5TNdC8HAQKfXfT06dCCQ3FtXv1Dre7SoDF9VjFpbOLWZ0XAovCfhcMyoCpJnuFnjlISDfZHuolC/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="German - Sky Sport Premier League (HD)" tvg-name="German - Sky Sport Premier League (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", German - Sky Sport Premier League (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/yntGnpqrpnIRdBgiUTakSklUewlRWxPX/rtmp/stream/WZd0iNY38yyzXhZUaSBoDC_Gunl4IrjRXcnq76lWovxxvIvfXBw4xIzxGLqUB6xkNtIcccCTnka2/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="German - Sky Sport Premier League (SD)" tvg-name="German - Sky Sport Premier League (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", German - Sky Sport Premier League (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/BjhuVJXYWqylprSVvPKdXCDaRazbRPeJ/rtmp/stream/aEwr12Uf-Yq6GbG9NO1YTGAsxe7bBKjKpK-JSnB1SQN3QX5Bv6FKaHhVvHCW77iyKlui1jd65-U0lv5_nA/1/playlist.m3u8
+https://lb12.strmd.st/secure/LOqUGdwCePCURZXmiAcYjvSBdYsYrrAl/delta/stream/live_laliga_villarreal-real-betis-live-streaming-615784464/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Leeds United vs Newcastle United (HD)" tvg-name="Leeds United vs Newcastle United (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Leeds United vs Newcastle United (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb3.strmd.st/secure/TwPsAQcOocZPoofGepPbXLKQaoJQBtRH/delta/stream/live_premier-league_leeds-newcastle-live-streaming-616036752/1/playlist.m3u8
+https://lb12.strmd.st/secure/pMzmRcIfggSLreGbhNOfzLgkSdwdCIqa/delta/stream/live_premier-league_leeds-newcastle-live-streaming-616036752/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Leeds United vs Newcastle United (HD)" tvg-name="Leeds United vs Newcastle United (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Leeds United vs Newcastle United (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb3.strmd.st/secure/yhCXbsLXpaFTIlCVQtVgBSGClTayWwrW/delta/stream/live_premier-league_leeds-newcastle-live-streaming-616036752/2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Leeds United vs Newcastle United (HD)" tvg-name="Leeds United vs Newcastle United (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Leeds United vs Newcastle United (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb3.strmd.st/secure/OsYvGhPYmYzUjseSuEIerrcYqlfGixzZ/ingest/stream/nleedsunited/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Leeds United vs Newcastle United (SD)" tvg-name="Leeds United vs Newcastle United (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Leeds United vs Newcastle United (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb3.strmd.st/secure/ueCjvypydssfwPCbzeUTpFzpuDnTFXCD/ingest/stream/nleedsunited/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Paramount+ (HD)" tvg-name="Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMDMCRBSwSENxB8QevShCJEZxCQLAkFPsNn0Uutii67y9LFkfJlowL3pRCCA.webp" group-title="Football", Paramount+ (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb19.strmd.st/secure/mzcjnTOFSNMbmNeGpOfuCBUDjClVKUPm/rtmp/stream/AuiPDNgZ0pkCvrOaHRh-HU8Z2qMTWpmkl9T9EotN7GtCdyE324ttZUE7POl_VDXyJkvrCgpGZqI/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Paramount+ (SD)" tvg-name="Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMDMCRBSwSENxB8QevShCJEZxCQLAkFPsNn0Uutii67y9LFkfJlowL3pRCCA.webp" group-title="Football", Paramount+ (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/UEpXQINCalGbdzOcmvMLJcakSpnHMAgA/rtmp/stream/CrOp588JYlYsy2-NxTDr-fQuSDZ2OG_UCvkjAU70N6mq92VM5802V0v6INhw4asi0UGT-_D3uEeLK5qe/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Italian - Sky Sport Calcio (HD)" tvg-name="Italian - Sky Sport Calcio (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMDMCRBSwSENxB8QevShCJEZxCQLAkFPsNn0Uutii67y9LFkfJlowL3pRCCA.webp" group-title="Football", Italian - Sky Sport Calcio (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/pizNoUzkRDGVLrXhacYavyCMQuUvVLCr/rtmp/stream/zTc41n_P-WDoOuddyJLbWim-PCT9KxrcdWAbPxjTEDEdRuyOjTjz-sN5KAQ7aRoxOTYwKOE_xUwRmUE/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Italian - Sky Sport Calcio (SD)" tvg-name="Italian - Sky Sport Calcio (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMDMCRBSwSENxB8QevShCJEZxCQLAkFPsNn0Uutii67y9LFkfJlowL3pRCCA.webp" group-title="Football", Italian - Sky Sport Calcio (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/CdxhxAvUAkDKeUhACnFLfubIPKWCHPbQ/rtmp/stream/0s3Yec2bj_XRMkA0jz8hs2QseL-ilXY-ZrtLzv6ohZ_eRs1wo_8vGGX1kl021IXoO7iwciV5Z_bdC2tlIEKC/1/playlist.m3u8
+https://lb12.strmd.st/secure/lYAcYxviIudyPCJdXGWZWKCOamDrJmNr/delta/stream/live_premier-league_leeds-newcastle-live-streaming-616036752/2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Inter Milan vs Udinese (HD)" tvg-name="Inter Milan vs Udinese (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMDMCRBSwSENxB8QevShCJEZxCQLAkFPsNn0Uutii67y9LFkfJlowL3pRCCA.webp" group-title="Football", Inter Milan vs Udinese (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/sIgvbJhhjNRkJSKywnFKfkEGRgYdOblM/delta/stream/live_serie-a_inter-udinese-live-streaming-616037184/1/playlist.m3u8
+https://lb12.strmd.st/secure/jxqPCuSgbOBzDIJOgNAKjocjkSwiYsNU/delta/stream/live_serie-a_inter-udinese-live-streaming-616037184/1/playlist.m3u8
 
