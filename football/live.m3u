@@ -1,6 +1,20 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-09-15 | 18:14:01
+# TOTAL-ITEMS: 2
+# UPDATED Time and date BD: 2026-09-15 | 23:08:18
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Paramount+ (HD)" tvg-name="Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEKXEgIILMCogaWRdmARV8bIukgYIMsuU0SIYfp16aZ8SZT6U5dQKEimqh2ELAkuAMYOhMG5OdWFSegJgTTAgtXCIIA.webp" group-title="Football", Paramount+ (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb16.strmd.st/secure/HausCPtNESbDOdaGtYprNaFLdvYNiTYf/rtmp/stream/nFWSjgjOHGZVn0kU3hn9GSfFPGXVkEoBz_g-EcgS_EjV3JMcD_JOuig8a-u6ar_xl2AdiMGQHoUi/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+ (SD)" tvg-name="Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEKXEgIILMCogaWRdmARV8bIukgYIMsuU0SIYfp16aZ8SZT6U5dQKEimqh2ELAkuAMYOhMG5OdWFSegJgTTAgtXCIIA.webp" group-title="Football", Paramount+ (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb16.strmd.st/secure/ajLoLclwxoDepQruDAtqreuCPNSxGTRd/rtmp/stream/gIeyMs6RhB-Mar66Bd08zkpTGDjxN0L10oYoA6GiU17YuKV8AKKxbFyK7nRuSwJ_VEojGQKDWmcCxbTodA/1/playlist.m3u8
 
