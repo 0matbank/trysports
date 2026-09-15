@@ -1,13 +1,41 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 4,
-  "total_matches": 3,
-  "total_streams": 4,
-  "updated_time_bd": "2026-09-15 | 05:28:01",
-  "updated_at_bd": "2026-09-15T05:28:01+06:00",
+  "total_items": 6,
+  "total_matches": 4,
+  "total_streams": 6,
+  "updated_time_bd": "2026-09-15 | 07:47:08",
+  "updated_at_bd": "2026-09-15T07:47:08+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "le-n-vs-atl-tico-de-san-luis-2487518",
+      "title": "León vs Atlético de San Luis",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Sep 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1789434000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH5gUzULBDcQfECYggzMECQ3mNBYEgp9hs+ijAqdbD+XpZZOky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - ViX Premium Deportes 2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH5gUzULBDcQfECYggzMECQ3mNBYEgp9hs+ijAqdbD+XpZZOky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/owIfgZYAIBUDuLmkcodSPuaWyyeSrapB/rtmp/stream/bRFkTSazSgcp8nytLEWtMFprhI8GqAdOrXldQM4OR4o0hirYLsN46f3kOJcrDh4mEEtnHd86FyE/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - ViX Premium Deportes 2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH5gUzULBDcQfECYggzMECQ3mNBYEgp9hs+ijAqdbD+XpZZOky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/dULPmasmAJNfPCmKlBNKWOjCGXUtcTfe/rtmp/stream/mbcvhjOGuhAIg4Jnd9muwTqAfeLe5w8D_V_8WpWOXAnivnC2Ky3ATCt-CRilYB3C4RXD4ZWzuUVyXB-K/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "villarreal-vs-real-betis-2506210",
       "title": "Villarreal vs Real Betis",
@@ -26,7 +54,7 @@
           "channel_name": "Villarreal vs Real Betis (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAgQiXWw0g+2kBBAoQME1akaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/LOqUGdwCePCURZXmiAcYjvSBdYsYrrAl/delta/stream/live_laliga_villarreal-real-betis-live-streaming-615784464/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/HHhHKdanBUbGUiszlPvFaPWabEdqXthV/delta/stream/live_laliga_villarreal-real-betis-live-streaming-615784464/1/playlist.m3u8"
         }
       ]
     },
@@ -48,13 +76,13 @@
           "channel_name": "Leeds United vs Newcastle United (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/pMzmRcIfggSLreGbhNOfzLgkSdwdCIqa/delta/stream/live_premier-league_leeds-newcastle-live-streaming-616036752/1/playlist.m3u8"
+          "direct_stream_url": "https://lb15.strmd.st/secure/OokmxULlGCpUHhpFjZfKzFQjuvXOAUrZ/delta/stream/live_premier-league_leeds-newcastle-live-streaming-616036752/1/playlist.m3u8"
         },
         {
           "channel_name": "Leeds United vs Newcastle United (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxBQkYFCBg8NIPiFMQQJLSD2JNCpjoN9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/lYAcYxviIudyPCJdXGWZWKCOamDrJmNr/delta/stream/live_premier-league_leeds-newcastle-live-streaming-616036752/2/playlist.m3u8"
+          "direct_stream_url": "https://lb15.strmd.st/secure/RHofLbiaqJFilCNhPJhidPJDMZVPGKyd/delta/stream/live_premier-league_leeds-newcastle-live-streaming-616036752/2/playlist.m3u8"
         }
       ]
     },
@@ -76,7 +104,7 @@
           "channel_name": "Inter Milan vs Udinese (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMDMCRBSwSENxB8QevShCJEZxCQLAkFPsNn0Uutii67y9LFkfJlowL3pRCCA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/jxqPCuSgbOBzDIJOgNAKjocjkSwiYsNU/delta/stream/live_serie-a_inter-udinese-live-streaming-616037184/1/playlist.m3u8"
+          "direct_stream_url": "https://lb3.strmd.st/secure/TwkyibUGDShdNogoRTXAXLRJssaeKNru/delta/stream/live_serie-a_inter-udinese-live-streaming-616037184/1/playlist.m3u8"
         }
       ]
     }
