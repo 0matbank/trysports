@@ -1,31 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 158,
-  "total_matches": 158,
+  "total_items": 156,
+  "total_matches": 156,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-16 | 02:14:22",
-  "updated_at_bd": "2026-09-16T02:14:22+06:00",
+  "updated_time_bd": "2026-09-16 | 04:57:34",
+  "updated_at_bd": "2026-09-16T04:57:34+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "platense-vs-fluminense-2600652",
-      "title": "Platense vs Fluminense",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "16 Sep 2026, 04:00 AM (BD Time)",
-      "start_epoch_ms": 1789509600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFBQbQIKWD4huIAyFMgtiHDBCI+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "vasco-da-gama-vs-independiente-santa-fe-2594420",
-      "title": "Vasco da Gama vs Independiente Santa Fe",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "16 Sep 2026, 04:00 AM (BD Time)",
-      "start_epoch_ms": 1789509600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VelJC0QPMJu4g+IYyZAQQmlGYsFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "forge-vs-supra-du-qu-bec-2598652",
       "title": "Forge vs Supra du Québec",
