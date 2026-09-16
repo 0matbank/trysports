@@ -1,62 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 3,
-  "total_matches": 2,
-  "total_streams": 3,
-  "updated_time_bd": "2026-09-16 | 07:10:59",
-  "updated_at_bd": "2026-09-16T07:10:59+06:00",
+  "total_items": 0,
+  "total_matches": 0,
+  "total_streams": 0,
+  "updated_time_bd": "2026-09-16 | 12:01:00",
+  "updated_at_bd": "2026-09-16T12:01:00+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "puebla-vs-toluca-2487506",
-      "title": "Puebla vs Toluca",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "16 Sep 2026, 07:00 AM (BD Time)",
-      "start_epoch_ms": 1789520400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELxQhtEEPRIaQfbXtMwQB84hgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Spanish - TUDN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELxQhtEEPRIaQfbXtMwQB84hgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/YKnovJYmyPOIVRlLTBeIymdTWXvWmQmY/rtmp/stream/3biDXJHWrMpG1dHoLeWmLVqmoAY0j8kFxag2csR_iC1RKfufReLsKrbbo8YER1PLDnRmAiwD/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - TUDN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELxQhtEEPRIaQfbXtMwQB84hgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb2.strmd.st/secure/RXlLEtVwIrTrxcPdzjwwLxpfwAIcfvyl/rtmp/stream/dphRMNdxIj4jf5Hr8Cl1lmylbC5pKtFD2zcDZirr6x95WIA3kgTycxKcLouSJkkF7L53cAlpEiaboQ/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "elche-vs-real-madrid-2506228",
-      "title": "Elche vs Real Madrid",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "16 Sep 2026, 01:30 AM (BD Time)",
-      "start_epoch_ms": 1789500600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCBT8QApCG76dIYxpQgYIDRuOamSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Elche vs Real Madrid (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCBT8QApCG76dIYxpQgYIDRuOamSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/IQlACQSryGUpCetoHszVBRwGxQWViXkI/delta/stream/live_laliga_elche-real-madrid-live-streaming-616682160/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
