@@ -1,13 +1,27 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 1
-# UPDATED Time and date BD: 2026-09-16 | 04:57:34
+# TOTAL-ITEMS: 3
+# UPDATED Time and date BD: 2026-09-16 | 07:10:59
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Spanish - TUDN (HD)" tvg-name="Spanish - TUDN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELxQhtEEPRIaQfbXtMwQB84hgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Spanish - TUDN (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb2.strmd.st/secure/YKnovJYmyPOIVRlLTBeIymdTWXvWmQmY/rtmp/stream/3biDXJHWrMpG1dHoLeWmLVqmoAY0j8kFxag2csR_iC1RKfufReLsKrbbo8YER1PLDnRmAiwD/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spanish - TUDN (SD)" tvg-name="Spanish - TUDN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELxQhtEEPRIaQfbXtMwQB84hgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Spanish - TUDN (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb2.strmd.st/secure/RXlLEtVwIrTrxcPdzjwwLxpfwAIcfvyl/rtmp/stream/dphRMNdxIj4jf5Hr8Cl1lmylbC5pKtFD2zcDZirr6x95WIA3kgTycxKcLouSJkkF7L53cAlpEiaboQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Elche vs Real Madrid (HD)" tvg-name="Elche vs Real Madrid (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCBT8QApCG76dIYxpQgYIDRuOamSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp" group-title="Football", Elche vs Real Madrid (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb20.strmd.st/secure/RuCVElpQNxLRqwONIQUXbuqmKRcOYqIi/delta/stream/live_laliga_elche-real-madrid-live-streaming-616682160/1/playlist.m3u8
+https://lb2.strmd.st/secure/IQlACQSryGUpCetoHszVBRwGxQWViXkI/delta/stream/live_laliga_elche-real-madrid-live-streaming-616682160/1/playlist.m3u8
 
