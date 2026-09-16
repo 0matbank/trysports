@@ -1,49 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 163,
-  "total_matches": 163,
+  "total_items": 159,
+  "total_matches": 159,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-16 | 17:23:03",
-  "updated_at_bd": "2026-09-16T17:23:03+06:00",
+  "updated_time_bd": "2026-09-16 | 21:27:49",
+  "updated_at_bd": "2026-09-16T21:27:49+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "niki-volos-vs-asteras-tripolis-2600187",
-      "title": "Niki Volos vs Asteras Tripolis",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "16 Sep 2026, 06:00 PM (BD Time)",
-      "start_epoch_ms": 1789560000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMkEDKIATDSD649ulIeP6IBCkz4ouYMvCLzRNprTB2xoiEA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh2nAAJrjBqGIbiD4hDJfSYM4DKAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
-    },
-    {
-      "id": "aris-vs-marko-2593108",
-      "title": "Aris vs Marko",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "16 Sep 2026, 07:45 PM (BD Time)",
-      "start_epoch_ms": 1789566300000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulx0Q3MEk4h1IACYgYuEHxMhEBiOoIUmfFFzBl4ReaIdNaYJ2NEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzNgYdWCQIQ3EHxAl9IE3pMmjAEwIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-    },
-    {
-      "id": "kifisia-vs-panathinaikos-2593110",
-      "title": "Kifisia vs Panathinaikos",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "16 Sep 2026, 08:45 PM (BD Time)",
-      "start_epoch_ms": 1789569900000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3nww3ECHZhNGvppAkQ+k4ZAaAJgQpM+KLmDJr680faa0wjsaIhA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm0OHzCaIIbiB06QuEDCMhEKEHwIUm1rmDLwi80SmBNaYR2NEQgA.webp"
-    },
-    {
-      "id": "niki-volos-vs-levadiakos-2593111",
-      "title": "Niki Volos vs Levadiakos",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "16 Sep 2026, 09:00 PM (BD Time)",
-      "start_epoch_ms": 1789570800000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMkEDKIATDSD649ulIeP6IBCkz4ouYMvCLzRNprTB2xoiEA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3jkSIACbNNIbjvUoQMXTuPq+BCkwtcwZVfXmiUwJrTB2xoiEA.webp"
-    },
     {
       "id": "ararat-armenia-vs-sparta-prague-2594946",
       "title": "Ararat-Armenia vs Sparta Prague",
