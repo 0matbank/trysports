@@ -1,13 +1,22 @@
 {
   "schema_version": 2,
   "category_name": "Cricket Upcoming",
-  "total_items": 2,
-  "total_matches": 2,
+  "total_items": 3,
+  "total_matches": 3,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-17 | 06:27:43",
-  "updated_at_bd": "2026-09-17T06:27:43+06:00",
+  "updated_time_bd": "2026-09-17 | 11:09:31",
+  "updated_at_bd": "2026-09-17T11:09:31+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "england-cricket-vs-sri-lanka-cricket-2524747",
+      "title": "England Cricket vs Sri Lanka Cricket",
+      "category": "cricket",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Sep 2026, 11:30 PM (BD Time)",
+      "start_epoch_ms": 1789666200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMNhAhgABkggIIbiD5aQiUyVzWcCpkgp9hs+ijAqUXd+XpZZnploNUXoQoA.webp"
+    },
     {
       "id": "admin-willow-cricket",
       "title": "Willow Cricket",

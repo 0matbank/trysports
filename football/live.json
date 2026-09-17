@@ -1,46 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 3,
-  "total_matches": 1,
-  "total_streams": 3,
-  "updated_time_bd": "2026-09-17 | 06:27:43",
-  "updated_at_bd": "2026-09-17T06:27:43+06:00",
+  "total_items": 0,
+  "total_matches": 0,
+  "total_streams": 0,
+  "updated_time_bd": "2026-09-17 | 11:09:31",
+  "updated_at_bd": "2026-09-17T11:09:31+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "ppv-inter-miami-cf-vs-cruz-azul",
-      "title": "Inter Miami CF vs. Cruz Azul",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "17 Sep 2026, 06:00 AM (BD Time)",
-      "start_epoch_ms": 1789603200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiDIQRIFLJALh8rDLkwQSkKWASUOnSCyGQieKRABjEOpURLwaVj38wgkU2z0whYElwW9IVdWaWFtPQJgMzBXB20IIA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Apple TV (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiDIQRIFLJALh8rDLkwQSkKWASUOnSCyGQieKRABjEOpURLwaVj38wgkU2z0whYElwW9IVdWaWFtPQJgMzBXB20IIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/qXVfDImeAgymODioxwknwSCFQlKTTdcq/rtmp/stream/38oIl1rdkt1Ua5j0cRFsfR6FIokYY-kmuU0Y8qeJXVXvR5uvq9W0Omiqy4REIDPN9-r5FvG8BhJx/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Apple TV (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiDIQRIFLJALh8rDLkwQSkKWASUOnSCyGQieKRABjEOpURLwaVj38wgkU2z0whYElwW9IVdWaWFtPQJgMzBXB20IIA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/eMZsayMkFsqUBmhpqCLfbsQheQvelFgM/rtmp/stream/nSHj74U35YAcTL-2F7BvJwcVhQ5vSwuUgxu-71dCa3ho48cC6oEz5fa-hDNIqkS9Xwuf0Oieuh_vlO5DwQ/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Inter Miami CF vs. Cruz Azul (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiDIQRIFLJALh8rDLkwQSkKWASUOnSCyGQieKRABjEOpURLwaVj38wgkU2z0whYElwW9IVdWaWFtPQJgMzBXB20IIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/CDwmmTsOuGtOgUjpVrLYNitBEvurKVoB/delta/stream/live_campeones-cup_inter-miami-cruz-azul-live-streaming-616500720/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }

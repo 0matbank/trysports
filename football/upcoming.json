@@ -1,40 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 144,
-  "total_matches": 144,
+  "total_items": 143,
+  "total_matches": 143,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-17 | 06:27:43",
-  "updated_at_bd": "2026-09-17T06:27:43+06:00",
+  "updated_time_bd": "2026-09-17 | 11:09:31",
+  "updated_at_bd": "2026-09-17T11:09:31+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "corinthians-vs-estudiantes-de-la-plata-2580621",
-      "title": "Corinthians vs Estudiantes de La Plata",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "17 Sep 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1789605000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOHCQNtUkNxB8QRw4d0oQ53RaZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "internacional-de-bogota-vs-atletico-nacional-football-1549810",
-      "title": "Internacional de Bogota vs Atletico Nacional",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "17 Sep 2026, 07:20 AM (BD Time)",
-      "start_epoch_ms": 1789608000000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIgj1yDAMbNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIgDG9cg3VZxPeCKrcCXVmDC58FoA.webp"
-    },
-    {
-      "id": "colorado-rapids-vs-st--louis-city-sc-2475874",
-      "title": "Colorado Rapids vs St. Louis City SC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "17 Sep 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1789608600000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJw4qsABMQ3EBBB8QiEkZDb9uxhSZ8UXMGXhF5ou01pgHY0RCA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuly4wA3oRghuIACYg+ICDtMhDqiAQpM+KLmDLwi80faa0wjsaIhA.webp"
-    },
     {
       "id": "kalamata-vs-larisa-football-1635501",
       "title": "Kalamata vs Larisa",
@@ -106,6 +79,15 @@
       "start_time_bd": "18 Sep 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1789671600000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmCQhaoLKBDcQfECeMptRkCRAQQKAsCQU+w2fRRgVKLp-L09ot5MtGCeYqIQQA.webp"
+    },
+    {
+      "id": "celtic-vs-ferencv-ros-2594851",
+      "title": "Celtic vs Ferencváros",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Sep 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1789671600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNmBBQkzEFJDcQfECeMoQiYyVwgYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
       "id": "crystal-palace-vs-lech-pozna--2594817",
@@ -378,13 +360,13 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBpkzuIPpBA6+IEiAi7cIKSBjHTBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
-      "id": "albacete-vs-cordoba-4751224",
+      "id": "albacete-vs-cordoba-football-1569926",
       "title": "Albacete vs Cordoba",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "19 Sep 2026, 12:30 AM (BD Time)",
       "start_epoch_ms": 1789756200000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhAEQMEdNbw9PUtlrswYUjtdA/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhDNiI6a3h6epbLXZgwpHS6A.webp"
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCor65Boubie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIh49cg0XNxPeCKrcCXVmDC58FoA.webp"
     },
     {
       "id": "bayern-munich-vs-union-berlin-2508360",
@@ -396,13 +378,13 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNkjlgQwJNhDcQfECRAQQMMwaNWpBXRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
-      "id": "wisla-krakow-vs-slask-wroclaw-4736393",
+      "id": "wisla-krakow-vs-slask-wroclaw-football-1553180",
       "title": "Wisla Krakow vs Slask Wroclaw",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "19 Sep 2026, 12:30 AM (BD Time)",
       "start_epoch_ms": 1789756200000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEF2MgYIECOmt4enqWy12YMKR1ugA/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEF2OmCI6a3h6epbLXZgwpHS6A.webp"
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEiEPXIMAxs3E94IqtwJdWYMLnxmgA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEiAMb1yDVVnE94IqtwJdWYMLnxmgA.webp"
     },
     {
       "id": "gent-vs-standard-li-ge-2496744",
@@ -1123,6 +1105,15 @@
       "start_time_bd": "20 Sep 2026, 08:00 PM (BD Time)",
       "start_epoch_ms": 1789912800000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYdhABjaSCogYILCAggyErCKVrSI7KW0gVweSRCIayxROEgU5kSnIRQYQXoL6nYQsCS4pJyE3VhcJMidPeHI3YBcyCCA.webp"
+    },
+    {
+      "id": "1485",
+      "title": "Atletico Madrid - Real Madrid",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "20 Sep 2026, 08:15 PM (BD Time)",
+      "start_epoch_ms": 1789913700000,
+      "poster": "https://streamed.pk/favicon.ico"
     },
     {
       "id": "ppv-atl-tico-madrid-vs-real-madrid",
