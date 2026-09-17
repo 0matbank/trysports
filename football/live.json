@@ -1,11 +1,102 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-17 | 20:46:58",
-  "updated_at_bd": "2026-09-17T20:46:58+06:00",
+  "total_items": 7,
+  "total_matches": 3,
+  "total_streams": 7,
+  "updated_time_bd": "2026-09-18 | 00:37:20",
+  "updated_at_bd": "2026-09-18T00:37:20+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "real-betis-vs-getafe-2506224",
+      "title": "Real Betis vs Getafe",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "17 Sep 2026, 11:00 PM (BD Time)",
+      "start_epoch_ms": 1789664400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWHBZgUkHzB8Q3PSFMQQKEDBDnzpxsCQU+w2fRRgVKLp-L1tot5MtGCeYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWHBZgUkHzB8Q3PSFMQQKEDBDnzpxsCQU+w2fRRgVKLp-L1tot5MtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb19.strmd.st/secure/zFGRJJuAapRRcVPoHBCRjwbjPQAlLmsH/rtmp/stream/aXDnwmoTCHjIcau_5B5eU4vUzX2xhYJ1ZyPbuxmtyc5MiVRL5CLdYIS6gnXIFRJTa9IjAqm34qc/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "ESPN+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWHBZgUkHzB8Q3PSFMQQKEDBDnzpxsCQU+w2fRRgVKLp-L1tot5MtGCeYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb19.strmd.st/secure/nRfGUjVmDtSJYKEgmEKcVpRYQMPBBWmC/rtmp/stream/OKHKxBETdoAc0vCQyCwwX-aWqyJMeCXdUZshpkew9sj9z2uD2-HGo_cDrN3F8yxN214juogBsAiwveI1/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Real Betis vs Getafe (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWHBZgUkHzB8Q3PSFMQQKEDBDnzpxsCQU+w2fRRgVKLp-L1tot5MtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb18.strmd.st/secure/QZYThhbCAhrGXiOxdJHegRGbawHLPEcr/delta/stream/live_laliga_real-betis-getafe-live-streaming-616684320/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ofi-vs-hoffenheim-2594932",
+      "title": "OFI vs Hoffenheim",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "17 Sep 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1789663500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGJRApiMgAwhuIPiBPGUIRMZImjBYEgp9hs+ijArtbd+XpZZ2plowdzFRCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT Sports 4 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGJRApiMgAwhuIPiBPGUIRMZImjBYEgp9hs+ijArtbd+XpZZ2plowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb19.strmd.st/secure/wjHsnIYmsxaWFNyLSnbAtfeaMfNxGlOf/rtmp/stream/TkWZuFDAGRM8R5rJmHCjJIFhzmozWaAfmkmAaqqzRE9FzFmscx2lsE3ppuLFLz8kDdU2ypVW/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT Sports 4 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGJRApiMgAwhuIPiBPGUIRMZImjBYEgp9hs+ijArtbd+XpZZ2plowdzFRCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb19.strmd.st/secure/MgcDPLMbyspjKkSinGUWlpnpiVOcvnqA/rtmp/stream/MAsowwTdgF2pHJA4QnTlhrxB6GSyiijAl3qddBmHHAawJy-lFu17_n9UNmAVaXl_nxfiskwlTzXkJA/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "levski-sofia-vs-red-bull-salzburg-2594923",
+      "title": "Levski Sofia vs Red Bull Salzburg",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "17 Sep 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1789663500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHC1mE+IbiB0h9IFCEQ6ShkDALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHC1mE+IbiB0h9IFCEQ6ShkDALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb18.strmd.st/secure/sNrTTKbOopqLYhlTuSpPMutLmJlEVpqY/rtmp/stream/ihHY_YenxYs8MMTBi9IKKhimE7GoolKxwd5_nI7CdQ80hdmWlCPOk5rCoft5tMKm-6EO17zIi3QffQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHC1mE+IbiB0h9IFCEQ6ShkDALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb18.strmd.st/secure/cQrMevsHOVUNABthMOMeCTLnnzgMtAaO/rtmp/stream/Xtnws37-loMWtDBdtJ0Khfg1VhrIkAPfH8EQyqNhImt3nhYvLmqWgeIYXExqW1K_oJhGuj8APJu6BK4cSUM/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
