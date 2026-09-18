@@ -1,58 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 89,
-  "total_matches": 89,
+  "total_items": 84,
+  "total_matches": 84,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-19 | 00:30:12",
-  "updated_at_bd": "2026-09-19T00:30:12+06:00",
+  "updated_time_bd": "2026-09-19 | 03:10:50",
+  "updated_at_bd": "2026-09-19T03:10:50+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "monaco-vs-lens-2489501",
-      "title": "Monaco vs Lens",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1789757100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELQAMlOT2BgQ3EHxAkQEY7ktGzCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-    },
-    {
-      "id": "monza-vs-sassuolo-2482187",
-      "title": "Monza vs Sassuolo",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1789757100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEKRAaADJRBSQ3EHy0gYplCEvWzBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-    },
-    {
-      "id": "brentford-vs-chelsea-2494047",
-      "title": "Brentford vs Chelsea",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1789758000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMBmj6JEChDcQfECd37Eh3YikFgSCn2Gz6KMCpRc35ellkemtGBuYtpAA.webp"
-    },
-    {
-      "id": "bristol-city-vs-watford-2501337",
-      "title": "Bristol City vs Watford",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1789758000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VATJS4Q9CCG4g+IYzj1TDILSWMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "espanyol-vs-elche-2506235",
-      "title": "Espanyol vs Elche",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1789758000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAkQ4blv4g9mnRBAoQMEKdPmzTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
     {
       "id": "new-york-city-fc-vs-new-york-red-bulls-2407083",
       "title": "New York City FC vs New York Red Bulls",

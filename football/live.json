@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 2,
-  "total_matches": 1,
-  "total_streams": 2,
-  "updated_time_bd": "2026-09-19 | 00:30:12",
-  "updated_at_bd": "2026-09-19T00:30:12+06:00",
+  "total_items": 13,
+  "total_matches": 5,
+  "total_streams": 13,
+  "updated_time_bd": "2026-09-19 | 03:10:50",
+  "updated_at_bd": "2026-09-19T03:10:50+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "groningen-vs-pec-zwolle-2489122",
-      "title": "Groningen vs PEC Zwolle",
+      "id": "espanyol-vs-elche-2506235",
+      "title": "Espanyol vs Elche",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "19 Sep 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1789754400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUWhDxyU2CG4g+IYzhwwQKC1YlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+      "start_time_bd": "19 Sep 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1789758000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAkQ4blv4g9mnRBAoQMEKdPmzTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,16 +23,146 @@
       },
       "streams": [
         {
-          "channel_name": "Dutch - ESPN2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUWhDxyU2CG4g+IYzhwwQKC1YlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "channel_name": "ESPN+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAkQ4blv4g9mnRBAoQMEKdPmzTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/UFeLABXrimqpLKvLrvNeAIPmmsxTJhCC/rtmp/stream/dx3CzcEIsX-qpwnGHXQybPWJxl9NRDQc47zVsZnS1TW6aThhK4Q7OS5-kaqJDChvf4Lgm5hA3d0/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/krZqofcpgtQRuwvGCIODHAwfQlfGJGok/rtmp/stream/m6YioW_J6c8rl3el841DjUN268el9gfMaR47UE4bX03moxh6cbJBew9FkkvlG347AQNvM0apFRY/1/playlist.m3u8"
         },
         {
-          "channel_name": "Dutch - ESPN2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUWhDxyU2CG4g+IYzhwwQKC1YlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "channel_name": "ESPN+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAkQ4blv4g9mnRBAoQMEKdPmzTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb7.strmd.st/secure/YTVosMFBfsAyuNwgnuDDElqUUTyNhyHv/rtmp/stream/8adm6sBOW6SRCRfiAJ_L-7iJhSuzbjWVzy4pTNnRhRqJBz9qPgYKg0VRAR18e717WDT2MjXhHxlbDb55/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/iDiWvcGfkHJMbmrhVoyBPUFxvvASjnkx/rtmp/stream/dSmDrj9iq9q76VUnVsQH4BtECr18jSnHgikb_lp1kmgofCSBECPNSMFwqPhsngNVoFG8B7ZntxEdYdQ-/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "brentford-vs-chelsea-2494047",
+      "title": "Brentford vs Chelsea",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1789758000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMBmj6JEChDcQfECd37Eh3YikFgSCn2Gz6KMCpRc35ellkemtGBuYtpAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports Premier League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMBmj6JEChDcQfECd37Eh3YikFgSCn2Gz6KMCpRc35ellkemtGBuYtpAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/sbiGnwjwqhGLsuMEhncEEmSKigooiEho/rtmp/stream/6wzrQcGEslUYL2N5326veI2wHW8p6AFnFGPc57rUHNgyFSLNRhYkldXmH7bv_Udon4CNR7bCtPB-/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports Premier League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMBmj6JEChDcQfECd37Eh3YikFgSCn2Gz6KMCpRc35ellkemtGBuYtpAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb11.strmd.st/secure/DsfwBbxWDxoogjIgEoRaPkeXAcAkpnKx/rtmp/stream/gLdKRxZyK_BpOwuuG6uuD0Lgfgdngibyb9nVD9a5dyvrJQ0jiCH0PHVB270u5d_J6_B-cNH6NWtfVtRcxA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Stan Sport (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMBmj6JEChDcQfECd37Eh3YikFgSCn2Gz6KMCpRc35ellkemtGBuYtpAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/ufJYPibRJRmFbsLQCHexdrjVyLfIVTUw/foxtrot/stream/brentford-vs-chelsea/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Brentford vs Chelsea (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMBmj6JEChDcQfECd37Eh3YikFgSCn2Gz6KMCpRc35ellkemtGBuYtpAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb19.strmd.st/secure/YqrlfQdksDHFrlWrkqqdlkuFfpsIQsDD/ingest/stream/nbrentford/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Brentford vs Chelsea (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMBmj6JEChDcQfECd37Eh3YikFgSCn2Gz6KMCpRc35ellkemtGBuYtpAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb19.strmd.st/secure/ZRGhfEilXrZSsyADTYKmnpJoDMGjMwIX/ingest/stream/nbrentford/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "monaco-vs-lens-2489501",
+      "title": "Monaco vs Lens",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1789757100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELQAMlOT2BgQ3EHxAkQEY7ktGzCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "French - Ligue 1+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELQAMlOT2BgQ3EHxAkQEY7ktGzCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/zXCegOZfrysxWpmNzwNMLROIIdoBLtHz/rtmp/stream/BvcGYIQutssl3WPNrYysXlLBJCOsbo2MOrwH6ngWr1RjUqawKHnXuAqPecAY27H7glMktqM-SM4/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "French - Ligue 1+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELQAMlOT2BgQ3EHxAkQEY7ktGzCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb11.strmd.st/secure/pkLQazgyXPvqNPAcIKHAMzSjsjjtGmTv/rtmp/stream/_1KUE7chY0SO8YpnJP9u6xHwTcWr6RikX69jcqDRByv4VQ13A1u8BGdLJz6ZUCcy_xJR3Zby6ZLs7urK/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "monza-vs-sassuolo-2482187",
+      "title": "Monza vs Sassuolo",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1789757100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEKRAaADJRBSQ3EHy0gYplCEvWzBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEKRAaADJRBSQ3EHy0gYplCEvWzBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb19.strmd.st/secure/rAEvsakAEcsIpIHlhwCuYjWuDWVdgldh/rtmp/stream/AswXsvwmQlaIaKRNlqOVNrcqMeHTjem42G6CKnj7k-dwyS1smLMbDNrRx202v1bjmFFfCKfe9AE/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEKRAaADJRBSQ3EHy0gYplCEvWzBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb19.strmd.st/secure/TIuTTZOyHBPtRwJRnwYJijimbIfagohJ/rtmp/stream/AkIDqwX6roeT_j-msLRvQdW64JSJF_woXj8_iJ6_Ks4dxv5ejbFqFhizbpWMaSiLw6IMlFzxLqPLM-EA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fubo Sports on DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEKRAaADJRBSQ3EHy0gYplCEvWzBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb18.strmd.st/secure/DEROQWYiUCJJMbJfLQEagBfefSHovLed/foxtrot/stream/sassuolo-v-monza-401874756/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "bayern-munich-vs-union-berlin-2508360",
+      "title": "Bayern Munich vs Union Berlin",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 12:30 AM (BD Time)",
+      "start_epoch_ms": 1789756200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNkjlgQwJNhDcQfECRAQQMMwaNWpBXRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN Canada (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNkjlgQwJNhDcQfECRAQQMMwaNWpBXRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/abImkuKlnXFJTyHoWXEHZPyeozrNHlPn/foxtrot/stream/bayern-munich-vs-union-berlin/1/playlist.m3u8"
         }
       ]
     }
