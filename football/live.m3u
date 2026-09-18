@@ -1,6 +1,20 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-09-18 | 21:12:43
+# TOTAL-ITEMS: 2
+# UPDATED Time and date BD: 2026-09-19 | 00:30:12
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Dutch - ESPN2 (HD)" tvg-name="Dutch - ESPN2 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUWhDxyU2CG4g+IYzhwwQKC1YlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", Dutch - ESPN2 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb7.strmd.st/secure/UFeLABXrimqpLKvLrvNeAIPmmsxTJhCC/rtmp/stream/dx3CzcEIsX-qpwnGHXQybPWJxl9NRDQc47zVsZnS1TW6aThhK4Q7OS5-kaqJDChvf4Lgm5hA3d0/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dutch - ESPN2 (SD)" tvg-name="Dutch - ESPN2 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUWhDxyU2CG4g+IYzhwwQKC1YlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", Dutch - ESPN2 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb7.strmd.st/secure/YTVosMFBfsAyuNwgnuDDElqUUTyNhyHv/rtmp/stream/8adm6sBOW6SRCRfiAJ_L-7iJhSuzbjWVzy4pTNnRhRqJBz9qPgYKg0VRAR18e717WDT2MjXhHxlbDb55/1/playlist.m3u8
 
