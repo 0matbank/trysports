@@ -1,11 +1,506 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-19 | 16:47:23",
-  "updated_at_bd": "2026-09-19T16:47:23+06:00",
+  "total_items": 45,
+  "total_matches": 14,
+  "total_streams": 45,
+  "updated_time_bd": "2026-09-19 | 20:00:55",
+  "updated_at_bd": "2026-09-19T20:00:55+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "hamburg-vs-k-ln-2508367",
+      "title": "Hamburg vs Köln",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1789824600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMwGSE5SQ3EHxCnEMYyAMmIxgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fandango (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMwGSE5SQ3EHxCnEMYyAMmIxgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/OPRhTzfFTwVOgyGBowkkQyAdxLFMBabw/rtmp/stream/cO_oRvH7r7G4aDcrOFBmduP3OcFu15jybIpJVUmcOtvpoFHJuD5pHFfllAqMHyC98zBS-47iAu4/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fandango (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMwGSE5SQ3EHxCnEMYyAMmIxgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/DoSCKUcEFywXAxxZcaWBVMOPyrQjeCDR/rtmp/stream/dSnXCEV0OztBYqV6focEjJZQcAq4uA-D1R75J5wte643VO6pM2qSy4cdWDKFnmceuiq4nJr-duqgFd1y/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Hamburg vs Köln (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMwGSE5SQ3EHxCnEMYyAMmIxgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/oHSoWpwnqfMhikrGPyzlTzDwbsjhSmBq/hotel/stream/hamburg-sv-vs-fc-cologne-bundesliga-1789824600/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "eintracht-frankfurt-vs-freiburg-2508364",
+      "title": "Eintracht Frankfurt vs Freiburg",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1789824600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXlNykQmzdxB8QJEBBAwTIfZuMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fandango (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXlNykQmzdxB8QJEBBAwTIfZuMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb19.strmd.st/secure/nZqCZmIJJXZwYCSbIgovqHfTCJcukWMe/rtmp/stream/V7AuLh-tIHp6M5XjaNMylG32K8zVcDVCTCXklASHNjuuC0YAH_NwXLNTKZkVcri0MnK5QwbFnO8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fandango (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXlNykQmzdxB8QJEBBAwTIfZuMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb19.strmd.st/secure/dqgzIFUyZxExbkDmSyWtKrVNhAQyPOPc/rtmp/stream/NxLDP2tp1STJaqhPv0Dk_3nDLrxl2wLp9JycguyxoCJBxPjFON9FYuzm2kT3KwD6UV_IipebWtuT3PdH/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Eintracht Frankfurt vs Freiburg (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXlNykQmzdxB8QJEBBAwTIfZuMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb19.strmd.st/secure/usYNUvYIbzeHxGAuKdXLdosanITQByvJ/hotel/stream/eintracht-frankfurt-vs-sc-freiburg-bundesliga-1789824600/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "borussia-m-nchengladbach-vs-mainz-2508362",
+      "title": "Borussia Mönchengladbach vs Mainz",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1789824600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFG5hwSXMxDcQfECQ0gYZwyDMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fandango (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFG5hwSXMxDcQfECQ0gYZwyDMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/aXFLekwQLOZlpbVslSyNmMdRhZsLQcYC/rtmp/stream/JQUu_BNSZJ_kI__S6CPCJE775ulcfNkpC9pm4VQeeL5uuxGmt6oZWxaA5B1qal6FHK4u6czlPeo/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fandango (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFG5hwSXMxDcQfECQ0gYZwyDMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb19.strmd.st/secure/TYWUZobfCWrHFIFVwUAMsRwwKmWqDhLh/rtmp/stream/VOcPjkAtCV-a9bJRmDRFJ7ntMUxDCPiAxzb8461uZnRrwZG0HhiGbwC9TKiUcH3VOZEarxZjiFhFSHRb/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Borussia Mönchengladbach vs Mainz (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFG5hwSXMxDcQfECQ0gYZwyDMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb19.strmd.st/secure/xLqTWhikqFtzQekNMfKJpIDWhdhOVdYo/hotel/stream/borussia-m-nchengladbach-vs-mainz-bundesliga-1789824600/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "werder-bremen-vs-augsburg-2508361",
+      "title": "Werder Bremen vs Augsburg",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1789824600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOHHBSQo7dxDaQRgyEQwTJAwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fandango (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOHHBSQo7dxDaQRgyEQwTJAwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/UuLGqMuyyBPFOwFMCjQfuDuTQLKigtVt/rtmp/stream/24tBoNQtLHZnTGG3wIE5lmks3dJIg14zJ4zH8XNqBaw9PhtaRcN0h__8qNOUSomHbPHBzUaDvLg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fandango (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOHHBSQo7dxDaQRgyEQwTJAwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/iVQXeztoKMBJAVvgpOaeuJstLvByenhE/rtmp/stream/_uhvsjZPRc1DLwhUu_oPE_g--CLNWZZfTMUPvIYy2p-eyJi2SnOW4y0A0F_U5z8IjpseysUeSKh42HDq/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Werder Bremen vs Augsburg (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOHHBSQo7dxDaQRgyEQwTJAwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/sbCOGZasxauKovtVxCtXUAUwsDuNkbOK/hotel/stream/werder-bremen-vs-fc-augsburg-bundesliga-1789824600/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "bologna-vs-torino-2482182",
+      "title": "Bologna vs Torino",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1789822800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPpBD14YErhDcQfEHr0oQiCCBgXcBYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPpBD14YErhDcQfEHr0oQiCCBgXcBYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/ubQEbrqllcOanRmFjtERMgUyevipBVnf/rtmp/stream/Xnda1DbOOZ-OClrptuTMnaxCZ8agxPMlMiXSCukFUp2g19UUkIKUFnOuP2Jm5gOyUhflQQxMUK8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPpBD14YErhDcQfEHr0oQiCCBgXcBYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/oZchBsJvWGDBkJtyTBquzOhaueuAkLRY/rtmp/stream/GLfa9GPEFKTEfHw9tv2z-FKhHLfOA-KDADyn6hZrfgasFyCOOG_DHCDs7MyLvM2wlHdf523cJ10IILwz/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Bologna vs Torino (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPpBD14YErhDcQfEHr0oQiCCBgXcBYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/wcwyosXqgTXIibBdwXnlFkPcERwwqFwo/delta/stream/live_serie-a_bologna-torino-live-streaming-617140512/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPpBD14YErhDcQfEHr0oQiCCBgXcBYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/HbvthmOKNcBuUCmmTbQcksKcOGMAFdda/foxtrot/stream/torino-v-bologna-401874767/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Bologna vs Torino (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPpBD14YErhDcQfEHr0oQiCCBgXcBYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/bltYqxJxDdzbCwtRcBgVSprDEJnNlGJg/hotel/stream/bologna-vs-torino-serie-a-1789822800/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "udinese-vs-cagliari-2482179",
+      "title": "Udinese vs Cagliari",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1789822800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBDN2IURu4g+u4xsSJTIGAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBDN2IURu4g+u4xsSJTIGAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/dzRVIrXhTtNuTqNewybqpqJZRFaXAFHl/rtmp/stream/43_Hca3YnZAp1Z3Jeg6UVUSHXKvXZdpGfKs1WtPRONWw1eTlIQjlSwsAAK6kRuzxdhCXChZhmAc/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBDN2IURu4g+u4xsSJTIGAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb5.strmd.st/secure/zgbdQAYpruukVViaPoKXIbncHiLslVsS/rtmp/stream/gc9ZesXtVbx5N8PqxY4Qt5ga_vw-IvoNpjYuMmlJX3GujkKVwoahEcS8HFtP8ili_ExyywHEWTSjVwqp/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Udinese vs Cagliari (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBDN2IURu4g+u4xsSJTIGAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/ZaBGKsoqnSEsRREkhGNcMglEaCGjEcUU/delta/stream/live_serie-a_udinese-cagliari-live-streaming-617140944/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBDN2IURu4g+u4xsSJTIGAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb16.strmd.st/secure/GsMYdsUpGtnOYRqwbExjvlYxVpIrstNV/foxtrot/stream/cagliari-v-udinese-401874964/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Udinese vs Cagliari (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBDN2IURu4g+u4xsSJTIGAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb16.strmd.st/secure/EexSmKWwZcFOGIiIjLSuzwgpHYtyQfWE/hotel/stream/udinese-vs-cagliari-serie-a-1789822800/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "v-ster-s-vs-malm--2477944",
+      "title": "Västerås vs Malmö",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1789822800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELykg4WOcAAMGkHxCmIIRCVMgtVhUyQU+w2fRRgVKLh-L1doryZaMA8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Swedish - TV4 Fotboll (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELykg4WOcAAMGkHxCmIIRCVMgtVhUyQU+w2fRRgVKLh-L1doryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/jdNCReWeAQFtHgsWFQUsSliaUJtaLgiG/rtmp/stream/zsZXRO6b8OqBTDj1g8CYOhusdQdeL7OnMxSXMpE-ZSNgSDyUosfn1TD9zqhI7E3VUH1ZEAFnAKQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Swedish - TV4 Fotboll (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELykg4WOcAAMGkHxCmIIRCVMgtVhUyQU+w2fRRgVKLh-L1doryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb5.strmd.st/secure/imJkGwGVWLFDWfysgjFDJtwttasbtAWv/rtmp/stream/K3paeEbIQBIIvaG4LcTtpstXof2gosTDKsObeJdVAPEdzmA3yQ3R77X428m0vkQKDTu6V0sgWM7JP8xE/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "brommapojkarna-vs-ifk-g-teborg-2398919",
+      "title": "Brommapojkarna vs IFK Göteborg",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1789822800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIj4huYAfATaQWkCAgaQJI6fONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Swedish - TV4 Sport Live 1 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIj4huYAfATaQWkCAgaQJI6fONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/PLIEsoVWKFGmifeRIfJDTOvpsszHrLnM/rtmp/stream/fAUfNE8VA7YOXYyWxTYYZkJQkozaCHYq99jBOCqbl6mC72eFdKdP2I8SuU2k-mJnbDQQbkbqzr4/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Swedish - TV4 Sport Live 1 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIj4huYAfATaQWkCAgaQJI6fONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/ppVlXzEGJTYscNAKsCXbuoTSHtIGuIIK/rtmp/stream/REhXlhkKlqysTgk6TBCR7KhZDywvaPsa4N5oMVujSUcWd3s3EKXJCbv1zJGEhilB6m0CsDFqFUdTg-9l/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "osasuna-vs-rayo-vallecano-2506238",
+      "title": "Osasuna vs Rayo Vallecano",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 06:00 PM (BD Time)",
+      "start_epoch_ms": 1789819200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgofEChC1uIQzpBbdIGGZIX9BYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgofEChC1uIQzpBbdIGGZIX9BYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/WJhMllULWPglwGjiLLrZxhpqlFOhpKtJ/rtmp/stream/xIzRcJEiLj8yuFtyJcUkaeOaXw2vRkC2nys4oJ_odEjN3h2dmynXxEbeDROJB0T9ibSlPpBCKRc/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "ESPN+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgofEChC1uIQzpBbdIGGZIX9BYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb11.strmd.st/secure/VTSNqXPkEUChmsKkurWXvlSAtUXXvkvt/rtmp/stream/QRC3E2sD2Uaf5E8wIfRZdeq3Zzo1M6uqJcriW8cRN7j7FQz-D5CKVMNVuMWpG48kumYgcDQkwiVO7wrp/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Osasuna vs Rayo Vallecano (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgofEChC1uIQzpBbdIGGZIX9BYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/qoQTIgFpQuNyxxUQYjghcfGcCgfzWwIA/delta/stream/live_laliga_osasuna-rayo-vallecano-live-streaming-617517216/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Osasuna vs Rayo Vallecano (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgofEChC1uIQzpBbdIGGZIX9BYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/jzVJWIqIlJuPwkVrWveKIqxZjOZCwcre/hotel/stream/osasuna-vs-rayo-vallecano-laliga-ea-sports-1789819200/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "hartlepool-united-vs-worthing-2528256",
+      "title": "Hartlepool United vs Worthing",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 05:30 PM (BD Time)",
+      "start_epoch_ms": 1789817400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiCCAjB4IkClnDgVSSEVY5KgMayaukDFIhNIRIm01hIZWuwn5-MIJFNs9MIWBJcm+UMespRTJ5AmlyR2ApMgggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN National League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiCCAjB4IkClnDgVSSEVY5KgMayaukDFIhNIRIm01hIZWuwn5-MIJFNs9MIWBJcm+UMespRTJ5AmlyR2ApMgggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb16.strmd.st/secure/MNsLbjnpBaoOIyZbdIVLTvnEnmhsqYzb/rtmp/stream/CGW1bfiJ0y91_C8HfuByYnFrYyhxAGBdSrHA7syFgfnUvnxU0BWFIBFrZJotsRFYVcKWmJh1kEKH/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN National League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiCCAjB4IkClnDgVSSEVY5KgMayaukDFIhNIRIm01hIZWuwn5-MIJFNs9MIWBJcm+UMespRTJ5AmlyR2ApMgggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb16.strmd.st/secure/dHliXFDUDNZAFpBjMRFyrWgbMQinjVJh/rtmp/stream/o10dysE3Dicg6iCUpS4ebh2ztnpATqLp13MItTU6crgBuwN7oQ-N_iVbCLjeC_I8bsWWSX4UgptVC9jAkw/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "stoke-city-vs-sheffield-united-2501341",
+      "title": "Stoke City vs Sheffield United",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 05:30 PM (BD Time)",
+      "start_epoch_ms": 1789817400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFP2AAGEPVYQQ3EHxCmcBqcZAoQliUyQU+w2fRRgVGth-L0ssjSZaMA8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFP2AAGEPVYQQ3EHxCmcBqcZAoQliUyQU+w2fRRgVGth-L0ssjSZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb16.strmd.st/secure/mZdqNLZXYEkQWRSPjoJVmRdVHKvQTGSU/rtmp/stream/b06RfL2-wcwe9I3nxet106YUcuX68iA3itTIpJnZ1r6LiI87qwxLRBPc09vtNXnQsM1wQKko_MvctIs/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFP2AAGEPVYQQ3EHxCmcBqcZAoQliUyQU+w2fRRgVGth-L0ssjSZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/TrVnwuUXaRhQNsumFbnpvoTVyqESQepC/rtmp/stream/x7AxmNlhBMV0kQDiTLXChPzZr4Jwopm-Yvfc7wF0Na5KD7A2Q1BrdjT5j67AiK2Wku2R9fQ9PgH6K1IDpLfn/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "millwall-vs-west-ham-united-2501338",
+      "title": "Millwall vs West Ham United",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 05:30 PM (BD Time)",
+      "start_epoch_ms": 1789817400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFH1WvMCG4g+IYzgggphkChAkrBYEgp9hs+ik1sUXTeXpZZXky0YB70WkA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports Football (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFH1WvMCG4g+IYzgggphkChAkrBYEgp9hs+ik1sUXTeXpZZXky0YB70WkA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/rJQrSqqloJbMNZMEvuNokKBhDJmgayLe/rtmp/stream/Wz9y7Lsu1r7e8sb8g0xm4FJgmBXCW1MpaE5BQeay5q4yLatJ45Aqb-H1NgzMlnPjGwAUoL9BKSovCbZxqF-M/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports Football (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFH1WvMCG4g+IYzgggphkChAkrBYEgp9hs+ik1sUXTeXpZZXky0YB70WkA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb8.strmd.st/secure/WKbOwMXvYAzTWguKZojjTwnNykJRTXCd/rtmp/stream/ZfP7rcnxUBRuxkPF3kXUwPfwjOQk2I2jQhi-t0YDLIWN8zGOADBG-cemjlmI9Qrrv4h7aO-6REAeHvs1nA9VvwluEA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFH1WvMCG4g+IYzgggphkChAkrBYEgp9hs+ik1sUXTeXpZZXky0YB70WkA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/IGCXPTogGADqPqqmKiyWIlTfRHCBVeWH/foxtrot/stream/millwall-vs-west-ham-united/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "rochdale-vs-oldham-athletic-2500218",
+      "title": "Rochdale vs Oldham Athletic",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 05:30 PM (BD Time)",
+      "start_epoch_ms": 1789817400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBRzgSIhu4g+G3CAggppkDBMKmumP2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBRzgSIhu4g+G3CAggppkDBMKmumP2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/pcjZLJPhxYmqlHrQwQGrBtSwIIKFCnrH/rtmp/stream/z4cNcizwwApyDO0Ur5j8FXfiC63q1Z0GG3Wr4-Ih9v-ZCWzDbB3JGYNmIuoW2KXdykrS7wtRM3DO/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBRzgSIhu4g+G3CAggppkDBMKmumP2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/UJtGEicHrOryBQraffoVSkgpnOULegeG/rtmp/stream/mYrAtwpWfG33gFcFFogGjR9y6v-C1N6Zn4UTN3awaZJscHWFbvD9E8mxXcZXJX839wEUchW3_cnfnA29IQ/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "tottenham-hotspur-vs-aston-villa-2494044",
+      "title": "Tottenham Hotspur vs Aston Villa",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 05:30 PM (BD Time)",
+      "start_epoch_ms": 1789817400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmHAQQ8TWBIhuIPiFMmT2mKZAGSBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT Sports 1 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmHAQQ8TWBIhuIPiFMmT2mKZAGSBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/KOkNgqDKOSTSObfLErgFsdSRchfDMVbB/rtmp/stream/T9Koo20M6sIpW0FXiH9eAAZlftxy5C92exElolUrVYCSSOPOLDgXxL3fgf1m8uYYGmBFGuvH/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT Sports 1 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmHAQQ8TWBIhuIPiFMmT2mKZAGSBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/NMzyWzVGjUtzDuRbASlfDwocKjhwQUdD/rtmp/stream/OpMslo4qhUPT2uSxC2OZ9ZnI0OIYqt-AY5YEAAs_HaNlP07dnJRmzSqHmf54VBn1g9zM8YpGDN-m1A/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT Sports 1 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmHAQQ8TWBIhuIPiFMmT2mKZAGSBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/rZzfirixZmFFABmXqPbeMUoIcqYydDHJ/foxtrot/stream/tottenham-hotspur-vs-aston-villa/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT Sports Ultimate 4K HEVC (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmHAQQ8TWBIhuIPiFMmT2mKZAGSBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/rxcjzkyupPBhvOCDAWdrYToqxqunclMv/foxtrot/stream/tottenham-hotspur-vs-aston-villa/2/playlist.m3u8"
+        },
+        {
+          "channel_name": "Tottenham Hotspur vs Aston Villa (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmHAQQ8TWBIhuIPiFMmT2mKZAGSBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/DiwbFuiwmwZNnYzJajLsIZqFlBfmeDPc/ingest/stream/ntottenhamhotspur/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Tottenham Hotspur vs Aston Villa (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmHAQQ8TWBIhuIPiFMmT2mKZAGSBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb8.strmd.st/secure/GcQjdMBLIxxPaDxPpcreSZXIaslgLbBL/ingest/stream/ntottenhamhotspur/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
