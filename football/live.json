@@ -1,11 +1,52 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-19 | 05:17:36",
-  "updated_at_bd": "2026-09-19T05:17:36+06:00",
+  "total_items": 4,
+  "total_matches": 1,
+  "total_streams": 4,
+  "updated_time_bd": "2026-09-19 | 07:16:59",
+  "updated_at_bd": "2026-09-19T07:16:59+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "new-york-city-fc-vs-new-york-red-bulls-2407083",
+      "title": "New York City FC vs New York Red Bulls",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "19 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1789774200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiF5SwKYEh6aQGmCClHDiHNxDwCein2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiF5SwKYEh6aQGmCClHDiHNxDwCein2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/IiyDWYFNlDSWmabQhMfgPwlELibMCzDV/rtmp/stream/xUYhwLKZ0S0dOsyEKt118XZ1MRN7MWqXwElPtEt5-h9qpEDUVyLwctrBq7CGyHrJHe4qEb2u9gXA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiF5SwKYEh6aQGmCClHDiHNxDwCein2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb5.strmd.st/secure/XCZJXEzAcNGxrSlvJpWuTZUOAKpJnZFi/rtmp/stream/e-EtKJz7_7sa1rYzZ1aMs_XMhrNyTCT0pdmIaPxw2bVFpQcebewxX_-GTv8_iB-Byf_5EIyMMxmrDWKVFw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "New York City FC vs New York Red Bulls (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiF5SwKYEh6aQGmCClHDiHNxDwCein2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/OcNGspeYKCDmKBJfdwqaycfydpAFMtuF/delta/stream/live_mls_ny-city-ny-red-bulls-live-streaming-539276832/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "MLS Season Pass (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiF5SwKYEh6aQGmCClHDiHNxDwCein2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/KSLAyLsmDuZSsMmscZTMZpECUryTfCmj/foxtrot/stream/red-bull-new-york-v-new-york-city-fc-761815/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
