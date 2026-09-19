@@ -1,112 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 69,
-  "total_matches": 69,
+  "total_items": 58,
+  "total_matches": 58,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-19 | 20:00:55",
-  "updated_at_bd": "2026-09-19T20:00:55+06:00",
+  "updated_time_bd": "2026-09-19 | 23:10:30",
+  "updated_at_bd": "2026-09-19T23:10:30+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "athletic-bilbao-vs-deportivo-alav-s-2506230",
-      "title": "Athletic Bilbao vs Deportivo Alavés",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 08:15 PM (BD Time)",
-      "start_epoch_ms": 1789827300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbkVEAGMGRQhuIPiBMQQ+mCDNn9Epkgp9hs+il1sUXXeXpZZnplowd3pRCCA.webp"
-    },
-    {
-      "id": "athletic-club-mg-vs-botafogo-sp-2431446",
-      "title": "Athletic Club-MG vs Botafogo-SP",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 08:15 PM (BD Time)",
-      "start_epoch_ms": 1789827300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChCIpYXkwghuIPsdyHTmzTgVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "ado-den-haag-vs-cambuur-2489121",
-      "title": "ADO Den Haag vs Cambuur",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 08:30 PM (BD Time)",
-      "start_epoch_ms": 1789828200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBIgUYAQKQhuIPiFM4cMbVZQgYBYEgp9hs+jpUoum8vSyzPTLQaovQhQA.webp"
-    },
-    {
-      "id": "paris-fc-vs-strasbourg-2489504",
-      "title": "Paris FC vs Strasbourg",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 09:15 PM (BD Time)",
-      "start_epoch_ms": 1789830900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChB9YYGQAZ+IblpAkQEEzikgbNvgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp"
-    },
-    {
-      "id": "-rgryte-vs-sirius-2398925",
-      "title": "Örgryte vs Sirius",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 09:30 PM (BD Time)",
-      "start_epoch_ms": 1789831800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMAAMckHzDgc3XSBMQQiEsbMWCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
-    },
-    {
-      "id": "internazionale-v-as-roma-401874753",
-      "title": "Internazionale @ AS Roma",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1789833600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuClBWLwBOQ3YeYDNNJMAYxDIlGDsYBN0FgBTMIlb4AEN+kUGC7BJBfiEGz5MECFyxgeGv0niEoohP54yYccEYSIQA.webp"
-    },
-    {
-      "id": "roma-vs-inter-milan-2482181",
-      "title": "Roma vs Inter Milan",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1789833600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCE0QQKWVJDcQfEPpIht2nGcQSmSCn2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp"
-    },
-    {
-      "id": "celta-vigo-vs-racing-de-santander-2506234",
-      "title": "Celta Vigo vs Racing de Santander",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1789835400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBRhRTNnxDcQ+kCAiaQMU1Y1SCwJBT7DZ9LSpRdt5ellkemtGDaYqIQQA.webp"
-    },
-    {
-      "id": "nottingham-forest-vs-coventry-city-2494049",
-      "title": "Nottingham Forest vs Coventry City",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1789835400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgQwGUhAowfENxBGQICCBIX9IRDgVMkFPsNn0DKlFzBl4RLFlvJlowXzFRCCA.webp"
-    },
-    {
-      "id": "stuttgart-vs-borussia-dortmund-2508365",
-      "title": "Stuttgart vs Borussia Dortmund",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1789835400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8remRBywfMEhDcQfECRAQQMMwaMgURgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
-    {
-      "id": "sparta-rotterdam-vs-heerenveen-2489120",
-      "title": "Sparta Rotterdam vs Heerenveen",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Sep 2026, 10:45 PM (BD Time)",
-      "start_epoch_ms": 1789836300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRN1hgB8BCG4g+IYzhwwQKC1ZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "ajax-vs-excelsior-2489123",
       "title": "Ajax vs Excelsior",
