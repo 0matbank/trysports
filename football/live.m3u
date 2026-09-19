@@ -1,34 +1,13 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 4
-# UPDATED Time and date BD: 2026-09-19 | 07:16:59
+# TOTAL-ITEMS: 1
+# UPDATED Time and date BD: 2026-09-19 | 12:00:20
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
-
-#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiF5SwKYEh6aQGmCClHDiHNxDwCein2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp" group-title="Football", Apple TV (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb5.strmd.st/secure/IiyDWYFNlDSWmabQhMfgPwlELibMCzDV/rtmp/stream/xUYhwLKZ0S0dOsyEKt118XZ1MRN7MWqXwElPtEt5-h9qpEDUVyLwctrBq7CGyHrJHe4qEb2u9gXA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiF5SwKYEh6aQGmCClHDiHNxDwCein2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp" group-title="Football", Apple TV (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb5.strmd.st/secure/XCZJXEzAcNGxrSlvJpWuTZUOAKpJnZFi/rtmp/stream/e-EtKJz7_7sa1rYzZ1aMs_XMhrNyTCT0pdmIaPxw2bVFpQcebewxX_-GTv8_iB-Byf_5EIyMMxmrDWKVFw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="New York City FC vs New York Red Bulls (HD)" tvg-name="New York City FC vs New York Red Bulls (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiF5SwKYEh6aQGmCClHDiHNxDwCein2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp" group-title="Football", New York City FC vs New York Red Bulls (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb5.strmd.st/secure/OcNGspeYKCDmKBJfdwqaycfydpAFMtuF/delta/stream/live_mls_ny-city-ny-red-bulls-live-streaming-539276832/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MLS Season Pass (HD)" tvg-name="MLS Season Pass (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiF5SwKYEh6aQGmCClHDiHNxDwCein2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp" group-title="Football", MLS Season Pass (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb5.strmd.st/secure/KSLAyLsmDuZSsMmscZTMZpECUryTfCmj/foxtrot/stream/red-bull-new-york-v-new-york-city-fc-761815/1/playlist.m3u8
+https://lb12.strmd.st/secure/FbNUEQmkvpsOYYXpofRjwCCxZoMKzXCa/foxtrot/stream/red-bull-new-york-v-new-york-city-fc-761815/1/playlist.m3u8
 
