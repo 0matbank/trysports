@@ -1,103 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 48,
-  "total_matches": 48,
+  "total_items": 38,
+  "total_matches": 38,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-20 | 05:26:49",
-  "updated_at_bd": "2026-09-20T05:26:49+06:00",
+  "updated_time_bd": "2026-09-20 | 07:28:58",
+  "updated_at_bd": "2026-09-20T07:28:58+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "cf-montr-al-vs-columbus-crew-2407085",
-      "title": "CF Montréal vs Columbus Crew",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1789860600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJBXAQQ8bCG4g+IGCCmH9O3MdwFgGmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "dc-united-vs-charlotte-fc-2407087",
-      "title": "DC United vs Charlotte FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1789860600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjrYQ3MCRAHuIPiBggpxnSEQRcuAsCQU+w2fRR62mtnvL0ssppMtGCe9KIQQA.webp"
-    },
-    {
-      "id": "new-england-revolution-vs-orlando-city-2407086",
-      "title": "New England Revolution vs Orlando City",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1789860600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGfCIDCfENxC7d+3SRCIIekCALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "san-jose-earthquakes-vs-los-angeles-fc-2407084",
-      "title": "San Jose Earthquakes vs Los Angeles FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1789860600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUYixswIEHxDc9IGCClHDiQ7qkFgSCn2Gz6KMCpRc35eltEemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "fc-dallas-vs-austin-fc-2407091",
-      "title": "FC Dallas vs Austin FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1789864200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCBTAkDMFJAQQ3EHxAb9p44kQ4JTJBT7DZ9FGBVa278vSyytTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "houston-dynamo-vs-fc-cincinnati-2407089",
-      "title": "Houston Dynamo vs FC Cincinnati",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1789864200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCAggSIKSBSaQ3EHxNGzOxFpwwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "minnesota-united-vs-la-galaxy-2407088",
-      "title": "Minnesota United vs LA Galaxy",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1789864200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCFEpZTFCG4g+h-cZIhEEEygLAkFPsNn0UYFdravy9LLO1NaYK5iohBAA.webp"
-    },
-    {
-      "id": "sporting-kansas-city-vs-philadelphia-union-2407090",
-      "title": "Sporting Kansas City vs Philadelphia Union",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1789864200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFWF5UQIPiG67DBvSRCmpZswWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "st--louis-city-sc-vs-toronto-fc-2407092",
-      "title": "St. Louis City SC vs Toronto FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1789864200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAQAYwKHiF6JuIPkb0mSIRBFx6CwJBT7DZ9FGBU62b8vSyydTWjA3MVEIIA.webp"
-    },
-    {
-      "id": "monterrey-vs-cruz-azul-2487528",
-      "title": "Monterrey vs Cruz Azul",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 07:00 AM (BD Time)",
-      "start_epoch_ms": 1789866000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRmjW4KSG4g+IYxBCmYIEiAtWJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
     {
       "id": "colorado-rapids-vs-seattle-sounders-2407093",
       "title": "Colorado Rapids vs Seattle Sounders",
@@ -414,31 +324,31 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqkheUCNv18NIPShAxjF042BIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
     },
     {
-      "id": "ppv-pachuca-vs-tijuana",
-      "title": "Pachuca vs. Tijuana",
+      "id": "pachuca-vs-tijuana-2487531",
+      "title": "Pachuca vs Tijuana",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "21 Sep 2026, 06:00 AM (BD Time)",
       "start_epoch_ms": 1789948800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGCCoh4wGRBBYQ8gMazJC7CFVZgUmLpAl1KEMJAnh2TcvFX5NEinIRQYQSKZWnYQsCS5lJyE3VhdLMicCWXI3YBcyCCA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGzDdYYFLhDcQfECYggzMECRCXrCpkgp9hs+ijAqNmsvCJZZGky0YB5iohBAA.webp"
     },
     {
-      "id": "ppv-toluca-vs-santos",
-      "title": "Toluca vs. Santos",
+      "id": "toluca-vs-santos-laguna-2487530",
+      "title": "Toluca vs Santos Laguna",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "21 Sep 2026, 06:00 AM (BD Time)",
       "start_epoch_ms": 1789948800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFKVIhpKEGWHAI2EEqVYQAYxFzgVcdtnSNIeCOUzgpmqYgg9ECfzCCzBbPTCFgSXBolDnViUFMgk3UzBnRUkIIA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKEgQMw3MEhDcQfECYggzMECRCXr8AsE0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
     },
     {
-      "id": "ppv-quer-taro-vs-le-n",
-      "title": "Querétaro vs. León",
+      "id": "quer-taro-vs-le-n-2487532",
+      "title": "Querétaro vs León",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "21 Sep 2026, 08:00 AM (BD Time)",
       "start_epoch_ms": 1789956000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiCMEQhSICCBggAxjMUhhK4FRDaU22fJHAJ64Uv1kSIXVq1kIKchIFDDBbPTCFgSXIodCwbk5jUno3eHJAo1CIIA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKNYyQIKHxDcQ+nRF0gYRjZZQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     }
   ]
 }
