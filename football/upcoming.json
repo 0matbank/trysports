@@ -1,49 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 35,
-  "total_matches": 35,
+  "total_items": 30,
+  "total_matches": 30,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-20 | 12:47:53",
-  "updated_at_bd": "2026-09-20T12:47:53+06:00",
+  "updated_time_bd": "2026-09-20 | 17:52:06",
+  "updated_at_bd": "2026-09-20T17:52:06+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "feyenoord-vs-utrecht-2489125",
-      "title": "Feyenoord vs Utrecht",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 04:15 PM (BD Time)",
-      "start_epoch_ms": 1789899300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGCQhRM7iH16++3CZggU5ywqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "fiorentina-vs-napoli-2482183",
-      "title": "Fiorentina vs Napoli",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 04:30 PM (BD Time)",
-      "start_epoch_ms": 1789900200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBkAGHtG4h9fECWMgNiREaMSmSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp"
-    },
-    {
-      "id": "celtic-vs-rangers-2494451",
-      "title": "Celtic vs Rangers",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 05:00 PM (BD Time)",
-      "start_epoch_ms": 1789902000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDIpsuHiG4g+G3PpAoQiRAZgFgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp"
-    },
-    {
-      "id": "wolverhampton-wanderers-vs-west-bromwich-albion-2501333",
-      "title": "Wolverhampton Wanderers vs West Bromwich Albion",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 05:00 PM (BD Time)",
-      "start_epoch_ms": 1789902000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGKRg+uMEhDcQOkLhAQQUoyBQgSZgsC0x+w2fRRgVKLp-L0Not5MtGCeYqIQQA.webp"
-    },
     {
       "id": "djurg-rden-vs-elfsborg-2398921",
       "title": "Djurgården vs Elfsborg",
@@ -79,6 +43,15 @@
       "start_time_bd": "20 Sep 2026, 06:00 PM (BD Time)",
       "start_epoch_ms": 1789905600000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rESChTqibiD4hDEEIhKGQUkGfgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "ppv-br-ndby-if-vs-f-c-k-benhavn",
+      "title": "Brøndby IF vs. F.C. København",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "20 Sep 2026, 06:00 PM (BD Time)",
+      "start_epoch_ms": 1789905600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE522EMJApg8YDSogsckLMkwRM5UpIgQMkDAn6URheoi7SIGjqzT+YQRoLZ6YQsCS4AxtKGPWCA0yaRdZMEdgILIIIA.webp"
     },
     {
       "id": "az-alkmaar-vs-telstar-2489126",
@@ -304,24 +277,6 @@
       "start_time_bd": "21 Sep 2026, 06:00 AM (BD Time)",
       "start_epoch_ms": 1789948800000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGzDdYYFLhDcQfECYggzMECRCXrCpkgp9hs+ijAqNmsvCJZZGky0YB5iohBAA.webp"
-    },
-    {
-      "id": "toluca-vs-santos-laguna-2487530",
-      "title": "Toluca vs Santos Laguna",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "21 Sep 2026, 06:00 AM (BD Time)",
-      "start_epoch_ms": 1789948800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKEgQMw3MEhDcQfECYggzMECRCXr8AsE0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
-    {
-      "id": "quer-taro-vs-le-n-2487532",
-      "title": "Querétaro vs León",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "21 Sep 2026, 08:00 AM (BD Time)",
-      "start_epoch_ms": 1789956000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKNYyQIKHxDcQ+nRF0gYRjZZQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     }
   ]
 }

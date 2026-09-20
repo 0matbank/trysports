@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 4,
+  "total_items": 15,
   "total_matches": 4,
-  "total_streams": 4,
-  "updated_time_bd": "2026-09-20 | 12:47:53",
-  "updated_at_bd": "2026-09-20T12:47:53+06:00",
+  "total_streams": 15,
+  "updated_time_bd": "2026-09-20 | 17:52:06",
+  "updated_at_bd": "2026-09-20T17:52:06+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "portland-timbers-vs-atlanta-united-2407096",
-      "title": "Portland Timbers vs Atlanta United",
+      "id": "wolverhampton-wanderers-vs-west-bromwich-albion-2501333",
+      "title": "Wolverhampton Wanderers vs West Bromwich Albion",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "20 Sep 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1789871400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEP2BgGIFGG4gDUkBBMgSuM6YMoCwJBT7DZ9PSpRcwZeESyyPTLRgXmKiEEA.webp",
+      "start_time_bd": "20 Sep 2026, 05:00 PM (BD Time)",
+      "start_epoch_ms": 1789902000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGKRg+uMEhDcQOkLhAQQUoyBQgSZgsC0x+w2fRRgVKLp-L0Not5MtGCeYqIQQA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,21 +23,33 @@
       },
       "streams": [
         {
-          "channel_name": "MLS Season Pass (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEP2BgGIFGG4gDUkBBMgSuM6YMoCwJBT7DZ9PSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "channel_name": "Sky Sports+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGKRg+uMEhDcQOkLhAQQUoyBQgSZgsC0x+w2fRRgVKLp-L0Not5MtGCeYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/gCHkIgKmmFJHDnQfZnKKIdNzcYTDJzyg/foxtrot/stream/atlanta-united-fc-v-portland-timbers-761828/1/playlist.m3u8"
+          "direct_stream_url": "https://lb11.strmd.st/secure/eQstLordkJDVADEHpfZbiZHtSKXtLKoE/rtmp/stream/41z7TW5nd9vspe6BBhatuCr7tMYUjnuiUuHMRQk_5pGIvSQrbIssQyM0zzcxLG-VNrrTpHPzRA0g55o/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGKRg+uMEhDcQOkLhAQQUoyBQgSZgsC0x+w2fRRgVKLp-L0Not5MtGCeYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb11.strmd.st/secure/kUcCoPNDbnlauPzgGSVNPrupdoczXfSj/rtmp/stream/hcGpP4NnZyU2T9x6nAocQUgSZwCw_axst33TYAThogoM3iXSUU56Q-EUycQBCoNbe5VhsiELKWG3tDYygEKl/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Wolverhampton Wanderers vs West Bromwich Albion (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGKRg+uMEhDcQOkLhAQQUoyBQgSZgsC0x+w2fRRgVKLp-L0Not5MtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/BSDiWBbeUFOxtlVdXyUXNEKqxVeXRFcH/delta/stream/live_championship_wolves-west-brom-live-streaming-617553504/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "nashville-sc-vs-chicago-fire-2407095",
-      "title": "Nashville SC vs Chicago Fire",
+      "id": "celtic-vs-rangers-2494451",
+      "title": "Celtic vs Rangers",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "20 Sep 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1789867800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNuF4AGYDIghuIPiBggpRgyESJjJAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+      "start_time_bd": "20 Sep 2026, 05:00 PM (BD Time)",
+      "start_epoch_ms": 1789902000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDIpsuHiG4g+G3PpAoQiRAZgFgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -45,21 +57,45 @@
       },
       "streams": [
         {
-          "channel_name": "MLS Season Pass (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNuF4AGYDIghuIPiBggpRgyESJjJAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "channel_name": "Sky Sports Football (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDIpsuHiG4g+G3PpAoQiRAZgFgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/iGDUisgSjGoTheCtpnhqdnYdDIpRuQcp/foxtrot/stream/chicago-fire-fc-v-nashville-sc-761827/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/HffoYOcveErNlHZFeOmwrKXVTxrctbam/rtmp/stream/hLNch6UPw7XfvAaMh0XpTSU2XJCK7BLW8KU9hPt4m_zZweRSUxD67-Kfv9YHjVEe0Dqn_nqIM7d7EE08f5Q8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports Football (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDIpsuHiG4g+G3PpAoQiRAZgFgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb6.strmd.st/secure/XCgHOkZvANPSlWidyXPuVLMYLbgwPIUg/rtmp/stream/_CnDJwlv9Gv7VdjOz1p6VlvXLto2GoOCi3LY6vwzwWsuTwBRSfaddjvJr3N6Aq77oB8-5jkjkIWdy2nBCmoCttYa-Q/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Celtic vs Rangers (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDIpsuHiG4g+G3PpAoQiRAZgFgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/mqjsXpmpSZsajhRuCnnIRCFIbHePrsPS/delta/stream/live_premiership_celtic-rangers-live-streaming-617540976/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDIpsuHiG4g+G3PpAoQiRAZgFgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/feutqOkriKwXMZnwyLMVNPPjeMkBFTJs/foxtrot/stream/celtic-vs-rangers/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports Football (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDIpsuHiG4g+G3PpAoQiRAZgFgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/TsRpygfjXjEzRiFnYetgElEZinLPaMai/foxtrot/stream/celtic-vs-rangers/2/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "real-salt-lake-vs-vancouver-whitecaps-2407094",
-      "title": "Real Salt Lake vs Vancouver Whitecaps",
+      "id": "fiorentina-vs-napoli-2482183",
+      "title": "Fiorentina vs Napoli",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "20 Sep 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1789867800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiG7YeYKWA3cQfEDBBSjmkIghXNBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
+      "start_time_bd": "20 Sep 2026, 04:30 PM (BD Time)",
+      "start_epoch_ms": 1789900200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBkAGHtG4h9fECWMgNiREaMSmSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -67,21 +103,45 @@
       },
       "streams": [
         {
-          "channel_name": "MLS Season Pass (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiG7YeYKWA3cQfEDBBSjmkIghXNBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBkAGHtG4h9fECWMgNiREaMSmSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/RLYMTMGdLOujVgViNatlQinPmLVzXEnu/foxtrot/stream/vancouver-whitecaps-v-real-salt-lake-761825/1/playlist.m3u8"
+          "direct_stream_url": "https://lb12.strmd.st/secure/pSuLpddConuHYSxpnZsegEzsYwTDFOrt/rtmp/stream/_glBoPWIVSDVpOHBYEsnBOsEt1UfqhEgCoCXPWyO-noa3TrNeanh0epFimdb0_-cM17FJpZ5_Uk/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBkAGHtG4h9fECWMgNiREaMSmSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb12.strmd.st/secure/VtDuFIkHLakRVYghihjKRHQIuyyrPzmI/rtmp/stream/UVPOuXer0iuyAM4VTHVHYsvaxCanJpRBwRRDf-2PQk3qrmRyJrLgaUKffiu3--aCLrKTYlOYlxApqUQu/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fiorentina vs Napoli (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBkAGHtG4h9fECWMgNiREaMSmSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/ayMOXPulkFSLDLJkaIvXQagKeuHTGzjf/delta/stream/live_serie-a_fiorentina-napoli-live-streaming-617512464/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBkAGHtG4h9fECWMgNiREaMSmSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/FtPMCmOEjftrgqiHDumHCTiZElmzlCmr/foxtrot/stream/napoli-v-fiorentina-401874934/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fiorentina vs Napoli (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBkAGHtG4h9fECWMgNiREaMSmSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb17.strmd.st/secure/qYioCGxririEOIaHmogBjTbsoFPhwHWw/hotel/stream/fiorentina-vs-napoli-serie-a-1789900200/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "colorado-rapids-vs-seattle-sounders-2407093",
-      "title": "Colorado Rapids vs Seattle Sounders",
+      "id": "feyenoord-vs-utrecht-2489125",
+      "title": "Feyenoord vs Utrecht",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "20 Sep 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1789867800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECG4goKnppB8D+wyRCIIuXAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+      "start_time_bd": "20 Sep 2026, 04:15 PM (BD Time)",
+      "start_epoch_ms": 1789899300000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGCQhRM7iH16++3CZggU5ywqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -89,10 +149,16 @@
       },
       "streams": [
         {
-          "channel_name": "MLS Season Pass (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECG4goKnppB8D+wyRCIIuXAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "channel_name": "Dutch - ESPN2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGCQhRM7iH16++3CZggU5ywqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/grvCvaslDLjhqOxqMEAvzgQHIRHHFsOX/foxtrot/stream/seattle-sounders-fc-v-colorado-rapids-761826/1/playlist.m3u8"
+          "direct_stream_url": "https://lb17.strmd.st/secure/oSnzgPRFKNBaQBpEgzTOYZSMEEMwAujI/rtmp/stream/cZVI3WBrABMkmObI90bAzxXU_Pf4s26YNI-JgBuqrE8UhrKKaOwr6Icr3mdnXtcrxOSZn5tS2-E/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Dutch - ESPN2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGCQhRM7iH16++3CZggU5ywqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb17.strmd.st/secure/aNdkLIVBYvawsRxIGfyCrBUpphxTFJpY/rtmp/stream/r-sXVS63IIFfu9C73ji5p4lom0hYoLJDUcjqgo_695Of21m5QBqQkGDLRpnSJwzoUrmto4ci62IwJKrg/1/playlist.m3u8"
         }
       ]
     }
