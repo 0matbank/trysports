@@ -1,58 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 38,
-  "total_matches": 38,
+  "total_items": 35,
+  "total_matches": 35,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-20 | 07:28:58",
-  "updated_at_bd": "2026-09-20T07:28:58+06:00",
+  "updated_time_bd": "2026-09-20 | 12:47:53",
+  "updated_at_bd": "2026-09-20T12:47:53+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "colorado-rapids-vs-seattle-sounders-2407093",
-      "title": "Colorado Rapids vs Seattle Sounders",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1789867800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECG4goKnppB8D+wyRCIIuXAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "nashville-sc-vs-chicago-fire-2407095",
-      "title": "Nashville SC vs Chicago Fire",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1789867800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNuF4AGYDIghuIPiBggpRgyESJjJAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "real-salt-lake-vs-vancouver-whitecaps-2407094",
-      "title": "Real Salt Lake vs Vancouver Whitecaps",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1789867800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiG7YeYKWA3cQfEDBBSjmkIghXNBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp"
-    },
-    {
-      "id": "portland-timbers-vs-atlanta-united-2407096",
-      "title": "Portland Timbers vs Atlanta United",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1789871400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEP2BgGIFGG4gDUkBBMgSuM6YMoCwJBT7DZ9PSpRcwZeESyyPTLRgXmKiEEA.webp"
-    },
-    {
-      "id": "am-rica-vs-cd-guadalajara-2487529",
-      "title": "América vs CD Guadalajara",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 09:00 AM (BD Time)",
-      "start_epoch_ms": 1789873200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWG4gyJEHC1a+IYxBCmY2vZcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
     {
       "id": "feyenoord-vs-utrecht-2489125",
       "title": "Feyenoord vs Utrecht",
@@ -70,6 +25,24 @@
       "start_time_bd": "20 Sep 2026, 04:30 PM (BD Time)",
       "start_epoch_ms": 1789900200000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBkAGHtG4h9fECWMgNiREaMSmSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp"
+    },
+    {
+      "id": "celtic-vs-rangers-2494451",
+      "title": "Celtic vs Rangers",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "20 Sep 2026, 05:00 PM (BD Time)",
+      "start_epoch_ms": 1789902000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDIpsuHiG4g+G3PpAoQiRAZgFgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp"
+    },
+    {
+      "id": "wolverhampton-wanderers-vs-west-bromwich-albion-2501333",
+      "title": "Wolverhampton Wanderers vs West Bromwich Albion",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "20 Sep 2026, 05:00 PM (BD Time)",
+      "start_epoch_ms": 1789902000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGKRg+uMEhDcQOkLhAQQUoyBQgSZgsC0x+w2fRRgVKLp-L0Not5MtGCeYqIQQA.webp"
     },
     {
       "id": "djurg-rden-vs-elfsborg-2398921",
