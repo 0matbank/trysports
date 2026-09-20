@@ -1,76 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 11,
-  "total_matches": 11,
+  "total_items": 4,
+  "total_matches": 4,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-20 | 20:58:07",
-  "updated_at_bd": "2026-09-20T20:58:07+06:00",
+  "updated_time_bd": "2026-09-21 | 00:08:21",
+  "updated_at_bd": "2026-09-21T00:08:21+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "nice-vs-lille-2489500",
-      "title": "Nice vs Lille",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 09:15 PM (BD Time)",
-      "start_epoch_ms": 1789917300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKmThQpYEiG4g+IPREO4zMEFYlMkFPsNn0Uutii67y9LLPdNaYK70ohBAA.webp"
-    },
-    {
-      "id": "fulham-vs-manchester-united-2494042",
-      "title": "Fulham vs Manchester United",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 09:30 PM (BD Time)",
-      "start_epoch_ms": 1789918200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGBkasCYAAYQ3EHxCmIIEiHMoQiIygLAkFPsNn0NKlFzBl4RLFlvJlowXzFRCCA.webp"
-    },
-    {
-      "id": "schalke-04-vs-elversberg-2508366",
-      "title": "Schalke 04 vs Elversberg",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 09:30 PM (BD Time)",
-      "start_epoch_ms": 1789918200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAyADCAh66GkHxCnEMYyCmX9UgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "juventus-vs-atalanta-2482180",
-      "title": "Juventus vs Atalanta",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1789920000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFOgxcYMjm4g+IY9uMoQ588b4FgSCjdYixKXWxRdd5ellkemtGBu9KIQQA.webp"
-    },
-    {
-      "id": "deportivo-de-a-coru-a-vs-real-betis-2506236",
-      "title": "Deportivo de A Coruña vs Real Betis",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1789921800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOAHwwKXCCkhuIPhpAQQumGeu6UBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "villarreal-vs-levante-2506232",
-      "title": "Villarreal vs Levante",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1789921800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQkjDcQ3MFLAgdIPoZAQQKEDDM3L8AsE0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
-    {
-      "id": "paderborn-vs-hoffenheim-2508368",
-      "title": "Paderborn vs Hoffenheim",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Sep 2026, 11:30 PM (BD Time)",
-      "start_epoch_ms": 1789925400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDgsYXkjBIQ3EHy0hEm01JMgIWgsH0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
     {
       "id": "ac-milan-vs-lecce-2482178",
       "title": "AC Milan vs Lecce",
