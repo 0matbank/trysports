@@ -1,21 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 1,
-  "total_matches": 1,
+  "total_items": 0,
+  "total_matches": 0,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-21 | 04:44:31",
-  "updated_at_bd": "2026-09-21T04:44:31+06:00",
+  "updated_time_bd": "2026-09-21 | 06:34:14",
+  "updated_at_bd": "2026-09-21T06:34:14+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "pachuca-vs-tijuana-2487531",
-      "title": "Pachuca vs Tijuana",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "21 Sep 2026, 06:00 AM (BD Time)",
-      "start_epoch_ms": 1789948800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGzDdYYFLhDcQfECYggzMECRCXrCpkgp9hs+ijAqNmsvCJZZGky0YB5iohBAA.webp"
-    }
-  ]
+  "matches": []
 }
