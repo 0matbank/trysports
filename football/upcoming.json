@@ -1,11 +1,237 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 0,
-  "total_matches": 0,
+  "total_items": 25,
+  "total_matches": 25,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-21 | 06:34:14",
-  "updated_at_bd": "2026-09-21T06:34:14+06:00",
+  "updated_time_bd": "2026-09-21 | 11:28:20",
+  "updated_at_bd": "2026-09-21T11:28:20+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "ppv-seattle-sounders-fc-vs-real-salt-lake",
+      "title": "Seattle Sounders FC vs. Real Salt Lake",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "24 Sep 2026, 07:30 AM (BD Time)",
+      "start_epoch_ms": 1790213400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmQggUwKSnEgp8bCCwgAxotXapJDQrVT1wRCBPTZIYSDPXEJGfzCCRTbPTCFgSXOplDnVghXMhkCE3JnWVJZIA.webp"
+    },
+    {
+      "id": "ppv-atlante-vs-monterrey",
+      "title": "Atlante vs. Monterrey",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "26 Sep 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1790384400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCogYpEHJggsIAMaKQEYBHHZSOrVJlTVy4IgmqSIMvGBTLZLb3IaBQkUx0pyhYElzKvITBuTg1hXS8CU3JgzV0IIA.webp"
+    },
+    {
+      "id": "ppv-tijuana-vs-atlas",
+      "title": "Tijuana vs. Atlas",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "26 Sep 2026, 09:00 AM (BD Time)",
+      "start_epoch_ms": 1790391600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGvFLBJEEDDmkQkxLIDGIFCFlYQIYDSpyQZQ4kTDgEKTKUh1u-OSsChIptnphCwJLlUpXMG5OKwsyAIJpciDLKQggA.webp"
+    },
+    {
+      "id": "ppv-cruz-azul-vs-toluca",
+      "title": "Cruz Azul vs. Toluca",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 05:00 AM (BD Time)",
+      "start_epoch_ms": 1790463600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiAggAxuOBSSIeMGUSUpYBKkgQKSaR0qQWEUpBlFOncN0hhRmCvX8wgkU2z0whYElzT1IVdWCHcydQIVcld5DQggA.webp"
+    },
+    {
+      "id": "ppv-guadalajara-vs-quer-taro",
+      "title": "Guadalajara vs. Querétaro",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 05:07 AM (BD Time)",
+      "start_epoch_ms": 1790464020000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBpYQAYxDDSweMBoKIIGIuEhEIPTuxKVKkNJRKQKcQao35K8-zCCRTQ48LAkuGeaHPWCFcycwIjMGdgILIIIA.webp"
+    },
+    {
+      "id": "ppv-atlanta-united-fc-vs-new-york-city-fc",
+      "title": "Atlanta United FC vs. New York City FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1790465400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw0iADGILCCohx8+ZJFSJwkDAkoJEbDJn6IIYyGCIsqkHODGqO-mEEim2emELAkuSTqFPWPXEyHQJzcidbUlsgA.webp"
+    },
+    {
+      "id": "ppv-cf-montr-al-vs-fc-cincinnati",
+      "title": "CF Montréal vs. FC Cincinnati",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1790465400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEDBApgiSVQkgIwGllLAlGkMMVaZikcq0gs+mvJUgLIddP5hBBgtnphCwJLgDG0ofdZLhNWkneHJ7dTUIIA.webp"
+    },
+    {
+      "id": "ppv-charlotte-fc-vs-chicago-fire-fc",
+      "title": "Charlotte FC vs. Chicago Fire FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1790465400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEChDCQEUiBghFCxShEhEq4cFnjJsrBJmltU4IjJY1IOYt7lZAoSKbZ6YQsCS4AxqqFhuTlktMlUCM3IA7WMIIA.webp"
+    },
+    {
+      "id": "ppv-philadelphia-union-vs-orlando-city-sc",
+      "title": "Philadelphia Union vs. Orlando City SC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1790465400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEDBABjYFQmkQiGLOAQQcrCHHL4skJuXCJ0k5rkhgutSC0g143uQigwgkU2z0whYElxSUIXJuTmdhUnoCS3JXVQiIIA.webp"
+    },
+    {
+      "id": "ppv-red-bull-new-york-vs-st-louis-city-sc",
+      "title": "Red Bull New York vs. St. Louis CITY SC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1790465400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeNhBZgESWVmyqIEDJBLlNYeLXLJiGLsQqtw0iAPTZZUeVkChIptnphCwJLgDGKB2G6dZUzIfAmAJMD8ZUhkgA.webp"
+    },
+    {
+      "id": "ppv-austin-fc-vs-san-diego-fc",
+      "title": "Austin FC vs. San Diego FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1790469000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSRDwRwGpOHjs2EDQggIwDVRABjFaRBZdh0pvUrjMCwprSIKchoFCZBJQ7CFgSXDodCwbk4NYVMHN2kwQM1TCCA.webp"
+    },
+    {
+      "id": "ppv-fc-dallas-vs-lafc",
+      "title": "FC Dallas vs. LAFC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1790469000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBIgaw4PFIhEISeJARpIAMYaqIGBsRYRW4LpByLZCdYsRsKcnYFCRTbPTCFgSXJodCwbk47WTIHAgswQOA7MgggA.webp"
+    },
+    {
+      "id": "ppv-houston-dynamo-fc-vs-sporting-kansas-city",
+      "title": "Houston Dynamo FC vs. Sporting Kansas City",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1790469000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCEQkQWECGwzg8UiGGqlSkDSogY66Wr0p9umeJDG9OxHpgpyEUGEEim2emELAkuAMb2hZ1ZHYVJ6Ag0wZ2BHMgggA.webp"
+    },
+    {
+      "id": "ppv-nashville-sc-vs-toronto-fc",
+      "title": "Nashville SC vs. Toronto FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1790469000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEMEQBjEChARgNLCETwR8kCRDCQMEEs3jF2kFlKGJiCCt0j10lOQUChdgtnphCwJLimOhMG5OBWFSenc1MCDgBTIIIA.webp"
+    },
+    {
+      "id": "ppv-seattle-sounders-fc-vs-minnesota-united-fc",
+      "title": "Seattle Sounders FC vs. Minnesota United FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1790469000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSBEgsIMvGBUQw4IizZgEBSADGIvcpryIIQyZ2kl5+YlO9ymgUL0F1KcoWBJc2t0LDdOTWUyNxd5MH8NUg0gA.webp"
+    },
+    {
+      "id": "ppv-santos-vs-pachuca",
+      "title": "Santos vs. Pachuca",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1790470800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkCRDxswGsJk1J88YjIRZEhSG2LSIcQGMp2mVmCIVIlOXUChIpjOthCwJLgPWhYbp3XyyawJzch9gdTUgA.webp"
+    },
+    {
+      "id": "ppv-tigres-uanl-vs-puebla",
+      "title": "Tigres UANL vs. Puebla",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1790470800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjYRIWSlkgUkySGEylJEAGMQiMhHEyDUtVV3bVq6QaWjyEUGEEim0pWELAkuLUqFPWBzUyJQJlMCdgB30gA.webp"
+    },
+    {
+      "id": "ppv-real-salt-lake-vs-new-england-revolution",
+      "title": "Real Salt Lake vs. New England Revolution",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 07:30 AM (BD Time)",
+      "start_epoch_ms": 1790472600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCJAhsIGCOBUQNLLJDCQAYxAkpU4BHGThCkAZggUm8duDx5yw73IRQYQfILZ6YQsCS4NFCFybk4XYzIgzzswN31SfSA.webp"
+    },
+    {
+      "id": "ppv-la-galaxy-vs-colorado-rapids",
+      "title": "LA Galaxy vs. Colorado Rapids",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 08:30 AM (BD Time)",
+      "start_epoch_ms": 1790476200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiGCAkhgEEMOwiQJELPnC5ImVuUo5IXVhUgAxhpo15yrMHjZJKchFBhBmggodhCwJLmMOhF1YnS3p3WzAXbRkgA.webp"
+    },
+    {
+      "id": "ppv-san-jose-earthquakes-vs-portland-timbers",
+      "title": "San Jose Earthquakes vs. Portland Timbers",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 08:30 AM (BD Time)",
+      "start_epoch_ms": 1790476200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IMvGBUQEbCGnSI4qfOCJhwWbMnD5qkiCzZj0mHJpKsIawGMU5WQKEimx+2ELAkuO87DdOWQ0yewI1cn9NUk0gA.webp"
+    },
+    {
+      "id": "ppv-vancouver-whitecaps-vs-d-c-united",
+      "title": "Vancouver Whitecaps vs. D.C. United",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Sep 2026, 08:30 AM (BD Time)",
+      "start_epoch_ms": 1790476200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADGIkImEh5kkDFIgswCCE1yQu+RGASSIFMHgyUWsxt1aThhYdP8wgkU2z0whYElyTTIVdWA2FSegJrMFcNcIggA.webp"
+    },
+    {
+      "id": "ppv-pumas-unam-vs-atl-tico-de-san-luis",
+      "title": "Pumas UNAM vs. Atlético de San Luis",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "28 Sep 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1790532000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDQjZgUrCBghFZOcJkgAxiBLjSwKiGHiNpEBBBzFKA+ZCTrhiCnJSBQkU2lOwhYElzqnITBuTilVMicCYHhyYJldCCA.webp"
+    },
+    {
+      "id": "ppv-columbus-crew-vs-inter-miami-cf",
+      "title": "Columbus Crew vs. Inter Miami CF",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "28 Sep 2026, 05:00 AM (BD Time)",
+      "start_epoch_ms": 1790550000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCBoRgiEiGEgAxiGk0y0rJKUrgVEHKylsM44mHAI4-fpFHDvctIFDbBYynKFgSXIo9Cwbk5pczIPN3hyQIsjCCA.webp"
+    },
+    {
+      "id": "ppv-le-n-vs-fc-juarez",
+      "title": "León vs. FC Juarez",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "28 Sep 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1790557200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYiJILCGHAaiKhNLB4CkInnDNushDnYpIUiDPiQJEBDUjsllORsChdgkcdhCwJLnGOhMG5OG3kyR3d1MCDgG30gA.webp"
+    },
+    {
+      "id": "ppv-necaxa-vs-am-rica",
+      "title": "Necaxa vs. América",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "28 Sep 2026, 09:00 AM (BD Time)",
+      "start_epoch_ms": 1790564400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBDAqIRMOwgAxkpGzpwCNJAzNNeBpCaSIGCGNYlJhZokRJpDSnKaBQkU2z0whYElyKnITBuThsHJwJgfTBgjQcIIA.webp"
+    }
+  ]
 }

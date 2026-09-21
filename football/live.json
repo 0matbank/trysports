@@ -1,84 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 4,
-  "total_matches": 3,
-  "total_streams": 4,
-  "updated_time_bd": "2026-09-21 | 06:34:14",
-  "updated_at_bd": "2026-09-21T06:34:14+06:00",
+  "total_items": 0,
+  "total_matches": 0,
+  "total_streams": 0,
+  "updated_time_bd": "2026-09-21 | 11:28:20",
+  "updated_at_bd": "2026-09-21T11:28:20+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "pachuca-vs-tijuana-2487531",
-      "title": "Pachuca vs Tijuana",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "21 Sep 2026, 06:00 AM (BD Time)",
-      "start_epoch_ms": 1789948800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGzDdYYFLhDcQfECYggzMECRCXrCpkgp9hs+ijAqNmsvCJZZGky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Spanish - ViX Premium Deportes 2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGzDdYYFLhDcQfECYggzMECRCXrCpkgp9hs+ijAqNmsvCJZZGky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/DonJIGfGFttXhgfzTuoMhbNPFLBodyyi/rtmp/stream/dt6_KqqjgU-tVDic_9H89mHN-DX4tFjedqvCOHr6UtckQ-hHVXlqITPen72rE3cqpP2riartTLI/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - ViX Premium Deportes 2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGzDdYYFLhDcQfECYggzMECRCXrCpkgp9hs+ijAqNmsvCJZZGky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb14.strmd.st/secure/sZsnRJvrGhHOBxDxLqMtWluqkLbCmsMk/rtmp/stream/0C_ZK0ryxUsLi-nUp8k0cv_gv7RL6-I_Tvv48eDNS3_RYaK88HjZfLJarUKSJzOqTiXONVbLgY-HD6d6/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "valencia-vs-real-sociedad-2506231",
-      "title": "Valencia vs Real Sociedad",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "21 Sep 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1789930800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqkheUCNv18NIPShAxjF042BIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Valencia vs Real Sociedad (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqkheUCNv18NIPShAxjF042BIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/vBmsjlbHMaOnIpUzLeEbWiRpNtIzhHsF/hotel/stream/valencia-vs-real-sociedad-laliga-ea-sports-1789930800/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "marseille-vs-paris-saint-germain-2489506",
-      "title": "Marseille vs Paris Saint-Germain",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "21 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1789929900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLJBBSwA2qG4g+IYwZwQQKEOeMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN SPORTS USA (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLJBBSwA2qG4g+IYwZwQQKEOeMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/YbWiZmfiAjBhUEoqoJNRbePfgnXUbWnu/foxtrot/stream/olympique-marseille-vs-psg/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
