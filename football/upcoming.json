@@ -1,13 +1,22 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 25,
-  "total_matches": 25,
+  "total_items": 26,
+  "total_matches": 26,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-22 | 20:04:36",
-  "updated_at_bd": "2026-09-22T20:04:36+06:00",
+  "updated_time_bd": "2026-09-23 | 00:05:45",
+  "updated_at_bd": "2026-09-23T00:05:45+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "bromley-vs-brentford-u21-2531867",
+      "title": "Bromley vs Brentford U21",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "23 Sep 2026, 12:30 AM (BD Time)",
+      "start_epoch_ms": 1790101800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRIhIgBfMEhDdtIY3xAwQiCEaskCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
     {
       "id": "ppv-seattle-sounders-fc-vs-real-salt-lake",
       "title": "Seattle Sounders FC vs. Real Salt Lake",
