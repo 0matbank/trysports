@@ -1,13 +1,94 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 24,
-  "total_matches": 24,
+  "total_items": 33,
+  "total_matches": 33,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-24 | 12:16:12",
-  "updated_at_bd": "2026-09-24T12:16:12+06:00",
+  "updated_time_bd": "2026-09-24 | 17:57:22",
+  "updated_at_bd": "2026-09-24T17:57:22+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "andorra-vs-malta-2475285",
+      "title": "Andorra vs Malta",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "24 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1790265600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBgheYEFLDdtIPhr0gU5kBFzGNBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "austria-vs-israel-2442742",
+      "title": "Austria vs Israel",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "25 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790275500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcLVC1EJENxB8QRqSBSmQEXAYsFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "kosovo-vs-ireland-2442743",
+      "title": "Kosovo vs Ireland",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "25 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790275500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAWDBJgMnHxDcQ+kCCkgU5kBFxGQJAsCQU+w2fRRgVKLp-L0sst5MtJqi9GFAA.webp"
+    },
+    {
+      "id": "liechtenstein-vs-lithuania-2442744",
+      "title": "Liechtenstein vs Lithuania",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "25 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790275500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOGRjFa+ENxB8QRqSBSmQEXAYMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "live_uefa-nations-league-league-b-gr-1_north-macedonia-slovenia-live-streaming-539378352",
+      "title": "North Macedonia vs Slovenia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "25 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790275500000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "netherlands-vs-germany-2442738",
+      "title": "Netherlands vs Germany",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "25 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790275500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiBQhEiHHxDcQ+kCCmbzEXKaMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "norway-vs-denmark-2442741",
+      "title": "Norway vs Denmark",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "25 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790275500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwQfECGAAGEBBDcdejSBRXjuc-ALAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
+    },
+    {
+      "id": "portugal-vs-wales-2442740",
+      "title": "Portugal vs Wales",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "25 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790275500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxCiBKMEmBINIPiFNSQKCyAi5jGggYp9hs+rpUouYMvCJZZnky0YN5iohBAA.webp"
+    },
+    {
+      "id": "serbia-vs-greece-2442739",
+      "title": "Serbia vs Greece",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "25 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790275500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKlJAyQOsHxDcQ+nZpQgzEXFvMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
     {
       "id": "ppv-atlante-vs-monterrey",
       "title": "Atlante vs. Monterrey",
