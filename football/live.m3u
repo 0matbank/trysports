@@ -1,6 +1,41 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-09-24 | 17:57:22
+# TOTAL-ITEMS: 5
+# UPDATED Time and date BD: 2026-09-24 | 22:49:48
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="FOX Soccer Plus (HD)" tvg-name="FOX Soccer Plus (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBgheYEFLDdtIPhr0gU5kBFzGNBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", FOX Soccer Plus (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/pdLmdhdQkzXWvEEIjrjrdyIbPUfrpEIS/rtmp/stream/haGkAvDHshO-UlsThjSEa1m3wpNdTW8UKIqfPQ2sXRKaq-ZfS3HAEK49GLmhmIRphv3_CfpFJ2V9XA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FOX Soccer Plus (SD)" tvg-name="FOX Soccer Plus (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBgheYEFLDdtIPhr0gU5kBFzGNBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", FOX Soccer Plus (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/ccpFEUYqLJqzPfaIllcZGfygQdbZcJiP/rtmp/stream/jQfFNzI181SidDkwG3mt4g9ASyOlOeXdo0cn4scF5vrAy4QmufnRXPHjoIANGo2S4vzzEqRZqrYIuuGGS10/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Andorra vs Malta (HD)" tvg-name="Andorra vs Malta (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBgheYEFLDdtIPhr0gU5kBFzGNBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Andorra vs Malta (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/YeTlByRGwRESGrdyajUwXJflzlUwGuqR/delta/stream/live_uefa-nations-league-league-d-gr-1_andorra-malta-live-streaming-539383536/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBgheYEFLDdtIPhr0gU5kBFzGNBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", DAZN Canada (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb6.strmd.st/secure/jKNDBWmICqeJgvqUUvXtaeNQTECIcTyn/foxtrot/stream/malta-v-andorra-unl-401861047/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Andorra vs Malta (HD)" tvg-name="Andorra vs Malta (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBgheYEFLDdtIPhr0gU5kBFzGNBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Andorra vs Malta (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb20.strmd.st/secure/NkivuRMFGQGslrkFmLseOghDmXQCpBGu/hotel/stream/andorra-vs-malta-uefa-nations-league-1790265600/1/playlist.m3u8
 
