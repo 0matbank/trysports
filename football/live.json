@@ -1,11 +1,40 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-24 | 07:21:26",
-  "updated_at_bd": "2026-09-24T07:21:26+06:00",
+  "total_items": 2,
+  "total_matches": 1,
+  "total_streams": 2,
+  "updated_time_bd": "2026-09-24 | 12:16:12",
+  "updated_at_bd": "2026-09-24T12:16:12+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "seattle-sounders-vs-real-salt-lake-2406811",
+      "title": "Seattle Sounders vs Real Salt Lake",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "24 Sep 2026, 07:30 AM (BD Time)",
+      "start_epoch_ms": 1790213400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGIF8QKbCG4ht2g9pIhEiAzqZIKfYbPq6VKLmDLwiWWa6a0w7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Seattle Sounders vs Real Salt Lake (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGIF8QKbCG4ht2g9pIhEiAzqZIKfYbPq6VKLmDLwiWWa6a0w7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/AbUyAXTJaPptPrhIbFekJfFadPTKewdW/delta/stream/live_mls_seattle-salt-lake-live-streaming-483471072/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "MLS Season Pass (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGIF8QKbCG4ht2g9pIhEiAzqZIKfYbPq6VKLmDLwiWWa6a0w7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/hRyfqNppRRIUlcaSQkRzMAoGoeRbteep/foxtrot/stream/real-salt-lake-v-seattle-sounders-fc-761543/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }

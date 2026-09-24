@@ -1,22 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 25,
-  "total_matches": 25,
+  "total_items": 24,
+  "total_matches": 24,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-24 | 07:21:26",
-  "updated_at_bd": "2026-09-24T07:21:26+06:00",
+  "updated_time_bd": "2026-09-24 | 12:16:12",
+  "updated_at_bd": "2026-09-24T12:16:12+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "seattle-sounders-vs-real-salt-lake-2406811",
-      "title": "Seattle Sounders vs Real Salt Lake",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Sep 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1790213400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGIF8QKbCG4ht2g9pIhEiAzqZIKfYbPq6VKLmDLwiWWa6a0w7mKiEEA.webp"
-    },
     {
       "id": "ppv-atlante-vs-monterrey",
       "title": "Atlante vs. Monterrey",
