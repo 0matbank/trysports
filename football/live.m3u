@@ -1,6 +1,76 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-09-25 | 18:08:10
+# TOTAL-ITEMS: 10
+# UPDATED Time and date BD: 2026-09-25 | 23:06:58
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Fubo Sports (HD)" tvg-name="Fubo Sports (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWqNYQQZbiD18QRqSBSmQ2nEcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", Fubo Sports (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb17.strmd.st/secure/vKeERzRzXdsdNxfqJftmYMzinMbEHHnD/rtmp/stream/U6ITymperXjqcLDBspTMZdLUP2EXAL93IygYDcqlencJoImYRi2R2HFeI8r_4rL5wrXRxMXyZ0zvgQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fubo Sports (SD)" tvg-name="Fubo Sports (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWqNYQQZbiD18QRqSBSmQ2nEcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", Fubo Sports (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb17.strmd.st/secure/gCsoDTWggJvrXJtZohuPtReboJHDbIio/rtmp/stream/g1UPNUfe0ed0wqa5ne93gFmVKBYy6Selmh5fdQHTKyRYqabQK_c3hI8D_0S9aaqmOKuyBVaE-wkbHIltDCc/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Armenia vs Latvia (HD)" tvg-name="Armenia vs Latvia (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWqNYQQZbiD18QRqSBSmQ2nEcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", Armenia vs Latvia (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb17.strmd.st/secure/HdmLUELwVsjlPcYqHekzcmyupmPylDTJ/delta/stream/live_uefa-nations-league-league-c-gr-2_armenia-latvia-live-streaming-539391312/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWqNYQQZbiD18QRqSBSmQ2nEcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", DAZN Canada (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb17.strmd.st/secure/yaYtDLkKlZnrvcrOFBBtrGqAEDMJnVkt/foxtrot/stream/latvia-v-armenia-unl-401861050/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Armenia vs Latvia (HD)" tvg-name="Armenia vs Latvia (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWqNYQQZbiD18QRqSBSmQ2nEcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", Armenia vs Latvia (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb19.strmd.st/secure/zQTmSXDpeHTyuCegyakvLgFAcBNWGxdV/hotel/stream/armenia-vs-latvia-uefa-nations-league-1790352000/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FOX Soccer Plus (HD)" tvg-name="FOX Soccer Plus (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVtzAgQ8MGSQhuIPtpBSQKCyAi5TMAsCQU+w2fRR62KLnvL0sst5MtGCe9KIQQA.webp" group-title="Football", FOX Soccer Plus (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb19.strmd.st/secure/WIWtoxEKDnxrwCzTgKExTemGRrlBrumB/rtmp/stream/Ftx2zXClw1wFxz3Ky1HEkKixnI39GaDrEaoSl2bgZ_1RnSrOPEH7H_2gGbCX5-9IRhOd36e4Ha6KGQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FOX Soccer Plus (SD)" tvg-name="FOX Soccer Plus (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVtzAgQ8MGSQhuIPtpBSQKCyAi5TMAsCQU+w2fRR62KLnvL0sst5MtGCe9KIQQA.webp" group-title="Football", FOX Soccer Plus (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb19.strmd.st/secure/LvOqonuzYSmhHGYaXnhjtPeSEzkTWPJt/rtmp/stream/sF3KDbARV3ZW9Rhf4ep2lEVGbi8yszQYzl0ZgKjzo9Ne6T1beqb4q1CF9zhFoA7qM-axfC1NW7JwUlgxeYM/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Georgia vs N.Ireland (HD)" tvg-name="Georgia vs N.Ireland (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVtzAgQ8MGSQhuIPtpBSQKCyAi5TMAsCQU+w2fRR62KLnvL0sst5MtGCe9KIQQA.webp" group-title="Football", Georgia vs N.Ireland (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb19.strmd.st/secure/ovjWuEFieAcwSywpHVEeFisEwRASRdzX/delta/stream/live_uefa-nations-league-league-b-gr-2_georgia-northern-ireland-live-streaming-539389584/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVtzAgQ8MGSQhuIPtpBSQKCyAi5TMAsCQU+w2fRR62KLnvL0sst5MtGCe9KIQQA.webp" group-title="Football", DAZN Canada (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb19.strmd.st/secure/JPZveDlTeUvIJqaBkcoNghafeOXdgaGr/foxtrot/stream/northern-ireland-v-georgia-unl-401861049/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Georgia vs N.Ireland (HD)" tvg-name="Georgia vs N.Ireland (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVtzAgQ8MGSQhuIPtpBSQKCyAi5TMAsCQU+w2fRR62KLnvL0sst5MtGCe9KIQQA.webp" group-title="Football", Georgia vs N.Ireland (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb19.strmd.st/secure/hIfUfHngWNHWgYsJJJrHXSZbSYNuaArC/hotel/stream/georgia-vs-northern-ireland-uefa-nations-league-1790352000/1/playlist.m3u8
 

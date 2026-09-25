@@ -1,31 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 32,
-  "total_matches": 32,
+  "total_items": 36,
+  "total_matches": 36,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-25 | 18:08:10",
-  "updated_at_bd": "2026-09-25T18:08:10+06:00",
+  "updated_time_bd": "2026-09-25 | 23:06:58",
+  "updated_at_bd": "2026-09-25T23:06:58+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "armenia-vs-latvia-2475286",
-      "title": "Armenia vs Latvia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "25 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1790352000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWqNYQQZbiD18QRqSBSmQ2nEcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "georgia-vs-n-ireland-2442745",
-      "title": "Georgia vs N.Ireland",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "25 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1790352000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVtzAgQ8MGSQhuIPtpBSQKCyAi5TMAsCQU+w2fRR62KLnvL0sst5MtGCe9KIQQA.webp"
-    },
     {
       "id": "hungary-vs-ukraine-2442748",
       "title": "Hungary vs Ukraine",
@@ -81,6 +63,15 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAfhC8BABlJaQfEMakgUZkBFwWYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
     },
     {
+      "id": "turkey-vs-france-2442746",
+      "title": "Turkey vs France",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "26 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790361900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmyUuABgYhuIPiBNSN5iLhMh4BYEgp9hs+ppUouYMvCJZZHplowLzFRCCA.webp"
+    },
+    {
       "id": "atlante-vs-monterrey-2487533",
       "title": "Atlante vs Monterrey",
       "category": "football",
@@ -97,6 +88,51 @@
       "start_time_bd": "26 Sep 2026, 09:00 AM (BD Time)",
       "start_epoch_ms": 1790391600000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECBlksCTSG4g+GkBBMgYIEucuaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "slovenia-vs-scotland-2475288",
+      "title": "Slovenia vs Scotland",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "26 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1790427600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp"
+    },
+    {
+      "id": "bulgaria-vs-luxembourg-2475287",
+      "title": "Bulgaria vs Luxembourg",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "26 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1790438400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBIgImnsxDcQGkCCkgU57bkvmmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "faroe-islands-vs-kazakhstan-2442753",
+      "title": "Faroe Islands vs Kazakhstan",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "26 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1790438400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRHxAhQCEDBDcQmrVJAozICLgskCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "iceland-vs-estonia-2442754",
+      "title": "Iceland vs Estonia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "26 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1790438400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGD4gSuLhBDcQWkCCkgU5kPpwW+BYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "san-marino-vs-finland-2442752",
+      "title": "San Marino vs Finland",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "26 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1790438400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJCIlIFHRDcQfECc0pdICLgvwCwJBT7DZ9FGBV6278vSyy9TLRg7mKiEEA.webp"
     },
     {
       "id": "cruz-azul-vs-toluca-2487538",
