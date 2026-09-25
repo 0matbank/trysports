@@ -1,7 +1,7 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 10
-# UPDATED Time and date BD: 2026-09-25 | 05:12:50
+# TOTAL-ITEMS: 7
+# UPDATED Time and date BD: 2026-09-25 | 07:32:13
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
 #EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOGRjFa+ENxB8QRqSBSmQEXAYMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", DAZN Canada (HD)
@@ -9,68 +9,47 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/zENyBxuGsGotPvTSmbLEPsdhhnPfwNrR/foxtrot/stream/lithuania-v-liechtenstein-unl-401861043/1/playlist.m3u8
+https://lb20.strmd.st/secure/tsESRxxtXPbNEJILGOEIrtTFDTcxQaOv/foxtrot/stream/lithuania-v-liechtenstein-unl-401861043/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAWDBJgMnHxDcQ+kCCkgU5kBFxGQJAsCQU+w2fRRgVKLp-L0sst5MtJqi9GFAA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/JUkpwdErovRZQtTCwcLiCNEoKgsLvyEb/foxtrot/stream/republic-of-ireland-v-kosovo-unl-401861045/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Austria vs Israel (HD)" tvg-name="Austria vs Israel (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcLVC1EJENxB8QRqSBSmQEXAYsFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Austria vs Israel (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/ufBtqgDiWNcvBYYtoZlKcmAWluQrWJjP/delta/stream/live_uefa-nations-league-league-b-gr-3_austria-israel-live-streaming-539382672/1/playlist.m3u8
+https://lb20.strmd.st/secure/BXpIXVhsDmfaUkKzYiJsuOjZZlPicOTQ/foxtrot/stream/republic-of-ireland-v-kosovo-unl-401861045/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcLVC1EJENxB8QRqSBSmQEXAYsFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/BOOYfQNaKzaAWEkoKkLeZjakiQxhZvrn/foxtrot/stream/israel-v-austria-unl-401861048/1/playlist.m3u8
+https://lb20.strmd.st/secure/ObZHVNCUKTShCQWPHhpgSVGqcqMcxdtl/foxtrot/stream/israel-v-austria-unl-401861048/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwQfECGAAGEBBDcdejSBRXjuc-ALAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/xfCHYreZwnVHZSaqvlzPNTmOBAvWpDhF/foxtrot/stream/denmark-v-norway-unl-401861046/1/playlist.m3u8
+https://lb20.strmd.st/secure/KrQNuXRuBMIZpETdJBDmntuPhbfMXkKx/foxtrot/stream/denmark-v-norway-unl-401861046/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxCiBKMEmBINIPiFNSQKCyAi5jGggYp9hs+rpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/jjwcNbHnxWXmtJKbVasnmJxBgbosPcFf/foxtrot/stream/wales-v-portugal-unl-401861044/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Serbia vs Greece (HD)" tvg-name="Serbia vs Greece (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKlJAyQOsHxDcQ+nZpQgzEXFvMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Serbia vs Greece (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/AbSMwDyBJWvNOlvhptLxXvnBVMSXReof/delta/stream/live_uefa-nations-league-league-a-gr-2_serbia-greece-live-streaming-539376192/1/playlist.m3u8
+https://lb20.strmd.st/secure/VaTopbZSDFJjZlXKJNxEINstcfRUDhtW/foxtrot/stream/wales-v-portugal-unl-401861044/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKlJAyQOsHxDcQ+nZpQgzEXFvMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/CCBTmzkLndPJqRIlesKwdxczaSplxeXR/foxtrot/stream/greece-v-serbia-unl-401861042/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Netherlands vs Germany (HD)" tvg-name="Netherlands vs Germany (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiBQhEiHHxDcQ+kCCmbzEXKaMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Netherlands vs Germany (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/DmBfELsOCqGMedavEeUfMaEqZGJySybG/delta/stream/live_uefa-nations-league-league-a-gr-2_netherlands-germany-live-streaming-539375760/1/playlist.m3u8
+https://lb20.strmd.st/secure/sErcPZQeoSwzDZBOjNlKnUijSrwOvcXX/foxtrot/stream/greece-v-serbia-unl-401861042/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiBQhEiHHxDcQ+kCCmbzEXKaMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/viHsYfByizCjkyGjBDqENwFBRZOiSmOd/foxtrot/stream/germany-v-netherlands-unl-401861041/1/playlist.m3u8
+https://lb20.strmd.st/secure/aGTAinOuGTwReLItkCRTUrCdguLOFvCU/foxtrot/stream/germany-v-netherlands-unl-401861041/1/playlist.m3u8
 
