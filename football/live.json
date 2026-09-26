@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 3,
+  "total_items": 2,
   "total_matches": 2,
-  "total_streams": 3,
-  "updated_time_bd": "2026-09-26 | 07:51:27",
-  "updated_at_bd": "2026-09-26T07:51:27+06:00",
+  "total_streams": 2,
+  "updated_time_bd": "2026-09-26 | 12:42:52",
+  "updated_at_bd": "2026-09-26T12:42:52+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "atlante-vs-monterrey-2487533",
-      "title": "Atlante vs Monterrey",
+      "id": "stanford-cardinal-vs-virginia-cavaliers",
+      "title": "Stanford Cardinal vs Virginia Cavaliers",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 07:00 AM (BD Time)",
-      "start_epoch_ms": 1790384400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKihBSwvbXxDcQ+kCAimQMECQtWrBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "start_time_bd": "26 Sep 2026, 08:00 AM (BD Time)",
+      "start_epoch_ms": 1790388000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQzATmgMbBp7AAMKArMAKYKzDXzASNXDNrDCZ0AmtRtHjoQEEDBBYQMlDPkFZaKSD5hZmMNlJEalZbgkhDfIzOmLpiCyqxUG1Aim7AwdeJGC5Bzpq7csghBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,16 +23,10 @@
       },
       "streams": [
         {
-          "channel_name": "Spanish - Liga MX (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKihBSwvbXxDcQ+kCAimQMECQtWrBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "channel_name": "ESPN+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQzATmgMbBp7AAMKArMAKYKzDXzASNXDNrDCZ0AmtRtHjoQEEDBBYQMlDPkFZaKSD5hZmMNlJEalZbgkhDfIzOmLpiCyqxUG1Aim7AwdeJGC5Bzpq7csghBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/jgoXGdYMGzOfuHbhYATMcXjRJDuJVGLs/rtmp/stream/28Svr-k8D7lyLpV8D1GccxkD8QdGQrTQbzEfYyRYOmdGkGPxyS-4apLflr1rzzIciJByHiToIFw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - Liga MX (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKihBSwvbXxDcQ+kCAimQMECQtWrBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb7.strmd.st/secure/LdgRUtwGVFEDrybcSCBqkvXqJbOhatmd/rtmp/stream/tN0KHg4OWe5_4r1tDKvWGjMJHDs1nN1Q_niO6_1OEXb0PYNBovcIJaAgA-7KDOUi5boRLVM45YRSrsKp/1/playlist.m3u8"
+          "direct_stream_url": "https://lb8.strmd.st/secure/cBNjBqhmmojfWoXdIUtqkYcjmAbXAceC/foxtrot/stream/stanford-cardinal-vs-virginia-cavaliers/1/playlist.m3u8"
         }
       ]
     },
@@ -54,7 +48,7 @@
           "channel_name": "ESPN+ (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAUwRQFYEtgIThcwBOHGksAEwuHmDR3SZseKMEhIg0YUszAgc4KFDjwUxED1yqQzTmp01ZwZuHhMwDEYyYh2IFCBhceYXlNbtBfShC7k2PvWAPYVZiekEsPz9SBUI6cgoqEVpSFUD2Qjc5SWwGFT8ePix06jw41K0dbQdq3W0gu0qGxhAA+tsWmFqa+xbccjQveEG0U3ZyYjRiAfJGcngB9XUB4FlECAcwAi4kWEIUDPxVroAGLepFUDkQXFabmwP6HFgQM6gRGHFVojCrRxYpAhIEY6NgCqs3CkaEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/HyfcNeYvFxEqKbsdWmdTmGbrlwjqOKed/foxtrot/stream/akron-zips-vs-georgetown-hoyas/1/playlist.m3u8"
+          "direct_stream_url": "https://lb8.strmd.st/secure/AiXKYlGrcEdaZNzXrQAdNnwWyCPJhJFZ/foxtrot/stream/akron-zips-vs-georgetown-hoyas/1/playlist.m3u8"
         }
       ]
     }
