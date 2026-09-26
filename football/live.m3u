@@ -1,69 +1,27 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 9
-# UPDATED Time and date BD: 2026-09-26 | 05:27:09
+# TOTAL-ITEMS: 3
+# UPDATED Time and date BD: 2026-09-26 | 07:51:27
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Spanish - Liga MX (HD)" tvg-name="Spanish - Liga MX (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKihBSwvbXxDcQ+kCAimQMECQtWrBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Spanish - Liga MX (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb7.strmd.st/secure/jgoXGdYMGzOfuHbhYATMcXjRJDuJVGLs/rtmp/stream/28Svr-k8D7lyLpV8D1GccxkD8QdGQrTQbzEfYyRYOmdGkGPxyS-4apLflr1rzzIciJByHiToIFw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spanish - Liga MX (SD)" tvg-name="Spanish - Liga MX (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKihBSwvbXxDcQ+kCAimQMECQtWrBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Spanish - Liga MX (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb7.strmd.st/secure/LdgRUtwGVFEDrybcSCBqkvXqJbOhatmd/rtmp/stream/tN0KHg4OWe5_4r1tDKvWGjMJHDs1nN1Q_niO6_1OEXb0PYNBovcIJaAgA-7KDOUi5boRLVM45YRSrsKp/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN+ (HD)" tvg-name="ESPN+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAUwRQFYEtgIThcwBOHGksAEwuHmDR3SZseKMEhIg0YUszAgc4KFDjwUxED1yqQzTmp01ZwZuHhMwDEYyYh2IFCBhceYXlNbtBfShC7k2PvWAPYVZiekEsPz9SBUI6cgoqEVpSFUD2Qjc5SWwGFT8ePix06jw41K0dbQdq3W0gu0qGxhAA+tsWmFqa+xbccjQveEG0U3ZyYjRiAfJGcngB9XUB4FlECAcwAi4kWEIUDPxVroAGLepFUDkQXFabmwP6HFgQM6gRGHFVojCrRxYpAhIEY6NgCqs3CkaEA.webp" group-title="Football", ESPN+ (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb16.strmd.st/secure/fhBZlOjERTZToZTZOCyjKMGbyJpmXMQt/foxtrot/stream/akron-zips-vs-georgetown-hoyas/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Türkiye vs France (HD)" tvg-name="Türkiye vs France (HD)" tvg-logo="https://streamed.pk/favicon.ico" group-title="Football", Türkiye vs France (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/jeEHTEAzXWrvsZJCdMDvjLnUudIpSHyD/delta/stream/live_uefa-nations-league-league-a-gr-1_turkiye-france-live-streaming-539389152/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Montenegro vs Cyprus (HD)" tvg-name="Montenegro vs Cyprus (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBTkBiRNxB8QRqSBSmQEXOcbAkFPsNn0tKlFzBl4RLLLdNaYB5iohBAA.webp" group-title="Football", Montenegro vs Cyprus (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/xZwnjXlKiTTJawkicFvSFluqDQQYZPgi/delta/stream/live_uefa-nations-league-league-c-gr-2_montenegro-cyprus-live-streaming-539391744/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sweden vs Romania (HD)" tvg-name="Sweden vs Romania (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAfhC8BABlJaQfEMakgUZkBFwWYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="Football", Sweden vs Romania (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/kwXTDbistbmhvhPRMQRfrvnPTEfSMcIN/delta/stream/live_uefa-nations-league-league-b-gr-4_sweden-romania-live-streaming-539390880/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Poland vs Bosnia-Herzegovina (HD)" tvg-name="Poland vs Bosnia-Herzegovina (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXMCmwQ4KSBQhuIPjpB6DBiLlMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Poland vs Bosnia-Herzegovina (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb14.strmd.st/secure/uUkqfmohbPYtMvWPGXTAPnkbbApTKcNy/delta/stream/live_uefa-nations-league-league-b-gr-4_poland-bosnia-herzegovina-live-streaming-539390448/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Hungary vs Ukraine (HD)" tvg-name="Hungary vs Ukraine (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGN7AwIEChDcQfXSCl7zEXCb4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Hungary vs Ukraine (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb16.strmd.st/secure/XpaSkaNgUuTNQThhrQaLbioMcdVVvQgi/delta/stream/live_uefa-nations-league-league-b-gr-2_hungary-ukraine-live-streaming-539390016/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Italy vs Belgium (HD)" tvg-name="Italy vs Belgium (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDBSwIXMxAkQ3EH10gpIFJZARcZkgWBIKfYbPoowKlFy-l6WLI+TLRgXmKiEEA.webp" group-title="Football", Italy vs Belgium (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb16.strmd.st/secure/VOghYCCxsyCgUZRYiyiFAbIlPdmAcJKS/delta/stream/live_uefa-nations-league-league-a-gr-1_italy-belgium-live-streaming-539388720/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Armenia vs Latvia (HD)" tvg-name="Armenia vs Latvia (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWqNYQQZbiD18QRqSBSmQ2nEcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", Armenia vs Latvia (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb16.strmd.st/secure/OvygNrEeBRcyrXkkLEnRVTYsacszqlyx/delta/stream/live_uefa-nations-league-league-c-gr-2_armenia-latvia-live-streaming-539391312/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Georgia vs N.Ireland (HD)" tvg-name="Georgia vs N.Ireland (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVtzAgQ8MGSQhuIPtpBSQKCyAi5TMAsCQU+w2fRR62KLnvL0sst5MtGCe9KIQQA.webp" group-title="Football", Georgia vs N.Ireland (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb15.strmd.st/secure/xUEABFlZeHMsolldDzphjrTLXiKleZDt/delta/stream/live_uefa-nations-league-league-b-gr-2_georgia-northern-ireland-live-streaming-539389584/1/playlist.m3u8
+https://lb7.strmd.st/secure/HyfcNeYvFxEqKbsdWmdTmGbrlwjqOKed/foxtrot/stream/akron-zips-vs-georgetown-hoyas/1/playlist.m3u8
 

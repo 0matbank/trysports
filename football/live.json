@@ -1,13 +1,41 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 9,
-  "total_matches": 9,
-  "total_streams": 9,
-  "updated_time_bd": "2026-09-26 | 05:27:09",
-  "updated_at_bd": "2026-09-26T05:27:09+06:00",
+  "total_items": 3,
+  "total_matches": 2,
+  "total_streams": 3,
+  "updated_time_bd": "2026-09-26 | 07:51:27",
+  "updated_at_bd": "2026-09-26T07:51:27+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "atlante-vs-monterrey-2487533",
+      "title": "Atlante vs Monterrey",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "26 Sep 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1790384400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKihBSwvbXxDcQ+kCAimQMECQtWrBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - Liga MX (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKihBSwvbXxDcQ+kCAimQMECQtWrBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/jgoXGdYMGzOfuHbhYATMcXjRJDuJVGLs/rtmp/stream/28Svr-k8D7lyLpV8D1GccxkD8QdGQrTQbzEfYyRYOmdGkGPxyS-4apLflr1rzzIciJByHiToIFw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - Liga MX (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKihBSwvbXxDcQ+kCAimQMECQtWrBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/LdgRUtwGVFEDrybcSCBqkvXqJbOhatmd/rtmp/stream/tN0KHg4OWe5_4r1tDKvWGjMJHDs1nN1Q_niO6_1OEXb0PYNBovcIJaAgA-7KDOUi5boRLVM45YRSrsKp/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "akron-zips-vs-georgetown-hoyas",
       "title": "Akron Zips vs. Georgetown Hoyas",
@@ -26,183 +54,7 @@
           "channel_name": "ESPN+ (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAUwRQFYEtgIThcwBOHGksAEwuHmDR3SZseKMEhIg0YUszAgc4KFDjwUxED1yqQzTmp01ZwZuHhMwDEYyYh2IFCBhceYXlNbtBfShC7k2PvWAPYVZiekEsPz9SBUI6cgoqEVpSFUD2Qjc5SWwGFT8ePix06jw41K0dbQdq3W0gu0qGxhAA+tsWmFqa+xbccjQveEG0U3ZyYjRiAfJGcngB9XUB4FlECAcwAi4kWEIUDPxVroAGLepFUDkQXFabmwP6HFgQM6gRGHFVojCrRxYpAhIEY6NgCqs3CkaEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb16.strmd.st/secure/fhBZlOjERTZToZTZOCyjKMGbyJpmXMQt/foxtrot/stream/akron-zips-vs-georgetown-hoyas/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "live_uefa-nations-league-league-a-gr-1_turkiye-france-live-streaming-539389152",
-      "title": "Türkiye vs France",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790361900000,
-      "poster": "https://streamed.pk/favicon.ico",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Türkiye vs France (HD)",
-          "channel_poster": "https://streamed.pk/favicon.ico",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/jeEHTEAzXWrvsZJCdMDvjLnUudIpSHyD/delta/stream/live_uefa-nations-league-league-a-gr-1_turkiye-france-live-streaming-539389152/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "montenegro-vs-cyprus-2442751",
-      "title": "Montenegro vs Cyprus",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790361900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBTkBiRNxB8QRqSBSmQEXOcbAkFPsNn0tKlFzBl4RLLLdNaYB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Montenegro vs Cyprus (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBTkBiRNxB8QRqSBSmQEXOcbAkFPsNn0tKlFzBl4RLLLdNaYB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/xZwnjXlKiTTJawkicFvSFluqDQQYZPgi/delta/stream/live_uefa-nations-league-league-c-gr-2_montenegro-cyprus-live-streaming-539391744/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "sweden-vs-romania-2442750",
-      "title": "Sweden vs Romania",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790361900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAfhC8BABlJaQfEMakgUZkBFwWYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sweden vs Romania (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAfhC8BABlJaQfEMakgUZkBFwWYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/kwXTDbistbmhvhPRMQRfrvnPTEfSMcIN/delta/stream/live_uefa-nations-league-league-b-gr-4_sweden-romania-live-streaming-539390880/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "poland-vs-bosnia-herzegovina-2442749",
-      "title": "Poland vs Bosnia-Herzegovina",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790361900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXMCmwQ4KSBQhuIPjpB6DBiLlMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Poland vs Bosnia-Herzegovina (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXMCmwQ4KSBQhuIPjpB6DBiLlMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/uUkqfmohbPYtMvWPGXTAPnkbbApTKcNy/delta/stream/live_uefa-nations-league-league-b-gr-4_poland-bosnia-herzegovina-live-streaming-539390448/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "hungary-vs-ukraine-2442748",
-      "title": "Hungary vs Ukraine",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790361900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGN7AwIEChDcQfXSCl7zEXCb4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Hungary vs Ukraine (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGN7AwIEChDcQfXSCl7zEXCb4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb16.strmd.st/secure/XpaSkaNgUuTNQThhrQaLbioMcdVVvQgi/delta/stream/live_uefa-nations-league-league-b-gr-2_hungary-ukraine-live-streaming-539390016/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "italy-vs-belgium-2442747",
-      "title": "Italy vs Belgium",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790361900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDBSwIXMxAkQ3EH10gpIFJZARcZkgWBIKfYbPoowKlFy-l6WLI+TLRgXmKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Italy vs Belgium (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDBSwIXMxAkQ3EH10gpIFJZARcZkgWBIKfYbPoowKlFy-l6WLI+TLRgXmKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb16.strmd.st/secure/VOghYCCxsyCgUZRYiyiFAbIlPdmAcJKS/delta/stream/live_uefa-nations-league-league-a-gr-1_italy-belgium-live-streaming-539388720/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "armenia-vs-latvia-2475286",
-      "title": "Armenia vs Latvia",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "25 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1790352000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWqNYQQZbiD18QRqSBSmQ2nEcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Armenia vs Latvia (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWqNYQQZbiD18QRqSBSmQ2nEcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb16.strmd.st/secure/OvygNrEeBRcyrXkkLEnRVTYsacszqlyx/delta/stream/live_uefa-nations-league-league-c-gr-2_armenia-latvia-live-streaming-539391312/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "georgia-vs-n-ireland-2442745",
-      "title": "Georgia vs N.Ireland",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "25 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1790352000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVtzAgQ8MGSQhuIPtpBSQKCyAi5TMAsCQU+w2fRR62KLnvL0sst5MtGCe9KIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Georgia vs N.Ireland (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVtzAgQ8MGSQhuIPtpBSQKCyAi5TMAsCQU+w2fRR62KLnvL0sst5MtGCe9KIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/xUEABFlZeHMsolldDzphjrTLXiKleZDt/delta/stream/live_uefa-nations-league-league-b-gr-2_georgia-northern-ireland-live-streaming-539389584/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/HyfcNeYvFxEqKbsdWmdTmGbrlwjqOKed/foxtrot/stream/akron-zips-vs-georgetown-hoyas/1/playlist.m3u8"
         }
       ]
     }
