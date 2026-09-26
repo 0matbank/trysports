@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 18,
-  "total_matches": 9,
-  "total_streams": 18,
-  "updated_time_bd": "2026-09-27 | 00:35:33",
-  "updated_at_bd": "2026-09-27T00:35:33+06:00",
+  "total_items": 1,
+  "total_matches": 1,
+  "total_streams": 1,
+  "updated_time_bd": "2026-09-27 | 03:33:34",
+  "updated_at_bd": "2026-09-27T03:33:34+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "roda-jc-vs-rkc-waalwijk-2489846",
-      "title": "Roda JC vs RKC Waalwijk",
+      "id": "usa-vs-peru-2578507",
+      "title": "USA vs Peru",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "27 Sep 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1790445600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL3wgZEDWBAaQfA7lPcQMUwZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "start_time_bd": "27 Sep 2026, 02:30 AM (BD Time)",
+      "start_epoch_ms": 1790454600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8revSlhuYGRBDcQfECakgUJ80ZD74BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,240 +23,10 @@
       },
       "streams": [
         {
-          "channel_name": "Dutch - ESPN 3 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL3wgZEDWBAaQfA7lPcQMUwZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "channel_name": "USA vs Peru (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8revSlhuYGRBDcQfECakgUJ80ZD74BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/WcqDXlhuxtuWKyOKewPwWMrsqrREVUac/rtmp/stream/hLsbbb2QvPmZ9DbygPxWA-ozletJhZCjXEUL6wKW8yshH38-RP93OYo8Y7SVO4caY9dGG9u7wkXA/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Dutch - ESPN 3 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL3wgZEDWBAaQfA7lPcQMUwZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb7.strmd.st/secure/VajJYYLxMbOpJRHbOHGWSfupUxfBXYYZ/rtmp/stream/gExCybITlH2MU7IwEcgwJMTmIZSIfzwaIboOrg1OuKhioGP1VZpnfLeNlmq0qG3DWnFjceXTXgM08rgcPA/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "nac-breda-vs-fc-eindhoven-2489845",
-      "title": "NAC Breda vs FC Eindhoven",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "27 Sep 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1790445600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWBIgUlOexDcQfECZw5DMXEe0FgSCn2Gz6KTWx1tN5ellk6mtGBu9KIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Dutch - ESPN 4 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWBIgUlOexDcQfECZw5DMXEe0FgSCn2Gz6KTWx1tN5ellk6mtGBu9KIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb19.strmd.st/secure/BTEMqiqjQxMZxaUaqkVrpBbvDuVhohjV/rtmp/stream/jk6xW_XN3UTQ9aagjZajXMABM2FTOWYtmQ0phHlEJb1EJVoNsHIX4d1-kEJotR08kc-Z1u4EwZBF/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Dutch - ESPN 4 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWBIgUlOexDcQfECZw5DMXEe0FgSCn2Gz6KTWx1tN5ellk6mtGBu9KIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb19.strmd.st/secure/tTliIsLOYbqxrDVWNQTgdOwktbODpcvz/rtmp/stream/4yJi4hFrBU_BaphGywbSi_iaTQbTKgAx1kEG-kVorG-exhqa1STdPnFIXoBvXWqubvM8uDPX84blwBE5YQ/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "volendam-vs-vvv-venlo-2489843",
-      "title": "Volendam vs VVV-Venlo",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "27 Sep 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1790445600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDB6gNYEHpDcQffThyGYuI0YLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Dutch - ESPN2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDB6gNYEHpDcQffThyGYuI0YLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb19.strmd.st/secure/crYwKEHvTMFDidgCLoqrwaQPYlZQBzsb/rtmp/stream/5jTsZJvlxV0ZinfRJXrVuX_4JbAyfxhHODwo7yUSrK-IzSZeNIn1sE8mISCDpTXlXIXzV1fUvgRw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Dutch - ESPN2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDB6gNYEHpDcQffThyGYuI0YLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb19.strmd.st/secure/GynIJftEUWZRPJAKNUVeHeHmgQYuGIUY/rtmp/stream/B60eB8jz-QH0fhKzQpR_ru_clmfjuPLDgVzUzsMkUgiwGKrqSNLaXthhKKnrgZv-xirL0iBupHtBrmg9tA/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "fc-emmen-vs-top-oss-2489842",
-      "title": "FC Emmen vs TOP Oss",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "27 Sep 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1790445600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEP1gh4YbmBIhuIPiFM4cRmLmMgpBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Keuken Kampioen Divisie (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEP1gh4YbmBIhuIPiFM4cRmLmMgpBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/VHluGKznwiWlLVJxOUjLNZUTDCxckLJA/rtmp/stream/qlYnjWu5QXvlNMSolRN4Yw6S2lz33GKV2pswqN0XJZyKl8fXLmsPdy5pEichq-n7Bbm3hkBcRYzl/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Keuken Kampioen Divisie (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEP1gh4YbmBIhuIPiFM4cRmLmMgpBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb7.strmd.st/secure/zJYnfcTOcxYPQYmksPpPyimVSdhPvKIk/rtmp/stream/6CFHqMFUI4uW-dNL3QVqrrPzPp6e8HZljk7q5LPKzyscG6TM2kc1si4xla2pRzyD3uh29s8IkVaNVAPfPg/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "oldham-athletic-vs-salford-city-2500232",
-      "title": "Oldham Athletic vs Salford City",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1790440200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDKRtc7EHxDc9IYzggaQZmCERSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports Football (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDKRtc7EHxDc9IYzggaQZmCERSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb17.strmd.st/secure/HTvoPfzhULhVpfgWXeSVCPmExsiBSCwe/rtmp/stream/2mBmuRgb3WD5KuejOhb-_HImTal3KrSzN1xToM5NDSbxnJlqC6oOLc62mnzZ_GEcAEh_pwOXjXBadmAbe6lo/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports Football (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDKRtc7EHxDc9IYzggaQZmCERSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb17.strmd.st/secure/CrbQOqOXvqqvrDWmJYQiXDDuYWUQewWW/rtmp/stream/a5uBcg4bhytx7sN_ghey_uvNXmOR_1mWkx5mD-G5joqSebBEGegE-GmPWeOGiABBLPfebo5vGgsz47sSNZ9C-mSybQ/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "bulgaria-vs-luxembourg-2475287",
-      "title": "Bulgaria vs Luxembourg",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1790438400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBIgImnsxDcQGkCCkgU57bkvmmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX Soccer Plus (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBIgImnsxDcQGkCCkgU57bkvmmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb20.strmd.st/secure/HoprLefcHoESqGJlIHryvOdtOEpZjgJr/admin/stream/ppv-bulgaria-vs-luxembourg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "FOX Soccer Plus (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBIgImnsxDcQGkCCkgU57bkvmmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb20.strmd.st/secure/CeWLXSSKLhySUxuhQByUXfRgMLxjpewl/admin/stream/ppv-bulgaria-vs-luxembourg/2/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "iceland-vs-estonia-2442754",
-      "title": "Iceland vs Estonia",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1790438400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGD4gSuLhBDcQWkCCkgU5kPpwW+BYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Fubo Sports (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGD4gSuLhBDcQWkCCkgU5kPpwW+BYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb17.strmd.st/secure/aBIPcvbeApDTtmJlhZsLsUgPNxWPsYlr/admin/stream/ppv-iceland-vs-estonia/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Fubo Sports (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGD4gSuLhBDcQWkCCkgU5kPpwW+BYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb17.strmd.st/secure/nnnEBafQAyGkJXZCirtrtODSizrVHZtB/admin/stream/ppv-iceland-vs-estonia/2/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "faroe-islands-vs-kazakhstan-2442753",
-      "title": "Faroe Islands vs Kazakhstan",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1790438400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRHxAhQCEDBDcQmrVJAozICLgskCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Fubo Sports 2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRHxAhQCEDBDcQmrVJAozICLgskCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb20.strmd.st/secure/HHfLoFlCqvMWhhsLkazSimHZDWliFjbX/admin/stream/ppv-faroe-islands-vs-kazakhstan/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Fubo Sports 2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRHxAhQCEDBDcQmrVJAozICLgskCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb20.strmd.st/secure/XZNHWSoXVBAobqecashYQqGowajMIEKh/admin/stream/ppv-faroe-islands-vs-kazakhstan/2/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "san-marino-vs-finland-2442752",
-      "title": "San Marino vs Finland",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1790438400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJCIlIFHRDcQfECc0pdICLgvwCwJBT7DZ9FGBV6278vSyy9TLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Fubo Sports 3 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJCIlIFHRDcQfECc0pdICLgvwCwJBT7DZ9FGBV6278vSyy9TLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb19.strmd.st/secure/rpFTRHRVxFXWWKyvKiAycdLSxzSXZMpC/admin/stream/ppv-san-marino-vs-finland/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Fubo Sports 3 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJCIlIFHRDcQfECc0pdICLgvwCwJBT7DZ9FGBV6278vSyy9TLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/cDDPcwlZeXYKccFbEkApjyrhqDFXUeem/admin/stream/ppv-san-marino-vs-finland/2/playlist.m3u8"
+          "direct_stream_url": "https://lb18.strmd.st/secure/siMqplCNJBSulgHQYWyaiykruplOQpHu/delta/stream/live_int-friendly-games_usa-peru-live-streaming-619950672/1/playlist.m3u8"
         }
       ]
     }

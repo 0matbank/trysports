@@ -1,67 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 34,
-  "total_matches": 34,
+  "total_items": 31,
+  "total_matches": 31,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-27 | 00:35:33",
-  "updated_at_bd": "2026-09-27T00:35:33+06:00",
+  "updated_time_bd": "2026-09-27 | 03:33:34",
+  "updated_at_bd": "2026-09-27T03:33:34+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "albania-vs-belarus-2442757",
-      "title": "Albania vs Belarus",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790448300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHBBC1EMEFJDcQfECf0oQ5zTtwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "czech-republic-vs-croatia-2442756",
-      "title": "Czech Republic vs Croatia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790448300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFJTBIQOkrhDcQfHSCkgU5kBBCIYBgsCQU+w2fRRgVGtp-L0sshpMtGCeYqIQQA.webp"
-    },
-    {
-      "id": "england-vs-spain-2442755",
-      "title": "England vs Spain",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790448300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOHr0cMEHxDc9GkFJAozICCES6YBYEgp9hs+ijAqUXD+W2yvTLRgHmKiEEA.webp"
-    },
-    {
-      "id": "north-macedonia-vs-switzerland-2475289",
-      "title": "North Macedonia vs Switzerland",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790448300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDL64wMlMCkhuILSA0gU5kBBCIYxgsCQU+w2fRRgVetp-L0ssnpMtGCeYqIQQA.webp"
-    },
-    {
-      "id": "ppv-czechia-vs-croatia",
-      "title": "Czechia vs. Croatia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790448300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkFRBYQZRCBAx5EkOMSJJJEIlXB4u-XJm6QKKUtMpgNMhEv8wgkU2z0whYElwBjS0IesIJzJLAn0wB2BAmyA.webp"
-    },
-    {
-      "id": "slovakia-vs-moldova-2442758",
-      "title": "Slovakia vs Moldova",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790448300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiEQ5eIEDBDcQG3VJAozICJr2WCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
     {
       "id": "cruz-azul-vs-toluca-2487538",
       "title": "Cruz Azul vs Toluca",
@@ -286,6 +232,33 @@
       "start_time_bd": "28 Sep 2026, 12:00 AM (BD Time)",
       "start_epoch_ms": 1790532000000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCD6wQvNmB2aQRiCBMwQJEOalWCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "germany-vs-greece-2442763",
+      "title": "Germany vs Greece",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "28 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790534700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhRgkIKSBS6Q3EHxBm9BgxA1HdBYEgp9hs+lpUouYMvCJZZnky0YN5iohBAA.webp"
+    },
+    {
+      "id": "israel-vs-ireland-2442765",
+      "title": "Israel vs Ireland",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "28 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790534700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGVF58w2qSG4g+IY3pQgzEEIgMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "norway-vs-portugal-2442764",
+      "title": "Norway vs Portugal",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "28 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790534700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWlh5zgMkiG4g+IY1JAozICCEQGzTJBT7DZ9FGBUou78vU2jPTLRg7mKiEEA.webp"
     },
     {
       "id": "columbus-crew-vs-inter-miami-2407112",
