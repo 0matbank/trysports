@@ -1,11 +1,214 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-26 | 17:49:38",
-  "updated_at_bd": "2026-09-26T17:49:38+06:00",
+  "total_items": 15,
+  "total_matches": 7,
+  "total_streams": 15,
+  "updated_time_bd": "2026-09-26 | 21:08:57",
+  "updated_at_bd": "2026-09-26T21:08:57+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "kidderminster-harriers-vs-yeovil-town-2528274",
+      "title": "Kidderminster Harriers vs Yeovil Town",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "26 Sep 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1790431200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCBKSQIbMHjyZ4ySJCIZiLMonrgEYFRVSaWRQGM9IC8On5y+gUJFM5KcoWBJcZt0LDdOfWFSegJ5cn89EIggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN National League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCBKSQIbMHjyZ4ySJCIZiLMonrgEYFRVSaWRQGM9IC8On5y+gUJFM5KcoWBJcZt0LDdOfWFSegJ5cn89EIggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/VIvDcKgPibjVaPBWizTEsSmcyqQwZOic/rtmp/stream/60u63Q6ocH5DqjXKWYTHHLZdYJHF-NN9HCMErihYKiadUOZKfr76nLc1qQ79Qg4e8EmS2hwhFJCJ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN National League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCBKSQIbMHjyZ4ySJCIZiLMonrgEYFRVSaWRQGM9IC8On5y+gUJFM5KcoWBJcZt0LDdOfWFSegJ5cn89EIggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb3.strmd.st/secure/jUFwLwqbnuSKbJjpqsPZmKxJRsdGqBAF/rtmp/stream/I-axt9wnFJIpZCnHBUYR41WzkIj0Uby3H0d_byRm7vZIbfI_i9cfIR9S5J9jOZe_p1OnQgDVKIzbyHy2tg/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "scunthorpe-united-vs-hartlepool-united-2528267",
+      "title": "Scunthorpe United vs Hartlepool United",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "26 Sep 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1790431200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJIPphswKSG4g+IEof1mIIRChAgCwJBT7DZ9FGBUou78vSyzPTLTaovQhQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN National League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJIPphswKSG4g+IEof1mIIRChAgCwJBT7DZ9FGBUou78vSyzPTLTaovQhQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/UhkKtCRknVJUjMgdYUNVvOUUGhKpfbof/rtmp/stream/pQFRZ0dyGdTEvkuZ8O-99mlxMJXbC4SkaOYTSDYeWY1oC1hOncq5X8aQeLb0c2USIR0GKvfZCpZL/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN National League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJIPphswKSG4g+IEof1mIIRChAgCwJBT7DZ9FGBUou78vSyzPTLTaovQhQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb14.strmd.st/secure/EcPNXxcjuDIEWRFvTYANnubcSztlYuiI/rtmp/stream/Uy_phQF-acWB_HFuyw54iWATNFWtkyh_bd1mwtJVLHg57lpjMG6K00UuoI5DfAzN_2letV46de2KDcgoJA/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "plymouth-argyle-vs-burton-albion-2500786",
+      "title": "Plymouth Argyle vs Burton Albion",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "26 Sep 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1790431200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXmGAAGMCRAz8IbiD4gzOCPpB7TlkgWBIKfYbPopdbFF13l6WWW8mWjBPelEIIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "EFL League One (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXmGAAGMCRAz8IbiD4gzOCPpB7TlkgWBIKfYbPopdbFF13l6WWW8mWjBPelEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/hDdHkdmIQJwMFKTXYWNzfYbfMHXiBQPC/rtmp/stream/Xp3SitSS3XMLMqZnOv3h6iOSfnlbR23PmSSkfc693a3moHq7GbGK2CvQkRHKGA6LM2P7yKlxdriE/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "EFL League One (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXmGAAGMCRAz8IbiD4gzOCPpB7TlkgWBIKfYbPopdbFF13l6WWW8mWjBPelEIIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb3.strmd.st/secure/tZiuPgtGUxnbSmbfEcjFCrxTlxLTRURx/rtmp/stream/x3F8vzoPpm2hn4LhqtFOeBzqJjLwwxVeoBSLLu1S5xMlM_ZIaZLxLWYSxJyXP_fWrox-Wm8j75zvRLPt_w/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "fleetwood-town-vs-rochdale-2500231",
+      "title": "Fleetwood Town vs Rochdale",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "26 Sep 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1790431200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNigaQQMOiG4g+IYzgggpIMzBCISBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNigaQQMOiG4g+IYzgggpIMzBCISBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/eZanVQHSQgCbWVEqFicqmWPyZkGNisao/rtmp/stream/QuuI4TZyLULI_FpQcqmt9s5h2k0TOxl_DSQYIjnp7ibYGCownqLNLgflLkFG7w4mar-zEmZZ8rKw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNigaQQMOiG4g+IYzgggpIMzBCISBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb3.strmd.st/secure/jhIfNlmWtdLyuhIoEoccWJMsmCgnTDlI/rtmp/stream/dQnrwAk_fpL2gYiQH3HHXRdLpHEpxcahvZapwCcMy_8AjmBHWnRYA8zKWpajGePKJaeSL7nf18y-NXfvNA/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "south-africa-vs-guinea-2475943",
+      "title": "South Africa vs Guinea",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "26 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1790427600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGi00MwGXlAQQcESEQh6F++hAR8sZso3jig+iypSB5GRYQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN Sports Connect 5 (USA) (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGi00MwGXlAQQcESEQh6F++hAR8sZso3jig+iypSB5GRYQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/chlpgYFNBoNFKyNLrelNkFPDOXHczGPY/foxtrot/stream/guinea-v-south-africa-afcon-401920034/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "kenya-vs-eritrea-2475931",
+      "title": "Kenya vs Eritrea",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "26 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1790427600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGi00MwGXlAQQcESEQh6F++hDycsZso3jig+iypSB5GRYQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN Sports Connect 4 (USA) (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGi00MwGXlAQQcESEQh6F++hDycsZso3jig+iypSB5GRYQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/AKYLrvcKzLExvAzMyYdymhTAGvSFYkHD/foxtrot/stream/eritrea-v-kenya-afcon-401920035/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "slovenia-vs-scotland-2475288",
+      "title": "Slovenia vs Scotland",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "26 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1790427600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "FS2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/lhiPxkGgxmwBlRmtwmyTdHjoRfpWuiQN/rtmp/stream/ymlA47QFe1P_RTonGyFOt3Eqw8WHulnaIWoaTv9_vVPAd_ktObEADVAN7l8scG-Y4AlNCOs/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "FS2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb14.strmd.st/secure/AVLEcDljHvyrbtujjoHgsIXvvJIjFZVt/rtmp/stream/76ockZ6eZR5LCBhYJfMJwJmEXzZjxHinNQGSeSuew2sBdijZGWaU6vLshTca0wRh7QkgOk9KxThg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Slovenia vs Scotland (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/DxFFJrtnoQPbiHHlAoVbQmKctLMKHrGl/delta/stream/live_uefa-nations-league-league-b-gr-1_slovenia-scotland-live-streaming-539380080/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN Canada (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/AGpLAXtcdDEqHYaRNsrGRFUnYYWsnLbR/foxtrot/stream/scotland-v-slovenia-unl-401861057/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Slovenia vs Scotland (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/GdEGlYswbhZNvVPwWKEmzKFqrTXaCdfc/hotel/stream/slovenia-vs-scotland-uefa-nations-league-1790427600/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }

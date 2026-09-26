@@ -1,6 +1,111 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-09-26 | 17:49:38
+# TOTAL-ITEMS: 15
+# UPDATED Time and date BD: 2026-09-26 | 21:08:57
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="DAZN National League (HD)" tvg-name="DAZN National League (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCBKSQIbMHjyZ4ySJCIZiLMonrgEYFRVSaWRQGM9IC8On5y+gUJFM5KcoWBJcZt0LDdOfWFSegJ5cn89EIggA.webp" group-title="Football", DAZN National League (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/VIvDcKgPibjVaPBWizTEsSmcyqQwZOic/rtmp/stream/60u63Q6ocH5DqjXKWYTHHLZdYJHF-NN9HCMErihYKiadUOZKfr76nLc1qQ79Qg4e8EmS2hwhFJCJ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN National League (SD)" tvg-name="DAZN National League (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCBKSQIbMHjyZ4ySJCIZiLMonrgEYFRVSaWRQGM9IC8On5y+gUJFM5KcoWBJcZt0LDdOfWFSegJ5cn89EIggA.webp" group-title="Football", DAZN National League (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/jUFwLwqbnuSKbJjpqsPZmKxJRsdGqBAF/rtmp/stream/I-axt9wnFJIpZCnHBUYR41WzkIj0Uby3H0d_byRm7vZIbfI_i9cfIR9S5J9jOZe_p1OnQgDVKIzbyHy2tg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN National League (HD)" tvg-name="DAZN National League (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJIPphswKSG4g+IEof1mIIRChAgCwJBT7DZ9FGBUou78vSyzPTLTaovQhQA.webp" group-title="Football", DAZN National League (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb14.strmd.st/secure/UhkKtCRknVJUjMgdYUNVvOUUGhKpfbof/rtmp/stream/pQFRZ0dyGdTEvkuZ8O-99mlxMJXbC4SkaOYTSDYeWY1oC1hOncq5X8aQeLb0c2USIR0GKvfZCpZL/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN National League (SD)" tvg-name="DAZN National League (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJIPphswKSG4g+IEof1mIIRChAgCwJBT7DZ9FGBUou78vSyzPTLTaovQhQA.webp" group-title="Football", DAZN National League (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb14.strmd.st/secure/EcPNXxcjuDIEWRFvTYANnubcSztlYuiI/rtmp/stream/Uy_phQF-acWB_HFuyw54iWATNFWtkyh_bd1mwtJVLHg57lpjMG6K00UuoI5DfAzN_2letV46de2KDcgoJA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EFL League One (HD)" tvg-name="EFL League One (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXmGAAGMCRAz8IbiD4gzOCPpB7TlkgWBIKfYbPopdbFF13l6WWW8mWjBPelEIIA.webp" group-title="Football", EFL League One (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/hDdHkdmIQJwMFKTXYWNzfYbfMHXiBQPC/rtmp/stream/Xp3SitSS3XMLMqZnOv3h6iOSfnlbR23PmSSkfc693a3moHq7GbGK2CvQkRHKGA6LM2P7yKlxdriE/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EFL League One (SD)" tvg-name="EFL League One (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXmGAAGMCRAz8IbiD4gzOCPpB7TlkgWBIKfYbPopdbFF13l6WWW8mWjBPelEIIA.webp" group-title="Football", EFL League One (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/tZiuPgtGUxnbSmbfEcjFCrxTlxLTRURx/rtmp/stream/x3F8vzoPpm2hn4LhqtFOeBzqJjLwwxVeoBSLLu1S5xMlM_ZIaZLxLWYSxJyXP_fWrox-Wm8j75zvRLPt_w/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports+ (HD)" tvg-name="Sky Sports+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNigaQQMOiG4g+IYzgggpIMzBCISBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp" group-title="Football", Sky Sports+ (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/eZanVQHSQgCbWVEqFicqmWPyZkGNisao/rtmp/stream/QuuI4TZyLULI_FpQcqmt9s5h2k0TOxl_DSQYIjnp7ibYGCownqLNLgflLkFG7w4mar-zEmZZ8rKw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports+ (SD)" tvg-name="Sky Sports+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNigaQQMOiG4g+IYzgggpIMzBCISBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp" group-title="Football", Sky Sports+ (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/jhIfNlmWtdLyuhIoEoccWJMsmCgnTDlI/rtmp/stream/dQnrwAk_fpL2gYiQH3HHXRdLpHEpxcahvZapwCcMy_8AjmBHWnRYA8zKWpajGePKJaeSL7nf18y-NXfvNA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beIN Sports Connect 5 (USA) (HD)" tvg-name="beIN Sports Connect 5 (USA) (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGi00MwGXlAQQcESEQh6F++hAR8sZso3jig+iypSB5GRYQA.webp" group-title="Football", beIN Sports Connect 5 (USA) (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/chlpgYFNBoNFKyNLrelNkFPDOXHczGPY/foxtrot/stream/guinea-v-south-africa-afcon-401920034/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beIN Sports Connect 4 (USA) (HD)" tvg-name="beIN Sports Connect 4 (USA) (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGi00MwGXlAQQcESEQh6F++hDycsZso3jig+iypSB5GRYQA.webp" group-title="Football", beIN Sports Connect 4 (USA) (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/AKYLrvcKzLExvAzMyYdymhTAGvSFYkHD/foxtrot/stream/eritrea-v-kenya-afcon-401920035/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FS2 (HD)" tvg-name="FS2 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp" group-title="Football", FS2 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb14.strmd.st/secure/lhiPxkGgxmwBlRmtwmyTdHjoRfpWuiQN/rtmp/stream/ymlA47QFe1P_RTonGyFOt3Eqw8WHulnaIWoaTv9_vVPAd_ktObEADVAN7l8scG-Y4AlNCOs/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FS2 (SD)" tvg-name="FS2 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp" group-title="Football", FS2 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb14.strmd.st/secure/AVLEcDljHvyrbtujjoHgsIXvvJIjFZVt/rtmp/stream/76ockZ6eZR5LCBhYJfMJwJmEXzZjxHinNQGSeSuew2sBdijZGWaU6vLshTca0wRh7QkgOk9KxThg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Slovenia vs Scotland (HD)" tvg-name="Slovenia vs Scotland (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp" group-title="Football", Slovenia vs Scotland (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb12.strmd.st/secure/DxFFJrtnoQPbiHHlAoVbQmKctLMKHrGl/delta/stream/live_uefa-nations-league-league-b-gr-1_slovenia-scotland-live-streaming-539380080/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp" group-title="Football", DAZN Canada (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb12.strmd.st/secure/AGpLAXtcdDEqHYaRNsrGRFUnYYWsnLbR/foxtrot/stream/scotland-v-slovenia-unl-401861057/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Slovenia vs Scotland (HD)" tvg-name="Slovenia vs Scotland (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp" group-title="Football", Slovenia vs Scotland (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb12.strmd.st/secure/GdEGlYswbhZNvVPwWKEmzKFqrTXaCdfc/hotel/stream/slovenia-vs-scotland-uefa-nations-league-1790427600/1/playlist.m3u8
 
