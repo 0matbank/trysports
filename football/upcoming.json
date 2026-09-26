@@ -1,76 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 31,
-  "total_matches": 31,
+  "total_items": 24,
+  "total_matches": 24,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-27 | 03:33:34",
-  "updated_at_bd": "2026-09-27T03:33:34+06:00",
+  "updated_time_bd": "2026-09-27 | 05:54:20",
+  "updated_at_bd": "2026-09-27T05:54:20+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "cruz-azul-vs-toluca-2487538",
-      "title": "Cruz Azul vs Toluca",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 05:00 AM (BD Time)",
-      "start_epoch_ms": 1790463600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjCiUIeAhDcDIPiFMQQ5mCBIgrNlAWBIKfYbPqaVKLlvL0sst5MtGBaYqIQQA.webp"
-    },
-    {
-      "id": "cd-guadalajara-vs-quer-taro-2487535",
-      "title": "CD Guadalajara vs Querétaro",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 05:07 AM (BD Time)",
-      "start_epoch_ms": 1790464020000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCG4gYdMCjBTNIPiFMQQ5mMZAlT2gsCQU+w2fX0qUXMGXhEssl5MtGA+YqIQQA.webp"
-    },
-    {
-      "id": "atlanta-united-vs-new-york-city-fc-2407099",
-      "title": "Atlanta United vs New York City FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1790465400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKCRADgYXnxDctIGCClHDiRIb4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "cf-montr-al-vs-fc-cincinnati-2407100",
-      "title": "CF Montréal vs FC Cincinnati",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1790465400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVnzAgQ3MAPw6QfEDBBSjhxNxAlcBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "charlotte-fc-vs-chicago-fire-2407101",
-      "title": "Charlotte FC vs Chicago Fire",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1790465400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWlCRgtKbSG4g+IGCCmH9IRBGO4CwLTH7DZ9XSpRcwZeESyyPTLRgXmKiEEA.webp"
-    },
-    {
-      "id": "new-york-red-bulls-vs-st--louis-city-sc-2407102",
-      "title": "New York Red Bulls vs St. Louis City SC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1790465400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSrxsdWCG4g+h-cZIhEEXCBIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "philadelphia-union-vs-orlando-city-2407098",
-      "title": "Philadelphia Union vs Orlando City",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1790465400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXlD4IQAkiG46QMEFMMHEBlCBIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "austin-fc-vs-san-diego-fc-2407106",
       "title": "Austin FC vs San Diego FC",
