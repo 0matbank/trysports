@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 15,
-  "total_matches": 7,
-  "total_streams": 15,
-  "updated_time_bd": "2026-09-26 | 21:08:57",
-  "updated_at_bd": "2026-09-26T21:08:57+06:00",
+  "total_items": 18,
+  "total_matches": 9,
+  "total_streams": 18,
+  "updated_time_bd": "2026-09-27 | 00:35:33",
+  "updated_at_bd": "2026-09-27T00:35:33+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "kidderminster-harriers-vs-yeovil-town-2528274",
-      "title": "Kidderminster Harriers vs Yeovil Town",
+      "id": "roda-jc-vs-rkc-waalwijk-2489846",
+      "title": "Roda JC vs RKC Waalwijk",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 08:00 PM (BD Time)",
-      "start_epoch_ms": 1790431200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCBKSQIbMHjyZ4ySJCIZiLMonrgEYFRVSaWRQGM9IC8On5y+gUJFM5KcoWBJcZt0LDdOfWFSegJ5cn89EIggA.webp",
+      "start_time_bd": "27 Sep 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1790445600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL3wgZEDWBAaQfA7lPcQMUwZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,27 +23,27 @@
       },
       "streams": [
         {
-          "channel_name": "DAZN National League (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCBKSQIbMHjyZ4ySJCIZiLMonrgEYFRVSaWRQGM9IC8On5y+gUJFM5KcoWBJcZt0LDdOfWFSegJ5cn89EIggA.webp",
+          "channel_name": "Dutch - ESPN 3 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL3wgZEDWBAaQfA7lPcQMUwZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/VIvDcKgPibjVaPBWizTEsSmcyqQwZOic/rtmp/stream/60u63Q6ocH5DqjXKWYTHHLZdYJHF-NN9HCMErihYKiadUOZKfr76nLc1qQ79Qg4e8EmS2hwhFJCJ/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/WcqDXlhuxtuWKyOKewPwWMrsqrREVUac/rtmp/stream/hLsbbb2QvPmZ9DbygPxWA-ozletJhZCjXEUL6wKW8yshH38-RP93OYo8Y7SVO4caY9dGG9u7wkXA/1/playlist.m3u8"
         },
         {
-          "channel_name": "DAZN National League (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCBKSQIbMHjyZ4ySJCIZiLMonrgEYFRVSaWRQGM9IC8On5y+gUJFM5KcoWBJcZt0LDdOfWFSegJ5cn89EIggA.webp",
+          "channel_name": "Dutch - ESPN 3 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL3wgZEDWBAaQfA7lPcQMUwZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb3.strmd.st/secure/jUFwLwqbnuSKbJjpqsPZmKxJRsdGqBAF/rtmp/stream/I-axt9wnFJIpZCnHBUYR41WzkIj0Uby3H0d_byRm7vZIbfI_i9cfIR9S5J9jOZe_p1OnQgDVKIzbyHy2tg/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/VajJYYLxMbOpJRHbOHGWSfupUxfBXYYZ/rtmp/stream/gExCybITlH2MU7IwEcgwJMTmIZSIfzwaIboOrg1OuKhioGP1VZpnfLeNlmq0qG3DWnFjceXTXgM08rgcPA/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "scunthorpe-united-vs-hartlepool-united-2528267",
-      "title": "Scunthorpe United vs Hartlepool United",
+      "id": "nac-breda-vs-fc-eindhoven-2489845",
+      "title": "NAC Breda vs FC Eindhoven",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 08:00 PM (BD Time)",
-      "start_epoch_ms": 1790431200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJIPphswKSG4g+IEof1mIIRChAgCwJBT7DZ9FGBUou78vSyzPTLTaovQhQA.webp",
+      "start_time_bd": "27 Sep 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1790445600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWBIgUlOexDcQfECZw5DMXEe0FgSCn2Gz6KTWx1tN5ellk6mtGBu9KIQQA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -51,27 +51,27 @@
       },
       "streams": [
         {
-          "channel_name": "DAZN National League (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJIPphswKSG4g+IEof1mIIRChAgCwJBT7DZ9FGBUou78vSyzPTLTaovQhQA.webp",
+          "channel_name": "Dutch - ESPN 4 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWBIgUlOexDcQfECZw5DMXEe0FgSCn2Gz6KTWx1tN5ellk6mtGBu9KIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/UhkKtCRknVJUjMgdYUNVvOUUGhKpfbof/rtmp/stream/pQFRZ0dyGdTEvkuZ8O-99mlxMJXbC4SkaOYTSDYeWY1oC1hOncq5X8aQeLb0c2USIR0GKvfZCpZL/1/playlist.m3u8"
+          "direct_stream_url": "https://lb19.strmd.st/secure/BTEMqiqjQxMZxaUaqkVrpBbvDuVhohjV/rtmp/stream/jk6xW_XN3UTQ9aagjZajXMABM2FTOWYtmQ0phHlEJb1EJVoNsHIX4d1-kEJotR08kc-Z1u4EwZBF/1/playlist.m3u8"
         },
         {
-          "channel_name": "DAZN National League (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJIPphswKSG4g+IEof1mIIRChAgCwJBT7DZ9FGBUou78vSyzPTLTaovQhQA.webp",
+          "channel_name": "Dutch - ESPN 4 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWBIgUlOexDcQfECZw5DMXEe0FgSCn2Gz6KTWx1tN5ellk6mtGBu9KIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb14.strmd.st/secure/EcPNXxcjuDIEWRFvTYANnubcSztlYuiI/rtmp/stream/Uy_phQF-acWB_HFuyw54iWATNFWtkyh_bd1mwtJVLHg57lpjMG6K00UuoI5DfAzN_2letV46de2KDcgoJA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb19.strmd.st/secure/tTliIsLOYbqxrDVWNQTgdOwktbODpcvz/rtmp/stream/4yJi4hFrBU_BaphGywbSi_iaTQbTKgAx1kEG-kVorG-exhqa1STdPnFIXoBvXWqubvM8uDPX84blwBE5YQ/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "plymouth-argyle-vs-burton-albion-2500786",
-      "title": "Plymouth Argyle vs Burton Albion",
+      "id": "volendam-vs-vvv-venlo-2489843",
+      "title": "Volendam vs VVV-Venlo",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 08:00 PM (BD Time)",
-      "start_epoch_ms": 1790431200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXmGAAGMCRAz8IbiD4gzOCPpB7TlkgWBIKfYbPopdbFF13l6WWW8mWjBPelEIIA.webp",
+      "start_time_bd": "27 Sep 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1790445600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDB6gNYEHpDcQffThyGYuI0YLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -79,27 +79,27 @@
       },
       "streams": [
         {
-          "channel_name": "EFL League One (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXmGAAGMCRAz8IbiD4gzOCPpB7TlkgWBIKfYbPopdbFF13l6WWW8mWjBPelEIIA.webp",
+          "channel_name": "Dutch - ESPN2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDB6gNYEHpDcQffThyGYuI0YLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/hDdHkdmIQJwMFKTXYWNzfYbfMHXiBQPC/rtmp/stream/Xp3SitSS3XMLMqZnOv3h6iOSfnlbR23PmSSkfc693a3moHq7GbGK2CvQkRHKGA6LM2P7yKlxdriE/1/playlist.m3u8"
+          "direct_stream_url": "https://lb19.strmd.st/secure/crYwKEHvTMFDidgCLoqrwaQPYlZQBzsb/rtmp/stream/5jTsZJvlxV0ZinfRJXrVuX_4JbAyfxhHODwo7yUSrK-IzSZeNIn1sE8mISCDpTXlXIXzV1fUvgRw/1/playlist.m3u8"
         },
         {
-          "channel_name": "EFL League One (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXmGAAGMCRAz8IbiD4gzOCPpB7TlkgWBIKfYbPopdbFF13l6WWW8mWjBPelEIIA.webp",
+          "channel_name": "Dutch - ESPN2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDB6gNYEHpDcQffThyGYuI0YLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb3.strmd.st/secure/tZiuPgtGUxnbSmbfEcjFCrxTlxLTRURx/rtmp/stream/x3F8vzoPpm2hn4LhqtFOeBzqJjLwwxVeoBSLLu1S5xMlM_ZIaZLxLWYSxJyXP_fWrox-Wm8j75zvRLPt_w/1/playlist.m3u8"
+          "direct_stream_url": "https://lb19.strmd.st/secure/GynIJftEUWZRPJAKNUVeHeHmgQYuGIUY/rtmp/stream/B60eB8jz-QH0fhKzQpR_ru_clmfjuPLDgVzUzsMkUgiwGKrqSNLaXthhKKnrgZv-xirL0iBupHtBrmg9tA/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "fleetwood-town-vs-rochdale-2500231",
-      "title": "Fleetwood Town vs Rochdale",
+      "id": "fc-emmen-vs-top-oss-2489842",
+      "title": "FC Emmen vs TOP Oss",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 08:00 PM (BD Time)",
-      "start_epoch_ms": 1790431200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNigaQQMOiG4g+IYzgggpIMzBCISBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
+      "start_time_bd": "27 Sep 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1790445600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEP1gh4YbmBIhuIPiFM4cRmLmMgpBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -107,27 +107,27 @@
       },
       "streams": [
         {
-          "channel_name": "Sky Sports+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNigaQQMOiG4g+IYzgggpIMzBCISBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
+          "channel_name": "Keuken Kampioen Divisie (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEP1gh4YbmBIhuIPiFM4cRmLmMgpBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/eZanVQHSQgCbWVEqFicqmWPyZkGNisao/rtmp/stream/QuuI4TZyLULI_FpQcqmt9s5h2k0TOxl_DSQYIjnp7ibYGCownqLNLgflLkFG7w4mar-zEmZZ8rKw/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/VHluGKznwiWlLVJxOUjLNZUTDCxckLJA/rtmp/stream/qlYnjWu5QXvlNMSolRN4Yw6S2lz33GKV2pswqN0XJZyKl8fXLmsPdy5pEichq-n7Bbm3hkBcRYzl/1/playlist.m3u8"
         },
         {
-          "channel_name": "Sky Sports+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNigaQQMOiG4g+IYzgggpIMzBCISBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
+          "channel_name": "Keuken Kampioen Divisie (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEP1gh4YbmBIhuIPiFM4cRmLmMgpBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb3.strmd.st/secure/jhIfNlmWtdLyuhIoEoccWJMsmCgnTDlI/rtmp/stream/dQnrwAk_fpL2gYiQH3HHXRdLpHEpxcahvZapwCcMy_8AjmBHWnRYA8zKWpajGePKJaeSL7nf18y-NXfvNA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/zJYnfcTOcxYPQYmksPpPyimVSdhPvKIk/rtmp/stream/6CFHqMFUI4uW-dNL3QVqrrPzPp6e8HZljk7q5LPKzyscG6TM2kc1si4xla2pRzyD3uh29s8IkVaNVAPfPg/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "south-africa-vs-guinea-2475943",
-      "title": "South Africa vs Guinea",
+      "id": "oldham-athletic-vs-salford-city-2500232",
+      "title": "Oldham Athletic vs Salford City",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1790427600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGi00MwGXlAQQcESEQh6F++hAR8sZso3jig+iypSB5GRYQA.webp",
+      "start_time_bd": "26 Sep 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1790440200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDKRtc7EHxDc9IYzggaQZmCERSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -135,78 +135,128 @@
       },
       "streams": [
         {
-          "channel_name": "beIN Sports Connect 5 (USA) (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGi00MwGXlAQQcESEQh6F++hAR8sZso3jig+iypSB5GRYQA.webp",
+          "channel_name": "Sky Sports Football (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDKRtc7EHxDc9IYzggaQZmCERSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/chlpgYFNBoNFKyNLrelNkFPDOXHczGPY/foxtrot/stream/guinea-v-south-africa-afcon-401920034/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "kenya-vs-eritrea-2475931",
-      "title": "Kenya vs Eritrea",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1790427600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGi00MwGXlAQQcESEQh6F++hDycsZso3jig+iypSB5GRYQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN Sports Connect 4 (USA) (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGi00MwGXlAQQcESEQh6F++hDycsZso3jig+iypSB5GRYQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/AKYLrvcKzLExvAzMyYdymhTAGvSFYkHD/foxtrot/stream/eritrea-v-kenya-afcon-401920035/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "slovenia-vs-scotland-2475288",
-      "title": "Slovenia vs Scotland",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "26 Sep 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1790427600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "FS2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb14.strmd.st/secure/lhiPxkGgxmwBlRmtwmyTdHjoRfpWuiQN/rtmp/stream/ymlA47QFe1P_RTonGyFOt3Eqw8WHulnaIWoaTv9_vVPAd_ktObEADVAN7l8scG-Y4AlNCOs/1/playlist.m3u8"
+          "direct_stream_url": "https://lb17.strmd.st/secure/HTvoPfzhULhVpfgWXeSVCPmExsiBSCwe/rtmp/stream/2mBmuRgb3WD5KuejOhb-_HImTal3KrSzN1xToM5NDSbxnJlqC6oOLc62mnzZ_GEcAEh_pwOXjXBadmAbe6lo/1/playlist.m3u8"
         },
         {
-          "channel_name": "FS2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
+          "channel_name": "Sky Sports Football (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDKRtc7EHxDc9IYzggaQZmCERSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb14.strmd.st/secure/AVLEcDljHvyrbtujjoHgsIXvvJIjFZVt/rtmp/stream/76ockZ6eZR5LCBhYJfMJwJmEXzZjxHinNQGSeSuew2sBdijZGWaU6vLshTca0wRh7QkgOk9KxThg/1/playlist.m3u8"
+          "direct_stream_url": "https://lb17.strmd.st/secure/CrbQOqOXvqqvrDWmJYQiXDDuYWUQewWW/rtmp/stream/a5uBcg4bhytx7sN_ghey_uvNXmOR_1mWkx5mD-G5joqSebBEGegE-GmPWeOGiABBLPfebo5vGgsz47sSNZ9C-mSybQ/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "bulgaria-vs-luxembourg-2475287",
+      "title": "Bulgaria vs Luxembourg",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "26 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1790438400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBIgImnsxDcQGkCCkgU57bkvmmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX Soccer Plus (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBIgImnsxDcQGkCCkgU57bkvmmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb20.strmd.st/secure/HoprLefcHoESqGJlIHryvOdtOEpZjgJr/admin/stream/ppv-bulgaria-vs-luxembourg/1/playlist.m3u8"
         },
         {
-          "channel_name": "Slovenia vs Scotland (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
+          "channel_name": "FOX Soccer Plus (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBIgImnsxDcQGkCCkgU57bkvmmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb20.strmd.st/secure/CeWLXSSKLhySUxuhQByUXfRgMLxjpewl/admin/stream/ppv-bulgaria-vs-luxembourg/2/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "iceland-vs-estonia-2442754",
+      "title": "Iceland vs Estonia",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "26 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1790438400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGD4gSuLhBDcQWkCCkgU5kPpwW+BYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fubo Sports (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGD4gSuLhBDcQWkCCkgU5kPpwW+BYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/DxFFJrtnoQPbiHHlAoVbQmKctLMKHrGl/delta/stream/live_uefa-nations-league-league-b-gr-1_slovenia-scotland-live-streaming-539380080/1/playlist.m3u8"
+          "direct_stream_url": "https://lb17.strmd.st/secure/aBIPcvbeApDTtmJlhZsLsUgPNxWPsYlr/admin/stream/ppv-iceland-vs-estonia/1/playlist.m3u8"
         },
         {
-          "channel_name": "DAZN Canada (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
+          "channel_name": "Fubo Sports (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGD4gSuLhBDcQWkCCkgU5kPpwW+BYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb17.strmd.st/secure/nnnEBafQAyGkJXZCirtrtODSizrVHZtB/admin/stream/ppv-iceland-vs-estonia/2/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "faroe-islands-vs-kazakhstan-2442753",
+      "title": "Faroe Islands vs Kazakhstan",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "26 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1790438400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRHxAhQCEDBDcQmrVJAozICLgskCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fubo Sports 2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRHxAhQCEDBDcQmrVJAozICLgskCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/AGpLAXtcdDEqHYaRNsrGRFUnYYWsnLbR/foxtrot/stream/scotland-v-slovenia-unl-401861057/1/playlist.m3u8"
+          "direct_stream_url": "https://lb20.strmd.st/secure/HHfLoFlCqvMWhhsLkazSimHZDWliFjbX/admin/stream/ppv-faroe-islands-vs-kazakhstan/1/playlist.m3u8"
         },
         {
-          "channel_name": "Slovenia vs Scotland (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
+          "channel_name": "Fubo Sports 2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRHxAhQCEDBDcQmrVJAozICLgskCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb20.strmd.st/secure/XZNHWSoXVBAobqecashYQqGowajMIEKh/admin/stream/ppv-faroe-islands-vs-kazakhstan/2/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "san-marino-vs-finland-2442752",
+      "title": "San Marino vs Finland",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "26 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1790438400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJCIlIFHRDcQfECc0pdICLgvwCwJBT7DZ9FGBV6278vSyy9TLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fubo Sports 3 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJCIlIFHRDcQfECc0pdICLgvwCwJBT7DZ9FGBV6278vSyy9TLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/GdEGlYswbhZNvVPwWKEmzKFqrTXaCdfc/hotel/stream/slovenia-vs-scotland-uefa-nations-league-1790427600/1/playlist.m3u8"
+          "direct_stream_url": "https://lb19.strmd.st/secure/rpFTRHRVxFXWWKyvKiAycdLSxzSXZMpC/admin/stream/ppv-san-marino-vs-finland/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fubo Sports 3 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJCIlIFHRDcQfECc0pdICLgvwCwJBT7DZ9FGBV6278vSyy9TLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb8.strmd.st/secure/cDDPcwlZeXYKccFbEkApjyrhqDFXUeem/admin/stream/ppv-san-marino-vs-finland/2/playlist.m3u8"
         }
       ]
     }
