@@ -1,121 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 24,
-  "total_matches": 24,
+  "total_items": 12,
+  "total_matches": 12,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-27 | 05:54:20",
-  "updated_at_bd": "2026-09-27T05:54:20+06:00",
+  "updated_time_bd": "2026-09-27 | 10:35:52",
+  "updated_at_bd": "2026-09-27T10:35:52+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "austin-fc-vs-san-diego-fc-2407106",
-      "title": "Austin FC vs San Diego FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1790469000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOHzAoxM7iD18QhgyBIhEEXEYLAkFPsNn0UYFdravy9LLO1NaYK5iohBAA.webp"
-    },
-    {
-      "id": "fc-dallas-vs-los-angeles-fc-2407103",
-      "title": "FC Dallas vs Los Angeles FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1790469000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLJTawQ0kNxB8QMEFIN6QiRCBAKmSCn2Gz6KMCpRc35ehtEemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "houston-dynamo-vs-sporting-kansas-city-2407107",
-      "title": "Houston Dynamo vs Sporting Kansas City",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1790469000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VenxACZtEiG5aQMEFMMHExkFoLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "nashville-sc-vs-toronto-fc-2407105",
-      "title": "Nashville SC vs Toronto FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1790469000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGMAAMlMFJBRuIQ3xAwQek4cQ4zUgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "ppv-fc-dallas-vs-lafc",
-      "title": "FC Dallas vs. LAFC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1790469000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBIgaw4PFIhEISeJARpIAMYaqIGBsRYRW4LpByLZCdYsRsKcnYFCRTbPTCFgSXJodCwbk47WTIHAgswQOA7MgggA.webp"
-    },
-    {
-      "id": "seattle-sounders-vs-minnesota-united-2407104",
-      "title": "Seattle Sounders vs Minnesota United",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1790469000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJD2BgQ8BHRDcQfIwZMkdICLhBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "pachuca-femenil-vs-santos-laguna-femenil-2548531",
-      "title": "Pachuca Femenil vs Santos Laguna Femenil",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 07:00 AM (BD Time)",
-      "start_epoch_ms": 1790470800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmZgQIKHxAkQ3EPp0RdIGAcvWNTJBT7DZ9FGBWa278vSyzNTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "tigres-uanl-vs-puebla-2487536",
-      "title": "Tigres UANL vs Puebla",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 07:00 AM (BD Time)",
-      "start_epoch_ms": 1790470800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGYMQKYAAZSIbiD4aQEcyBggSVmxoLAkFPsNn0UYFbrZfy9LFldJlowLzFRCCA.webp"
-    },
-    {
-      "id": "real-salt-lake-vs-new-england-revolution-2407108",
-      "title": "Real Salt Lake vs New England Revolution",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1790472600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGMBl8w2kJRDcQfIwZMkQiCLhAgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "la-galaxy-vs-colorado-rapids-2407109",
-      "title": "LA Galaxy vs Colorado Rapids",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1790476200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcFJB8QSsChDctRw9pIhEEcwYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "san-jose-earthquakes-vs-portland-timbers-2407111",
-      "title": "San Jose Earthquakes vs Portland Timbers",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1790476200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJlRIgUIKWCkhuIPiBi7jhkIhwGpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "vancouver-whitecaps-vs-dc-united-2407110",
-      "title": "Vancouver Whitecaps vs DC United",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1790476200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECn7AwYUVh4huIKSD4gI5kFZxmSuAsCQU+w2fRS62mtrvL19oppMtDqi9GFAA.webp"
-    },
     {
       "id": "lithuania-vs-azerbaijan-2442759",
       "title": "Lithuania vs Azerbaijan",
@@ -207,22 +99,22 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rdWBS4QtbiD18QMEFJCG9iCEZ0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "ppv-le-n-vs-fc-juarez",
-      "title": "León vs. FC Juarez",
+      "id": "le-n-vs-ju-rez-2487540",
+      "title": "León vs Juárez",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "28 Sep 2026, 07:00 AM (BD Time)",
       "start_epoch_ms": 1790557200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYiJILCGHAaiKhNLB4CkInnDNushDnYpIUiDPiQJEBDUjsllORsChdgkcdhCwJLnGOhMG5OG3kyR3d1MCDgG30gA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUPDAywPfiG4g+IYxBCmYIEiAtT9BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
-      "id": "ppv-necaxa-vs-am-rica",
-      "title": "Necaxa vs. América",
+      "id": "necaxa-vs-am-rica-2487541",
+      "title": "Necaxa vs América",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "28 Sep 2026, 09:00 AM (BD Time)",
       "start_epoch_ms": 1790564400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBDAqIRMOwgAxkpGzpwCNJAzNNeBpCaSIGCGNYlJhZokRJpDSnKaBQkU2z0whYElyKnITBuThsHJwJgfTBgjQcIIA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQljBSQIfsxDcQfHSAimQMECQshtEpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     }
   ]
 }
