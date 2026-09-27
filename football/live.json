@@ -1,11 +1,52 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-09-27 | 16:12:08",
-  "updated_at_bd": "2026-09-27T16:12:08+06:00",
+  "total_items": 4,
+  "total_matches": 1,
+  "total_streams": 4,
+  "updated_time_bd": "2026-09-27 | 21:10:02",
+  "updated_at_bd": "2026-09-27T21:10:02+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "lithuania-vs-azerbaijan-2442759",
+      "title": "Lithuania vs Azerbaijan",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "27 Sep 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1790514000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "FS2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/mmORRElCJtLktfESkUzHSIEcgHRzagLx/rtmp/stream/E9fektjlGjvQiNlMAmWsiFXdL_3zQRsDTlyKsWOjDa-XzuEi5OhnbVKiMEhVN-PHjg8tcxA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "FS2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb8.strmd.st/secure/bRLGPfXGLUwFQXASlDUrYXrXmgdByfty/rtmp/stream/kp1aS6ycl5zQGv1iOVBETYMsW32nQzQktdUWfF_g8pqKHy4sAHK9x4p34IEpKs2-qO5NZraHb3Ac/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN Canada (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/CwvQJxtgFLGBKVqiezhFyjQqQmmVmhkp/foxtrot/stream/azerbaijan-v-lithuania-unl-401861067/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Lithuania vs Azerbaijan (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/TEhFYWOFAPIjcBJnfFxobgSfdOUyswCK/hotel/stream/lithuania-vs-azerbaijan-uefa-nations-league-1790514000/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }

@@ -1,22 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 12,
-  "total_matches": 12,
+  "total_items": 11,
+  "total_matches": 11,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-27 | 16:12:08",
-  "updated_at_bd": "2026-09-27T16:12:08+06:00",
+  "updated_time_bd": "2026-09-27 | 21:10:02",
+  "updated_at_bd": "2026-09-27T21:10:02+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "lithuania-vs-azerbaijan-2442759",
-      "title": "Lithuania vs Azerbaijan",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Sep 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1790514000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp"
-    },
     {
       "id": "austria-vs-kosovo-2442762",
       "title": "Austria vs Kosovo",

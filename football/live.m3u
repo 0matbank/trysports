@@ -1,6 +1,34 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-09-27 | 16:12:08
+# TOTAL-ITEMS: 4
+# UPDATED Time and date BD: 2026-09-27 | 21:10:02
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="FS2 (HD)" tvg-name="FS2 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp" group-title="Football", FS2 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/mmORRElCJtLktfESkUzHSIEcgHRzagLx/rtmp/stream/E9fektjlGjvQiNlMAmWsiFXdL_3zQRsDTlyKsWOjDa-XzuEi5OhnbVKiMEhVN-PHjg8tcxA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FS2 (SD)" tvg-name="FS2 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp" group-title="Football", FS2 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/bRLGPfXGLUwFQXASlDUrYXrXmgdByfty/rtmp/stream/kp1aS6ycl5zQGv1iOVBETYMsW32nQzQktdUWfF_g8pqKHy4sAHK9x4p34IEpKs2-qO5NZraHb3Ac/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp" group-title="Football", DAZN Canada (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/CwvQJxtgFLGBKVqiezhFyjQqQmmVmhkp/foxtrot/stream/azerbaijan-v-lithuania-unl-401861067/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lithuania vs Azerbaijan (HD)" tvg-name="Lithuania vs Azerbaijan (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp" group-title="Football", Lithuania vs Azerbaijan (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/TEhFYWOFAPIjcBJnfFxobgSfdOUyswCK/hotel/stream/lithuania-vs-azerbaijan-uefa-nations-league-1790514000/1/playlist.m3u8
 
