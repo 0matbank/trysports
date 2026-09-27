@@ -1,21 +1,113 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 4,
-  "total_matches": 1,
-  "total_streams": 4,
-  "updated_time_bd": "2026-09-27 | 21:10:02",
-  "updated_at_bd": "2026-09-27T21:10:02+06:00",
+  "total_items": 17,
+  "total_matches": 4,
+  "total_streams": 17,
+  "updated_time_bd": "2026-09-28 | 00:59:06",
+  "updated_at_bd": "2026-09-28T00:59:06+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "lithuania-vs-azerbaijan-2442759",
-      "title": "Lithuania vs Azerbaijan",
+      "id": "israel-vs-ireland-2442765",
+      "title": "Israel vs Ireland",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "27 Sep 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1790514000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp",
+      "start_time_bd": "28 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790534700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGVF58w2qSG4g+IY3pQgzEEIgMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX Soccer Plus (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGVF58w2qSG4g+IY3pQgzEEIgMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/tvrNTQbTmNdYglOIWSBzUbGPrpEFJYda/rtmp/stream/7XykfeSGF-bjnXJo_IeFF1sNdk4sj1s8I9pwMRz5xJVWSRlaB3_deA2z44Y-gF5JT3lL6wDjbqE50A/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "FOX Soccer Plus (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGVF58w2qSG4g+IY3pQgzEEIgMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb3.strmd.st/secure/SiDUzpKEaHlSFBCPIVEkHEMIjOQNBnDL/rtmp/stream/XRCKoUHTIdQ0iFUfBldCJP4g2JNQ0B5MO9r9cKmPoJD3VPp15MK3v67V3lVA1lDwyyfcQfUUWYu4KuYiLx0/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Israel vs Ireland (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGVF58w2qSG4g+IY3pQgzEEIgMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/zDFOGCqKzszHGXPAIPIEhWedEoGWcJGX/delta/stream/live_uefa-nations-league-league-b-gr-3_israel-ireland-live-streaming-539450496/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN Canada (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGVF58w2qSG4g+IY3pQgzEEIgMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/keHLJlGLjBYnFEJquidsUrnGgnMUqmZN/foxtrot/stream/republic-of-ireland-v-israel-unl-401861072/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Israel vs Ireland (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGVF58w2qSG4g+IY3pQgzEEIgMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/lgVzwpNrmGZwEQVNtKHXewUrJhEDCtpl/hotel/stream/israel-vs-republic-of-ireland-uefa-nations-league-1790534700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "norway-vs-portugal-2442764",
+      "title": "Norway vs Portugal",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "28 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790534700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWlh5zgMkiG4g+IY1JAozICCEQGzTJBT7DZ9FGBUou78vU2jPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fubo PPV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWlh5zgMkiG4g+IY1JAozICCEQGzTJBT7DZ9FGBUou78vU2jPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/AUwqWnGyBNWJlcPEImLpXpuSkMKZrCUi/rtmp/stream/aps9eaJmHhWMrNbzA55v3TFLtLWlTbRISLLVistVyg9spPBIh7BBu1pHWcEmg12SKd-4Enb_3hfUPg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fubo PPV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWlh5zgMkiG4g+IY1JAozICCEQGzTJBT7DZ9FGBUou78vU2jPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/NWlssAkMsagxscyzqnMVwYlcrMOdXcKe/rtmp/stream/CNIxM-4IxkLMElwr4YiEo-w1vV137g2v7o1MUAsebAbWEfyCDHMIUkFE9Ld8tS0Xc2nk15cJljCpy6ErWOg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Norway vs Portugal (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWlh5zgMkiG4g+IY1JAozICCEQGzTJBT7DZ9FGBUou78vU2jPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/iHzGTUEDiPOcsDUSATMBRPtnhpMlLHeF/delta/stream/live_uefa-nations-league-league-a-gr-4_norway-portugal-live-streaming-539449632/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN Canada (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWlh5zgMkiG4g+IY1JAozICCEQGzTJBT7DZ9FGBUou78vU2jPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/ctSgpkJtCCbIZLKddVirvbrMsnHcLYgc/foxtrot/stream/portugal-v-norway-unl-401861073/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Norway vs Portugal (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWlh5zgMkiG4g+IY1JAozICCEQGzTJBT7DZ9FGBUou78vU2jPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/lpgiafElAtNJfxgUYGFQSqLEqiBCgdAp/hotel/stream/norway-vs-portugal-uefa-nations-league-1790534700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "germany-vs-greece-2442763",
+      "title": "Germany vs Greece",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "28 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790534700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhRgkIKSBS6Q3EHxBm9BgxA1HdBYEgp9hs+lpUouYMvCJZZnky0YN5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -24,27 +116,61 @@
       "streams": [
         {
           "channel_name": "FS2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhRgkIKSBS6Q3EHxBm9BgxA1HdBYEgp9hs+lpUouYMvCJZZnky0YN5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/mmORRElCJtLktfESkUzHSIEcgHRzagLx/rtmp/stream/E9fektjlGjvQiNlMAmWsiFXdL_3zQRsDTlyKsWOjDa-XzuEi5OhnbVKiMEhVN-PHjg8tcxA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb9.strmd.st/secure/lYBLurkpFENTGpSjuqmsJRlzGEqeoNND/rtmp/stream/TZWBnOe2vVht456eG8r3Qm7mOevnrIVFQ9t8r82W5nt4vmo3Z8khSipumkMsGrX9Zdzn8JA/1/playlist.m3u8"
         },
         {
           "channel_name": "FS2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhRgkIKSBS6Q3EHxBm9BgxA1HdBYEgp9hs+lpUouYMvCJZZnky0YN5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/bRLGPfXGLUwFQXASlDUrYXrXmgdByfty/rtmp/stream/kp1aS6ycl5zQGv1iOVBETYMsW32nQzQktdUWfF_g8pqKHy4sAHK9x4p34IEpKs2-qO5NZraHb3Ac/1/playlist.m3u8"
+          "direct_stream_url": "https://lb9.strmd.st/secure/uhFKwKYNXVqLdYJYePtfKhczbVdLeFGK/rtmp/stream/hj_WtIIQCycr3tI1aFu6oWbzn74HSYNCM2xHG1Cxwd2B5097l2KAWPUvKcMrdkvIanKZnlGgqPFE/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Germany vs Greece (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhRgkIKSBS6Q3EHxBm9BgxA1HdBYEgp9hs+lpUouYMvCJZZnky0YN5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb18.strmd.st/secure/TVembXZRORVNbkREwmOwLMJquKVpXBQK/delta/stream/live_uefa-nations-league-league-a-gr-2_germany-greece-live-streaming-539448768/1/playlist.m3u8"
         },
         {
           "channel_name": "DAZN Canada (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhRgkIKSBS6Q3EHxBm9BgxA1HdBYEgp9hs+lpUouYMvCJZZnky0YN5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/CwvQJxtgFLGBKVqiezhFyjQqQmmVmhkp/foxtrot/stream/azerbaijan-v-lithuania-unl-401861067/1/playlist.m3u8"
+          "direct_stream_url": "https://lb18.strmd.st/secure/yprJRIhGSgosizTGzhvwaAbvtkGSDiGv/foxtrot/stream/greece-v-germany-unl-401861074/1/playlist.m3u8"
         },
         {
-          "channel_name": "Lithuania vs Azerbaijan (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp",
+          "channel_name": "Germany vs Greece (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhRgkIKSBS6Q3EHxBm9BgxA1HdBYEgp9hs+lpUouYMvCJZZnky0YN5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/TEhFYWOFAPIjcBJnfFxobgSfdOUyswCK/hotel/stream/lithuania-vs-azerbaijan-uefa-nations-league-1790514000/1/playlist.m3u8"
+          "direct_stream_url": "https://lb18.strmd.st/secure/BIwhUnunNTASYuUAuNrGscGfnbkJomGj/hotel/stream/germany-vs-greece-uefa-nations-league-1790534700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "pumas-unam-vs-atl-tico-de-san-luis-2487539",
+      "title": "Pumas UNAM vs Atlético de San Luis",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "28 Sep 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1790532000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDQjZgUrCBghFZOcJkgAxiBLjSwKiGHiNpEBBBzFKA+ZCTrhiCnJSBQkU2lOwhYElzqnITBuTilVMicCYHhyYJldCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - TUDN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDQjZgUrCBghFZOcJkgAxiBLjSwKiGHiNpEBBBzFKA+ZCTrhiCnJSBQkU2lOwhYElzqnITBuTilVMicCYHhyYJldCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb18.strmd.st/secure/uGmKCdkdTgWMIGKKkvSOmttEhqHRpaoo/rtmp/stream/JIfgWubDV0_u6NCALVx9V61PdJZ7P14NLU16N2wOa2VanE19Ax3AbjhLlMdQ4rRQUXvo3D1mStNj/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - TUDN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDQjZgUrCBghFZOcJkgAxiBLjSwKiGHiNpEBBBzFKA+ZCTrhiCnJSBQkU2lOwhYElzqnITBuTilVMicCYHhyYJldCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb12.strmd.st/secure/LIfIGrleFJwJbNfpwcLVKSNuyhlAimjz/rtmp/stream/jC1Xb0gl1ByKv-ntLZjr5NNhKoMNym6hG6Bb4c48vF3JCtPwpf-bSb0G-_P0HRY2-zRZjZFUfYUiMi6F2g/1/playlist.m3u8"
         }
       ]
     }
