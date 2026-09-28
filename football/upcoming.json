@@ -1,22 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 11,
-  "total_matches": 11,
+  "total_items": 10,
+  "total_matches": 10,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-28 | 03:57:29",
-  "updated_at_bd": "2026-09-28T03:57:29+06:00",
+  "updated_time_bd": "2026-09-28 | 06:26:03",
+  "updated_at_bd": "2026-09-28T06:26:03+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "columbus-crew-vs-inter-miami-2407112",
-      "title": "Columbus Crew vs Inter Miami",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "28 Sep 2026, 05:00 AM (BD Time)",
-      "start_epoch_ms": 1790550000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rdWBS4QtbiD18QMEFJCG9iCEZ0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "le-n-vs-ju-rez-2487540",
       "title": "León vs Juárez",
