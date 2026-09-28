@@ -1,84 +1,102 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 10,
-  "total_matches": 10,
+  "total_items": 12,
+  "total_matches": 12,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-28 | 18:02:16",
-  "updated_at_bd": "2026-09-28T18:02:16+06:00",
+  "updated_time_bd": "2026-09-29 | 01:36:44",
+  "updated_at_bd": "2026-09-29T01:36:44+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "armenia-vs-montenegro-2442767",
-      "title": "Armenia vs Montenegro",
+      "id": "finland-vs-belarus-2442776",
+      "title": "Finland vs Belarus",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "28 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1790611200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLAxAQQMXCH3cQffSCkgU5rSEQ54BYEgp9hs+ijAqUXD+XobRXky0YB5iohBAA.webp"
+      "start_time_bd": "29 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1790697600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxy6IGMBncQBviBNSQKcyAghEiFAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
     },
     {
-      "id": "georgia-vs-ukraine-2442766",
-      "title": "Georgia vs Ukraine",
+      "id": "moldova-vs-faroe-islands-2442778",
+      "title": "Moldova vs Faroe Islands",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "28 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1790611200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNkjC9W2kNxB8QRqSBSmQEEIhwSmmmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+      "start_time_bd": "29 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1790697600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWFFIwG+GBAhuIPgZBSQKCyAghENiU20x+w2fRSa2KLpvL0sst5MtGCe9KIQQA.webp"
     },
     {
-      "id": "latvia-vs-cyprus-2475291",
-      "title": "Latvia vs Cyprus",
+      "id": "bulgaria-vs-estonia-2442779",
+      "title": "Bulgaria vs Estonia",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "28 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1790611200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPQAMIXtx1gpOkHxCnDKEBYghEiRsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
+      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790707500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmG4gQwAAxywfEFqPapIFBZAQQiG-ALAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
     },
     {
-      "id": "belgium-vs-france-2442768",
-      "title": "Belgium vs France",
+      "id": "czechia-vs-england-football-1528910",
+      "title": "Czechia vs England",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "29 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790621100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxhuIGCFFTcIbXxCmDKEBYghEOBUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
+      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790707500000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkpAx65Boubie8EVW4EurMGFz5zQA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGPXIMAxs3E94IqtwJdWYMLnxmgA.webp"
     },
     {
-      "id": "n-ireland-vs-hungary-2442770",
-      "title": "N.Ireland vs Hungary",
+      "id": "luxembourg-vs-iceland-2475293",
+      "title": "Luxembourg vs Iceland",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "29 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790621100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPV7raTFCG4g+IY1JB69EEIhx8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
+      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790707500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDmwQtRChDcQfDSCkh9+iDpBWpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
-      "id": "ppv-t-rkiye-vs-italy",
-      "title": "Türkiye vs. Italy",
+      "id": "san-marino-vs-albania-2442775",
+      "title": "San Marino vs Albania",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "29 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790621100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiLCBTB4wKiDnCQMrNNmkQAY0kgSICCEWKyNMohibSIqwpAhZILFP5hBVgtnphCwJLg1ShF1YIKzIpdxkwF2AQsgggA.webp"
+      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790707500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGF5V6SMFJDcQfECf0oQ5iCESI+BYLpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
-      "id": "romania-vs-bosnia-herzegovina-2442772",
-      "title": "Romania vs Bosnia-Herzegovina",
+      "id": "scotland-vs-switzerland-2475294",
+      "title": "Scotland vs Switzerland",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "29 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790621100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWBIgZAkMxDcQfECakgU5kBBCJEEpkgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp"
+      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790707500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBIgo3MLz4huIAyBBSQKC9pCIIpgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
     },
     {
-      "id": "sweden-vs-poland-2442771",
-      "title": "Sweden vs Poland",
+      "id": "slovakia-vs-kazakhstan-2442777",
+      "title": "Slovakia vs Kazakhstan",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "29 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790621100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxhewaCjYhuIPiBNSQKcyAghEOFAWBIKfYbPoowKvW0-l6WWT0mWjBPMVEIIA.webp"
+      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790707500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUXzBI6IGMxDcQfECakgU5kBBCJrMAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
+    },
+    {
+      "id": "slovenia-vs-north-macedonia-2475292",
+      "title": "Slovenia vs North Macedonia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790707500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEcDBgZABmBSQ3EHxCmDKEBYghE1hUyQU+w2fRRgVKLh-L0ssryZaLVF6UKA.webp"
+    },
+    {
+      "id": "spain-vs-croatia-2442773",
+      "title": "Spain vs Croatia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790707500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHPV7gQpENxB8QRqSBSmQEEIkQKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
       "id": "ppv-red-bull-new-york-vs-st-louis-city-sc",
