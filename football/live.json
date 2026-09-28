@@ -1,40 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 2,
-  "total_matches": 1,
-  "total_streams": 2,
-  "updated_time_bd": "2026-09-28 | 11:44:31",
-  "updated_at_bd": "2026-09-28T11:44:31+06:00",
+  "total_items": 0,
+  "total_matches": 0,
+  "total_streams": 0,
+  "updated_time_bd": "2026-09-28 | 18:02:16",
+  "updated_at_bd": "2026-09-28T18:02:16+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "columbus-crew-vs-inter-miami-2407112",
-      "title": "Columbus Crew vs Inter Miami",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "28 Sep 2026, 05:00 AM (BD Time)",
-      "start_epoch_ms": 1790550000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rdWBS4QtbiD18QMEFJCG9iCEZ0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Columbus Crew vs Inter Miami (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rdWBS4QtbiD18QMEFJCG9iCEZ0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb20.strmd.st/secure/euLdPimEgXBWgbjTBxxmWTPJKCPFNmxo/delta/stream/live_mls_columbus-inter-miami-live-streaming-539451792/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "MLS Season Pass (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rdWBS4QtbiD18QMEFJCG9iCEZ0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb20.strmd.st/secure/kzNUBXaRYFcSElRLRmQfgHigumNClxcY/foxtrot/stream/inter-miami-cf-v-columbus-crew-761844/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
