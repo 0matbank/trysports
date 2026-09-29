@@ -1,85 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 12,
-  "total_matches": 12,
+  "total_items": 4,
+  "total_matches": 4,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-29 | 22:55:51",
-  "updated_at_bd": "2026-09-29T22:55:51+06:00",
+  "updated_time_bd": "2026-09-30 | 03:19:05",
+  "updated_at_bd": "2026-09-30T03:19:05+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "bulgaria-vs-estonia-2442779",
-      "title": "Bulgaria vs Estonia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790707500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmG4gQwAAxywfEFqPapIFBZAQQiG-ALAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
-    },
-    {
-      "id": "luxembourg-vs-iceland-2475293",
-      "title": "Luxembourg vs Iceland",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790707500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDmwQtRChDcQfDSCkh9+iDpBWpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "ppv-czechia-vs-england",
-      "title": "Czechia vs. England",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790707500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IECJDDxweMAjAqILCCUBjSSvHDZIFCDVSD849KU6SR8es16U5BQKEim2emELAkuNfaFhuTgULegJZcgD5UnkgA.webp"
-    },
-    {
-      "id": "san-marino-vs-albania-2442775",
-      "title": "San Marino vs Albania",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790707500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGF5V6SMFJDcQfECf0oQ5iCESI+BYLpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "scotland-vs-switzerland-2475294",
-      "title": "Scotland vs Switzerland",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790707500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBIgo3MLz4huIAyBBSQKC9pCIIpgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
-    {
-      "id": "slovakia-vs-kazakhstan-2442777",
-      "title": "Slovakia vs Kazakhstan",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790707500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUXzBI6IGMxDcQfECakgU5kBBCJrMAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
-    {
-      "id": "slovenia-vs-north-macedonia-2475292",
-      "title": "Slovenia vs North Macedonia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790707500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEcDBgZABmBSQ3EHxCmDKEBYghE1hUyQU+w2fRRgVKLh-L0ssryZaLVF6UKA.webp"
-    },
-    {
-      "id": "spain-vs-croatia-2442773",
-      "title": "Spain vs Croatia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "30 Sep 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790707500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHPV7gQpENxB8QRqSBSmQEEIkQKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "usa-vs-chile-2578512",
       "title": "USA vs Chile",
