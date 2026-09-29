@@ -1,13 +1,62 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 1
-# UPDATED Time and date BD: 2026-09-29 | 17:20:36
+# TOTAL-ITEMS: 8
+# UPDATED Time and date BD: 2026-09-29 | 22:55:51
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
-#EXTINF:-1 tvg-id="Australia vs Brazil (HD)" tvg-name="Australia vs Brazil (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCBIhuIGTgjaQfECakgUJ80cPwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Australia vs Brazil (HD)
+#EXTINF:-1 tvg-id="DAZN (HD)" tvg-name="DAZN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWFFIwG+GBAhuIPgZBSQKCyAghENiU20x+w2fRSa2KLpvL0sst5MtGCe9KIQQA.webp" group-title="Football", DAZN (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb3.strmd.st/secure/UjsCMwlhCuOjJboiUJdcokDnYWeUVOgo/delta/stream/live_int-friendly-games_australia-brazil-live-streaming-626318784/1/playlist.m3u8
+https://lb7.strmd.st/secure/ojqKxpzknTfHcnLMUNgfYNjqboRFjcFc/rtmp/stream/tgIdLZOED8XgSxVf66QcnCCt6MC61ObCK9MQViJaJYFVB1W0BlGZaaMdYsYJAAxcXquAPdrrHqTHDg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN (SD)" tvg-name="DAZN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWFFIwG+GBAhuIPgZBSQKCyAghENiU20x+w2fRSa2KLpvL0sst5MtGCe9KIQQA.webp" group-title="Football", DAZN (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb7.strmd.st/secure/sLobHhQQXJgNeoHRDxbXdGuHguAcRMUT/rtmp/stream/1IyTAHgRa_JFVTKeu9-oxZPiHMVIIAWXsv0AiZSw8c4IvuiBBc1oXYCmqw7Mu0RGzzsWpHqdCDMneBgWi3Y/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Moldova vs Faroe Islands (HD)" tvg-name="Moldova vs Faroe Islands (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWFFIwG+GBAhuIPgZBSQKCyAghENiU20x+w2fRSa2KLpvL0sst5MtGCe9KIQQA.webp" group-title="Football", Moldova vs Faroe Islands (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb7.strmd.st/secure/WMVtwowOrNbgdPwMcSThDUzhdBAoVmTz/delta/stream/live_uefa-nations-league-league-c-gr-3_moldova-faroe-islands-live-streaming-539465184/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Moldova vs Faroe Islands (HD)" tvg-name="Moldova vs Faroe Islands (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWFFIwG+GBAhuIPgZBSQKCyAghENiU20x+w2fRSa2KLpvL0sst5MtGCe9KIQQA.webp" group-title="Football", Moldova vs Faroe Islands (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb7.strmd.st/secure/YDtokMReqXsZKQQPFeFMrpTneZhcbOtl/hotel/stream/moldova-vs-faroe-islands-uefa-nations-league-1790697600/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN (HD)" tvg-name="DAZN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxy6IGMBncQBviBNSQKcyAghEiFAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Football", DAZN (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb14.strmd.st/secure/LdKmzoqjZVUcFWUZSvzqBUTOOkTrWkag/rtmp/stream/Qct_Q-MTje9MhANIDPRCHVs-7KXknMaZdyFrOLONnrL3zRBoByJhJhCpBOUpwA3b8d2AScq1WSaaJA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN (SD)" tvg-name="DAZN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxy6IGMBncQBviBNSQKcyAghEiFAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Football", DAZN (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb14.strmd.st/secure/dlCjnTNSlaIRrrTQFSUzWueMMvBCXwRP/rtmp/stream/S0jOF8bZ4Lc06XXa9GYp2yCB4w3of9HkN-AOan45EdFSpWBmFoSz0G4NUFe63DEUg3U9nP_a0nYeCbgwEe0/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Finland vs Belarus (HD)" tvg-name="Finland vs Belarus (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxy6IGMBncQBviBNSQKcyAghEiFAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Football", Finland vs Belarus (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb14.strmd.st/secure/gKPKXOUDcPMBOqSGBCIjVHAkkOquDVYR/delta/stream/live_uefa-nations-league-league-c-gr-1_finland-belarus-live-streaming-539464320/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Finland vs Belarus (HD)" tvg-name="Finland vs Belarus (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxy6IGMBncQBviBNSQKcyAghEiFAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Football", Finland vs Belarus (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb14.strmd.st/secure/WIhnSTzkUvxCjaeryZAPnWyyiElVQgfK/hotel/stream/finland-vs-belarus-uefa-nations-league-1790697600/1/playlist.m3u8
 

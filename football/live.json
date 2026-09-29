@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 1,
-  "total_matches": 1,
-  "total_streams": 1,
-  "updated_time_bd": "2026-09-29 | 17:20:36",
-  "updated_at_bd": "2026-09-29T17:20:36+06:00",
+  "total_items": 8,
+  "total_matches": 2,
+  "total_streams": 8,
+  "updated_time_bd": "2026-09-29 | 22:55:51",
+  "updated_at_bd": "2026-09-29T22:55:51+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "australia-vs-brazil-2523480",
-      "title": "Australia vs Brazil",
+      "id": "moldova-vs-faroe-islands-2442778",
+      "title": "Moldova vs Faroe Islands",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "29 Sep 2026, 04:00 PM (BD Time)",
-      "start_epoch_ms": 1790676000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCBIhuIGTgjaQfECakgUJ80cPwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "start_time_bd": "29 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1790697600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWFFIwG+GBAhuIPgZBSQKCyAghENiU20x+w2fRSa2KLpvL0sst5MtGCe9KIQQA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,10 +23,68 @@
       },
       "streams": [
         {
-          "channel_name": "Australia vs Brazil (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCBIhuIGTgjaQfECakgUJ80cPwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_name": "DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWFFIwG+GBAhuIPgZBSQKCyAghENiU20x+w2fRSa2KLpvL0sst5MtGCe9KIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb3.strmd.st/secure/UjsCMwlhCuOjJboiUJdcokDnYWeUVOgo/delta/stream/live_int-friendly-games_australia-brazil-live-streaming-626318784/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/ojqKxpzknTfHcnLMUNgfYNjqboRFjcFc/rtmp/stream/tgIdLZOED8XgSxVf66QcnCCt6MC61ObCK9MQViJaJYFVB1W0BlGZaaMdYsYJAAxcXquAPdrrHqTHDg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWFFIwG+GBAhuIPgZBSQKCyAghENiU20x+w2fRSa2KLpvL0sst5MtGCe9KIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/sLobHhQQXJgNeoHRDxbXdGuHguAcRMUT/rtmp/stream/1IyTAHgRa_JFVTKeu9-oxZPiHMVIIAWXsv0AiZSw8c4IvuiBBc1oXYCmqw7Mu0RGzzsWpHqdCDMneBgWi3Y/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Moldova vs Faroe Islands (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWFFIwG+GBAhuIPgZBSQKCyAghENiU20x+w2fRSa2KLpvL0sst5MtGCe9KIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/WMVtwowOrNbgdPwMcSThDUzhdBAoVmTz/delta/stream/live_uefa-nations-league-league-c-gr-3_moldova-faroe-islands-live-streaming-539465184/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Moldova vs Faroe Islands (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWFFIwG+GBAhuIPgZBSQKCyAghENiU20x+w2fRSa2KLpvL0sst5MtGCe9KIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/YDtokMReqXsZKQQPFeFMrpTneZhcbOtl/hotel/stream/moldova-vs-faroe-islands-uefa-nations-league-1790697600/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "finland-vs-belarus-2442776",
+      "title": "Finland vs Belarus",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "29 Sep 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1790697600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxy6IGMBncQBviBNSQKcyAghEiFAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxy6IGMBncQBviBNSQKcyAghEiFAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/LdKmzoqjZVUcFWUZSvzqBUTOOkTrWkag/rtmp/stream/Qct_Q-MTje9MhANIDPRCHVs-7KXknMaZdyFrOLONnrL3zRBoByJhJhCpBOUpwA3b8d2AScq1WSaaJA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxy6IGMBncQBviBNSQKcyAghEiFAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb14.strmd.st/secure/dlCjnTNSlaIRrrTQFSUzWueMMvBCXwRP/rtmp/stream/S0jOF8bZ4Lc06XXa9GYp2yCB4w3of9HkN-AOan45EdFSpWBmFoSz0G4NUFe63DEUg3U9nP_a0nYeCbgwEe0/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Finland vs Belarus (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxy6IGMBncQBviBNSQKcyAghEiFAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/gKPKXOUDcPMBOqSGBCIjVHAkkOquDVYR/delta/stream/live_uefa-nations-league-league-c-gr-1_finland-belarus-live-streaming-539464320/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Finland vs Belarus (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxy6IGMBncQBviBNSQKcyAghEiFAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb14.strmd.st/secure/WIhnSTzkUvxCjaeryZAPnWyyiElVQgfK/hotel/stream/finland-vs-belarus-uefa-nations-league-1790697600/1/playlist.m3u8"
         }
       ]
     }

@@ -1,31 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 14,
-  "total_matches": 14,
+  "total_items": 12,
+  "total_matches": 12,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-29 | 17:20:36",
-  "updated_at_bd": "2026-09-29T17:20:36+06:00",
+  "updated_time_bd": "2026-09-29 | 22:55:51",
+  "updated_at_bd": "2026-09-29T22:55:51+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "finland-vs-belarus-2442776",
-      "title": "Finland vs Belarus",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "29 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1790697600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxy6IGMBncQBviBNSQKcyAghEiFAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
-    },
-    {
-      "id": "moldova-vs-faroe-islands-2442778",
-      "title": "Moldova vs Faroe Islands",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "29 Sep 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1790697600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWFFIwG+GBAhuIPgZBSQKCyAghENiU20x+w2fRSa2KLpvL0sst5MtGCe9KIQQA.webp"
-    },
     {
       "id": "bulgaria-vs-estonia-2442779",
       "title": "Bulgaria vs Estonia",
