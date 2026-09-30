@@ -1,34 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 1,
-  "total_matches": 1,
-  "total_streams": 1,
-  "updated_time_bd": "2026-09-30 | 06:34:16",
-  "updated_at_bd": "2026-09-30T06:34:16+06:00",
+  "total_items": 0,
+  "total_matches": 0,
+  "total_streams": 0,
+  "updated_time_bd": "2026-09-30 | 11:58:08",
+  "updated_at_bd": "2026-09-30T11:58:08+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "usa-vs-chile-2578512",
-      "title": "USA vs Chile",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "30 Sep 2026, 06:00 AM (BD Time)",
-      "start_epoch_ms": 1790726400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKPRlZBJENxB8QRqSBRHTBkLsbAkFPsNn0UYFSi6vy9baPdNaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "USA vs Chile (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKPRlZBJENxB8QRqSBRHTBkLsbAkFPsNn0UYFSi6vy9baPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb12.strmd.st/secure/imGEfYIDGIKpQmpwovjYDMaRTKvMNqRN/delta/stream/live_int-friendly-games_usa-chile-live-streaming-626517936/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
