@@ -1,31 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 12,
-  "total_matches": 12,
+  "total_items": 10,
+  "total_matches": 10,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-01 | 00:00:04",
-  "updated_at_bd": "2026-10-01T00:00:04+06:00",
+  "updated_time_bd": "2026-10-01 | 04:09:21",
+  "updated_at_bd": "2026-10-01T04:09:21+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "eastleigh-vs-southend-united-2528289",
-      "title": "Eastleigh vs Southend United",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "01 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790793900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmBTNgYEPRQhuIPiBLHDFxIiMSmSCn2Gz9YFVravy9LLK1NaYK5iohBAA.webp"
-    },
-    {
-      "id": "tamworth-vs-sutton-united-2528290",
-      "title": "Tamworth vs Sutton United",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "01 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790793900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxD0kIcDsSa+IEiCObNiFLi0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "new-york-red-bulls-vs-st--louis-city-sc-2407102",
       "title": "New York Red Bulls vs St. Louis City SC",
