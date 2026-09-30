@@ -1,31 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 4,
-  "total_matches": 4,
+  "total_items": 2,
+  "total_matches": 2,
   "total_streams": 0,
-  "updated_time_bd": "2026-09-30 | 03:19:05",
-  "updated_at_bd": "2026-09-30T03:19:05+06:00",
+  "updated_time_bd": "2026-09-30 | 06:34:16",
+  "updated_at_bd": "2026-09-30T06:34:16+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "usa-vs-chile-2578512",
-      "title": "USA vs Chile",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "30 Sep 2026, 06:00 AM (BD Time)",
-      "start_epoch_ms": 1790726400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKPRlZBJENxB8QRqSBRHTBkLsbAkFPsNn0UYFSi6vy9baPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "mexico-vs-peru-2578511",
-      "title": "Mexico vs Peru",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "30 Sep 2026, 07:00 AM (BD Time)",
-      "start_epoch_ms": 1790730000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJDwwSYEmw8Q3EHxBnNKMyEumSIGAT0U+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
     {
       "id": "new-york-red-bulls-vs-st--louis-city-sc-2407102",
       "title": "New York Red Bulls vs St. Louis City SC",
