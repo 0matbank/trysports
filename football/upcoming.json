@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 9,
-  "total_matches": 9,
+  "total_items": 14,
+  "total_matches": 14,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-01 | 13:17:28",
-  "updated_at_bd": "2026-10-01T13:17:28+06:00",
+  "updated_time_bd": "2026-10-01 | 20:34:57",
+  "updated_at_bd": "2026-10-01T20:34:57+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -16,6 +16,24 @@
       "start_time_bd": "01 Oct 2026, 10:00 PM (BD Time)",
       "start_epoch_ms": 1790870400000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXMCRgto+khDcQfECakgU5kBBCJrKApop9hs+ijAqUXD+XpZZXky0YB5iukA.webp"
+    },
+    {
+      "id": "ppv-austria-vienna-vs-inter-milan",
+      "title": "Austria Vienna vs. Inter Milan",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "01 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1790873100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCGHYQiKiCzAJKGaRGTgNOTGkhxwRBJD7dKkpJDayczRpTkIoMIJFNs9MIWBJcAYztCnVgcpMjsCfXInRVUIIA.webp"
+    },
+    {
+      "id": "ppv-hb-k-ge-vs-servette",
+      "title": "HB Køge vs. Servette",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "01 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1790873100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSADGIFCCwyQJEPGARgKxEqrL1qkGrXztSiCBj65wbbK3LFZ8SnJqBQkU2z0whYElySnITBuTjVhUnoCXTBg1QiIIA.webp"
     },
     {
       "id": "denmark-vs-portugal-2442783",
@@ -81,6 +99,24 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDNoAGEHHrruIPiBNSQKcyAghEJECQLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
     },
     {
+      "id": "manchester-city-wfc-vs-real-madrid-femenino-2599902",
+      "title": "Manchester City WFC vs Real Madrid Femenino",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "02 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1790881200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcBpZJIFJNKyQJECunK5yiCpBUQWHSEQ1d8YKYhnDeyzGBaAxnP5hBIptnphCwJLkdDybk4LCTI5AjNyFztSOyA.webp"
+    },
+    {
+      "id": "ppv-paris-saint-germain-vs-oh-leuven",
+      "title": "Paris Saint-Germain vs. OH Leuven",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "02 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1790881200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IECJABjYBBAkQMRbOA0Fw8dJBZxszVJBUQGlKRBzEZI1mDxsqvb3IRQYQSKb3TYQsCS4pUyE3VhdhUnoCW3I3FTIIIA.webp"
+    },
+    {
       "id": "seattle-sounders-vs-sporting-kansas-city-2407065",
       "title": "Seattle Sounders vs Sporting Kansas City",
       "category": "football",
@@ -88,6 +124,15 @@
       "start_time_bd": "02 Oct 2026, 07:30 AM (BD Time)",
       "start_epoch_ms": 1790904600000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKCRBlwIHiG4g+h-cc2IIJmAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
+    },
+    {
+      "id": "kazakhstan-vs-moldova-2442787",
+      "title": "Kazakhstan vs Moldova",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "02 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1790949600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAZcPEHBAhuIPvpBSQKcyAghEZiUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
     }
   ]
 }
