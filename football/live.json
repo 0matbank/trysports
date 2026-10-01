@@ -1,62 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 3,
-  "total_matches": 2,
-  "total_streams": 3,
-  "updated_time_bd": "2026-10-01 | 07:17:18",
-  "updated_at_bd": "2026-10-01T07:17:18+06:00",
+  "total_items": 0,
+  "total_matches": 0,
+  "total_streams": 0,
+  "updated_time_bd": "2026-10-01 | 13:17:28",
+  "updated_at_bd": "2026-10-01T13:17:28+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "argentina-vs-bolivia-2606654",
-      "title": "Argentina vs Bolivia",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "01 Oct 2026, 06:00 AM (BD Time)",
-      "start_epoch_ms": 1790812800000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSCmFBgSIbiD64QAEz0mDICBb4EKTG1x3l680SmBNaYHWNEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBRuIACZheGtiHV8QiDSBIhD6xCCMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Argentina vs Bolivia (HD)",
-          "channel_poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSCmFBgSIbiD64QAEz0mDICBb4EKTG1x3l680SmBNaYHWNEQgA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBRuIACZheGtiHV8QiDSBIhD6xCCMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/csOBpGbmjHxVdKLXVIwpSGOThDmHHxZM/delta/stream/live_int-friendly-games_argentina-bolivia-live-streaming-665535312/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "new-york-red-bulls-vs-st--louis-city-sc-2407102",
-      "title": "New York Red Bulls vs St. Louis City SC",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "01 Oct 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1790811000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSrxsdWCG4g+h-cZIhEEXCBIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Apple TV (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSrxsdWCG4g+h-cZIhEEXCBIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/jmMQoYlWAXfkeCXgzCdeiVmjVctpmOLM/rtmp/stream/TNuHJbcZf_ZOnZ-WndDjHYuCXMl0vMV-kfjox2I6S5BbX4hd97b6O3cIN0aT-IWDh1ECk61IKM--Fg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Apple TV (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSrxsdWCG4g+h-cZIhEEXCBIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb1.strmd.st/secure/ckiYjXsihwHabRVkTdmLHwKWWejcdTjD/rtmp/stream/5EhPidmX62weHP0bPdN9eV68qaAKLdw4rg-gQH9VrNSfmebY3_Bz6CkUyJVgkk8P9K8PLNSMzSkl3qzpU4w/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
