@@ -1,22 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 10,
-  "total_matches": 10,
+  "total_items": 9,
+  "total_matches": 9,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-01 | 04:09:21",
-  "updated_at_bd": "2026-10-01T04:09:21+06:00",
+  "updated_time_bd": "2026-10-01 | 07:17:18",
+  "updated_at_bd": "2026-10-01T07:17:18+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "new-york-red-bulls-vs-st--louis-city-sc-2407102",
-      "title": "New York Red Bulls vs St. Louis City SC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "01 Oct 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1790811000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSrxsdWCG4g+h-cZIhEEXCBIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "azerbaijan-vs-liechtenstein-2442780",
       "title": "Azerbaijan vs Liechtenstein",
@@ -90,13 +81,13 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDNoAGEHHrruIPiBNSQKcyAghEJECQLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
     },
     {
-      "id": "ppv-seattle-sounders-fc-vs-sporting-kansas-city",
-      "title": "Seattle Sounders FC vs. Sporting Kansas City",
+      "id": "seattle-sounders-vs-sporting-kansas-city-2407065",
+      "title": "Seattle Sounders vs Sporting Kansas City",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "02 Oct 2026, 07:30 AM (BD Time)",
       "start_epoch_ms": 1790904600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCPFThIGKXEjg8YBBUgSIAMYgU2YDSohVMlOpDnhakPMuIyMqrv5hBignqeFgSXJt1CXVmNSendlMBcVEIggA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKCRBlwIHiG4g+h-cc2IIJmAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
     }
   ]
 }
