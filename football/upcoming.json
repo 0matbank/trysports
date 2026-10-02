@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 10,
-  "total_matches": 10,
+  "total_items": 9,
+  "total_matches": 9,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-03 | 02:08:16",
-  "updated_at_bd": "2026-10-03T02:08:16+06:00",
+  "updated_time_bd": "2026-10-03 | 05:45:26",
+  "updated_at_bd": "2026-10-03T05:45:26+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -88,15 +88,6 @@
       "start_time_bd": "04 Oct 2026, 12:45 AM (BD Time)",
       "start_epoch_ms": 1791053100000,
       "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgU9cgwDGzcT3giq3Al1ZgwufCaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkpAx65Boubie8EVW4EurMGFz5zQA.webp"
-    },
-    {
-      "id": "switzerland-vs-slovenia-2475298",
-      "title": "Switzerland vs Slovenia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791053100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     }
   ]
 }
