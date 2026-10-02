@@ -1,11 +1,46 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-10-02 | 05:28:26",
-  "updated_at_bd": "2026-10-02T05:28:26+06:00",
+  "total_items": 3,
+  "total_matches": 1,
+  "total_streams": 3,
+  "updated_time_bd": "2026-10-02 | 08:30:00",
+  "updated_at_bd": "2026-10-02T08:30:00+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "seattle-sounders-vs-sporting-kansas-city-2407065",
+      "title": "Seattle Sounders vs Sporting Kansas City",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "02 Oct 2026, 07:30 AM (BD Time)",
+      "start_epoch_ms": 1790904600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKCRBlwIHiG4g+h-cc2IIJmAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKCRBlwIHiG4g+h-cc2IIJmAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/EAYtilbBCNhuBQTiFOtRkFTMNUOrlKdn/rtmp/stream/3Ex5WflU6gg2zCFnQ5ZQhBmWdAajPAu5sT2m4mxnetJjwt7Hg0Yj9Sa5fSGRJQzzLznvyTKnsXTX/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKCRBlwIHiG4g+h-cc2IIJmAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb5.strmd.st/secure/APYytbPCliYsiBQlcgheRVrUQncLJpDo/rtmp/stream/AZkH8vSU1Wo8BHT45Gicdqqjdc-EFqWPF1U7fwxfCxXprQhSvNb-NeEOgtaAzxkc7MobKfGIwDTceA0etw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Seattle Sounders vs Sporting Kansas City (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKCRBlwIHiG4g+h-cc2IIJmAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/nuqXSUKDiQMhPsoPGgfzQuOCsBadoCXe/delta/stream/live_mls_seattle-kansas-city-live-streaming-627041520/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }

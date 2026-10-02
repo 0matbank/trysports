@@ -1,22 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 9,
-  "total_matches": 9,
+  "total_items": 11,
+  "total_matches": 11,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-02 | 05:28:26",
-  "updated_at_bd": "2026-10-02T05:28:26+06:00",
+  "updated_time_bd": "2026-10-02 | 08:30:00",
+  "updated_at_bd": "2026-10-02T08:30:00+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "seattle-sounders-vs-sporting-kansas-city-2407065",
-      "title": "Seattle Sounders vs Sporting Kansas City",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "02 Oct 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1790904600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKCRBlwIHiG4g+h-cc2IIJmAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
     {
       "id": "kazakhstan-vs-moldova-2442787",
       "title": "Kazakhstan vs Moldova",
@@ -81,8 +72,35 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJC0SIFCHp8Q3EIZAbdFiFvPwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
-      "id": "ppv-el-salvador-vs-jamaica",
-      "title": "El Salvador vs. Jamaica",
+      "id": "hungary-vs-georgia-2442790",
+      "title": "Hungary vs Georgia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "03 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790966700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAIAMCMZuBSQ3DSBMGUIcxBCIDUgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
+    },
+    {
+      "id": "poland-vs-romania-2442792",
+      "title": "Poland vs Romania",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "03 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790966700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOD5gSIUUhAwQ3EHw0gpIFJZAQQiCygLAkFPsNn0U2tii7by9Fiyvky0YN70ohBAA.webp"
+    },
+    {
+      "id": "ukraine-vs-n-ireland-2442791",
+      "title": "Ukraine vs N.Ireland",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "03 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790966700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeljAymfEIm4hdIEFJAozICHpPGCwJBT7DZ9FGBUou78htmemtGDuYqIQQA.webp"
+    },
+    {
+      "id": "el-salvador-vs-jamaica-2608402",
+      "title": "El Salvador vs Jamaica",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "03 Oct 2026, 08:00 AM (BD Time)",
