@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 1,
+  "total_items": 3,
   "total_matches": 1,
-  "total_streams": 1,
-  "updated_time_bd": "2026-10-02 | 14:53:56",
-  "updated_at_bd": "2026-10-02T14:53:56+06:00",
+  "total_streams": 3,
+  "updated_time_bd": "2026-10-02 | 21:35:04",
+  "updated_at_bd": "2026-10-02T21:35:04+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "seattle-sounders-vs-sporting-kansas-city-2407065",
-      "title": "Seattle Sounders vs Sporting Kansas City",
+      "id": "kazakhstan-vs-moldova-2442787",
+      "title": "Kazakhstan vs Moldova",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "02 Oct 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1790904600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKCRBlwIHiG4g+h-cc2IIJmAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+      "start_time_bd": "02 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1790949600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAZcPEHBAhuIPvpBSQKcyAghEZiUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,10 +23,22 @@
       },
       "streams": [
         {
-          "channel_name": "MLS Season Pass (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKCRBlwIHiG4g+h-cc2IIJmAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "channel_name": "Kazakhstan vs Moldova (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAZcPEHBAhuIPvpBSQKcyAghEZiUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/HjEvTuAqgzuovgvZfGVHEYLCUpvjaSHF/foxtrot/stream/sporting-kansas-city-v-seattle-sounders-fc-761798/1/playlist.m3u8"
+          "direct_stream_url": "https://lb16.strmd.st/secure/fihwJcuxWUpMSjipXKdXRJMnlQWXCiGq/delta/stream/live_uefa-nations-league-league-c-gr-3_kazakhstan-moldova-live-streaming-539485056/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN Canada (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAZcPEHBAhuIPvpBSQKcyAghEZiUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb16.strmd.st/secure/rsipWAIBQgznjtrVHQsglMxEcbqSItpr/foxtrot/stream/moldova-v-kazakhstan-unl-401861101/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Kazakhstan vs Moldova (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAZcPEHBAhuIPvpBSQKcyAghEZiUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb16.strmd.st/secure/qogZpZZbGALtjwNeFVprZPkwYzvztaDg/hotel/stream/kazakhstan-vs-moldova-uefa-nations-league-1790949600/1/playlist.m3u8"
         }
       ]
     }

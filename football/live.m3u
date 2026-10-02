@@ -1,13 +1,27 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 1
-# UPDATED Time and date BD: 2026-10-02 | 14:53:56
+# TOTAL-ITEMS: 3
+# UPDATED Time and date BD: 2026-10-02 | 21:35:04
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
-#EXTINF:-1 tvg-id="MLS Season Pass (HD)" tvg-name="MLS Season Pass (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKCRBlwIHiG4g+h-cc2IIJmAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football", MLS Season Pass (HD)
+#EXTINF:-1 tvg-id="Kazakhstan vs Moldova (HD)" tvg-name="Kazakhstan vs Moldova (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAZcPEHBAhuIPvpBSQKcyAghEZiUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", Kazakhstan vs Moldova (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/HjEvTuAqgzuovgvZfGVHEYLCUpvjaSHF/foxtrot/stream/sporting-kansas-city-v-seattle-sounders-fc-761798/1/playlist.m3u8
+https://lb16.strmd.st/secure/fihwJcuxWUpMSjipXKdXRJMnlQWXCiGq/delta/stream/live_uefa-nations-league-league-c-gr-3_kazakhstan-moldova-live-streaming-539485056/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAZcPEHBAhuIPvpBSQKcyAghEZiUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", DAZN Canada (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb16.strmd.st/secure/rsipWAIBQgznjtrVHQsglMxEcbqSItpr/foxtrot/stream/moldova-v-kazakhstan-unl-401861101/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kazakhstan vs Moldova (HD)" tvg-name="Kazakhstan vs Moldova (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAZcPEHBAhuIPvpBSQKcyAghEZiUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", Kazakhstan vs Moldova (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb16.strmd.st/secure/qogZpZZbGALtjwNeFVprZPkwYzvztaDg/hotel/stream/kazakhstan-vs-moldova-uefa-nations-league-1790949600/1/playlist.m3u8
 
