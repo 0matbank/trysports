@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 11,
-  "total_matches": 11,
+  "total_items": 12,
+  "total_matches": 12,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-02 | 08:30:00",
-  "updated_at_bd": "2026-10-02T08:30:00+06:00",
+  "updated_time_bd": "2026-10-02 | 14:53:56",
+  "updated_at_bd": "2026-10-02T14:53:56+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -34,15 +34,6 @@
       "start_time_bd": "02 Oct 2026, 10:00 PM (BD Time)",
       "start_epoch_ms": 1790956800000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4h6opPxBa+IY1JAoz2kIiNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "belgium-vs-turkiye-football-1528925",
-      "title": "Belgium vs Türkiye",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790966700000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgSdcgwDGzcT3giq3Al1ZgwufCaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkqX1yDRc3E94IqtwJdWYMLnxmgA.webp"
     },
     {
       "id": "bosnia-herzegovina-vs-sweden-2442793",
@@ -81,6 +72,15 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAIAMCMZuBSQ3DSBMGUIcxBCIDUgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
     },
     {
+      "id": "live_uefa-nations-league-league-a-gr-1_belgium-turkiye-live-streaming-539481600",
+      "title": "Belgium vs Türkiye",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "03 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1790966700000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgSdcgwDGzcT3giq3Al1ZgwufCaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkqX1yDRc3E94IqtwJdWYMLnxmgA.webp"
+    },
+    {
       "id": "poland-vs-romania-2442792",
       "title": "Poland vs Romania",
       "category": "football",
@@ -97,6 +97,15 @@
       "start_time_bd": "03 Oct 2026, 12:45 AM (BD Time)",
       "start_epoch_ms": 1790966700000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeljAymfEIm4hdIEFJAozICHpPGCwJBT7DZ9FGBUou78htmemtGDuYqIQQA.webp"
+    },
+    {
+      "id": "colombia-vs-paraguay-2600302",
+      "title": "Colombia vs Paraguay",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "03 Oct 2026, 06:00 AM (BD Time)",
+      "start_epoch_ms": 1790985600000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBQUbMOoAMYEiG4gAJiBT6zIEDEsX9BCkz7qNZeEXmj1TWmF1jREIA/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMxAdzAATEBBDcQJQyER6DKfSAvLCMYEz4ouYMvCLzRTprTAuxoiCA.webp"
     },
     {
       "id": "el-salvador-vs-jamaica-2608402",

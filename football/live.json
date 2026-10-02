@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 3,
+  "total_items": 1,
   "total_matches": 1,
-  "total_streams": 3,
-  "updated_time_bd": "2026-10-02 | 08:30:00",
-  "updated_at_bd": "2026-10-02T08:30:00+06:00",
+  "total_streams": 1,
+  "updated_time_bd": "2026-10-02 | 14:53:56",
+  "updated_at_bd": "2026-10-02T14:53:56+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -23,22 +23,10 @@
       },
       "streams": [
         {
-          "channel_name": "Apple TV (HD)",
+          "channel_name": "MLS Season Pass (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKCRBlwIHiG4g+h-cc2IIJmAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/EAYtilbBCNhuBQTiFOtRkFTMNUOrlKdn/rtmp/stream/3Ex5WflU6gg2zCFnQ5ZQhBmWdAajPAu5sT2m4mxnetJjwt7Hg0Yj9Sa5fSGRJQzzLznvyTKnsXTX/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Apple TV (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKCRBlwIHiG4g+h-cc2IIJmAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb5.strmd.st/secure/APYytbPCliYsiBQlcgheRVrUQncLJpDo/rtmp/stream/AZkH8vSU1Wo8BHT45Gicdqqjdc-EFqWPF1U7fwxfCxXprQhSvNb-NeEOgtaAzxkc7MobKfGIwDTceA0etw/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Seattle Sounders vs Sporting Kansas City (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKCRBlwIHiG4g+h-cc2IIJmAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb5.strmd.st/secure/nuqXSUKDiQMhPsoPGgfzQuOCsBadoCXe/delta/stream/live_mls_seattle-kansas-city-live-streaming-627041520/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/HjEvTuAqgzuovgvZfGVHEYLCUpvjaSHF/foxtrot/stream/sporting-kansas-city-v-seattle-sounders-fc-761798/1/playlist.m3u8"
         }
       ]
     }
