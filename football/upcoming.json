@@ -1,103 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 13,
-  "total_matches": 13,
+  "total_items": 10,
+  "total_matches": 10,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-02 | 21:35:04",
-  "updated_at_bd": "2026-10-02T21:35:04+06:00",
+  "updated_time_bd": "2026-10-03 | 02:08:16",
+  "updated_at_bd": "2026-10-03T02:08:16+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "cyprus-vs-armenia-2442794",
-      "title": "Cyprus vs Armenia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "02 Oct 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1790956800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUWlwgY-SiG4g+IY1JAozICCERHGwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "latvia-vs-montenegro-2475296",
-      "title": "Latvia vs Montenegro",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "02 Oct 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1790956800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4h6opPxBa+IY1JAoz2kIiNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "belgium-vs-turkey-2442789",
-      "title": "Belgium vs Turkey",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790966700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rem1ZNEKENxB8QRqSF26IIRCYVMkFPsNn0UYFSi6vy9LLPfbgYK5iohBAA.webp"
-    },
-    {
-      "id": "bosnia-herzegovina-vs-sweden-2442793",
-      "title": "Bosnia-Herzegovina vs Sweden",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790966700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMCSwQZRChDcQfECakh9+iCETGJTLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "faroe-islands-vs-slovakia-2442795",
-      "title": "Faroe Islands vs Slovakia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790966700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBAlcoDcxDcQfECakgU5jSETGFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "france-vs-italy-2442788",
-      "title": "France vs Italy",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790966700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJC0SIFCHp8Q3EIZAbdFiFvPwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "hungary-vs-georgia-2442790",
-      "title": "Hungary vs Georgia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790966700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAIAMCMZuBSQ3DSBMGUIcxBCIDUgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "poland-vs-romania-2442792",
-      "title": "Poland vs Romania",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790966700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOD5gSIUUhAwQ3EHw0gpIFJZAQQiCygLAkFPsNn0U2tii7by9Fiyvky0YN70ohBAA.webp"
-    },
-    {
-      "id": "ppv-belgium-vs-t-rkiye",
-      "title": "Belgium vs. Türkiye",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790966700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBggUweCOkgs8rCBLiQAYwVUQOkCERy5OnSuO7Z2VVf1yIM-mEEim2emELAkuDTKFPWCBcyGQJLMCdgILIIIA.webp"
-    },
-    {
-      "id": "ukraine-vs-n-ireland-2442791",
-      "title": "Ukraine vs N.Ireland",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1790966700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeljAymfEIm4hdIEFJAozICHpPGCwJBT7DZ9FGBUou78htmemtGDuYqIQQA.webp"
-    },
     {
       "id": "colombia-vs-paraguay-2600302",
       "title": "Colombia vs Paraguay",
@@ -124,6 +34,69 @@
       "start_time_bd": "03 Oct 2026, 07:00 PM (BD Time)",
       "start_epoch_ms": 1791032400000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "belarus-vs-san-marino-2442798",
+      "title": "Belarus vs San Marino",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "03 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1791043200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvhACADKRAoQ3LSBNT95iCEQmYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
+    },
+    {
+      "id": "croatia-vs-england-2442797",
+      "title": "Croatia vs England",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "03 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1791043200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiCkhwMEChCJuIPts17zEA8b0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "estonia-vs-luxembourg-2475297",
+      "title": "Estonia vs Luxembourg",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "03 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1791043200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gofSCBggtfECakgU57SEQn4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "iceland-vs-bulgaria-2442799",
+      "title": "Iceland vs Bulgaria",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "03 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1791043200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekxm8kwJCG4g+IY1JAozICCETGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "north-macedonia-vs-scotland-2475299",
+      "title": "North Macedonia vs Scotland",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "04 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791053100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFG0sCEChDcQfECal7zEEIhN6mSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp"
+    },
+    {
+      "id": "spain-vs-czechia-football-1528936",
+      "title": "Spain vs Czechia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "04 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791053100000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgU9cgwDGzcT3giq3Al1ZgwufCaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkpAx65Boubie8EVW4EurMGFz5zQA.webp"
+    },
+    {
+      "id": "switzerland-vs-slovenia-2475298",
+      "title": "Switzerland vs Slovenia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "04 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791053100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     }
   ]
 }
