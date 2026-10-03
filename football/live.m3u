@@ -1,55 +1,69 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 7
-# UPDATED Time and date BD: 2026-10-03 | 05:45:26
+# TOTAL-ITEMS: 9
+# UPDATED Time and date BD: 2026-10-03 | 08:23:12
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="FS2 (HD)" tvg-name="FS2 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNMiRCJEWEAGNgNCPJDLEIFcJCTh2VSPmLgyqiBTbVUs9fjGU5CKDCCRTbPTCFgSXHPtDnVkddMnsCYFswZ2NSYyA.webp" group-title="Football", FS2 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb16.strmd.st/secure/XTNuhEaDYMztoGYGBuwXULbbUFmVJAGr/rtmp/stream/3_bjK1uh_nNEpM8E9eBZHo1B9M8kYpyWxwi4pNsSSpubAQUKMPIZle3AIJG2gpegETSK4Ro/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FS2 (SD)" tvg-name="FS2 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNMiRCJEWEAGNgNCPJDLEIFcJCTh2VSPmLgyqiBTbVUs9fjGU5CKDCCRTbPTCFgSXHPtDnVkddMnsCYFswZ2NSYyA.webp" group-title="Football", FS2 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb16.strmd.st/secure/qVsTESoVuDFfNgPyYYfROhpXrBhzxZyW/rtmp/stream/cjCzpIjT7nLZyOSQOMEXl-NxO1ND2PW5rg0JT-W_vQHT-qa7w4MbnIW4fgaNls_6S6fyLACUrASE/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBAlcoDcxDcQfECakgU5jSETGFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/sQFIGdjKRsReWLghLPLLhMeSFqANNnLs/foxtrot/stream/slovakia-v-faroe-islands-unl-401861110/1/playlist.m3u8
+https://lb15.strmd.st/secure/snoilMSjYMDEqcRHYqthqcfKZHVJhIXQ/foxtrot/stream/slovakia-v-faroe-islands-unl-401861110/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMCSwQZRChDcQfECakh9+iCETGJTLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/YgpEPmdNqfhvYgrzXpGHtnDvnacjBtaF/foxtrot/stream/sweden-v-bosnia-herzegovina-unl-401861107/1/playlist.m3u8
+https://lb16.strmd.st/secure/pwpjbjhkIzDWpTYsBZykCEDRhlyrudOk/foxtrot/stream/sweden-v-bosnia-herzegovina-unl-401861107/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOD5gSIUUhAwQ3EHw0gpIFJZAQQiCygLAkFPsNn0U2tii7by9Fiyvky0YN70ohBAA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/pLOBVUaSIhFGyDCSHecQHpzNZOylPTOF/foxtrot/stream/romania-v-poland-unl-401861108/1/playlist.m3u8
+https://lb15.strmd.st/secure/UOAjsChUMftHLxAKFCRyttypoJJmyzgP/foxtrot/stream/romania-v-poland-unl-401861108/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeljAymfEIm4hdIEFJAozICHpPGCwJBT7DZ9FGBUou78htmemtGDuYqIQQA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/BCRaLUnZQfwlPtAQINpLtujUFZvDXjND/foxtrot/stream/northern-ireland-v-ukraine-unl-401861106/1/playlist.m3u8
+https://lb15.strmd.st/secure/dsgTejyYatlKdnsmOEbsxTfaXyYkiPXm/foxtrot/stream/northern-ireland-v-ukraine-unl-401861106/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAIAMCMZuBSQ3DSBMGUIcxBCIDUgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/usdPgAcHxJZrlAXgAmxBMTVQXOXoHeaL/foxtrot/stream/georgia-v-hungary-unl-401861102/1/playlist.m3u8
+https://lb30.strmd.st/secure/njMtogUkvUYJFhVxBWmURRqwPcwyxdZv/foxtrot/stream/georgia-v-hungary-unl-401861102/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rem1ZNEKENxB8QRqSF26IIRCYVMkFPsNn0UYFSi6vy9LLPfbgYK5iohBAA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/hOQBhBJyxppUspotzbmRlmxgCaujGWmT/foxtrot/stream/turkiye-v-belgium-unl-401861109/1/playlist.m3u8
+https://lb16.strmd.st/secure/PsrljIUPhPnzntfJQiNrgfmmaYNbUhVT/foxtrot/stream/turkiye-v-belgium-unl-401861109/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJC0SIFCHp8Q3EIZAbdFiFvPwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/rHbSRBLCZWYqDuVcSTxUzjUMoLsTbeHn/foxtrot/stream/italy-v-france-unl-401861103/1/playlist.m3u8
+https://lb15.strmd.st/secure/uBXFKSFDgqKqSfdDDQCiwYqZtITdSbOt/foxtrot/stream/italy-v-france-unl-401861103/1/playlist.m3u8
 
