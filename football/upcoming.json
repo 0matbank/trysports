@@ -1,21 +1,48 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 9,
-  "total_matches": 9,
+  "total_items": 14,
+  "total_matches": 14,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-03 | 14:21:59",
-  "updated_at_bd": "2026-10-03T14:21:59+06:00",
+  "updated_time_bd": "2026-10-03 | 19:32:26",
+  "updated_at_bd": "2026-10-03T19:32:26+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "finland-vs-albania-2442796",
-      "title": "Finland vs Albania",
+      "id": "eastleigh-vs-woking-2528297",
+      "title": "Eastleigh vs Woking",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1791032400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp"
+      "start_time_bd": "03 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1791036000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWln5cADCAghuIPiBJGD5xMZx8CwJBRusRYlGBUoub8vU2iPTWjA3MVEIIA.webp"
+    },
+    {
+      "id": "hartlepool-united-vs-tamworth-2528293",
+      "title": "Hartlepool United vs Tamworth",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "03 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1791036000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8renzDcwSEIhghuIPiBLHDFxFdMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "india-vs-brazil-2583248",
+      "title": "India vs Brazil",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "03 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1791036000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEZky4WjBC8QWECgMh91cyGumsLJBTvtR4lGFUoe78o2pzP+KzAYO7iYhBAA.webp"
+    },
+    {
+      "id": "rochdale-vs-swindon-town-2500242",
+      "title": "Rochdale vs Swindon Town",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "03 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1791036000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFBB0Q3EHqk6QfPbg0gDEEDDMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "belarus-vs-san-marino-2442798",
@@ -54,15 +81,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekxm8kwJCG4g+IY1JAozICCETGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
-      "id": "live_uefa-nations-league-league-a-gr-3_spain-czechia-live-streaming-539493264",
-      "title": "Spain vs Czechia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791053100000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgU9cgwDGzcT3giq3Al1ZgwufCaA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkpAx65Boubie8EVW4EurMGFz5zQA.webp"
-    },
-    {
       "id": "north-macedonia-vs-scotland-2475299",
       "title": "North Macedonia vs Scotland",
       "category": "football",
@@ -70,6 +88,15 @@
       "start_time_bd": "04 Oct 2026, 12:45 AM (BD Time)",
       "start_epoch_ms": 1791053100000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFG0sCEChDcQfECal7zEEIhN6mSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp"
+    },
+    {
+      "id": "ppv-spain-vs-czechia",
+      "title": "Spain vs. Czechia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "04 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791053100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkChAxg8YFRDCREkFhAQFaidmwgyq+eJpl5qkMqPB1k+QGMQNlOQigwgkU22OwhYElwOhcm5OZ0UyRwIZcldLUksgA.webp"
     },
     {
       "id": "switzerland-vs-slovenia-2475298",
@@ -88,6 +115,24 @@
       "start_time_bd": "04 Oct 2026, 08:00 AM (BD Time)",
       "start_epoch_ms": 1791079200000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmF4AGLoT4huIfSBBSQKE+aMgSRgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
+    },
+    {
+      "id": "azerbaijan-vs-lithuania-2442801",
+      "title": "Azerbaijan vs Lithuania",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "04 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1791118800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzBJK2YAAYwKENw0gzUkEaMQQiMygLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
+    },
+    {
+      "id": "1904",
+      "title": "Arsenal - Leeds United",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "10 Oct 2026, 05:30 PM (BD Time)",
+      "start_epoch_ms": 1791631800000,
+      "poster": "https://streamed.pk/favicon.ico"
     }
   ]
 }

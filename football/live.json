@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 2,
+  "total_items": 4,
   "total_matches": 1,
-  "total_streams": 2,
-  "updated_time_bd": "2026-10-03 | 14:21:59",
-  "updated_at_bd": "2026-10-03T14:21:59+06:00",
+  "total_streams": 4,
+  "updated_time_bd": "2026-10-03 | 19:32:26",
+  "updated_at_bd": "2026-10-03T19:32:26+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "el-salvador-vs-jamaica-2608402",
-      "title": "El Salvador vs Jamaica",
+      "id": "finland-vs-albania-2442796",
+      "title": "Finland vs Albania",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "03 Oct 2026, 08:00 AM (BD Time)",
-      "start_epoch_ms": 1790992800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNMiRCJEWEAGNgNCPJDLEIFcJCTh2VSPmLgyqiBTbVUs9fjGU5CKDCCRTbPTCFgSXHPtDnVkddMnsCYFswZ2NSYyA.webp",
+      "start_time_bd": "03 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1791032400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,16 +23,28 @@
       },
       "streams": [
         {
-          "channel_name": "FS2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNMiRCJEWEAGNgNCPJDLEIFcJCTh2VSPmLgyqiBTbVUs9fjGU5CKDCCRTbPTCFgSXHPtDnVkddMnsCYFswZ2NSYyA.webp",
+          "channel_name": "DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb22.strmd.st/secure/OPmQbIkafVKTFfVEqdIfFFvswWEVNezG/rtmp/stream/HQagT2kXzmnAIS6OjMxQsePF-mM4VNtayQxMnGB7L_RFQYih-tMppNsuLrWY53DRYSl0MmA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/iuDajbXPvmGCpuhWaUKiRpliHfCVmtKa/rtmp/stream/pgpHBfg9ywfC80eFS8deyZdhp9nAx3qQb1MfyzWg7wNbMQmzkCJRmcPx-Ik-r5lqSbTMdUaK3Q1ivQ/1/playlist.m3u8"
         },
         {
-          "channel_name": "FS2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNMiRCJEWEAGNgNCPJDLEIFcJCTh2VSPmLgyqiBTbVUs9fjGU5CKDCCRTbPTCFgSXHPtDnVkddMnsCYFswZ2NSYyA.webp",
+          "channel_name": "DAZN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb22.strmd.st/secure/IejiPUMKCfhxkrICAaTEtkvYlOhGEmuH/rtmp/stream/KtTkW9wWAU0p4CzhPZC2D8tmYV9y0bF3glPabdvTeGXPMh8EAZQKuTtF6VXYuaJDr4elBNlRT-8N/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/owRoXiwgPMqSVvHEkaxoQisynSPIVPsu/rtmp/stream/5V1QHl0ymi-5g5nd32TKVposBLZBwgZd57hrLqrEsqQuuWQy1fl-4_TQ7dGCw17v-kWuCSE2tj_0obwC2CA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Finland vs Albania (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/HMugtPXzhwQqXfPmcPuCRJLTUgqlbgiN/delta/stream/live_uefa-nations-league-league-c-gr-1_finland-albania-live-streaming-539493696/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Finland vs Albania (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/eGDFDWpZEqGFnfcbIfwKYzSClCwAooXI/hotel/stream/finland-vs-albania-uefa-nations-league-1791032400/1/playlist.m3u8"
         }
       ]
     }

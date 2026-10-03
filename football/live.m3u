@@ -1,20 +1,34 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 2
-# UPDATED Time and date BD: 2026-10-03 | 14:21:59
+# TOTAL-ITEMS: 4
+# UPDATED Time and date BD: 2026-10-03 | 19:32:26
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
-#EXTINF:-1 tvg-id="FS2 (HD)" tvg-name="FS2 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNMiRCJEWEAGNgNCPJDLEIFcJCTh2VSPmLgyqiBTbVUs9fjGU5CKDCCRTbPTCFgSXHPtDnVkddMnsCYFswZ2NSYyA.webp" group-title="Football", FS2 (HD)
+#EXTINF:-1 tvg-id="DAZN (HD)" tvg-name="DAZN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp" group-title="Football", DAZN (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb22.strmd.st/secure/OPmQbIkafVKTFfVEqdIfFFvswWEVNezG/rtmp/stream/HQagT2kXzmnAIS6OjMxQsePF-mM4VNtayQxMnGB7L_RFQYih-tMppNsuLrWY53DRYSl0MmA/1/playlist.m3u8
+https://lb10.strmd.st/secure/iuDajbXPvmGCpuhWaUKiRpliHfCVmtKa/rtmp/stream/pgpHBfg9ywfC80eFS8deyZdhp9nAx3qQb1MfyzWg7wNbMQmzkCJRmcPx-Ik-r5lqSbTMdUaK3Q1ivQ/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FS2 (SD)" tvg-name="FS2 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNMiRCJEWEAGNgNCPJDLEIFcJCTh2VSPmLgyqiBTbVUs9fjGU5CKDCCRTbPTCFgSXHPtDnVkddMnsCYFswZ2NSYyA.webp" group-title="Football", FS2 (SD)
+#EXTINF:-1 tvg-id="DAZN (SD)" tvg-name="DAZN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp" group-title="Football", DAZN (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb22.strmd.st/secure/IejiPUMKCfhxkrICAaTEtkvYlOhGEmuH/rtmp/stream/KtTkW9wWAU0p4CzhPZC2D8tmYV9y0bF3glPabdvTeGXPMh8EAZQKuTtF6VXYuaJDr4elBNlRT-8N/1/playlist.m3u8
+https://lb10.strmd.st/secure/owRoXiwgPMqSVvHEkaxoQisynSPIVPsu/rtmp/stream/5V1QHl0ymi-5g5nd32TKVposBLZBwgZd57hrLqrEsqQuuWQy1fl-4_TQ7dGCw17v-kWuCSE2tj_0obwC2CA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Finland vs Albania (HD)" tvg-name="Finland vs Albania (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp" group-title="Football", Finland vs Albania (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb10.strmd.st/secure/HMugtPXzhwQqXfPmcPuCRJLTUgqlbgiN/delta/stream/live_uefa-nations-league-league-c-gr-1_finland-albania-live-streaming-539493696/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Finland vs Albania (HD)" tvg-name="Finland vs Albania (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp" group-title="Football", Finland vs Albania (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb10.strmd.st/secure/eGDFDWpZEqGFnfcbIfwKYzSClCwAooXI/hotel/stream/finland-vs-albania-uefa-nations-league-1791032400/1/playlist.m3u8
 

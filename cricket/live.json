@@ -1,34 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Cricket Live",
-  "total_items": 1,
-  "total_matches": 1,
-  "total_streams": 1,
-  "updated_time_bd": "2026-10-03 | 14:21:59",
-  "updated_at_bd": "2026-10-03T14:21:59+06:00",
+  "total_items": 0,
+  "total_matches": 0,
+  "total_streams": 0,
+  "updated_time_bd": "2026-10-03 | 19:32:26",
+  "updated_at_bd": "2026-10-03T19:32:26+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "india-vs-pakistan",
-      "title": "India vs Pakistan",
-      "category": "cricket",
-      "status": "LIVE_NOW",
-      "start_time_bd": "03 Oct 2026, 10:30 AM (BD Time)",
-      "start_epoch_ms": 1791001800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxDFBWERAExC2AmGAOHmDSvRAE4QImYRinXOIRwAgIYgROZugTAADGBQJY9MM2jwUVeMuq0Z2SOrABjJc2BgKB-r3xouZEIba4iZGkkWH1VMFgWVT5Or4OmA+FNgUQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Willow Cricket (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb22.strmd.st/secure/KfysRXOUjOcLgEJCdQXgwWoGtuQQRsxD/foxtrot/stream/india-vs-pakistan/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
