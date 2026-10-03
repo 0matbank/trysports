@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 16,
-  "total_matches": 5,
-  "total_streams": 16,
-  "updated_time_bd": "2026-10-04 | 02:11:52",
-  "updated_at_bd": "2026-10-04T02:11:52+06:00",
+  "total_items": 9,
+  "total_matches": 4,
+  "total_streams": 9,
+  "updated_time_bd": "2026-10-04 | 05:04:16",
+  "updated_at_bd": "2026-10-04T05:04:16+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -26,25 +26,13 @@
           "channel_name": "DAZN (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkChAxg8YFRDCREkFhAQFaidmwgyq+eJpl5qkMqPB1k+QGMQNlOQigwgkU22OwhYElwOhcm5OZ0UyRwIZcldLUksgA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb31.strmd.st/secure/wWpEtoEJrxChJxJzUmdYXLEswcCbAOXL/rtmp/stream/PJMV_QRQfOYZ5wjfO_VI8q6bbtLe6MzsD6qqKaQL0bXq3VBhxs5iGAcJPRHEc12Gp15pyqZ1HrXyFw/1/playlist.m3u8"
+          "direct_stream_url": "https://lb18.strmd.st/secure/bosEyiAMlGBcAtOLYomxnFPljiwbeHvv/rtmp/stream/Rne4TC8jU2RjN-3txOI_QdZOtWFdouuKBKQcsEM5P1FU9c-fmKm30VGBFGtxT0M7_JHVwq8EOLHGng/1/playlist.m3u8"
         },
         {
           "channel_name": "DAZN (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkChAxg8YFRDCREkFhAQFaidmwgyq+eJpl5qkMqPB1k+QGMQNlOQigwgkU22OwhYElwOhcm5OZ0UyRwIZcldLUksgA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb31.strmd.st/secure/meRcNXrVDpuabhmFEgnANwHQknRZkjlQ/rtmp/stream/f5LjmMKSR2Pqf4HpdUwFh-R0PstXglc4DDZ6p4kPfyxifegzgCBsztSwATCqSjTi-sTjm1ZUxzGalrFU8f4/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spain vs. Czechia (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkChAxg8YFRDCREkFhAQFaidmwgyq+eJpl5qkMqPB1k+QGMQNlOQigwgkU22OwhYElwOhcm5OZ0UyRwIZcldLUksgA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb31.strmd.st/secure/VFYGzAzMIUcQvIHqPHZMvBoZOuGOETLF/delta/stream/live_uefa-nations-league-league-a-gr-3_spain-czechia-live-streaming-539493264/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spain vs. Czechia (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkChAxg8YFRDCREkFhAQFaidmwgyq+eJpl5qkMqPB1k+QGMQNlOQigwgkU22OwhYElwOhcm5OZ0UyRwIZcldLUksgA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb31.strmd.st/secure/VPwXiIqvlWWZbmPKAidTUJLFICqcVLHV/hotel/stream/spain-vs-czechia-uefa-nations-league-1791053100/1/playlist.m3u8"
+          "direct_stream_url": "https://lb18.strmd.st/secure/ZssbetdcWmoNiTUyYJTQxJMOaHKoldbn/rtmp/stream/w5SSe5UczYJeaz8JkrPGsVP64c2t51G6nb4M2bt6pL8zQNETxpqzYLi9mCn7rRv82_zyFKod2fKd1ggrtAo/1/playlist.m3u8"
         }
       ]
     },
@@ -66,31 +54,19 @@
           "channel_name": "DAZN (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFG0sCEChDcQfECal7zEEIhN6mSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb29.strmd.st/secure/gDEysFWocrUiEdbEZlPdqPmbKnvFhCPo/rtmp/stream/UGn9KX8e6gr5vKfk_UyKm2kGHq0QORWge_GueiUZ4R_HMg_IcHoL6opLzKj94TUUo1HIFglP7BzWDw/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/SbABRLfeSuMzNLqiWLIzuRrLzppZfVmU/rtmp/stream/viUvNLN6_qwA-dyoNs0QciH_4ZVo22ZXbUvbA38aENXRfIejVl5Rua7b3Md499Zbfq_IG2p_McBY2A/1/playlist.m3u8"
         },
         {
           "channel_name": "DAZN (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFG0sCEChDcQfECal7zEEIhN6mSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb29.strmd.st/secure/QOvCMQRXclBvxiudHaSBWLXhohkBnILd/rtmp/stream/g17oCm2E8PXjSF3QSDW3gyqYYn42rThznK0p8v5QyIe235siTUal36wLymseN6R0eicIVmIeqUMU45zsWJI/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "North Macedonia vs Scotland (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFG0sCEChDcQfECal7zEEIhN6mSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb29.strmd.st/secure/VFkTQyqZGOzuGAezUqBssPwOvQMrCjAN/delta/stream/live_uefa-nations-league-league-b-gr-1_north-macedonia-scotland-live-streaming-539377488/1/playlist.m3u8"
+          "direct_stream_url": "https://lb18.strmd.st/secure/AMLTmkNHaRAcqxddEpPqbcLlVGpcccaj/rtmp/stream/AolNFjTWjwXLb86r4hRPqw1dQ1NEu4xgz-Ri29ZJSyqAj9ujwuYVMkkgwerPPyG9gf5JsJXNXWKS9De0jck/1/playlist.m3u8"
         },
         {
           "channel_name": "DAZN Canada (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFG0sCEChDcQfECal7zEEIhN6mSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb29.strmd.st/secure/hxVQWSUsvdmEPJUtfLngkBtKijtykIvS/foxtrot/stream/scotland-v-north-macedonia-unl-401861116/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "North Macedonia vs Scotland (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFG0sCEChDcQfECal7zEEIhN6mSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/mpWGinBNTDrlizWMxBKZJJvVkCTJxsxa/hotel/stream/north-macedonia-vs-scotland-uefa-nations-league-1791053100/1/playlist.m3u8"
+          "direct_stream_url": "https://lb18.strmd.st/secure/oFpkKlnjTafAxdlzUrfvYyJZEnxQNBnc/foxtrot/stream/scotland-v-north-macedonia-unl-401861116/1/playlist.m3u8"
         }
       ]
     },
@@ -112,31 +88,19 @@
           "channel_name": "DAZN (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/vQYoFyJqqvfgAiiJmyCDZPLNuutwrHay/rtmp/stream/Q2lcGg3oR1CYetgKpAVPRnxbbUrBQDCVqHL0Y_5AlS1rEh74KfTe490MXmtmZzg3Fpl2JibAq3mnIw/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/AAxZsEgrJHKCWznsrhQldZuUsBkluEHy/rtmp/stream/mNkaCbu4z0WsJ7UlSx2Sj48PeBce9go5pW4gRe61EbjYPKmasBt27vz1CaNjAWQF486_Gt5hzUSoiA/1/playlist.m3u8"
         },
         {
           "channel_name": "DAZN (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb8.strmd.st/secure/FpZLvMmOMURrfyLkghhTeNplkwnnPhwA/rtmp/stream/JWMAdZC_MjIUsVJWr1CNtLBjNNKy19ZiV3hSRHkvySgV6qqcLYAfI1thh0j9SCYOtlsqxBuNEEqskYctuB8/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Switzerland vs Slovenia (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb20.strmd.st/secure/ykafAjOHIkOAcDlPPtnNUCZkJbLFpYxQ/delta/stream/live_uefa-nations-league-league-b-gr-1_switzerland-slovenia-live-streaming-539381808/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/cYpEiJKBAGolzAIhGqDkPjlPmEFdRpMt/rtmp/stream/k-Mgfiyv60-yQelF9AIxcsIo39bZRdtJWDdxigA67BorO_QNV4rCizpumpdzaP3ZvqGCkeQ5qP5ca55WcX4/1/playlist.m3u8"
         },
         {
           "channel_name": "DAZN Canada (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb20.strmd.st/secure/YTMweVuUARVXeipUuPVVhaMhXWtfdtED/foxtrot/stream/slovenia-v-switzerland-unl-401861117/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Switzerland vs Slovenia (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb20.strmd.st/secure/jzIwxZmEdusXlsMgEDoJMHvorOJLyayL/hotel/stream/switzerland-vs-slovenia-uefa-nations-league-1791053100/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/xacyLleCxsVLnhPdpCvLZeUrTDqxstqa/foxtrot/stream/slovenia-v-switzerland-unl-401861117/1/playlist.m3u8"
         }
       ]
     },
@@ -158,29 +122,7 @@
           "channel_name": "DAZN Canada (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwg+0FIJghuWkMakgUZkBBCJjJAsCQU+w2fRRgVuth-L0ss3SZaMA8xUQggA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb20.strmd.st/secure/SiPjSWmDkvIQAmDedBMLvBbckpayaSfW/foxtrot/stream/czechia-v-spain-unl-401861118/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "canada-vs-peru-2558127",
-      "title": "Canada vs Peru",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "04 Oct 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1791050400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKtxAwQtKCBCa++kFJApj5o4hgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Canada vs Peru (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKtxAwQtKCBCa++kFJApj5o4hgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb8.strmd.st/secure/hzSpjtzLJZZJOSuDXQOicRugzDHdnUPM/delta/stream/live_int-friendly-games_canada-peru-live-streaming-667398528/1/playlist.m3u8"
+          "direct_stream_url": "https://lb18.strmd.st/secure/ZZgkmVMzExWkiBhazgLFkSuVntYuvVhw/foxtrot/stream/czechia-v-spain-unl-401861118/1/playlist.m3u8"
         }
       ]
     }
