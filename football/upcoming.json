@@ -1,84 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 14,
-  "total_matches": 14,
+  "total_items": 16,
+  "total_matches": 16,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-03 | 19:32:26",
-  "updated_at_bd": "2026-10-03T19:32:26+06:00",
+  "updated_time_bd": "2026-10-03 | 23:34:21",
+  "updated_at_bd": "2026-10-03T23:34:21+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "eastleigh-vs-woking-2528297",
-      "title": "Eastleigh vs Woking",
+      "id": "canada-vs-peru-2558127",
+      "title": "Canada vs Peru",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 08:00 PM (BD Time)",
-      "start_epoch_ms": 1791036000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWln5cADCAghuIPiBJGD5xMZx8CwJBRusRYlGBUoub8vU2iPTWjA3MVEIIA.webp"
-    },
-    {
-      "id": "hartlepool-united-vs-tamworth-2528293",
-      "title": "Hartlepool United vs Tamworth",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 08:00 PM (BD Time)",
-      "start_epoch_ms": 1791036000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8renzDcwSEIhghuIPiBLHDFxFdMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "india-vs-brazil-2583248",
-      "title": "India vs Brazil",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 08:00 PM (BD Time)",
-      "start_epoch_ms": 1791036000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEZky4WjBC8QWECgMh91cyGumsLJBTvtR4lGFUoe78o2pzP+KzAYO7iYhBAA.webp"
-    },
-    {
-      "id": "rochdale-vs-swindon-town-2500242",
-      "title": "Rochdale vs Swindon Town",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 08:00 PM (BD Time)",
-      "start_epoch_ms": 1791036000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFBB0Q3EHqk6QfPbg0gDEEDDMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "belarus-vs-san-marino-2442798",
-      "title": "Belarus vs San Marino",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1791043200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvhACADKRAoQ3LSBNT95iCEQmYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-    },
-    {
-      "id": "croatia-vs-england-2442797",
-      "title": "Croatia vs England",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1791043200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiCkhwMEChCJuIPts17zEA8b0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "estonia-vs-luxembourg-2475297",
-      "title": "Estonia vs Luxembourg",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1791043200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gofSCBggtfECakgU57SEQn4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "iceland-vs-bulgaria-2442799",
-      "title": "Iceland vs Bulgaria",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "03 Oct 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1791043200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekxm8kwJCG4g+IY1JAozICCETGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+      "start_time_bd": "04 Oct 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1791050400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKtxAwQtKCBCa++kFJApj5o4hgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
       "id": "north-macedonia-vs-scotland-2475299",
@@ -99,6 +36,15 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkChAxg8YFRDCREkFhAQFaidmwgyq+eJpl5qkMqPB1k+QGMQNlOQigwgkU22OwhYElwOhcm5OZ0UyRwIZcldLUksgA.webp"
     },
     {
+      "id": "spain-vs-czech-republic-2442800",
+      "title": "Spain vs Czech Republic",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "04 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791053100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwg+0FIJghuWkMakgUZkBBCJjJAsCQU+w2fRRgVuth-L0ss3SZaMA8xUQggA.webp"
+    },
+    {
       "id": "switzerland-vs-slovenia-2475298",
       "title": "Switzerland vs Slovenia",
       "category": "football",
@@ -106,6 +52,15 @@
       "start_time_bd": "04 Oct 2026, 12:45 AM (BD Time)",
       "start_epoch_ms": 1791053100000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "argentina-vs-burkina-faso-2606656",
+      "title": "Argentina vs Burkina Faso",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "04 Oct 2026, 06:00 AM (BD Time)",
+      "start_epoch_ms": 1791072000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRD8ADNBwwtILCBSGD1MyAsoWSClhFzGKMKpQ9X5RtTnv8rYDBXcTEIIA.webp"
     },
     {
       "id": "usa-vs-mexico-2578514",
@@ -126,12 +81,75 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzBJK2YAAYwKENw0gzUkEaMQQiMygLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
     },
     {
+      "id": "kosovo-vs-austria-2442802",
+      "title": "Kosovo vs Austria",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "04 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1791129600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELz5heYMAJzcQfECakgU5kBBCILEpkgp9hs+ijAqUXD+XpZZXky0uqL0oUA.webp"
+    },
+    {
+      "id": "malta-vs-andorra-2475300",
+      "title": "Malta vs Andorra",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "04 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1791129600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGCmRcYPmG4gDfECakgU5kBBCILjYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
       "id": "1904",
       "title": "Arsenal - Leeds United",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "10 Oct 2026, 05:30 PM (BD Time)",
       "start_epoch_ms": 1791631800000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1905",
+      "title": "Aston Villa - Brentford",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "10 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1791640800000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1906",
+      "title": "Chelsea - AFC Bournemouth",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "10 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1791640800000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1907",
+      "title": "Ipswich Town - Fulham",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "10 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1791640800000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1908",
+      "title": "Sunderland - Brighton & Hove Albion",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "10 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1791640800000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1909",
+      "title": "Manchester United - Tottenham Hotspur",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "10 Oct 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1791649800000,
       "poster": "https://streamed.pk/favicon.ico"
     }
   ]

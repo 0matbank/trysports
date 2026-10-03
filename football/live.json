@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 4,
-  "total_matches": 1,
-  "total_streams": 4,
-  "updated_time_bd": "2026-10-03 | 19:32:26",
-  "updated_at_bd": "2026-10-03T19:32:26+06:00",
+  "total_items": 20,
+  "total_matches": 4,
+  "total_streams": 20,
+  "updated_time_bd": "2026-10-03 | 23:34:21",
+  "updated_at_bd": "2026-10-03T23:34:21+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "finland-vs-albania-2442796",
-      "title": "Finland vs Albania",
+      "id": "estonia-vs-luxembourg-2475297",
+      "title": "Estonia vs Luxembourg",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "03 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1791032400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp",
+      "start_time_bd": "03 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1791043200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gofSCBggtfECakgU57SEQn4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -24,27 +24,171 @@
       "streams": [
         {
           "channel_name": "DAZN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gofSCBggtfECakgU57SEQn4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/iuDajbXPvmGCpuhWaUKiRpliHfCVmtKa/rtmp/stream/pgpHBfg9ywfC80eFS8deyZdhp9nAx3qQb1MfyzWg7wNbMQmzkCJRmcPx-Ik-r5lqSbTMdUaK3Q1ivQ/1/playlist.m3u8"
+          "direct_stream_url": "https://lb16.strmd.st/secure/btAAQOSAoEObqBZRgnlXTulsAfLGDRGt/rtmp/stream/8OlAvyQPov4KEddu3_-aZmADBLLCPVYpm4bDBCUBOl5kbtXzwPdbLyFCmTFQyZpySMWWzQBgCiKCnA/1/playlist.m3u8"
         },
         {
           "channel_name": "DAZN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gofSCBggtfECakgU57SEQn4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb10.strmd.st/secure/owRoXiwgPMqSVvHEkaxoQisynSPIVPsu/rtmp/stream/5V1QHl0ymi-5g5nd32TKVposBLZBwgZd57hrLqrEsqQuuWQy1fl-4_TQ7dGCw17v-kWuCSE2tj_0obwC2CA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb16.strmd.st/secure/yQKRvSdRRdLtzyPjLJEyBbVQIAuCAazI/rtmp/stream/dBVT96d9dawBahNptTMxlh1HtU66BrK_PgWv3k5LY_eEGLcl_jjVqL3fhLp57RW2rmt09KbSwY_iLhT2SDI/1/playlist.m3u8"
         },
         {
-          "channel_name": "Finland vs Albania (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp",
+          "channel_name": "Estonia vs Luxembourg (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gofSCBggtfECakgU57SEQn4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/HMugtPXzhwQqXfPmcPuCRJLTUgqlbgiN/delta/stream/live_uefa-nations-league-league-c-gr-1_finland-albania-live-streaming-539493696/1/playlist.m3u8"
+          "direct_stream_url": "https://lb16.strmd.st/secure/EONDjMDDHYMbFQLCoYBwBFHqMkbKygWu/delta/stream/live_uefa-nations-league-league-c-gr-4_estonia-luxembourg-live-streaming-539494560/1/playlist.m3u8"
         },
         {
-          "channel_name": "Finland vs Albania (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp",
+          "channel_name": "DAZN Canada (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gofSCBggtfECakgU57SEQn4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/eGDFDWpZEqGFnfcbIfwKYzSClCwAooXI/hotel/stream/finland-vs-albania-uefa-nations-league-1791032400/1/playlist.m3u8"
+          "direct_stream_url": "https://lb16.strmd.st/secure/ypVcneAULVnJsbHbezsvhtpZgjjndHfZ/foxtrot/stream/luxembourg-v-estonia-unl-401861115/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Estonia vs Luxembourg (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gofSCBggtfECakgU57SEQn4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/DJuHqNsqxixpESIxtuQZVIXHNJgAUgwr/hotel/stream/estonia-vs-luxembourg-uefa-nations-league-1791043200/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "iceland-vs-bulgaria-2442799",
+      "title": "Iceland vs Bulgaria",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "03 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1791043200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekxm8kwJCG4g+IY1JAozICCETGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekxm8kwJCG4g+IY1JAozICCETGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/DDNODdEjDpaYATNtdIBhEDWLbUidvjph/rtmp/stream/DBHGjIu1buoTWSRfk82xWgnQ91xUP7nzMmsaFQfFLmsWePW-suOoXnkNcGIpsvBKO-aKTbZndlN4EQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekxm8kwJCG4g+IY1JAozICCETGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/wSkXRyQSDsZNjmqgDCVeXjyZPEQJQXwJ/rtmp/stream/cFFDJsTuXTaFvU3lqAVxF3tLmmoiFou33qH_WuT2uTPYamyJbB3O6v3csd0WH-0fM92UCRN46TH4E5oILbs/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Iceland vs Bulgaria (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekxm8kwJCG4g+IY1JAozICCETGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/HBPNxzNnfVrJqRDmUqcCUjpinXAyIQrP/delta/stream/live_uefa-nations-league-league-c-gr-4_iceland-bulgaria-live-streaming-539494992/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN Canada (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekxm8kwJCG4g+IY1JAozICCETGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/hENLxXWyACbmpqbyWtqXoICzrdBWqeSj/foxtrot/stream/bulgaria-v-iceland-unl-401861112/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Iceland vs Bulgaria (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekxm8kwJCG4g+IY1JAozICCETGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/mKYrkvcgdylCHIQKNxpdIKYzGtBKNBXW/hotel/stream/iceland-vs-bulgaria-uefa-nations-league-1791043200/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "belarus-vs-san-marino-2442798",
+      "title": "Belarus vs San Marino",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "03 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1791043200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvhACADKRAoQ3LSBNT95iCEQmYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvhACADKRAoQ3LSBNT95iCEQmYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/bKthfxJeYysftCUrHtqeTjxyDhCFzCBn/rtmp/stream/Av0MPs1Ry1ZSEKr5qJPqbOSW4sG-i0ildy8TA6_WKCABI6boeegF9FWJeVTXXoYyjiYS9W8Dj2IjZA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvhACADKRAoQ3LSBNT95iCEQmYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/GXFsxoKuAZdgWUkEJPbDDvnxjjpyLTaC/rtmp/stream/P95H8XWyqWuqqBhWKTDq9AwafGBVmrMeACes0ISYRAEjoyeJWWuvk0PZs8m3qRJVHeR2vEZ0DgWTdzmCkg8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Belarus vs San Marino (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvhACADKRAoQ3LSBNT95iCEQmYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/uRDGgUZpmvEmXhdqIbHcUNICuwDccprn/delta/stream/live_uefa-nations-league-league-c-gr-1_belarus-san-marino-live-streaming-539494128/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN Canada (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvhACADKRAoQ3LSBNT95iCEQmYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/wSRpHdqfmmrIcjFEjZkOqjTbIiNDopSu/foxtrot/stream/san-marino-v-belarus-unl-401861114/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Belarus vs San Marino (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvhACADKRAoQ3LSBNT95iCEQmYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/hsMJstXSQkbjooYhUqfUHJejCjPDhbRU/hotel/stream/belarus-vs-san-marino-uefa-nations-league-1791043200/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "croatia-vs-england-2442797",
+      "title": "Croatia vs England",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "03 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1791043200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiCkhwMEChCJuIPts17zEA8b0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiCkhwMEChCJuIPts17zEA8b0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/ZIBvVVnIIFNeEpfOBfeBgeQezGjRunNa/rtmp/stream/mlbpim2_wKi5NYjIPyG_6scXxCGIS_8q9gJNw4QO7QtOjDcPbVzi5ZZa0geBeckgVtir058gx1TK8w/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiCkhwMEChCJuIPts17zEA8b0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/hOBWTBJgBLVQODHXhZKpbguPFetqsjfJ/rtmp/stream/dD6ActzX1xaZAFyNtaB4-ThW9uyEZwa4sps3xmsB8CnAaugKotG9IlLKlQvwCIrKtrcVPeHeSUeu9twzSbA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Croatia vs England (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiCkhwMEChCJuIPts17zEA8b0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/XXGFSTsjQmwCVgMwcIynFVhIoaUldBzx/delta/stream/live_uefa-nations-league-league-a-gr-3_croatia-england-live-streaming-539492832/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN Canada (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiCkhwMEChCJuIPts17zEA8b0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/jjfMgKbCAGziyoqpHKCTzXrDWhpSiumB/foxtrot/stream/england-v-croatia-unl-401861113/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Croatia vs England (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiCkhwMEChCJuIPts17zEA8b0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/GvnnMRZHnmYNqHxXyRMxgZnPKcypCrMz/hotel/stream/croatia-vs-england-uefa-nations-league-1791043200/1/playlist.m3u8"
         }
       ]
     }
