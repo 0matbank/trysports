@@ -1,146 +1,118 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 20
-# UPDATED Time and date BD: 2026-10-03 | 23:34:21
+# TOTAL-ITEMS: 16
+# UPDATED Time and date BD: 2026-10-04 | 02:11:52
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
-#EXTINF:-1 tvg-id="DAZN (HD)" tvg-name="DAZN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gofSCBggtfECakgU57SEQn4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", DAZN (HD)
+#EXTINF:-1 tvg-id="DAZN (HD)" tvg-name="DAZN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkChAxg8YFRDCREkFhAQFaidmwgyq+eJpl5qkMqPB1k+QGMQNlOQigwgkU22OwhYElwOhcm5OZ0UyRwIZcldLUksgA.webp" group-title="Football", DAZN (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb16.strmd.st/secure/btAAQOSAoEObqBZRgnlXTulsAfLGDRGt/rtmp/stream/8OlAvyQPov4KEddu3_-aZmADBLLCPVYpm4bDBCUBOl5kbtXzwPdbLyFCmTFQyZpySMWWzQBgCiKCnA/1/playlist.m3u8
+https://lb31.strmd.st/secure/wWpEtoEJrxChJxJzUmdYXLEswcCbAOXL/rtmp/stream/PJMV_QRQfOYZ5wjfO_VI8q6bbtLe6MzsD6qqKaQL0bXq3VBhxs5iGAcJPRHEc12Gp15pyqZ1HrXyFw/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DAZN (SD)" tvg-name="DAZN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gofSCBggtfECakgU57SEQn4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", DAZN (SD)
+#EXTINF:-1 tvg-id="DAZN (SD)" tvg-name="DAZN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkChAxg8YFRDCREkFhAQFaidmwgyq+eJpl5qkMqPB1k+QGMQNlOQigwgkU22OwhYElwOhcm5OZ0UyRwIZcldLUksgA.webp" group-title="Football", DAZN (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb16.strmd.st/secure/yQKRvSdRRdLtzyPjLJEyBbVQIAuCAazI/rtmp/stream/dBVT96d9dawBahNptTMxlh1HtU66BrK_PgWv3k5LY_eEGLcl_jjVqL3fhLp57RW2rmt09KbSwY_iLhT2SDI/1/playlist.m3u8
+https://lb31.strmd.st/secure/meRcNXrVDpuabhmFEgnANwHQknRZkjlQ/rtmp/stream/f5LjmMKSR2Pqf4HpdUwFh-R0PstXglc4DDZ6p4kPfyxifegzgCBsztSwATCqSjTi-sTjm1ZUxzGalrFU8f4/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Estonia vs Luxembourg (HD)" tvg-name="Estonia vs Luxembourg (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gofSCBggtfECakgU57SEQn4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Estonia vs Luxembourg (HD)
+#EXTINF:-1 tvg-id="Spain vs. Czechia (HD)" tvg-name="Spain vs. Czechia (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkChAxg8YFRDCREkFhAQFaidmwgyq+eJpl5qkMqPB1k+QGMQNlOQigwgkU22OwhYElwOhcm5OZ0UyRwIZcldLUksgA.webp" group-title="Football", Spain vs. Czechia (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb16.strmd.st/secure/EONDjMDDHYMbFQLCoYBwBFHqMkbKygWu/delta/stream/live_uefa-nations-league-league-c-gr-4_estonia-luxembourg-live-streaming-539494560/1/playlist.m3u8
+https://lb31.strmd.st/secure/VFYGzAzMIUcQvIHqPHZMvBoZOuGOETLF/delta/stream/live_uefa-nations-league-league-a-gr-3_spain-czechia-live-streaming-539493264/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gofSCBggtfECakgU57SEQn4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", DAZN Canada (HD)
+#EXTINF:-1 tvg-id="Spain vs. Czechia (HD)" tvg-name="Spain vs. Czechia (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkChAxg8YFRDCREkFhAQFaidmwgyq+eJpl5qkMqPB1k+QGMQNlOQigwgkU22OwhYElwOhcm5OZ0UyRwIZcldLUksgA.webp" group-title="Football", Spain vs. Czechia (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb16.strmd.st/secure/ypVcneAULVnJsbHbezsvhtpZgjjndHfZ/foxtrot/stream/luxembourg-v-estonia-unl-401861115/1/playlist.m3u8
+https://lb31.strmd.st/secure/VPwXiIqvlWWZbmPKAidTUJLFICqcVLHV/hotel/stream/spain-vs-czechia-uefa-nations-league-1791053100/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Estonia vs Luxembourg (HD)" tvg-name="Estonia vs Luxembourg (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gofSCBggtfECakgU57SEQn4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Estonia vs Luxembourg (HD)
+#EXTINF:-1 tvg-id="DAZN (HD)" tvg-name="DAZN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFG0sCEChDcQfECal7zEEIhN6mSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp" group-title="Football", DAZN (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/DJuHqNsqxixpESIxtuQZVIXHNJgAUgwr/hotel/stream/estonia-vs-luxembourg-uefa-nations-league-1791043200/1/playlist.m3u8
+https://lb29.strmd.st/secure/gDEysFWocrUiEdbEZlPdqPmbKnvFhCPo/rtmp/stream/UGn9KX8e6gr5vKfk_UyKm2kGHq0QORWge_GueiUZ4R_HMg_IcHoL6opLzKj94TUUo1HIFglP7BzWDw/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DAZN (HD)" tvg-name="DAZN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekxm8kwJCG4g+IY1JAozICCETGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", DAZN (HD)
+#EXTINF:-1 tvg-id="DAZN (SD)" tvg-name="DAZN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFG0sCEChDcQfECal7zEEIhN6mSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp" group-title="Football", DAZN (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/DDNODdEjDpaYATNtdIBhEDWLbUidvjph/rtmp/stream/DBHGjIu1buoTWSRfk82xWgnQ91xUP7nzMmsaFQfFLmsWePW-suOoXnkNcGIpsvBKO-aKTbZndlN4EQ/1/playlist.m3u8
+https://lb29.strmd.st/secure/QOvCMQRXclBvxiudHaSBWLXhohkBnILd/rtmp/stream/g17oCm2E8PXjSF3QSDW3gyqYYn42rThznK0p8v5QyIe235siTUal36wLymseN6R0eicIVmIeqUMU45zsWJI/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DAZN (SD)" tvg-name="DAZN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekxm8kwJCG4g+IY1JAozICCETGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", DAZN (SD)
+#EXTINF:-1 tvg-id="North Macedonia vs Scotland (HD)" tvg-name="North Macedonia vs Scotland (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFG0sCEChDcQfECal7zEEIhN6mSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp" group-title="Football", North Macedonia vs Scotland (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/wSkXRyQSDsZNjmqgDCVeXjyZPEQJQXwJ/rtmp/stream/cFFDJsTuXTaFvU3lqAVxF3tLmmoiFou33qH_WuT2uTPYamyJbB3O6v3csd0WH-0fM92UCRN46TH4E5oILbs/1/playlist.m3u8
+https://lb29.strmd.st/secure/VFkTQyqZGOzuGAezUqBssPwOvQMrCjAN/delta/stream/live_uefa-nations-league-league-b-gr-1_north-macedonia-scotland-live-streaming-539377488/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Iceland vs Bulgaria (HD)" tvg-name="Iceland vs Bulgaria (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekxm8kwJCG4g+IY1JAozICCETGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Iceland vs Bulgaria (HD)
+#EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFG0sCEChDcQfECal7zEEIhN6mSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb4.strmd.st/secure/HBPNxzNnfVrJqRDmUqcCUjpinXAyIQrP/delta/stream/live_uefa-nations-league-league-c-gr-4_iceland-bulgaria-live-streaming-539494992/1/playlist.m3u8
+https://lb29.strmd.st/secure/hxVQWSUsvdmEPJUtfLngkBtKijtykIvS/foxtrot/stream/scotland-v-north-macedonia-unl-401861116/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekxm8kwJCG4g+IY1JAozICCETGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", DAZN Canada (HD)
+#EXTINF:-1 tvg-id="North Macedonia vs Scotland (HD)" tvg-name="North Macedonia vs Scotland (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFG0sCEChDcQfECal7zEEIhN6mSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp" group-title="Football", North Macedonia vs Scotland (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/hENLxXWyACbmpqbyWtqXoICzrdBWqeSj/foxtrot/stream/bulgaria-v-iceland-unl-401861112/1/playlist.m3u8
+https://lb8.strmd.st/secure/mpWGinBNTDrlizWMxBKZJJvVkCTJxsxa/hotel/stream/north-macedonia-vs-scotland-uefa-nations-league-1791053100/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Iceland vs Bulgaria (HD)" tvg-name="Iceland vs Bulgaria (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekxm8kwJCG4g+IY1JAozICCETGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Iceland vs Bulgaria (HD)
+#EXTINF:-1 tvg-id="DAZN (HD)" tvg-name="DAZN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", DAZN (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/mKYrkvcgdylCHIQKNxpdIKYzGtBKNBXW/hotel/stream/iceland-vs-bulgaria-uefa-nations-league-1791043200/1/playlist.m3u8
+https://lb8.strmd.st/secure/vQYoFyJqqvfgAiiJmyCDZPLNuutwrHay/rtmp/stream/Q2lcGg3oR1CYetgKpAVPRnxbbUrBQDCVqHL0Y_5AlS1rEh74KfTe490MXmtmZzg3Fpl2JibAq3mnIw/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DAZN (HD)" tvg-name="DAZN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvhACADKRAoQ3LSBNT95iCEQmYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="Football", DAZN (HD)
+#EXTINF:-1 tvg-id="DAZN (SD)" tvg-name="DAZN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", DAZN (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/bKthfxJeYysftCUrHtqeTjxyDhCFzCBn/rtmp/stream/Av0MPs1Ry1ZSEKr5qJPqbOSW4sG-i0ildy8TA6_WKCABI6boeegF9FWJeVTXXoYyjiYS9W8Dj2IjZA/1/playlist.m3u8
+https://lb8.strmd.st/secure/FpZLvMmOMURrfyLkghhTeNplkwnnPhwA/rtmp/stream/JWMAdZC_MjIUsVJWr1CNtLBjNNKy19ZiV3hSRHkvySgV6qqcLYAfI1thh0j9SCYOtlsqxBuNEEqskYctuB8/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DAZN (SD)" tvg-name="DAZN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvhACADKRAoQ3LSBNT95iCEQmYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="Football", DAZN (SD)
+#EXTINF:-1 tvg-id="Switzerland vs Slovenia (HD)" tvg-name="Switzerland vs Slovenia (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Switzerland vs Slovenia (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/GXFsxoKuAZdgWUkEJPbDDvnxjjpyLTaC/rtmp/stream/P95H8XWyqWuqqBhWKTDq9AwafGBVmrMeACes0ISYRAEjoyeJWWuvk0PZs8m3qRJVHeR2vEZ0DgWTdzmCkg8/1/playlist.m3u8
+https://lb20.strmd.st/secure/ykafAjOHIkOAcDlPPtnNUCZkJbLFpYxQ/delta/stream/live_uefa-nations-league-league-b-gr-1_switzerland-slovenia-live-streaming-539381808/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Belarus vs San Marino (HD)" tvg-name="Belarus vs San Marino (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvhACADKRAoQ3LSBNT95iCEQmYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="Football", Belarus vs San Marino (HD)
+#EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/uRDGgUZpmvEmXhdqIbHcUNICuwDccprn/delta/stream/live_uefa-nations-league-league-c-gr-1_belarus-san-marino-live-streaming-539494128/1/playlist.m3u8
+https://lb20.strmd.st/secure/YTMweVuUARVXeipUuPVVhaMhXWtfdtED/foxtrot/stream/slovenia-v-switzerland-unl-401861117/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvhACADKRAoQ3LSBNT95iCEQmYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="Football", DAZN Canada (HD)
+#EXTINF:-1 tvg-id="Switzerland vs Slovenia (HD)" tvg-name="Switzerland vs Slovenia (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Switzerland vs Slovenia (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/wSRpHdqfmmrIcjFEjZkOqjTbIiNDopSu/foxtrot/stream/san-marino-v-belarus-unl-401861114/1/playlist.m3u8
+https://lb20.strmd.st/secure/jzIwxZmEdusXlsMgEDoJMHvorOJLyayL/hotel/stream/switzerland-vs-slovenia-uefa-nations-league-1791053100/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Belarus vs San Marino (HD)" tvg-name="Belarus vs San Marino (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvhACADKRAoQ3LSBNT95iCEQmYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp" group-title="Football", Belarus vs San Marino (HD)
+#EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwg+0FIJghuWkMakgUZkBBCJjJAsCQU+w2fRRgVuth-L0ss3SZaMA8xUQggA.webp" group-title="Football", DAZN Canada (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/hsMJstXSQkbjooYhUqfUHJejCjPDhbRU/hotel/stream/belarus-vs-san-marino-uefa-nations-league-1791043200/1/playlist.m3u8
+https://lb20.strmd.st/secure/SiPjSWmDkvIQAmDedBMLvBbckpayaSfW/foxtrot/stream/czechia-v-spain-unl-401861118/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DAZN (HD)" tvg-name="DAZN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiCkhwMEChCJuIPts17zEA8b0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", DAZN (HD)
+#EXTINF:-1 tvg-id="Canada vs Peru (HD)" tvg-name="Canada vs Peru (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKtxAwQtKCBCa++kFJApj5o4hgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Canada vs Peru (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/ZIBvVVnIIFNeEpfOBfeBgeQezGjRunNa/rtmp/stream/mlbpim2_wKi5NYjIPyG_6scXxCGIS_8q9gJNw4QO7QtOjDcPbVzi5ZZa0geBeckgVtir058gx1TK8w/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DAZN (SD)" tvg-name="DAZN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiCkhwMEChCJuIPts17zEA8b0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", DAZN (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb10.strmd.st/secure/hOBWTBJgBLVQODHXhZKpbguPFetqsjfJ/rtmp/stream/dD6ActzX1xaZAFyNtaB4-ThW9uyEZwa4sps3xmsB8CnAaugKotG9IlLKlQvwCIrKtrcVPeHeSUeu9twzSbA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Croatia vs England (HD)" tvg-name="Croatia vs England (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiCkhwMEChCJuIPts17zEA8b0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Croatia vs England (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/XXGFSTsjQmwCVgMwcIynFVhIoaUldBzx/delta/stream/live_uefa-nations-league-league-a-gr-3_croatia-england-live-streaming-539492832/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DAZN Canada (HD)" tvg-name="DAZN Canada (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiCkhwMEChCJuIPts17zEA8b0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", DAZN Canada (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/jjfMgKbCAGziyoqpHKCTzXrDWhpSiumB/foxtrot/stream/england-v-croatia-unl-401861113/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Croatia vs England (HD)" tvg-name="Croatia vs England (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiCkhwMEChCJuIPts17zEA8b0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Croatia vs England (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb2.strmd.st/secure/GvnnMRZHnmYNqHxXyRMxgZnPKcypCrMz/hotel/stream/croatia-vs-england-uefa-nations-league-1791043200/1/playlist.m3u8
+https://lb8.strmd.st/secure/hzSpjtzLJZZJOSuDXQOicRugzDHdnUPM/delta/stream/live_int-friendly-games_canada-peru-live-streaming-667398528/1/playlist.m3u8
 
