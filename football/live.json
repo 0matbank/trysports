@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 1,
-  "total_matches": 1,
-  "total_streams": 1,
-  "updated_time_bd": "2026-10-04 | 14:46:10",
-  "updated_at_bd": "2026-10-04T14:46:10+06:00",
+  "total_items": 15,
+  "total_matches": 6,
+  "total_streams": 15,
+  "updated_time_bd": "2026-10-04 | 20:27:40",
+  "updated_at_bd": "2026-10-04T20:27:40+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "usa-vs-mexico-2578514",
-      "title": "USA vs Mexico",
+      "id": "ppv-west-ham-united-vs-chelsea",
+      "title": "West Ham United vs. Chelsea",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "04 Oct 2026, 08:00 AM (BD Time)",
-      "start_epoch_ms": 1791079200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmF4AGLoT4huIfSBBSQKE+aMgSRgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+      "start_time_bd": "04 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1791118800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiEkSY2EBGwjgNYZNUSJVObJTiQNaSBh6QWVQGNZmlRBCjy8gUMUEFKcoWBJcZt0LDdOeWFSehd4cn9geTIIIA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,10 +23,174 @@
       },
       "streams": [
         {
-          "channel_name": "TNT (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmF4AGLoT4huIfSBBSQKE+aMgSRgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "channel_name": "Sky Sports Premier League (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiEkSY2EBGwjgNYZNUSJVObJTiQNaSBh6QWVQGNZmlRBCjy8gUMUEFKcoWBJcZt0LDdOeWFSehd4cn9geTIIIA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb20.strmd.st/secure/CoZGbzkXUnkjLPLioDcRftJkwJGvFHFd/foxtrot/stream/usa-vs-mexico/1/playlist.m3u8"
+          "direct_stream_url": "https://lb9.strmd.st/secure/ymoipSqNAViNTPiCLxpKFfFjLNsSRSnT/rtmp/stream/sH47W5bn3EgJQN44DuFVzwo46VIC3RAF_4j9g1rEciUx1eyZ0VjobXDsDhWdsUPs-UF00B9224Pa/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports Premier League (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiEkSY2EBGwjgNYZNUSJVObJTiQNaSBh6QWVQGNZmlRBCjy8gUMUEFKcoWBJcZt0LDdOeWFSehd4cn9geTIIIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/uLDEuUVMILMxsxSXPZChlHinfnhWYDLX/rtmp/stream/89ynn6owt6BlwscyXjmsztTbDqIn0bOrF3IDyWu_fCiCCbdu_E20g0muS9f6LtXjPkKfJYubxp1BfNPvFA/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ppv-tottenham-hotspur-vs-london-city-lionesses",
+      "title": "Tottenham Hotspur vs. London City Lionesses",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "04 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1791118800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeNlIgUICMDlk5NGhBABjEJplVZIGNj3AdGrCFNrS8kCV2nVpqinJyBQkU0lOwhYElxqnITBuTjlhSycCYAkwYPlLCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports Football (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeNlIgUICMDlk5NGhBABjEJplVZIGNj3AdGrCFNrS8kCV2nVpqinJyBQkU0lOwhYElxqnITBuTjlhSycCYAkwYPlLCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/RGMiKoKtfrtAWPOdjRzSUXXggYotNmpv/rtmp/stream/zL6_GMsgFbZJU_7Ley9qAwfbbEml6YQmJJuvVemolQ5rBvz8WjFX5TkYqy4p0rcSKrcUDAYoRNFd5VMpDaU4/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports Football (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeNlIgUICMDlk5NGhBABjEJplVZIGNj3AdGrCFNrS8kCV2nVpqinJyBQkU0lOwhYElxqnITBuTjlhSycCYAkwYPlLCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/JBkHrnvLyBpiRdPKDvxvQSxGNEYkAOjJ/rtmp/stream/P_9iIcRhFhYm-wTOBPCEHnLFoDh9XiPA2mnRLvxtZKxnpLqUUlH5GkLjdFDyoHyeC_37wCUDjr_LWT-EIW_FeG7apA/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ppv-everton-vs-birmingham-city",
+      "title": "Everton vs. Birmingham City",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "04 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1791118800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiECHjAqICBNIjsskDEXiQAY2BSsK5VlKzgcxFLmqIhmonzlLAoYoLZ6YQsCS4NKR2G6dLYQUfZykwP2MFCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiECHjAqICBNIjsskDEXiQAY2BSsK5VlKzgcxFLmqIhmonzlLAoYoLZ6YQsCS4NKR2G6dLYQUfZykwP2MFCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/FjmznPAmfnrsIeGxIVxQJcUhgWrjaufg/rtmp/stream/49DNC3xvg_K5B3hvZCiMJ5p_pupAAvVb9EL0RjXfQNfqHYMCtaJDL71lwznrpxOJvjyPd-4BD6QP/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiECHjAqICBNIjsskDEXiQAY2BSsK5VlKzgcxFLmqIhmonzlLAoYoLZ6YQsCS4NKR2G6dLYQUfZykwP2MFCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/rpPjZZyKcaYIOZLWKOfIIphSIXUJujNd/rtmp/stream/YpqDeoFy4g3jDrLiKnxe1UwSK0r9Iqt4ekIRgUf9Xh2huGY6KIsEFyMeb2GTnyQ8Xuc8G5V4XLn0aVNnJg/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ppv-aston-villa-vs-crystal-palace",
+      "title": "Aston Villa vs. Crystal Palace",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "04 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1791118800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIILNhAwQihVRAkJIaYkQ1hI7MBUoQurIuBa5utfBHyQKkinIRQYQXoL6nYQsCS5xJyE3Vhcrek8bMDcpUikgA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIILNhAwQihVRAkJIaYkQ1hI7MBUoQurIuBa5utfBHyQKkinIRQYQXoL6nYQsCS5xJyE3Vhcrek8bMDcpUikgA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/aQJSCxCpZKBeUxntKJsiXmXOgZhXSZRb/rtmp/stream/lxlYpvxG-aUZcsnArwSoGtLVV1SPos39r5cOlTuX0UXDqUexji_k4T9nv-Je6zjaILOivZN-ThdV/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIILNhAwQihVRAkJIaYkQ1hI7MBUoQurIuBa5utfBHyQKkinIRQYQXoL6nYQsCS5xJyE3Vhcrek8bMDcpUikgA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/QhrLYNcOWMMrMinojiuHkIMOfWqJzwnX/rtmp/stream/BWDKzErqNurL-SX_thg4ieNwxUJak_8i_w1qdjboFH21ELX15Mf-xlcG7vEoYUmzWBOakn_66iCTd35t-w/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "brighton-wfc-vs-charlton-athletic-wfc-2554357",
+      "title": "Brighton WFC vs Charlton Athletic WFC",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "04 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1791118800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADGICFOCyQ40iETDs2KYpBqysrMESqR2kFUUGZIGDOXT85CKDCCRTdSnKFgSXJI9DnVkcdegIDcmd5UnkgA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Sports Mix (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADGICFOCyQ40iETDs2KYpBqysrMESqR2kFUUGZIGDOXT85CKDCCRTdSnKFgSXJI9DnVkcdegIDcmd5UnkgA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/COpzoknRYpZvAcpuIaLMjfYzbBbKgBjx/rtmp/stream/oZ_ZcAtbR59PtvZgMs6Wekh5erijFxkH_1ZwZudhh1fCfIR4o87t2i5YpgSArzRQuk93EDxpPNznWg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sky Sports Mix (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADGICFOCyQ40iETDs2KYpBqysrMESqR2kFUUGZIGDOXT85CKDCCRTdSnKFgSXJI9DnVkcdegIDcmd5UnkgA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/svLTAUWpmiqjWEpFnNXOCKGehfpiLXQd/rtmp/stream/ZLbBX9EoKkNfr0e1C6i8kdq2ed3HHIjnNxHB9k4gEyWiE0q7wEtkN-SYLVgKaNs_L6TVpJfgwI5D0Yc-H4A/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "azerbaijan-vs-lithuania-2442801",
+      "title": "Azerbaijan vs Lithuania",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "04 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1791118800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzBJK2YAAYwKENw0gzUkEaMQQiMygLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzBJK2YAAYwKENw0gzUkEaMQQiMygLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/DVGwErckIuJeEbHaeZruzxCsXTPfNpwO/rtmp/stream/3dZloeJIwx2-n9pHJ0rUogRvC_CVfyIp0k_1MckVKhTsSNkEgfkXizhF2y4k7vKBexMaCcY9lpCe7A/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzBJK2YAAYwKENw0gzUkEaMQQiMygLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb5.strmd.st/secure/BYrIOdmGoggHTINxyvdFlkcwLyKvcqdN/rtmp/stream/wFa7BtdnKnoZbu1zraYdmy_QXRWrCkUsu5i7cG-7Xo6kR3sPWV-ITwTZ-waK9NNtccLL2-6TPwv6CxX3WFM/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Azerbaijan vs Lithuania (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzBJK2YAAYwKENw0gzUkEaMQQiMygLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/FWgMleFgsBieTQOAOhtXQPPtkkkgBDdt/delta/stream/live_uefa-nations-league-league-d-gr-2_azerbaijan-lithuania-live-streaming-539533872/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "DAZN Canada (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzBJK2YAAYwKENw0gzUkEaMQQiMygLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/hmvkxwqvXfVGsPWXsQZkulCvoxzmUTrg/foxtrot/stream/lithuania-v-azerbaijan-unl-401861119/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Azerbaijan vs Lithuania (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzBJK2YAAYwKENw0gzUkEaMQQiMygLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb5.strmd.st/secure/fReSiJQIyfxbfHecMBsZZFZQFcBzScrY/hotel/stream/azerbaijan-vs-lithuania-uefa-nations-league-1791118800/1/playlist.m3u8"
         }
       ]
     }

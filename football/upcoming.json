@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 14,
-  "total_matches": 14,
+  "total_items": 16,
+  "total_matches": 16,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-04 | 14:46:10",
-  "updated_at_bd": "2026-10-04T14:46:10+06:00",
+  "updated_time_bd": "2026-10-04 | 20:27:40",
+  "updated_at_bd": "2026-10-04T20:27:40+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "azerbaijan-vs-lithuania-2442801",
-      "title": "Azerbaijan vs Lithuania",
+      "id": "manchester-city-wfc-vs-arsenal-wfc-2554359",
+      "title": "Manchester City WFC vs Arsenal WFC",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "04 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1791118800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzBJK2YAAYwKENw0gzUkEaMQQiMygLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
+      "start_time_bd": "04 Oct 2026, 09:30 PM (BD Time)",
+      "start_epoch_ms": 1791127800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFBjAZKEAKQhuekCWNGYhjbj0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
       "id": "kosovo-vs-austria-2442802",
@@ -132,6 +132,24 @@
       "status": "UPCOMING",
       "start_time_bd": "10 Oct 2026, 10:30 PM (BD Time)",
       "start_epoch_ms": 1791649800000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1910",
+      "title": "Crystal Palace - Nottingham Forest",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "11 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1791723600000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1911",
+      "title": "Hull City - Everton",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "11 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1791723600000,
       "poster": "https://streamed.pk/favicon.ico"
     }
   ]
