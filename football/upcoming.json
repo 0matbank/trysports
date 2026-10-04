@@ -1,31 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 16,
-  "total_matches": 16,
+  "total_items": 14,
+  "total_matches": 14,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-04 | 05:04:16",
-  "updated_at_bd": "2026-10-04T05:04:16+06:00",
+  "updated_time_bd": "2026-10-04 | 08:34:22",
+  "updated_at_bd": "2026-10-04T08:34:22+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "argentina-vs-burkina-faso-2606656",
-      "title": "Argentina vs Burkina Faso",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Oct 2026, 06:00 AM (BD Time)",
-      "start_epoch_ms": 1791072000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRD8ADNBwwtILCBSGD1MyAsoWSClhFzGKMKpQ9X5RtTnv8rYDBXcTEIIA.webp"
-    },
-    {
-      "id": "usa-vs-mexico-2578514",
-      "title": "USA vs Mexico",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Oct 2026, 08:00 AM (BD Time)",
-      "start_epoch_ms": 1791079200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmF4AGLoT4huIfSBBSQKE+aMgSRgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
     {
       "id": "azerbaijan-vs-lithuania-2442801",
       "title": "Azerbaijan vs Lithuania",
