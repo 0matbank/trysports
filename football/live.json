@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 10,
-  "total_matches": 6,
-  "total_streams": 10,
-  "updated_time_bd": "2026-10-04 | 08:34:22",
-  "updated_at_bd": "2026-10-04T08:34:22+06:00",
+  "total_items": 1,
+  "total_matches": 1,
+  "total_streams": 1,
+  "updated_time_bd": "2026-10-04 | 14:46:10",
+  "updated_at_bd": "2026-10-04T14:46:10+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -23,144 +23,10 @@
       },
       "streams": [
         {
-          "channel_name": "USA vs Mexico (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmF4AGLoT4huIfSBBSQKE+aMgSRgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb22.strmd.st/secure/AgELrwWHNrUxRYGQghgCMZgEhjWVYmFS/delta/stream/live_int-friendly-games_usa-mexico-live-streaming-627525792/1/playlist.m3u8"
-        },
-        {
           "channel_name": "TNT (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmF4AGLoT4huIfSBBSQKE+aMgSRgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb22.strmd.st/secure/xaEQYQnagfxFuSzpQuigomRaOvTIIjMN/foxtrot/stream/usa-vs-mexico/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "staint-lous-billkens-vs-st-joseph-haws",
-      "title": "Staint Lous Billkens vs. St. Joseph Haws",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "04 Oct 2026, 06:00 AM (BD Time)",
-      "start_epoch_ms": 1791072000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFEwCcoExcwBDMFIokAExBRBhQFZh5gxg0wBTLYaop2BNIzYcG6iubFH15l8wMS0ngIwAMYThzBEsgSE6PWB54l7S7IAM2kfDFs0wJc9kuSmww7QhcDPxp0EBIGYJ80JGBPXi1JXDEkWE13dkl4A3xeWRY2U151AqA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFEwCcoExcwBDMFIokAExBRBhQFZh5gxg0wBTLYaop2BNIzYcG6iubFH15l8wMS0ngIwAMYThzBEsgSE6PWB54l7S7IAM2kfDFs0wJc9kuSmww7QhcDPxp0EBIGYJ80JGBPXi1JXDEkWE13dkl4A3xeWRY2U151AqA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/BoBPyLeTvetuuBaurFONvsQCQIXyoIvN/foxtrot/stream/staint-lous-billkens-vs-st-joseph-haws/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "argentina-vs-burkina-faso-2606656",
-      "title": "Argentina vs Burkina Faso",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "04 Oct 2026, 06:00 AM (BD Time)",
-      "start_epoch_ms": 1791072000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRD8ADNBwwtILCBSGD1MyAsoWSClhFzGKMKpQ9X5RtTnv8rYDBXcTEIIA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Premier Sports 2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiRD8ADNBwwtILCBSGD1MyAsoWSClhFzGKMKpQ9X5RtTnv8rYDBXcTEIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/HSMYvEEBwVNZVqFBDqgPNgDtMrSRbOcO/foxtrot/stream/argentina-vs-burkina-faso/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "ppv-spain-vs-czechia",
-      "title": "Spain vs. Czechia",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "04 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791053100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkChAxg8YFRDCREkFhAQFaidmwgyq+eJpl5qkMqPB1k+QGMQNlOQigwgkU22OwhYElwOhcm5OZ0UyRwIZcldLUksgA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkChAxg8YFRDCREkFhAQFaidmwgyq+eJpl5qkMqPB1k+QGMQNlOQigwgkU22OwhYElwOhcm5OZ0UyRwIZcldLUksgA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb25.strmd.st/secure/YVHFxhGOBHhJHpncnNeMpEGYswAxNINI/rtmp/stream/Rne4TC8jU2RjN-3txOI_QdZOtWFdouuKBKQcsEM5P1FU9c-fmKm30VGBFGtxT0M7_JHVwq8EOLHGng/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "DAZN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkChAxg8YFRDCREkFhAQFaidmwgyq+eJpl5qkMqPB1k+QGMQNlOQigwgkU22OwhYElwOhcm5OZ0UyRwIZcldLUksgA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb25.strmd.st/secure/VqJfPwMlYgFeXNCNGYLGiWlVYIqYcJzg/rtmp/stream/w5SSe5UczYJeaz8JkrPGsVP64c2t51G6nb4M2bt6pL8zQNETxpqzYLi9mCn7rRv82_zyFKod2fKd1ggrtAo/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "north-macedonia-vs-scotland-2475299",
-      "title": "North Macedonia vs Scotland",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "04 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791053100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFG0sCEChDcQfECal7zEEIhN6mSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFG0sCEChDcQfECal7zEEIhN6mSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/YcxRlTJVtsJJXvcTNgjoxzjnamagoTBL/rtmp/stream/viUvNLN6_qwA-dyoNs0QciH_4ZVo22ZXbUvbA38aENXRfIejVl5Rua7b3Md499Zbfq_IG2p_McBY2A/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "DAZN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFG0sCEChDcQfECal7zEEIhN6mSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb10.strmd.st/secure/hqNqAEaSnMZApJlaPCZFYNsfYaZSugli/rtmp/stream/AolNFjTWjwXLb86r4hRPqw1dQ1NEu4xgz-Ri29ZJSyqAj9ujwuYVMkkgwerPPyG9gf5JsJXNXWKS9De0jck/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "switzerland-vs-slovenia-2475298",
-      "title": "Switzerland vs Slovenia",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "04 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791053100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb25.strmd.st/secure/EcIaDiAYEZPDwavhoMwIFyIwhnPyvRuG/rtmp/stream/mNkaCbu4z0WsJ7UlSx2Sj48PeBce9go5pW4gRe61EbjYPKmasBt27vz1CaNjAWQF486_Gt5hzUSoiA/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "DAZN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcHxB8wSOcxDctIY1JAozICCEQmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb25.strmd.st/secure/lbSamFsKtAFyLrTVgUMUHpdGoYOKWOLf/rtmp/stream/k-Mgfiyv60-yQelF9AIxcsIo39bZRdtJWDdxigA67BorO_QNV4rCizpumpdzaP3ZvqGCkeQ5qP5ca55WcX4/1/playlist.m3u8"
+          "direct_stream_url": "https://lb20.strmd.st/secure/CoZGbzkXUnkjLPLioDcRftJkwJGvFHFd/foxtrot/stream/usa-vs-mexico/1/playlist.m3u8"
         }
       ]
     }
