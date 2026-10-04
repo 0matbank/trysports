@@ -1,58 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 15,
-  "total_matches": 15,
+  "total_items": 17,
+  "total_matches": 17,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-05 | 00:17:55",
-  "updated_at_bd": "2026-10-05T00:17:55+06:00",
+  "updated_time_bd": "2026-10-05 | 03:38:30",
+  "updated_at_bd": "2026-10-05T03:38:30+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "greece-vs-germany-2442803",
-      "title": "Greece vs Germany",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "05 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791139500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKdCTUZKENxB8QRqSF26IIROYLAtMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "ireland-vs-israel-2442807",
-      "title": "Ireland vs Israel",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "05 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791139500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMCRgkwAAwgy3EEb4gzUkCksgINkDGMFNFPsNn0UYFRrZfy9LFkNJlowLzFRCCA.webp"
-    },
-    {
-      "id": "netherlands-vs-serbia-2442804",
-      "title": "Netherlands vs Serbia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "05 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791139500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXiErAkCUCG4g+IY1JAozICCETmpBbRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "portugal-vs-norway-2442805",
-      "title": "Portugal vs Norway",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "05 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791139500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGVja4Q8MFJDcQfECf0oQ5iDosmCwJBT7DZ9FGBUou78vU2jPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "wales-vs-denmark-2442806",
-      "title": "Wales vs Denmark",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "05 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791139500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzCaYXWtw0g+IY1JAozICJZAwbBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
     {
       "id": "cyprus-vs-latvia-2475301",
       "title": "Cyprus vs Latvia",
@@ -61,6 +16,69 @@
       "start_time_bd": "05 Oct 2026, 10:00 PM (BD Time)",
       "start_epoch_ms": 1791216000000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMzACmKZiG4g+IY1JAozICJf0gpBYEgp9hs+ijArdbD+XpZZuky0YB5iohBAA.webp"
+    },
+    {
+      "id": "bosnia-herzegovina-vs-poland-2442812",
+      "title": "Bosnia-Herzegovina vs Poland",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "06 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791225900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKCGBIQEEDO4gDfECakgU5nVYOMtFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+    },
+    {
+      "id": "france-vs-belgium-2442808",
+      "title": "France vs Belgium",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "06 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791225900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMHRAxOWMEhDcQfECakgU5kBCtaQ8AsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
+    },
+    {
+      "id": "italy-vs-turkiye-football-1528945",
+      "title": "Italy vs Türkiye",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "06 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791225900000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiH4gQ9cg0XNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkqX1yDRc3E94IqtwJdWYMLnxmgA.webp"
+    },
+    {
+      "id": "montenegro-vs-armenia-2442814",
+      "title": "Montenegro vs Armenia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "06 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791225900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECFBgSIehA0huIPgakgU53VaMkCwJBT7DZ9FNrYou28vSyzPTLRg7vSiEEA.webp"
+    },
+    {
+      "id": "n-ireland-vs-georgia-2442811",
+      "title": "N.Ireland vs Georgia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "06 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791225900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGVJBSwoqDm4g+IY5pQgzEEJZjmCwJBT7DZ9FDrYouO8vSyzPTLRg7vS6QA.webp"
+    },
+    {
+      "id": "romania-vs-sweden-2442813",
+      "title": "Romania vs Sweden",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "06 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791225900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCAHcwA4GCQhumkCakgNGiCCtH4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "ukraine-vs-hungary-2442810",
+      "title": "Ukraine vs Hungary",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "06 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791225900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbglBF6YENxB8QRqSBSmQECyBggpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
       "id": "1904",
