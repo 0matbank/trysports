@@ -1,40 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 16,
-  "total_matches": 16,
+  "total_items": 15,
+  "total_matches": 15,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-04 | 20:27:40",
-  "updated_at_bd": "2026-10-04T20:27:40+06:00",
+  "updated_time_bd": "2026-10-05 | 00:17:55",
+  "updated_at_bd": "2026-10-05T00:17:55+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "manchester-city-wfc-vs-arsenal-wfc-2554359",
-      "title": "Manchester City WFC vs Arsenal WFC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Oct 2026, 09:30 PM (BD Time)",
-      "start_epoch_ms": 1791127800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFBjAZKEAKQhuekCWNGYhjbj0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "kosovo-vs-austria-2442802",
-      "title": "Kosovo vs Austria",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Oct 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1791129600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELz5heYMAJzcQfECakgU5kBBCILEpkgp9hs+ijAqUXD+XpZZXky0uqL0oUA.webp"
-    },
-    {
-      "id": "malta-vs-andorra-2475300",
-      "title": "Malta vs Andorra",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "04 Oct 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1791129600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGCmRcYPmG4gDfECakgU5kBBCILjYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
     {
       "id": "greece-vs-germany-2442803",
       "title": "Greece vs Germany",
@@ -79,6 +52,15 @@
       "start_time_bd": "05 Oct 2026, 12:45 AM (BD Time)",
       "start_epoch_ms": 1791139500000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzCaYXWtw0g+IY1JAozICJZAwbBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "cyprus-vs-latvia-2475301",
+      "title": "Cyprus vs Latvia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "05 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1791216000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMzACmKZiG4g+IY1JAozICJf0gpBYEgp9hs+ijArdbD+XpZZuky0YB5iohBAA.webp"
     },
     {
       "id": "1904",
@@ -150,6 +132,15 @@
       "status": "UPCOMING",
       "start_time_bd": "11 Oct 2026, 07:00 PM (BD Time)",
       "start_epoch_ms": 1791723600000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1912",
+      "title": "Liverpool - Manchester City",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "11 Oct 2026, 09:30 PM (BD Time)",
+      "start_epoch_ms": 1791732600000,
       "poster": "https://streamed.pk/favicon.ico"
     }
   ]
