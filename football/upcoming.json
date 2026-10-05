@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 107,
-  "total_matches": 107,
+  "total_items": 108,
+  "total_matches": 108,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-05 | 11:34:46",
-  "updated_at_bd": "2026-10-05T11:34:46+06:00",
+  "updated_time_bd": "2026-10-05 | 18:37:29",
+  "updated_at_bd": "2026-10-05T18:37:29+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -36,13 +36,13 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMHRAxOWMEhDcQfECakgU5kBCtaQ8AsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
     },
     {
-      "id": "live_uefa-nations-league-league-a-gr-1_italy-turkiye-live-streaming-539544240",
-      "title": "Italy vs Türkiye",
+      "id": "liechtenstein-vs-gibraltar-2558128",
+      "title": "Liechtenstein vs Gibraltar",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "06 Oct 2026, 12:45 AM (BD Time)",
       "start_epoch_ms": 1791225900000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiH4gQ9cg0XNxPeCKrcCXVmDC58FoA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkqX1yDRc3E94IqtwJdWYMLnxmgA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCBTlRABh4huIPiBNTNJ88cQSmSCn2Gz6WlSi5gy8IlllumtMA8xUQggA.webp"
     },
     {
       "id": "montenegro-vs-armenia-2442814",
@@ -61,6 +61,15 @@
       "start_time_bd": "06 Oct 2026, 12:45 AM (BD Time)",
       "start_epoch_ms": 1791225900000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGVJBSwoqDm4g+IY5pQgzEEJZjmCwJBT7DZ9FDrYouO8vSyzPTLRg7vS6QA.webp"
+    },
+    {
+      "id": "ppv-italy-vs-t-rkiye",
+      "title": "Italy vs. Türkiye",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "06 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791225900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFKREgAxiDKIUIKiGEq100uM2LFIOcBoQ1OvfrJkaqiVgn8wgkU2z0whYElzSJQ+6wiOyCQJgeHJ7YH8yCCA.webp"
     },
     {
       "id": "romania-vs-sweden-2442813",
