@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 113,
-  "total_matches": 113,
+  "total_items": 114,
+  "total_matches": 114,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-06 | 07:32:41",
-  "updated_at_bd": "2026-10-06T07:32:41+06:00",
+  "updated_time_bd": "2026-10-06 | 14:04:03",
+  "updated_at_bd": "2026-10-06T14:04:03+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -45,15 +45,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCFEAGCiBAoQ3EHz0gp+ixBBWcMAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
     },
     {
-      "id": "england-vs-czechia-football-1528953",
-      "title": "England vs Czechia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791312300000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGPXIMAxs3E94IqtwJdWYMLnxmgA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkpAx65Boubie8EVW4EurMGFz5zQA.webp"
-    },
-    {
       "id": "estonia-vs-iceland-2442821",
       "title": "Estonia vs Iceland",
       "category": "football",
@@ -61,6 +52,15 @@
       "start_time_bd": "07 Oct 2026, 12:45 AM (BD Time)",
       "start_epoch_ms": 1791312300000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJiGBhgSEJqkhuIPnpAGUICxBDWcfAjor3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "live_uefa-nations-league-league-a-gr-3_england-czechia-live-streaming-539558928",
+      "title": "England vs Czechia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "07 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791312300000,
+      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGPXIMAxs3E94IqtwJdWYMLnxmgA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkpAx65Boubie8EVW4EurMGFz5zQA.webp"
     },
     {
       "id": "luxembourg-vs-bulgaria-2475303",
@@ -106,6 +106,15 @@
       "start_time_bd": "07 Oct 2026, 05:00 AM (BD Time)",
       "start_epoch_ms": 1791327600000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCkhRSYFpghuIPiBSGNucwcQwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "usa-vs-canada-2578517",
+      "title": "USA vs Canada",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "07 Oct 2026, 06:00 AM (BD Time)",
+      "start_epoch_ms": 1791331200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRm0wwHXxDcQ+kCCkgUJ80dMGCwJBT7DZ9FGBUou78vSyzPTNruYqIQQA.webp"
     },
     {
       "id": "chicago-fire-vs-vancouver-whitecaps-2406928",
