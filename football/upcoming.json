@@ -1,22 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 114,
-  "total_matches": 114,
+  "total_items": 113,
+  "total_matches": 113,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-06 | 14:04:03",
-  "updated_at_bd": "2026-10-06T14:04:03+06:00",
+  "updated_time_bd": "2026-10-06 | 21:06:59",
+  "updated_at_bd": "2026-10-06T21:06:59+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "kazakhstan-vs-faroe-islands-2442815",
-      "title": "Kazakhstan vs Faroe Islands",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "06 Oct 2026, 08:00 PM (BD Time)",
-      "start_epoch_ms": 1791295200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXnxAxiSSiG4hNIEFJAozICJf3GCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
     {
       "id": "albania-vs-san-marino-2442818",
       "title": "Albania vs San Marino",
@@ -54,15 +45,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJiGBhgSEJqkhuIPnpAGUICxBDWcfAjor3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
-      "id": "live_uefa-nations-league-league-a-gr-3_england-czechia-live-streaming-539558928",
-      "title": "England vs Czechia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791312300000,
-      "poster": "https://streamed.pk/api/images/poster/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGPXIMAxs3E94IqtwJdWYMLnxmgA/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkpAx65Boubie8EVW4EurMGFz5zQA.webp"
-    },
-    {
       "id": "luxembourg-vs-bulgaria-2475303",
       "title": "Luxembourg vs Bulgaria",
       "category": "football",
@@ -79,6 +61,15 @@
       "start_time_bd": "07 Oct 2026, 12:45 AM (BD Time)",
       "start_epoch_ms": 1791312300000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcCBApc-UiG4g+mkFK1mIICzikFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "ppv-england-vs-czechia",
+      "title": "England vs. Czechia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "07 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791312300000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSElUQ0gMbAIIeMGVZJ2BSBgiQJEChDyJiRCFLAaiiBYWaYIRfIgpy1gUJFMNLsIWBJcWRchMG5Oa2FzFwIVclDbMgggA.webp"
     },
     {
       "id": "scotland-vs-slovenia-2475304",
