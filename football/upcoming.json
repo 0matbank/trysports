@@ -1,40 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 113,
-  "total_matches": 113,
+  "total_items": 110,
+  "total_matches": 110,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-07 | 05:53:47",
-  "updated_at_bd": "2026-10-07T05:53:47+06:00",
+  "updated_time_bd": "2026-10-07 | 11:11:58",
+  "updated_at_bd": "2026-10-07T11:11:58+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "usa-vs-canada-2578517",
-      "title": "USA vs Canada",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Oct 2026, 06:00 AM (BD Time)",
-      "start_epoch_ms": 1791331200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRm0wwHXxDcQ+kCCkgUJ80dMGCwJBT7DZ9FGBUou78vSyzPTNruYqIQQA.webp"
-    },
-    {
-      "id": "chicago-fire-vs-vancouver-whitecaps-2406928",
-      "title": "Chicago Fire vs Vancouver Whitecaps",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Oct 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1791333000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHFnIzeYENxBSQfEBBMhzOYzBAwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "mexico-vs-chile-2578516",
-      "title": "Mexico vs Chile",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "07 Oct 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1791340200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiAHAwvMjg1SQEECdOm+IFCYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
     {
       "id": "ppv-ifk-g-teborg-vs-v-ster-s-sk",
       "title": "IFK Göteborg vs. Västerås SK",

@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 5,
+  "total_items": 1,
   "total_matches": 1,
-  "total_streams": 5,
-  "updated_time_bd": "2026-10-07 | 05:53:47",
-  "updated_at_bd": "2026-10-07T05:53:47+06:00",
+  "total_streams": 1,
+  "updated_time_bd": "2026-10-07 | 11:11:58",
+  "updated_at_bd": "2026-10-07T11:11:58+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "argentina-vs-benin-2606658",
-      "title": "Argentina vs Benin",
+      "id": "mexico-vs-chile-2578516",
+      "title": "Mexico vs Chile",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "07 Oct 2026, 05:00 AM (BD Time)",
-      "start_epoch_ms": 1791327600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCkhRSYFpghuIPiBSGNucwcQwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "start_time_bd": "07 Oct 2026, 08:30 AM (BD Time)",
+      "start_epoch_ms": 1791340200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiAHAwvMjg1SQEECdOm+IFCYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,34 +23,10 @@
       },
       "streams": [
         {
-          "channel_name": "Premier Sports 2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCkhRSYFpghuIPiBSGNucwcQwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_name": "Mexico vs Chile (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiAHAwvMjg1SQEECdOm+IFCYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb22.strmd.st/secure/JIKeymtbzSVVgyMrcQaVQlUbROgRRBet/rtmp/stream/_7FL8jsBIMDlKG04rh1UUun9zNlCVe14HLRi_3OLo76VxJmmczqxwyw8W2PiRSay2rBw168/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Premier Sports 2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCkhRSYFpghuIPiBSGNucwcQwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb22.strmd.st/secure/uAmxURbnuVagLPaMdPEsffOvbXqvcRjv/rtmp/stream/-Kp36cwLhpoY9iDN5C9S39TjEriU0R89BrXMolsXGYaZnVbt4YylD3zQINWt-VJYk_Jj0DNl34fq/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - ViX (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCkhRSYFpghuIPiBSGNucwcQwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb22.strmd.st/secure/hqZtFsFCfZTjrUhHntgqUkLFRxuBsACK/rtmp/stream/KAA9WE_mPoxBxNXIX6lgdgPBUzPipv9mtpWiG2kgq4q8fHGsIcIvRnoyc1fNEvre_MEeVkqU9g/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - ViX (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCkhRSYFpghuIPiBSGNucwcQwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb22.strmd.st/secure/ezcMEhAQIEhhSTGTnoBfvPijayNeqoKy/rtmp/stream/eTz0fVvhrr6kCptT-YRxjhj0bPpbpEryiJukUIwwA6A9Uj6wguhE7SRPSWigezSXMAqfFS820PFzUek/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Argentina vs Benin (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCkhRSYFpghuIPiBSGNucwcQwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb16.strmd.st/secure/ExJZXxPyXLMsGxksEZNxDtkkaEHymbvn/delta/stream/live_int-friendly-games_argentina-benin-live-streaming-674100144/1/playlist.m3u8"
+          "direct_stream_url": "https://lb30.strmd.st/secure/ldeWhRLplwAHbaNmFsYuebNyAJJFWCAz/delta/stream/live_int-friendly-games_mexico-chile-live-streaming-674117856/1/playlist.m3u8"
         }
       ]
     }
