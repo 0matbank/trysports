@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 111,
-  "total_matches": 111,
+  "total_items": 113,
+  "total_matches": 113,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-07 | 17:47:40",
-  "updated_at_bd": "2026-10-07T17:47:40+06:00",
+  "updated_time_bd": "2026-10-07 | 23:58:41",
+  "updated_at_bd": "2026-10-07T23:58:41+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -1005,6 +1005,24 @@
       "status": "UPCOMING",
       "start_time_bd": "14 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1791918000000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1868",
+      "title": "Feyenoord Rotterdam - Como",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "14 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1791996300000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1869",
+      "title": "LASK Linz - Liverpool",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "14 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1791996300000,
       "poster": "https://streamed.pk/favicon.ico"
     }
   ]
