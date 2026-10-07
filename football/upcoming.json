@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 113,
-  "total_matches": 113,
+  "total_items": 120,
+  "total_matches": 120,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-07 | 23:58:41",
-  "updated_at_bd": "2026-10-07T23:58:41+06:00",
+  "updated_time_bd": "2026-10-08 | 04:56:15",
+  "updated_at_bd": "2026-10-08T04:56:15+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -1023,6 +1023,69 @@
       "status": "UPCOMING",
       "start_time_bd": "14 Oct 2026, 10:45 PM (BD Time)",
       "start_epoch_ms": 1791996300000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1870",
+      "title": "AS Roma - Real Madrid",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792004400000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1871",
+      "title": "Aston Villa - Fenerbahce",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792004400000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1872",
+      "title": "Bodo/Glimt - Borussia Dortmund",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792004400000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1873",
+      "title": "Manchester City - Paris Saint-Germain",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792004400000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1874",
+      "title": "Real Betis - FC Porto",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792004400000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1875",
+      "title": "Shakhtar Donetsk - AEK Athens",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792004400000,
+      "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "1876",
+      "title": "Slovan Bratislava - VfB Stuttgart",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792004400000,
       "poster": "https://streamed.pk/favicon.ico"
     }
   ]
