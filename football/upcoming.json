@@ -1,67 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 119,
-  "total_matches": 119,
+  "total_items": 114,
+  "total_matches": 114,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-09 | 20:44:24",
-  "updated_at_bd": "2026-10-09T20:44:24+06:00",
+  "updated_time_bd": "2026-10-10 | 01:51:36",
+  "updated_at_bd": "2026-10-10T01:51:36+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "ifk-g-teborg-vs-v-ster-s-2398930",
-      "title": "IFK Göteborg vs Västerås",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "09 Oct 2026, 11:00 PM (BD Time)",
-      "start_epoch_ms": 1791565200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJP2AAGEDKRgQIbiD6GQEEIhInzl3QWD6Y-YbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
-    },
-    {
-      "id": "psv-eindhoven-vs-heerenveen-2489129",
-      "title": "PSV Eindhoven vs Heerenveen",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Oct 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1791568800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCCkhaW2gAYQ3EHxCmcOGCBRWbfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "volendam-vs-vitesse-2489861",
-      "title": "Volendam vs Vitesse",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Oct 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1791568800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECRDcKURDC0g+IYzhzcQ+nChDwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "borussia-dortmund-vs-werder-bremen-2508371",
-      "title": "Borussia Dortmund vs Werder Bremen",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Oct 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1791570600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmGpSwfECRDcQu-RBAwQpw4hwgCwJBT7DZ9FGBUou78vSyzPTBruYqIQQA.webp"
-    },
-    {
-      "id": "lens-vs-lyon-2489515",
-      "title": "Lens vs Lyon",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791571500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPtmBSwKECjDcQhviBIgIIEzimWj5gsCQU+w2fX0qUXMGXhEssl5MtGA+YqIQQA.webp"
-    },
-    {
-      "id": "m-laga-vs-espanyol-2506240",
-      "title": "Málaga vs Espanyol",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "10 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1791572400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKiRDcEIFlpB8QRiCBQgYIE5otSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
     {
       "id": "puebla-vs-le-n-2487543",
       "title": "Puebla vs León",
@@ -277,6 +223,15 @@
       "start_time_bd": "10 Oct 2026, 10:00 PM (BD Time)",
       "start_epoch_ms": 1791648000000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXDzoheABjBJtIPiBImQKEIlMwQtxsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
+    },
+    {
+      "id": "internazionale-vs-parma-serie-a-1791648000",
+      "title": "Internazionale vs Parma",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "10 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1791648000000,
+      "poster": "https://streamed.pk/favicon.ico"
     },
     {
       "id": "raal-la-louvi-re-vs-club-brugge-2496761",
