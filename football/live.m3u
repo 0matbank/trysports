@@ -1,6 +1,20 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-10-10 | 05:36:26
+# TOTAL-ITEMS: 2
+# UPDATED Time and date BD: 2026-10-10 | 08:45:17
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Spanish - TUDN (HD)" tvg-name="Spanish - TUDN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEMpAwQUkH1whuejSAimtIEhd3wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Spanish - TUDN (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/wephWjVqCzqhhGamZwUVLEZNJLtdpfeu/rtmp/stream/k8v5XCR2VT47mTxNPk-43kNS8RL9PWuv3k_hiC-JR4WOhnpiEiMDw4RgFrfBi4kegJqYSl-c/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spanish - TUDN (SD)" tvg-name="Spanish - TUDN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEMpAwQUkH1whuejSAimtIEhd3wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Spanish - TUDN (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/dlvVWXvRnYpXQQshtkyxIvorexklnHGG/rtmp/stream/q_rrSOUcSVC7jiNVNpwCVguHgUp4ZOBa-h1asr5McF5UhowOPP1ufASk5dau_B-ec75miytDzjVlgA/1/playlist.m3u8
 
