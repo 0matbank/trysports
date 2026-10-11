@@ -1,13 +1,195 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 1
-# UPDATED Time and date BD: 2026-10-11 | 04:43:42
+# TOTAL-ITEMS: 27
+# UPDATED Time and date BD: 2026-10-11 | 07:20:39
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Spanish - Liga MX (HD)" tvg-name="Spanish - Liga MX (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJAxAw5lSCG4g+IYxBCmYIElpBTLBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Spanish - Liga MX (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb11.strmd.st/secure/mbPZGfNQsrrEnxnHFkCVWjbJiXayqcNi/rtmp/stream/RmHVpBtfgKFe3TeEfgP1O8VAJBvM3iNbsRUm9stFOVJlMlKWCxpTt-2DDWc2y355Z-G9_yFNkic/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spanish - Liga MX (SD)" tvg-name="Spanish - Liga MX (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJAxAw5lSCG4g+IYxBCmYIElpBTLBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Spanish - Liga MX (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb11.strmd.st/secure/ZVXOVFyRimcPhsqVdvOPknFPcfURRHzD/rtmp/stream/HA4DVSDvIyzl4ZBckSNDb8ArrTHz-yAfB4stg71KTpdlCvzrxoXS8Ya08DPOJ4Q92bx7MI8XDSjYncJG/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOPDBSiYSCG4g+IGCCmH9IRAYggUBYEgp9hs+ijAqUXD+XpZZXky0uqL0oUA.webp" group-title="Football", Apple TV (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb5.strmd.st/secure/MrxmMLdflXmScfFegOzMLVUhtDGEJCzn/rtmp/stream/CQaUIZ1BOyFfMh09TMoQbUDoT5ImtYloviiGpScMyBuRfnoaKIkIiv9cSZpLzfX-ztnB-iqruCi2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOPDBSiYSCG4g+IGCCmH9IRAYggUBYEgp9hs+ijAqUXD+XpZZXky0uqL0oUA.webp" group-title="Football", Apple TV (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb5.strmd.st/secure/pNABVJrOaGnVGNxEqppUNPXXbRVMzIFG/rtmp/stream/kIALla35Lh-pC_i2Zx73U0YCN6esiy1Xkz5qr6XMcLZOc2TPueLq3piPz-axnyZs1k3OjwbZrG00Ca_bhQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCAH1WABhD7umkDBBSjhxIZKmCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Football", Apple TV (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/exYVbeQhoQYZrulEpGGbdIfZjUtKdVtp/rtmp/stream/CTaEpcI1HcPD6_bCorKsLPmpe0FdyH2nSjbzY7-iLTjyQijPN1tRcx0ZTk190jPm-b1apTNG2_Ws/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCAH1WABhD7umkDBBSjhxIZKmCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp" group-title="Football", Apple TV (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/TkCcypWxfSwgxGpLoCOsmflHZgGedGjZ/rtmp/stream/3fGk1YU0xtGdlPjIrXjd8ns5xxg3Np2DsNaTyyA6MWY8XAsa8iTZjD1MVemPnnYSeC_kWI5JikuBOOht5g/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCHBSQfMCAYhuO40b4gSIRBEvmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Apple TV (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/plyuHrbHkrAgmSgnIukyujQZaheKNPHT/rtmp/stream/dDmkb5EOci4qZW7NGRcv88ZuTIzQ9P_D5CpzhhtZW2MwwggYq-x_lDcAp-VxssYx2eNZWgGfoBvX/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCHBSQfMCAYhuO40b4gSIRBEvmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Apple TV (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/bVtnaNrPOAUWyrpgTeeDVXumARnyWHyN/rtmp/stream/crzD32OSRcper52vU8rqQjOt9Zqsc9yUSnHtjqJdajoseuqtI5LaDKKoIlW4E_k8D9rCNUEosdBSFAqbLA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLlggYIMtxD6+II4d0hEEcyAVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", Apple TV (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/FaLDIyEGIrRPsYzAGeLMUMxLdZKQQxKh/rtmp/stream/SM3b2eKO39NhOSIChI27AxDoGUvbcCnILMVvKH09huhRXoWkkGKWmVmk-bPgvsdPeK8C9ZmXYQGZ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLlggYIMtxD6+II4d0hEEcyAVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="Football", Apple TV (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/kBdPPOYHgGTTBjGXXUDWJPtxbefqOkGw/rtmp/stream/YqZOrraC7jczEbmzFXr8aETxxx5PbOB1YzA1DwOADsAO_yi4yPOTviXHpomrycSLc5fgFGJmVrPFc5_xTQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHOBhZtUNxB8DIfYZIhEEc+YLAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp" group-title="Football", Apple TV (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb11.strmd.st/secure/SHdJIQrGsnyleTyBZBpcUaRvoFYYXFwo/rtmp/stream/57R5_bPy2d-_hlr59z_JhK_tL2vmHv2zeTZM1AFtOgD1rvOJn87ea0jMwyVujiIu1baxuuudlN2LvA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHOBhZtUNxB8DIfYZIhEEc+YLAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp" group-title="Football", Apple TV (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb11.strmd.st/secure/SjfHcxQlvWwmAtBixSCwBzzyhqlafIQu/rtmp/stream/6psAv2SbRIyrAu0mZbgWK_Tu8upcMEMhNnTWLjc55Xe5m-GZib9OChl2BDVx8lY3o94NyeVEB4s3O0UoRa8/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGDIoQUbiBIg9fEDBBSQxvYiMgQBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="Football", Apple TV (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/hkHyYUcIFvOBZeeupRpuDEzTpTeOXZJa/rtmp/stream/Jzz6iL_PwvXE07kFZjo82b_HUD2Cu8K4e8P2bx2JAguPzc5pbMv0dtzNogQctDrLkeXpE0JeoiGO/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGDIoQUbiBIg9fEDBBSQxvYiMgQBYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="Football", Apple TV (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/rlNOHSVzGMnVsXgWmBvTzZJjAMVAxPFk/rtmp/stream/EJxtJIIJno4WJwbsXuIBIsEBku3OPdIK0vErPckhLSlNF573q6VEI2jWHU_WEFcWGQ8xKVPlp-54MLpLdg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGYgUYFHRAQQ3EHxNGzJEIkOJGwJBT7DZ9HSr1swZeESyy9TLRgXmKiEEA.webp" group-title="Football", Apple TV (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb5.strmd.st/secure/jJleIhGUKMpLkRcKKsQnLMNLAvHujBzM/rtmp/stream/yjv6z3R0Ci3HKu8bPnt30uh9z83dNOtlK4fwyKvTRcO1gWFwRYOia_3V8Cj1LLZeoHfej0zwz24/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGYgUYFHRAQQ3EHxNGzJEIkOJGwJBT7DZ9HSr1swZeESyy9TLRgXmKiEEA.webp" group-title="Football", Apple TV (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb5.strmd.st/secure/VzHbSdwPuoCifSqexrgftlpCBrbzESOr/rtmp/stream/UozINBNQl4bNGlKYlZX7tjulFHqa1R8Y65O9N34DQXQ-ifFFWvr90PiEPCuOtA8PUUtzc6aGOCIaydyP/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEAzB8Q3ECRCJd2mCCkhtuxDhzwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Apple TV (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb26.strmd.st/secure/hdWGZiLcchZsJhaWWdpHSJLVyNbIXBDB/rtmp/stream/nT7FvMTR7dvR5B2IdeFyjcWj--ErXHH27i72KksE5Pc_-wnJVn9ECF5vc8mlp06kWVTlhVODas1u/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEAzB8Q3ECRCJd2mCCkhtuxDhzwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Apple TV (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb24.strmd.st/secure/jjThtakynunnyKAjbXqgaTzMvHRibNcw/rtmp/stream/E4c7xUoEj_zP0tN7-sjZRQtsyWboI_0hyKUv9YNmRkTHJz_y-1Vo0zzRvzl559s-r65g206LvwOtNSUwlA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxBlRWYFLBSQ3DSBghDm44mMkQKAsCQU+w2fRRgVKLp-L1dot5MtGCeYqIQQA.webp" group-title="Football", Apple TV (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb24.strmd.st/secure/fFyDSPSBEgLsHvLWJSrKhkqFDUGGTFUL/rtmp/stream/o0xF0TQEfWMLgW7hqPfVUKZo4gQ9lRv3DVxmyVfBVEjdsVnkVc6MujACeSdDqjwDIN145WJJsjS2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxBlRWYFLBSQ3DSBghDm44mMkQKAsCQU+w2fRRgVKLp-L1dot5MtGCeYqIQQA.webp" group-title="Football", Apple TV (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb24.strmd.st/secure/BgyuCMKCSnFLKYPkAwKBEowWYyCNEFVT/rtmp/stream/TYqRuoxpog-Jaku80dLqMz63f1iKk245mq-aLs5uKqepo2CClGFvkk3wXA_gLJTvhy7L7ZyyMVCgiCM78w/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmBSQMTqKQhuIbXxBnTMHYZCISBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp" group-title="Football", Apple TV (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/pZLpsJMLKXNOawEiGTVqitHGFLuPqxRg/rtmp/stream/XFPKCrO31Ww3ETh_Y9despjNdFJKEji3Y8reqJ3KbN8knRWLLDlMNJHOn7jUEWmQj0hhRdwUp3e5/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmBSQMTqKQhuIbXxBnTMHYZCISBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp" group-title="Football", Apple TV (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/boxHfgWvyOtAkOiKGQXIjnPdXHBIAsFP/rtmp/stream/odcrlDqVuJOwZ9e45cQ3X2aUrY6Ngx0X-fX4s_m7NcmLajv8RfP14AoTWYbvdsR-Dyfppo7xWkTd-Ii3tg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spanish - Liga MX (HD)" tvg-name="Spanish - Liga MX (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENwQgyJEChAHuIPgZAQzIGNssgp2gsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Football", Spanish - Liga MX (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb26.strmd.st/secure/gJuxiuSfgNXkHCITbzfidwQAPvrPLdml/rtmp/stream/CQDuOPIC1qLnwLc9teDMCJVsJ30oUm9l-UqH3t-8Dve_wvqSCf9gifSjs9BO07YbhFhRQh0StbA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spanish - Liga MX (SD)" tvg-name="Spanish - Liga MX (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENwQgyJEChAHuIPgZAQzIGNssgp2gsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="Football", Spanish - Liga MX (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb26.strmd.st/secure/dYAExadleoMngLlKcockfGCRgFunTPbN/rtmp/stream/r6dEVRPGOkoj3IJ0agmmYZuOOyrfKrKssH_9N_hPyMekkZBnuADyofWfQC8iuiVtWSAGq73Uh8zf_QTU/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spanish - Liga MX (HD)" tvg-name="Spanish - Liga MX (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHPDCipsLSG4g+IYxBCmYhkCWP6CwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp" group-title="Football", Spanish - Liga MX (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb3.strmd.st/secure/sWBCazpaKoxWlVzqZjiRlwZuPIwVdoMn/rtmp/stream/G99S45xcZG8Ewl2QSERYl2glJjJFEXKPOcMF8jqDZqOOwxG0YmseeTWtaD5pNdirBgPvujP3sxQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spanish - Liga MX (SD)" tvg-name="Spanish - Liga MX (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHPDCipsLSG4g+IYxBCmYhkCWP6CwJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp" group-title="Football", Spanish - Liga MX (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb26.strmd.st/secure/ozOSNNMsbatBVQPAYrqgHZApqEXWyCxg/rtmp/stream/NICUgVhrJp5sIp19SUnd-GQ4x5ss0O2UBQsXX89TvdAn1mLFbldY7fi657k0zICh1e1XfPg0EDmgchVy/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Real Madrid vs Villarreal (HD)" tvg-name="Real Madrid vs Villarreal (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMD1hhpIRNxB8QRiCBQgYIEyXOmCwJBT7DZ9FNrYou28vSyzPTLRg7vSiEEA.webp" group-title="Football", Real Madrid vs Villarreal (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb23.strmd.st/secure/QfVQikSdItYpdvmqkDKzfBPnfwtoSpkp/hotel/stream/real-madrid-vs-villarreal-laliga-ea-sports-1791658800/1/playlist.m3u8
+https://lb3.strmd.st/secure/jaZBkXdnzyUGLUYqpODWPIdoArZZkXSV/hotel/stream/real-madrid-vs-villarreal-laliga-ea-sports-1791658800/1/playlist.m3u8
 
