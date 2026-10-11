@@ -1,22 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 30,
-  "total_matches": 30,
+  "total_items": 29,
+  "total_matches": 29,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-12 | 00:55:22",
-  "updated_at_bd": "2026-10-12T00:55:22+06:00",
+  "updated_time_bd": "2026-10-12 | 04:44:05",
+  "updated_at_bd": "2026-10-12T04:44:05+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "racing-de-santander-vs-valencia-2506248",
-      "title": "Racing de Santander vs Valencia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1791745200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKeUQs6IbiD4hDEEChAwQxkrv0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "atl-tico-de-san-luis-vs-santos-laguna-2487549",
       "title": "Atlético de San Luis vs Santos Laguna",

@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 8,
-  "total_matches": 3,
-  "total_streams": 8,
-  "updated_time_bd": "2026-10-12 | 00:55:22",
-  "updated_at_bd": "2026-10-12T00:55:22+06:00",
+  "total_items": 1,
+  "total_matches": 1,
+  "total_streams": 1,
+  "updated_time_bd": "2026-10-12 | 04:44:05",
+  "updated_at_bd": "2026-10-12T04:44:05+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "troyes-vs-marseille-2489514",
-      "title": "Troyes vs Marseille",
+      "id": "racing-de-santander-vs-valencia-2506248",
+      "title": "Racing de Santander vs Valencia",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "12 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791744300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXjkp5JCG4g+IYwZwQQKEOeNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "start_time_bd": "12 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1791745200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKeUQs6IbiD4hDEEChAwQxkrv0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,84 +23,10 @@
       },
       "streams": [
         {
-          "channel_name": "French - Ligue 1+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXjkp5JCG4g+IYwZwQQKEOeNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_name": "Racing de Santander vs Valencia (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKeUQs6IbiD4hDEEChAwQxkrv0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/fJCbbSsQwgaEWjlGYQsSKQmkdSxOctsY/rtmp/stream/vV5mFP_pYJc9SUNU2WtrdbHnCr7w8W-QM7FQAnMwTmt2bNwPH8pzcagisnmXbXgovccrqociUnU/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "French - Ligue 1+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXjkp5JCG4g+IYwZwQQKEOeNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb7.strmd.st/secure/vldqmHhDTNoWuOgCbPuAeJhmjljVFtlw/rtmp/stream/qctHB8cLmY9zh4HG_2II5Cl5cO3TyCBsawNxBEOQ_CSniXs6RpFF31JjG_K36G18gH5e0kliO6tHlh0Z/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Troyes vs Marseille (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXjkp5JCG4g+IYwZwQQKEOeNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/zzJmFvMmkndVGtbRYLjWIoZkcdWTpFmA/hotel/stream/troyes-vs-marseille-ligue-1-1791744300/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "cagliari-vs-juventus-2482190",
-      "title": "Cagliari vs Juventus",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "12 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791744300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiFplRSEHxAb9JEMZSaQEEwZBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiFplRSEHxAb9JEMZSaQEEwZBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb7.strmd.st/secure/ssIHOZBKZZFjQFbemmTEUsRWoufvnTbZ/rtmp/stream/x3wFh3EEAtybmv5U-eGR8tKVWWVBgD5s9GUUABxN-wV06YE-Osb3dMKGl26vXHvhOJ8x-lj6P-k/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiFplRSEHxAb9JEMZSaQEEwZBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb10.strmd.st/secure/IcpJyaJAnWSlpXAOtwwgGuKfYIVgSnoX/rtmp/stream/tLK2DhU02qaq8fMvrdDyVKL05N7P0KhB3QTd_w1D4-UJ_Vz_wXFDQ5tzR8_bokstCeL0zYKX0PHrDFfk/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Cagliari vs Juventus (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiFplRSEHxAb9JEMZSaQEEwZBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/hBOyXNMdzowbvIueQyazMJgtZeCMGwez/hotel/stream/cagliari-vs-juventus-serie-a-1791744300/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "real-betis-vs-osasuna-2506244",
-      "title": "Real Betis vs Osasuna",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "11 Oct 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1791736200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7ApIWiQ0huIPiFMQQKA+f1HGwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7ApIWiQ0huIPiFMQQKA+f1HGwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb10.strmd.st/secure/RSzAqhdLzYMLEOKXjRzOLmsRWXLFroBt/rtmp/stream/NbeEoLRdGO6FH8QADD5i0Cho0so9L2KfhQHw_MkcpJIC3Kq0JJWC7-nxvdjOhNK_3ElNhL3rrDM/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7ApIWiQ0huIPiFMQQKA+f1HGwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb10.strmd.st/secure/MrjAaBUpMZnnkkeCYivmXDYoLtlpjaOe/rtmp/stream/X5hsQD2VzPhf0otAB9vOB6wpimO-jFbJH3hwsEWjvaC-T9Y1sE8DXKG_gYsi0DPHW5Jqq0jk0jWr1Dy0/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/roqzaQQLdXhbHsSIcOcAPGtjZKwPZckR/hotel/stream/racing-santander-vs-valencia-laliga-ea-sports-1791745200/1/playlist.m3u8"
         }
       ]
     }
