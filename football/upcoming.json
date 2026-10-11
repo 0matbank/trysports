@@ -1,121 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 52,
-  "total_matches": 52,
+  "total_items": 40,
+  "total_matches": 40,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-11 | 13:20:28",
-  "updated_at_bd": "2026-10-11T13:20:28+06:00",
+  "updated_time_bd": "2026-10-11 | 20:12:39",
+  "updated_at_bd": "2026-10-11T20:12:39+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "utrecht-vs-willem-ii-2489134",
-      "title": "Utrecht vs Willem II",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 04:15 PM (BD Time)",
-      "start_epoch_ms": 1791713700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VacBkAGanxDcQekLhMGYIc+YlMkFPsNn0UYFSi4vy9LLLdNaYFzFRCCA.webp"
-    },
-    {
-      "id": "ppv-como-vs-as-roma",
-      "title": "Como vs. AS Roma",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 04:30 PM (BD Time)",
-      "start_epoch_ms": 1791714600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGjQilxIGMHjZpVEAGNSwKVg0gUqkGRIhhOkCGyyQChcphGZEIynJSBQkU0VOwhYElwqnITBuTilhdScCeXJgjXUIIA.webp"
-    },
-    {
-      "id": "elche-vs-celta-vigo-2506247",
-      "title": "Elche vs Celta Vigo",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 06:00 PM (BD Time)",
-      "start_epoch_ms": 1791720000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJD2YgpCEDBDcQfECYggUekGZIHtBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "hammarby-vs-djurg-rden-2398932",
-      "title": "Hammarby vs Djurgården",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 06:00 PM (BD Time)",
-      "start_epoch_ms": 1791720000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOF5SQMECg0huIPgYghEJYyDOI+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "pec-zwolle-vs-cambuur-2489135",
-      "title": "PEC Zwolle vs Cambuur",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 06:30 PM (BD Time)",
-      "start_epoch_ms": 1791721800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFA0r9+IPiG66QRnDgMwQ58-ALAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp"
-    },
-    {
-      "id": "telstar-vs-ado-den-haag-2489136",
-      "title": "Telstar vs ADO Den Haag",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 06:30 PM (BD Time)",
-      "start_epoch_ms": 1791721800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELwAMIcOCxgUGkHx24z3EDEvWFTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
-    },
-    {
-      "id": "crystal-palace-vs-nottingham-forest-2494054",
-      "title": "Crystal Palace vs Nottingham Forest",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1791723600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFJAowKEPW4gDfECYggSerSEQ4tTJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp"
-    },
-    {
-      "id": "hull-city-vs-everton-2494056",
-      "title": "Hull City vs Everton",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1791723600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7YQtLHJDcQfECYggSIMyh02YBYEgp9hs+ijAqUXD+Xp7RXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "lazio-vs-monza-2482188",
-      "title": "Lazio vs Monza",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1791723600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMBkoQKBmCkhuIAyFPGQJHSAjmJTJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "lecce-vs-bologna-2482196",
-      "title": "Lecce vs Bologna",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1791723600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEALDkkwGXxDcNIEsZAoQiRCGsGCwJBT7DZ9FGBUou78vSyzPTLRaovQhQA.webp"
-    },
-    {
-      "id": "nice-vs-strasbourg-2489508",
-      "title": "Nice vs Strasbourg",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1791723600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VZcCm5smkNxB8QJEBBBmYZkwYMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "k-ln-vs-borussia-m-nchengladbach-2508377",
-      "title": "Köln vs Borussia Mönchengladbach",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 07:30 PM (BD Time)",
-      "start_epoch_ms": 1791725400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPDBJmc2CG4g+IY4hiGQU8yVwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "real-sociedad-vs-deportivo-de-a-coru-a-2506245",
       "title": "Real Sociedad vs Deportivo de A Coruña",
