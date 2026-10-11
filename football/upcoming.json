@@ -1,40 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 55,
-  "total_matches": 55,
+  "total_items": 52,
+  "total_matches": 52,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-11 | 07:20:39",
-  "updated_at_bd": "2026-10-11T07:20:39+06:00",
+  "updated_time_bd": "2026-10-11 | 13:20:28",
+  "updated_at_bd": "2026-10-11T13:20:28+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "colorado-rapids-vs-san-jose-earthquakes-2407125",
-      "title": "Colorado Rapids vs San Jose Earthquakes",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 07:30 AM (BD Time)",
-      "start_epoch_ms": 1791682200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBSwKWGD5gSIbiD4gYIKaeMhEJlBoLAkFPsNn1dKlF0Pl6WLI+TLRghmKiEEA.webp"
-    },
-    {
-      "id": "ppv-lafc-vs-vancouver-whitecaps",
-      "title": "LAFC vs. Vancouver Whitecaps",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1791685800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNCMCoh42SSBIgsIZSkXAZExKuEhhpebvUhNwCLpAxTp49nmkU5CQKEimsh2ELAkuAMYOhMG5OCT0yBwJ1ciCrMgggA.webp"
-    },
-    {
-      "id": "am-rica-vs-monterrey-2487547",
-      "title": "América vs Monterrey",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 09:00 AM (BD Time)",
-      "start_epoch_ms": 1791687600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPggZgpIWiRDcQfECYggzMEPss6pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
     {
       "id": "utrecht-vs-willem-ii-2489134",
       "title": "Utrecht vs Willem II",
