@@ -1,175 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 32,
-  "total_matches": 11,
-  "total_streams": 32,
-  "updated_time_bd": "2026-10-11 | 20:12:39",
-  "updated_at_bd": "2026-10-11T20:12:39+06:00",
+  "total_items": 8,
+  "total_matches": 3,
+  "total_streams": 8,
+  "updated_time_bd": "2026-10-12 | 00:55:22",
+  "updated_at_bd": "2026-10-12T00:55:22+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "k-ln-vs-borussia-m-nchengladbach-2508377",
-      "title": "Köln vs Borussia Mönchengladbach",
+      "id": "troyes-vs-marseille-2489514",
+      "title": "Troyes vs Marseille",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "11 Oct 2026, 07:30 PM (BD Time)",
-      "start_epoch_ms": 1791725400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPDBJmc2CG4g+IY4hiGQU8yVwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Fandango (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPDBJmc2CG4g+IY4hiGQU8yVwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/svaHIrkMjgXwstCfvuJkJmiPXnnHkAgZ/rtmp/stream/WsU6nbEdHFSQht3Q0R5wH6XXJuY-n_58Wqzf7aKqIWr_jQTSuEn2Kpg-UfswYvPSDqyhnT5JkxM/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Fandango (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPDBJmc2CG4g+IY4hiGQU8yVwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb15.strmd.st/secure/VWqAtbSNtQyJoIFhxzFjkcjKHKsYiXzn/rtmp/stream/2DEnlmkMsmWMJkoTJ1dycWjdlUKweSwnps_DWEhAm-TO3zqLgNx5JIKjwDsOGFs0_It_OOyskJS2Wecn/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Köln vs Borussia Mönchengladbach (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPDBJmc2CG4g+IY4hiGQU8yVwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/WxPcoKfjLGMhZIsPcTBEvdnTFdmsRhSU/hotel/stream/fc-cologne-vs-borussia-m-nchengladbach-bundesliga-1791725400/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "aberdeen-vs-st-johnstone-2494452",
-      "title": "Aberdeen vs St Johnstone",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "11 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1791723600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGBQherFD20g+IY0cRbEiHBKZIKfYbPoaVetmDLwiWWXqa0w7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Premier Sports 1 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGBQherFD20g+IY0cRbEiHBKZIKfYbPoaVetmDLwiWWXqa0w7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb30.strmd.st/secure/UMCLUyfGfdWmwzBhGWVOXknIujjiVYHZ/rtmp/stream/oUxiT0d5K9S--4nhT4x341nRzHPxYLxVZG_0PyVApfSBXXNDRJMsvtRB0P5-j6U9W9UU5Og/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Premier Sports 1 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGBQherFD20g+IY0cRbEiHBKZIKfYbPoaVetmDLwiWWXqa0w7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb30.strmd.st/secure/bmNvcpEqmphUTUMLauuYzeWgZDpiiMBU/rtmp/stream/M9Ff7XBLKuh7l4xyXwb2e6h2jSsH2Ua0dSWIdVJdh5ypbHh6ok98d2JJ0V1gSQhyxPWHwWQMAqlR/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "hull-city-vs-everton-2494056",
-      "title": "Hull City vs Everton",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "11 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1791723600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7YQtLHJDcQfECYggSIMyh02YBYEgp9hs+ijAqUXD+Xp7RXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports Premier League (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7YQtLHJDcQfECYggSIMyh02YBYEgp9hs+ijAqUXD+Xp7RXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb30.strmd.st/secure/zpVtmZasUIllCPAmCxmrNaLptdHhKlEa/rtmp/stream/7uPivUaOESL-mCxbbOLdUBRzNaTdmPkctL5FcIKjhaB35ApgeWOC0gj48ZyR3U3Ip1o2SbqsdTd4/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports Premier League (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7YQtLHJDcQfECYggSIMyh02YBYEgp9hs+ijAqUXD+Xp7RXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb30.strmd.st/secure/JemaUQCEHWmeHulSRWvKrEzUjfxcrgrj/rtmp/stream/V5EPYwte2BnbyIgkuuy-kWqIsd2HuUKce7iwbLLllMuiGINB15A6Jo69ifRMuH6DJ5vdd99fTuMb2xJ2FQ/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Hull City vs Everton (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7YQtLHJDcQfECYggSIMyh02YBYEgp9hs+ijAqUXD+Xp7RXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/MNdbRoBfYroLAcVXWzqAcCfpauJEFyTL/ingest/stream/streamedwolverhamptonwanderers/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Hull City vs Everton (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7YQtLHJDcQfECYggSIMyh02YBYEgp9hs+ijAqUXD+Xp7RXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb15.strmd.st/secure/WpaPVNglmsaTHptFCNbqTQIVatWKOQNI/ingest/stream/streamedwolverhamptonwanderers/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Hull City vs Everton (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7YQtLHJDcQfECYggSIMyh02YBYEgp9hs+ijAqUXD+Xp7RXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/fuHVsyzPBYMRWbAlrrNIdzRAYEkfaxoA/hotel/stream/hull-city-vs-everton-premier-league-1791723600/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "crystal-palace-vs-nottingham-forest-2494054",
-      "title": "Crystal Palace vs Nottingham Forest",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "11 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1791723600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFJAowKEPW4gDfECYggSerSEQ4tTJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Sports Main Event (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFJAowKEPW4gDfECYggSerSEQ4tTJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb22.strmd.st/secure/AdxnrbrKnpRRjJXZMMfNRnmSaNRGptOz/rtmp/stream/c-j6pBlXIs7dc5Atw2jyIecae9VhY1lfBqmhCpxMhxIW7OkN9tGKyz4jQwZn2w5f2HCaUN0dJcURXa4mx7aBoQ/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Sky Sports Main Event (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFJAowKEPW4gDfECYggSerSEQ4tTJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb22.strmd.st/secure/QetpjPFwmAplMhpNhjFLqODRHVYAjjrq/rtmp/stream/U-tmVKcqlPyi8fgfJE5cPMmVm0x5NUaTJHy9YZuqCLcpG64QaK_zLyE-S7AePnai0Nmuq4fVQdRHTlZ5mQQx-S-QyX0/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Crystal Palace vs Nottingham Forest (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFJAowKEPW4gDfECYggSerSEQ4tTJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/zhdQfZzgjsEKzZIPWEhdRLyIaFTrzGsz/ingest/stream/streamedcrystalpalace/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Crystal Palace vs Nottingham Forest (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFJAowKEPW4gDfECYggSerSEQ4tTJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb4.strmd.st/secure/UqtUCOelIkoroCdWTMuXZUEvgciVSinM/ingest/stream/streamedcrystalpalace/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Crystal Palace vs Nottingham Forest (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFJAowKEPW4gDfECYggSerSEQ4tTJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/cHsbJcIzyoMeeTCDQwzPoMbktDMQmIQp/hotel/stream/crystal-palace-vs-nottingham-forest-premier-league-1791723600/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "nice-vs-strasbourg-2489508",
-      "title": "Nice vs Strasbourg",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "11 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1791723600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VZcCm5smkNxB8QJEBBBmYZkwYMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "start_time_bd": "12 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791744300000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXjkp5JCG4g+IYwZwQQKEOeNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -178,32 +24,32 @@
       "streams": [
         {
           "channel_name": "French - Ligue 1+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VZcCm5smkNxB8QJEBBBmYZkwYMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXjkp5JCG4g+IYwZwQQKEOeNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb4.strmd.st/secure/dvhyvnFtuYlMODGmgNTmlkUoUXrVBEpv/rtmp/stream/XfEg8eQzk9OtQaSXOCfLM6JQJJNps2y2l78xPcXQXSprZQWfSxHuB1QVXD2jkr3J-5p_Di-X_ssu/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/fJCbbSsQwgaEWjlGYQsSKQmkdSxOctsY/rtmp/stream/vV5mFP_pYJc9SUNU2WtrdbHnCr7w8W-QM7FQAnMwTmt2bNwPH8pzcagisnmXbXgovccrqociUnU/1/playlist.m3u8"
         },
         {
           "channel_name": "French - Ligue 1+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VZcCm5smkNxB8QJEBBBmYZkwYMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXjkp5JCG4g+IYwZwQQKEOeNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb4.strmd.st/secure/uTauDlxZEtPTHYfljnCzGeWLFXhdHZmA/rtmp/stream/9qbVDE_ZcXRVulEr1FWKoB_qSPDMuVxpUXdX-Md04H4PVfGqhghhdoo6w5Gl8bolqB3wg5q35KHvS2ccYw/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/vldqmHhDTNoWuOgCbPuAeJhmjljVFtlw/rtmp/stream/qctHB8cLmY9zh4HG_2II5Cl5cO3TyCBsawNxBEOQ_CSniXs6RpFF31JjG_K36G18gH5e0kliO6tHlh0Z/1/playlist.m3u8"
         },
         {
-          "channel_name": "Nice vs Strasbourg (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VZcCm5smkNxB8QJEBBBmYZkwYMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "channel_name": "Troyes vs Marseille (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXjkp5JCG4g+IYwZwQQKEOeNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/AVhzXOAHWQZtVTdZzOqIccJjwMNbkfRR/hotel/stream/nice-vs-strasbourg-ligue-1-1791723600/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/zzJmFvMmkndVGtbRYLjWIoZkcdWTpFmA/hotel/stream/troyes-vs-marseille-ligue-1-1791744300/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "lecce-vs-bologna-2482196",
-      "title": "Lecce vs Bologna",
+      "id": "cagliari-vs-juventus-2482190",
+      "title": "Cagliari vs Juventus",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "11 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1791723600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEALDkkwGXxDcNIEsZAoQiRCGsGCwJBT7DZ9FGBUou78vSyzPTLRaovQhQA.webp",
+      "start_time_bd": "12 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1791744300000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiFplRSEHxAb9JEMZSaQEEwZBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -212,122 +58,32 @@
       "streams": [
         {
           "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEALDkkwGXxDcNIEsZAoQiRCGsGCwJBT7DZ9FGBUou78vSyzPTLRaovQhQA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiFplRSEHxAb9JEMZSaQEEwZBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb22.strmd.st/secure/KXuXKyHODlquaPjVnziNoPUkWqTiRJfd/rtmp/stream/iGEQyM41QN1M1N9FtYwpwhh0cTTeG0iKxlmkWDCNyL2IUGa-UTIFYBkq1xCxh5KaKAZRxy2DKIY/1/playlist.m3u8"
+          "direct_stream_url": "https://lb7.strmd.st/secure/ssIHOZBKZZFjQFbemmTEUsRWoufvnTbZ/rtmp/stream/x3wFh3EEAtybmv5U-eGR8tKVWWVBgD5s9GUUABxN-wV06YE-Osb3dMKGl26vXHvhOJ8x-lj6P-k/1/playlist.m3u8"
         },
         {
           "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEALDkkwGXxDcNIEsZAoQiRCGsGCwJBT7DZ9FGBUou78vSyzPTLRaovQhQA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiFplRSEHxAb9JEMZSaQEEwZBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb22.strmd.st/secure/pBGZSWZujvNqALBXQavfxqIVGNBxlYfW/rtmp/stream/DZTsDWEQDeZNntnHe3V1nh7AjAUu6jmy9BZNEZzd_5Yuf6DT4d35N-9l6z0N5tKyqkEQGfqX9h8gU5Ev/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/IcpJyaJAnWSlpXAOtwwgGuKfYIVgSnoX/rtmp/stream/tLK2DhU02qaq8fMvrdDyVKL05N7P0KhB3QTd_w1D4-UJ_Vz_wXFDQ5tzR8_bokstCeL0zYKX0PHrDFfk/1/playlist.m3u8"
         },
         {
-          "channel_name": "Lecce vs Bologna (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEALDkkwGXxDcNIEsZAoQiRCGsGCwJBT7DZ9FGBUou78vSyzPTLRaovQhQA.webp",
+          "channel_name": "Cagliari vs Juventus (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiFplRSEHxAb9JEMZSaQEEwZBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb22.strmd.st/secure/VpQiwDfRjmNjSbwrfAmJCLJxwUbwyDjh/hotel/stream/lecce-vs-bologna-serie-a-1791723600/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/hBOyXNMdzowbvIueQyazMJgtZeCMGwez/hotel/stream/cagliari-vs-juventus-serie-a-1791744300/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "lazio-vs-monza-2482188",
-      "title": "Lazio vs Monza",
+      "id": "real-betis-vs-osasuna-2506244",
+      "title": "Real Betis vs Osasuna",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "11 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1791723600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMBkoQKBmCkhuIAyFPGQJHSAjmJTJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMBkoQKBmCkhuIAyFPGQJHSAjmJTJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/CpxCxHTdwxkWsitZxFWdqccWVVvZOOlW/rtmp/stream/cZno_X-Omjodgd6J-11dD81ryJWHqf3oRjlaCO49cydXhe5R1mA5fADXSaEnfULYdl_VK5uisjU/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMBkoQKBmCkhuIAyFPGQJHSAjmJTJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb1.strmd.st/secure/iNmYUssUbfcSgTdYkadBEjeXmYCIRQMJ/rtmp/stream/swcUOZ2i4C5v5muxlwMu3ElZ95m4C4BDNoZSYgbLOVhnouBCop4eiANCKB6fEln_yEZiKdY_Pct0jLOi/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Lazio vs Monza (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMBkoQKBmCkhuIAyFPGQJHSAjmJTJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb1.strmd.st/secure/WJESKWAMdvZQBlKfXbHkIUFmvlevZKRg/hotel/stream/lazio-vs-monza-serie-a-1791723600/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "telstar-vs-ado-den-haag-2489136",
-      "title": "Telstar vs ADO Den Haag",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "11 Oct 2026, 06:30 PM (BD Time)",
-      "start_epoch_ms": 1791721800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELwAMIcOCxgUGkHx24z3EDEvWFTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Dutch - ESPN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELwAMIcOCxgUGkHx24z3EDEvWFTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb25.strmd.st/secure/rGzkVdWDDIpfBEwEnDltfjYAiepJXFEk/rtmp/stream/Wh7RBLX4HN3S6DKeF4_k1L5h-etRd-kt0xMcAXu1MGccCJd5D55x4Rktb6DLB8E-2MuPaMfxt4zj/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Dutch - ESPN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELwAMIcOCxgUGkHx24z3EDEvWFTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb25.strmd.st/secure/NZUdNBupGxEunFMYISPWshPpPLgVSZJl/rtmp/stream/gTlzwQHak2kYSDY77UI3rWp7LlVE8f-PraCYjJLKBr4mvBQQJSd_V5-G54oF5K77DH11cU3oovyQ9z5PNg/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "pec-zwolle-vs-cambuur-2489135",
-      "title": "PEC Zwolle vs Cambuur",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "11 Oct 2026, 06:30 PM (BD Time)",
-      "start_epoch_ms": 1791721800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFA0r9+IPiG66QRnDgMwQ58-ALAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Dutch - ESPN2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFA0r9+IPiG66QRnDgMwQ58-ALAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/WFkWmTVvBIVzLzObeIznbmExkbCFuWUX/rtmp/stream/5jM2AywfhK81ZylkMmJBhmE4wDo-iFKTMIw6WyoCpsL4ViOYhDnyqasWkQeGRvTUr24V1cJqnKvb/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Dutch - ESPN2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFA0r9+IPiG66QRnDgMwQ58-ALAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb1.strmd.st/secure/KXZAfCLelhpDfSSBvFUSlnXIFUAmYExs/rtmp/stream/DKEoPQxQe24BigaK3usV7pH8lfFwhgCxeMcz5TsebCzWNMPmFpIqgTD2HoRV-fowBkhq6ZRh5ppk4iZdUQ/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "elche-vs-celta-vigo-2506247",
-      "title": "Elche vs Celta Vigo",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "11 Oct 2026, 06:00 PM (BD Time)",
-      "start_epoch_ms": 1791720000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJD2YgpCEDBDcQfECYggUekGZIHtBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "start_time_bd": "11 Oct 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1791736200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7ApIWiQ0huIPiFMQQKA+f1HGwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -336,43 +92,15 @@
       "streams": [
         {
           "channel_name": "ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJD2YgpCEDBDcQfECYggUekGZIHtBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7ApIWiQ0huIPiFMQQKA+f1HGwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/AgmFxWaceiqxpTibtVwKdbroHzSwVOxD/rtmp/stream/vCoaw7WvJd7sDV1OXsnm17471yLNcAQVqLgy3iwfYmi3tSDn_CcJschZ3xVhRKifRYqiyqdPD2Q/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/RSzAqhdLzYMLEOKXjRzOLmsRWXLFroBt/rtmp/stream/NbeEoLRdGO6FH8QADD5i0Cho0so9L2KfhQHw_MkcpJIC3Kq0JJWC7-nxvdjOhNK_3ElNhL3rrDM/1/playlist.m3u8"
         },
         {
           "channel_name": "ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJD2YgpCEDBDcQfECYggUekGZIHtBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7ApIWiQ0huIPiFMQQKA+f1HGwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/rUkxqRuohvQtdIdXqVtbSXZWvwvtPLxl/rtmp/stream/9Ow4lsmXktfSQ7sHvTDJdmKksxgLHr2U19BUKqxaPJw9vqBCSa4v7UUM8AsfGb5wIsxnLgVbwbhnCt-q/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "hammarby-vs-djurg-rden-2398932",
-      "title": "Hammarby vs Djurgården",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "11 Oct 2026, 06:00 PM (BD Time)",
-      "start_epoch_ms": 1791720000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOF5SQMECg0huIPgYghEJYyDOI+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Swedish - TV4 Fotboll (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOF5SQMECg0huIPgYghEJYyDOI+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb25.strmd.st/secure/bSVSBUhaWgDJHjniexLhvCMJNkDgBnkC/rtmp/stream/K2027-ufqVDXb8q-ZRJZBz6XOBCcU8vjHNs759EqWteq_7tIpp5p2Vcjicp8A-RE7uKvBLC8jLmkVB5D/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Swedish - TV4 Fotboll (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOF5SQMECg0huIPgYghEJYyDOI+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb25.strmd.st/secure/vQbJUGpRBquyKLprktPsdaKKDdQlJnrZ/rtmp/stream/X0eI-_u9Ed-mwRZihzl6Xf1qGm3X5LDBjIt8kVsXymZ8StvlPwHzwQRSVRSG6XUGKeilopMUF5CkgvwebkP1wQ/1/playlist.m3u8"
+          "direct_stream_url": "https://lb10.strmd.st/secure/MrjAaBUpMZnnkkeCYivmXDYoLtlpjaOe/rtmp/stream/X5hsQD2VzPhf0otAB9vOB6wpimO-jFbJH3hwsEWjvaC-T9Y1sE8DXKG_gYsi0DPHW5Jqq0jk0jWr1Dy0/1/playlist.m3u8"
         }
       ]
     }

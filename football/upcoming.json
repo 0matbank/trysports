@@ -1,103 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 40,
-  "total_matches": 40,
+  "total_items": 30,
+  "total_matches": 30,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-11 | 20:12:39",
-  "updated_at_bd": "2026-10-11T20:12:39+06:00",
+  "updated_time_bd": "2026-10-12 | 00:55:22",
+  "updated_at_bd": "2026-10-12T00:55:22+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "real-sociedad-vs-deportivo-de-a-coru-a-2506245",
-      "title": "Real Sociedad vs Deportivo de A Coruña",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 08:15 PM (BD Time)",
-      "start_epoch_ms": 1791728100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAQAYwKbMClhuIQ3xCmIIFCBghzJIyHgFgSCn2Gz6OlSi5gy8IixZHyZaMD8xUQggA.webp"
-    },
-    {
-      "id": "h-cken-vs--rgryte-2477945",
-      "title": "Häcken vs Örgryte",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 08:30 PM (BD Time)",
-      "start_epoch_ms": 1791729000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAMIgQ3MClA6N2kBBCISxqSAskCwJBT7DZ9FGBX6278vSyz9TLRg7mKiEEA.webp"
-    },
-    {
-      "id": "excelsior-vs-groningen-2489137",
-      "title": "Excelsior vs Groningen",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 08:45 PM (BD Time)",
-      "start_epoch_ms": 1791729900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGBQhukEKL7aQBkLlPcQMC1ZIFgGmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "ppv-stade-rennais-vs-aj-auxerre",
-      "title": "Stade Rennais vs. AJ Auxerre",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 09:15 PM (BD Time)",
-      "start_epoch_ms": 1791731700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeNhDCQJEDEkQZ4kFRApgiAMYjSGkCD2Kas9cN1mIwGlivZdvcpYFCdBO+rCFgSXJvVCwbk5LMzJ1NwkwQOBLMgggA.webp"
-    },
-    {
-      "id": "freiburg-vs-schalke-04-2508369",
-      "title": "Freiburg vs Schalke 04",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 09:30 PM (BD Time)",
-      "start_epoch_ms": 1791732600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VaSG6xswAAyaQUkCWMgz3MyBiWYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-    },
-    {
-      "id": "liverpool-vs-manchester-city-2494051",
-      "title": "Liverpool vs Manchester City",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 09:30 PM (BD Time)",
-      "start_epoch_ms": 1791732600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSQ9gYMKJQhuIPiFMQQJDSAOIcUgsCQU+w2fRR62KLnvL0sst5MtLqi9GFAA.webp"
-    },
-    {
-      "id": "sassuolo-vs-ac-milan-2482189",
-      "title": "Sassuolo vs AC Milan",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1791734400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhK4EDMChDcQfEFq37NIGCH18CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "real-betis-vs-osasuna-2506244",
-      "title": "Real Betis vs Osasuna",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "11 Oct 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1791736200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7ApIWiQ0huIPiFMQQKA+f1HGwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "cagliari-vs-juventus-2482190",
-      "title": "Cagliari vs Juventus",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791744300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiFplRSEHxAb9JEMZSaQEEwZBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "troyes-vs-marseille-2489514",
-      "title": "Troyes vs Marseille",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791744300000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELXjkp5JCG4g+IYwZwQQKEOeNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
     {
       "id": "racing-de-santander-vs-valencia-2506248",
       "title": "Racing de Santander vs Valencia",
