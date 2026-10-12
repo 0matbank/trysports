@@ -1,40 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 166,
-  "total_matches": 166,
+  "total_items": 163,
+  "total_matches": 163,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-12 | 14:07:06",
-  "updated_at_bd": "2026-10-12T14:07:06+06:00",
+  "updated_time_bd": "2026-10-12 | 23:50:38",
+  "updated_at_bd": "2026-10-12T23:50:38+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "atalanta-vs-venezia-2482193",
-      "title": "Atalanta vs Venezia",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Oct 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1791822600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBTYYFLlIhuIPhpAxTeyyD0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "elfsborg-vs-halmstad-2398928",
-      "title": "Elfsborg vs Halmstad",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Oct 2026, 11:00 PM (BD Time)",
-      "start_epoch_ms": 1791824400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXixB8wZbiD1StIEiEMgQiczBAwCwJBT7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp"
-    },
-    {
-      "id": "malm--vs-kalmar-2477946",
-      "title": "Malmö vs Kalmar",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Oct 2026, 11:00 PM (BD Time)",
-      "start_epoch_ms": 1791824400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJDzACqMqSG4g+IYxBCISxkHotSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
     {
       "id": "torino-vs-udinese-2482194",
       "title": "Torino vs Udinese",

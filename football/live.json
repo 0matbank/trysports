@@ -1,11 +1,102 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-10-12 | 14:07:06",
-  "updated_at_bd": "2026-10-12T14:07:06+06:00",
+  "total_items": 7,
+  "total_matches": 3,
+  "total_streams": 7,
+  "updated_time_bd": "2026-10-12 | 23:50:38",
+  "updated_at_bd": "2026-10-12T23:50:38+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "malm--vs-kalmar-2477946",
+      "title": "Malmö vs Kalmar",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "12 Oct 2026, 11:00 PM (BD Time)",
+      "start_epoch_ms": 1791824400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJDzACqMqSG4g+IYxBCISxkHotSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Swedish - TV4 Fotboll (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJDzACqMqSG4g+IYxBCISxkHotSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb26.strmd.st/secure/PGLohoIvnnndknUhrZuqSAQfNavzHOAu/rtmp/stream/zuYa1laGLIwW8aiKsu9pWKl_Z5W9oOECMIjNYCntQokxKKZvnBPRmfoGMJxjfLwwSA0UQsN7-pkzZnOv/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Swedish - TV4 Fotboll (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJDzACqMqSG4g+IYxBCISxkHotSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb26.strmd.st/secure/PjJVeZtmQDnmMxUcUGdPCwdYehZHReIW/rtmp/stream/PpHRMtmiEY5bCVU0NBKDnlZQyNEKn3PtZEOsViFqyUKiBQg3EM3JlxvVjVKYXmDQHf2oP52n61by5c_eeQF6ew/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "elfsborg-vs-halmstad-2398928",
+      "title": "Elfsborg vs Halmstad",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "12 Oct 2026, 11:00 PM (BD Time)",
+      "start_epoch_ms": 1791824400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXixB8wZbiD1StIEiEMgQiczBAwCwJBT7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Swedish - TV4 Sport Live 2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXixB8wZbiD1StIEiEMgQiczBAwCwJBT7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb26.strmd.st/secure/hEXqyDyFQXEojfTasrObcITjHjQKyBTy/rtmp/stream/szspBJiL2bOfdDoarCHkcw6gjZRrzAdjsK7hg9S3xsFHjN2I0awoclFWHZtmU10bjF1eRsGsoanS2S51LG7P/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Swedish - TV4 Sport Live 2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXixB8wZbiD1StIEiEMgQiczBAwCwJBT7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb26.strmd.st/secure/aqNZUiArhrRMdiCGuGlBHvxPUBsqfSIl/rtmp/stream/fl0cp_4nM9aTYiPzm5yyd3DRJFFLOAOuYVcgKdaPO2v-UGQKEIrxbobigoSpzdsTcedg7dxYJ-0ST1efpd_Aj_CX_g/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "atalanta-vs-venezia-2482193",
+      "title": "Atalanta vs Venezia",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "12 Oct 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1791822600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBTYYFLlIhuIPhpAxTeyyD0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBTYYFLlIhuIPhpAxTeyyD0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/JJosfRdXHcrxLNQdDdoQJIPfSSLPkqQp/rtmp/stream/M7gmyLWwZMv9-2wtcL3zrlrrkI3jQ3P-0OlAVd-nxhOfn3PAPXX8-8y65o5IyRumCs2_jOkwHTo/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBTYYFLlIhuIPhpAxTeyyD0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/EhbEVHnJSJuJiWWDrrQkVSUkyRERRZHz/rtmp/stream/Sr0agLOlmRNYfcI2nUWJS9QVu0OHRSWlE2AHO36rCxiLv5OG_uLmFwFggKWA4vW0VUCnJh11guMf1lL4/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Atalanta vs Venezia (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBTYYFLlIhuIPhpAxTeyyD0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/NRDCMNbijNszfnmQmRbGsdhEEjtYzdIg/hotel/stream/atalanta-vs-venezia-serie-a-1791822600/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }

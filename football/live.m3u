@@ -1,6 +1,55 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-10-12 | 14:07:06
+# TOTAL-ITEMS: 7
+# UPDATED Time and date BD: 2026-10-12 | 23:50:38
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Swedish - TV4 Fotboll (HD)" tvg-name="Swedish - TV4 Fotboll (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJDzACqMqSG4g+IYxBCISxkHotSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Swedish - TV4 Fotboll (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb26.strmd.st/secure/PGLohoIvnnndknUhrZuqSAQfNavzHOAu/rtmp/stream/zuYa1laGLIwW8aiKsu9pWKl_Z5W9oOECMIjNYCntQokxKKZvnBPRmfoGMJxjfLwwSA0UQsN7-pkzZnOv/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Swedish - TV4 Fotboll (SD)" tvg-name="Swedish - TV4 Fotboll (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJDzACqMqSG4g+IYxBCISxkHotSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Swedish - TV4 Fotboll (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb26.strmd.st/secure/PjJVeZtmQDnmMxUcUGdPCwdYehZHReIW/rtmp/stream/PpHRMtmiEY5bCVU0NBKDnlZQyNEKn3PtZEOsViFqyUKiBQg3EM3JlxvVjVKYXmDQHf2oP52n61by5c_eeQF6ew/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Swedish - TV4 Sport Live 2 (HD)" tvg-name="Swedish - TV4 Sport Live 2 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXixB8wZbiD1StIEiEMgQiczBAwCwJBT7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp" group-title="Football", Swedish - TV4 Sport Live 2 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb26.strmd.st/secure/hEXqyDyFQXEojfTasrObcITjHjQKyBTy/rtmp/stream/szspBJiL2bOfdDoarCHkcw6gjZRrzAdjsK7hg9S3xsFHjN2I0awoclFWHZtmU10bjF1eRsGsoanS2S51LG7P/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Swedish - TV4 Sport Live 2 (SD)" tvg-name="Swedish - TV4 Sport Live 2 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXixB8wZbiD1StIEiEMgQiczBAwCwJBT7DZ9FDrYouO8vSyzPTLRg7vSiEEA.webp" group-title="Football", Swedish - TV4 Sport Live 2 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb26.strmd.st/secure/aqNZUiArhrRMdiCGuGlBHvxPUBsqfSIl/rtmp/stream/fl0cp_4nM9aTYiPzm5yyd3DRJFFLOAOuYVcgKdaPO2v-UGQKEIrxbobigoSpzdsTcedg7dxYJ-0ST1efpd_Aj_CX_g/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+ (HD)" tvg-name="Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBTYYFLlIhuIPhpAxTeyyD0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Paramount+ (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/JJosfRdXHcrxLNQdDdoQJIPfSSLPkqQp/rtmp/stream/M7gmyLWwZMv9-2wtcL3zrlrrkI3jQ3P-0OlAVd-nxhOfn3PAPXX8-8y65o5IyRumCs2_jOkwHTo/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+ (SD)" tvg-name="Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBTYYFLlIhuIPhpAxTeyyD0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Paramount+ (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/EhbEVHnJSJuJiWWDrrQkVSUkyRERRZHz/rtmp/stream/Sr0agLOlmRNYfcI2nUWJS9QVu0OHRSWlE2AHO36rCxiLv5OG_uLmFwFggKWA4vW0VUCnJh11guMf1lL4/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Atalanta vs Venezia (HD)" tvg-name="Atalanta vs Venezia (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBTYYFLlIhuIPhpAxTeyyD0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Atalanta vs Venezia (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/NRDCMNbijNszfnmQmRbGsdhEEjtYzdIg/hotel/stream/atalanta-vs-venezia-serie-a-1791822600/1/playlist.m3u8
 
