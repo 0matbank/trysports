@@ -1,40 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 163,
-  "total_matches": 163,
+  "total_items": 160,
+  "total_matches": 160,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-12 | 23:50:38",
-  "updated_at_bd": "2026-10-12T23:50:38+06:00",
+  "updated_time_bd": "2026-10-13 | 05:50:05",
+  "updated_at_bd": "2026-10-13T05:50:05+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "torino-vs-udinese-2482194",
-      "title": "Torino vs Udinese",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1791830700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGCnYQMpOxDcQfECRMgUIRBBDXj8AsA0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
-    {
-      "id": "coventry-city-vs-newcastle-united-2494059",
-      "title": "Coventry City vs Newcastle United",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1791831600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxzOoviF3c9IIxBAkQJlCESJGwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
-    },
-    {
-      "id": "levante-vs-sevilla-2506241",
-      "title": "Levante vs Sevilla",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1791831600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCG4gpIEJ11a+ukBBAoQMEyBIWQfAsCQV7rEWJRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
     {
       "id": "lens-vs-sporting-cp-2594564",
       "title": "Lens vs Sporting CP",
