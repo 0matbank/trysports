@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 25,
-  "total_matches": 25,
+  "total_items": 166,
+  "total_matches": 166,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-12 | 07:50:36",
-  "updated_at_bd": "2026-10-12T07:50:36+06:00",
+  "updated_time_bd": "2026-10-12 | 14:07:06",
+  "updated_at_bd": "2026-10-12T14:07:06+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -126,6 +126,15 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwheogQJRaQfEMaP7uIEiCnGLBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
     },
     {
+      "id": "inter-milan-vs-club-brugge-2594614",
+      "title": "Inter Milan vs Club Brugge",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "14 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1791918000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEMxBkBIXCG4g+uwyBT6tIKSAi6CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
       "id": "rb-leipzig-vs-psv-eindhoven-2594581",
       "title": "RB Leipzig vs PSV Eindhoven",
       "category": "football",
@@ -153,85 +162,1345 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHDLYAGYFLDcQBviBPGUhkCRBTLIPgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp"
     },
     {
-      "id": "1868",
-      "title": "Feyenoord Rotterdam - Como",
+      "id": "ppv-feyenoord-rotterdam-vs-como",
+      "title": "Feyenoord Rotterdam vs. Como",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "14 Oct 2026, 10:45 PM (BD Time)",
       "start_epoch_ms": 1791996300000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEFRBlxAYxAzg8ESBggspNcHHrxksojmr1WEChCJh2CcrkmY2FOQigwgkU2z0whYElwzHIVdWZ0syRwJFclctUi0gA.webp"
     },
     {
-      "id": "1869",
-      "title": "LASK Linz - Liverpool",
+      "id": "ppv-lask-linz-vs-liverpool",
+      "title": "LASK Linz vs. Liverpool",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "14 Oct 2026, 10:45 PM (BD Time)",
       "start_epoch_ms": 1791996300000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNGhBBYQ8YFRCThMuSHkps2KRpokQZMktnz5IOSpgjSIkCHX8wgywQ13CwJLgDG6oQ9YRLMnVnWTAHYACyCCA.webp"
     },
     {
-      "id": "1870",
-      "title": "AS Roma - Real Madrid",
+      "id": "ppv-as-roma-vs-real-madrid",
+      "title": "AS Roma vs. Real Madrid",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792004400000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGsNIjp8YBHEhFNLCADGIMlUUbgssokV7SIFHJAw5IkLJUTT-MIOkFs9MIWBJcq00MesIaTJTF1kwR0syCCA.webp"
     },
     {
-      "id": "1871",
-      "title": "Aston Villa - Fenerbahce",
+      "id": "ppv-aston-villa-vs-fenerbahce",
+      "title": "Aston Villa vs. Fenerbahce",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792004400000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhApgNScJAgRIKspDj5CiBJBbJiiKRAxVAY2CIYwA1pMhh2I6Wn8wgkU2z0whYElwnpIVdWA3syaQJzclcrUisgA.webp"
     },
     {
-      "id": "1872",
-      "title": "Bodo/Glimt - Borussia Dortmund",
+      "id": "ppv-bodo-glimt-vs-borussia-dortmund",
+      "title": "Bodo/Glimt vs. Borussia Dortmund",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792004400000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGlhCIyJEAGMQsmPNIg1E8SsRZVsiCJApFICFPkgdpudkXYU5fQKEim2emELAkuOfaFhuTn1hUnoCYHhyAOB9MgggA.webp"
     },
     {
-      "id": "1873",
-      "title": "Manchester City - Paris Saint-Germain",
+      "id": "ppv-manchester-city-vs-paris-saint-germain",
+      "title": "Manchester City vs. Paris Saint-Germain",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792004400000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCAggUIKiCylgNGlhBq1AYxEh4wXcNnApqkiDIHTiAwd0LVc1b3IRQYQSKbZ6YQsCS4NFCFybk4XYUUggj1yNyNFCCA.webp"
     },
     {
-      "id": "1874",
-      "title": "Real Betis - FC Porto",
+      "id": "ppv-real-betis-vs-fc-porto",
+      "title": "Real Betis vs. FC Porto",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792004400000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiGHAqIGKVnjpICMAggAxiBCrlInZq0rE2+PMQoQKeTK2aao8ioFC9BbPTCFgSXOqtCwbk4VKTIrN1MwQNVSVSA.webp"
     },
     {
-      "id": "1875",
-      "title": "Shakhtar Donetsk - AEK Athens",
+      "id": "ppv-shakhtar-donetsk-vs-aek-athens",
+      "title": "Shakhtar Donetsk vs. AEK Athens",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792004400000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8ESCogU0ySBJyFw4IgDG2EMuURgEEDH0g9NBSBDjhkiTMRZDJFOR0ChIptnphCwJLlWOhMG5OHWUyRwIVciDdUl0gA.webp"
     },
     {
-      "id": "1876",
-      "title": "Slovan Bratislava - VfB Stuttgart",
+      "id": "ppv-slovan-bratislava-vs-vf-b-stuttgart",
+      "title": "Slovan Bratislava vs. VfB Stuttgart",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792004400000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcRBAwRILLJDCQEYPGxL54gMYgUU4MqryawmZO265NLPp3qIKcsoFCRTbPTCFgSXJodCwbk5lEzIHAhVyQP1SfSA.webp"
+    },
+    {
+      "id": "ppv-cf-montr-al-vs-atlanta-united-fc",
+      "title": "CF Montréal vs. Atlanta United FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1792020600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgUIeKWCJhUuRCkgsEpSumIs2ZWr1UZckiBpktE+SnIRQYQSKZ6bYQsCS5xNoQ9Z3hORsCeXIHYDsLIA.webp"
+    },
+    {
+      "id": "ppv-columbus-crew-vs-charlotte-fc",
+      "title": "Columbus Crew vs. Charlotte FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1792020600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNYSAlUQAYxCJ4wCKRAoQWedk3SYIXcsXKy0shoir182SM2jyygUJFNs9MIWBJcMlE7DdOZWFSegJgRTB-JRCIIA.webp"
+    },
+    {
+      "id": "ppv-d-c-united-vs-red-bull-new-york",
+      "title": "D.C. United vs. Red Bull New York",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1792020600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFOJBUQJEFmA1pEYBEkBjEPBXYQu4TJnAtWAyB0psKqbtIKQ+8eWUChIppYthCwJLjUWhMG5OZWFbCwIjciDtMgggA.webp"
+    },
+    {
+      "id": "ppv-fc-cincinnati-vs-new-england-revolution",
+      "title": "FC Cincinnati vs. New England Revolution",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1792020600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcYkQoQZYSBghE4rMBpUQ0uTBEgAxjI3ij6-SRByzWEBHmH1+chFBhBIptnphCwJLl0ohcm5OJ2FSegJgeHIXYCcyCCA.webp"
+    },
+    {
+      "id": "ppv-inter-miami-cf-vs-new-york-city-fc",
+      "title": "Inter Miami CF vs. New York City FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1792020600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiRChDDSwKiDIQQKUiBgz4wRcPkgAxiBCaQEESCxnsepQZBySIRDSzL+YQSKbZ6YQsCS5dZSE3VhNpMmUCYA0wN00ZCCA.webp"
+    },
+    {
+      "id": "ppv-toronto-fc-vs-orlando-city-sc",
+      "title": "Toronto FC vs. Orlando City SC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1792020600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYjSIGeJBUZImSBQhEqmhFLAIEtSDJYQMEFmCILIYQfnYQumOZTktAoVILZ6YQsCS5xZyEwbk4tYW1nT3hyEJ1tCCA.webp"
+    },
+    {
+      "id": "ppv-chicago-fire-fc-vs-philadelphia-union",
+      "title": "Chicago Fire FC vs. Philadelphia Union",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1792024200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEOLLisI4DWEgAxiCwgFKJSIkgUwRMLkhEiCNvG6aiEiuwgYK3fzCDZBbPTCFgSXIt1DnVghZMl03eHJnYGCyCCA.webp"
+    },
+    {
+      "id": "ppv-fc-dallas-vs-seattle-sounders-fc",
+      "title": "FC Dallas vs. Seattle Sounders FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1792024200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCCqSQWYBBAoQiYQoVzgiECBVaAxupW7tIeTRoRsxxDU0ztKchYFCRTbPTCFgSXLodCwbk4LYVJ6Ag1yQPUyCCA.webp"
+    },
+    {
+      "id": "ppv-nashville-sc-vs-sporting-kansas-city",
+      "title": "Nashville SC vs. Sporting Kansas City",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1792024200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBggQwCCDlkaVcSoDGIlculaNUmoo0yIwRKpDCQJEIgswU5YwKEim2emELAkuVfaFhuTmNhUnoCE3IA2VCIIA.webp"
+    },
+    {
+      "id": "ppv-st-louis-city-sc-vs-vancouver-whitecaps",
+      "title": "St. Louis CITY SC vs. Vancouver Whitecaps",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1792024200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNhABjcSBjBEIEMJA0VMZbKwiQEOdmARSckPFLAaiEiCxLTkxBAn8wgkUwPPCwJLikShV1YjYXMJAgVyV0NzCCA.webp"
+    },
+    {
+      "id": "ppv-colorado-rapids-vs-minnesota-united-fc",
+      "title": "Colorado Rapids vs. Minnesota United FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 07:30 AM (BD Time)",
+      "start_epoch_ms": 1792027800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZMlRDCQMEJIDGIRCRDyRc7MHhadiLCBXThpYDW37pKiCCzYpIECnIRQYQSKaanYQsCS55JyE3VhdjMicCHTA3YBcyCCA.webp"
+    },
+    {
+      "id": "ppv-real-salt-lake-vs-san-jose-earthquakes",
+      "title": "Real Salt Lake vs. San Jose Earthquakes",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 07:30 AM (BD Time)",
+      "start_epoch_ms": 1792027800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMAggY44DUTCQWEIomLFZZYoDGclSANSJEEQaX6SIbfpiSVE-mEEim2emELAkubRKFPWE2FSegJgeHInSRCIIA.webp"
+    },
+    {
+      "id": "ppv-la-galaxy-vs-portland-timbers",
+      "title": "LA Galaxy vs. Portland Timbers",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 08:30 AM (BD Time)",
+      "start_epoch_ms": 1792031400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGMETCQWEPEni5S+Yhghp0gMYgSIPfKykFslNj3Aqcs6emySp-mEEim2emELAkuTaaFPWCBcyUwJJcidgILIIIA.webp"
+    },
+    {
+      "id": "ppv-lafc-vs-austin-fc",
+      "title": "LAFC vs. Austin FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 08:30 AM (BD Time)",
+      "start_epoch_ms": 1792031400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADGIRPGAQQJKSJApSwRChAwQWFRMkaVCpUsMRs4qSGG7FRiGv5hBIptnphCwJLklqhF1YLYXU1AiMwF3l1CCA.webp"
+    },
+    {
+      "id": "ppv-san-diego-fc-vs-houston-dynamo-fc",
+      "title": "San Diego FC vs. Houston Dynamo FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 08:30 AM (BD Time)",
+      "start_epoch_ms": 1792031400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRCBAQQwkCmBUQAYymSQMNfKxzgiFOqkLJ2ZQZIht8iMGvSVVefzCCRTbPTCFgSXEvlDnVmthUnoCXXJnG1CIIA.webp"
+    },
+    {
+      "id": "ppv-az-alkmaar-vs-hapoel-be-er",
+      "title": "AZ Alkmaar vs. Hapoel Be'er",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCogUIAMbiFWYPGARSIGCGFzJwKcOxadBmioPaValUoNlbKcmoFCRTbPTCFgSXLIdCwbk41W3oCZXJA1VJVIA.webp"
+    },
+    {
+      "id": "ppv-cska-sofia-vs-as-monaco",
+      "title": "CSKA Sofia vs. AS Monaco",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRDTI0qIFCCwiQJEBBBr4wGcOAasIAMak1O+QeCrlNYUtK3JKchFBhBIptnphCwJLn0OhF1YnbTIHAh1yF3NbCCA.webp"
+    },
+    {
+      "id": "ppv-csu-craiova-vs-getafe",
+      "title": "CSU Craiova vs. Getafe",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IceOHYQEEDVlUQwkGSlYZwRVpABjaephLSIFCCzB42YzGuaRKchFBhBIplYdhCwJLh0OhF1YnKTIHAgtyF2AnMgggA.webp"
+    },
+    {
+      "id": "ppv-egnatia-vs-fc-midtjylland",
+      "title": "Egnatia vs. FC Midtjylland",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeCJDCQVEDBBYQAY2wyQZDQuASasmmQmIswCNuCyQc9VemmyVFOVMChIptnphCwJLiWOhMG5OU2FSegIzMCCTcIggA.webp"
+    },
+    {
+      "id": "ppv-fc-lugano-vs-red-star-belgrade",
+      "title": "FC Lugano vs. Red Star Belgrade",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCGGTgEqcJkgyEkiBggsikChA0pGiTBGaAxiEQhgVEMcuq7V7fnIRQYQSKbZ6YQsCS5jFCFybk4XeTIggmB4cjcZUhkgA.webp"
+    },
+    {
+      "id": "ppv-hajduk-split-vs-ajax-amsterdam",
+      "title": "Hajduk Split vs. Ajax Amsterdam",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgYIMomEgsIKiGHAIpESKlqQiRNOUg1wRCV0qZICBdVYdZUeXUChmgtnphCwJLnEpXMG5OdVUyAPd4ciDjMgggA.webp"
+    },
+    {
+      "id": "ppv-kaa-gent-vs-agf",
+      "title": "KAA Gent vs. AGF",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiBLjgiYdhnYQwkFhAhgESTJABjcSBQgYwCXsSadCrPLLxtMXaRTkIoMIJFN5zsIWBJcHWchd1ZXOTJnAgUwdw1SDSA.webp"
+    },
+    {
+      "id": "ppv-ku-ps-kuopio-vs-trabzonspor",
+      "title": "KuPS Kuopio vs. Trabzonspor",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCAilgiAMaSQiFMCogSIZTQggsKkMJA1EWBSDWKRpBSnMSyuiMv5hBlgtnphCwJLlnKhF1YpYWlld3hyF2ApMgggA.webp"
+    },
+    {
+      "id": "ppv-lech-poznan-vs-bayer-leverkusen",
+      "title": "Lech Poznan vs. Bayer Leverkusen",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcEQwQ0iKXlYQSlDNUqYwKuJBaIIPXuEyRIRXLmKUIk+av8wg6wWz0whYElwBjK0Ies5CTIrZ3hyB2A5MgggA.webp"
+    },
+    {
+      "id": "ppv-lyon-vs-crystal-palace",
+      "title": "Lyon vs. Crystal Palace",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNcSBIgIwGsJDyUIJTKwgY2YIioLdaiNNLTJIkDpDLgBxCiu3+YQSKab7hYElwBjW0MesZYVJ6Ai1yRytgiCA.webp"
+    },
+    {
+      "id": "ppv-mj-llby-aif-vs-inter-d-escaldes",
+      "title": "Mjällby AIF vs. Inter D'Escaldes",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBQgIIAMbBEIbCHgiFK4FTmTxa4SGGbxILNtMSQKjVmAQRGiCnJ2BQtQWz0whYElyynITBuTjtDMicPVTBg21JbIA.webp"
+    },
+    {
+      "id": "ppv-nk-celje-vs-omonia-nicosia",
+      "title": "NK Celje vs. Omonia Nicosia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEIhggS0iXKwgAxsBrwVsxXJikQNGcJAKZUxIizAIKi8EQgQMFOUsChIptnphCwJLkWOhMG5OS2FSegIbciDrMgggA.webp"
+    },
+    {
+      "id": "ppv-panathinaikos-vs-borac-banja-luka",
+      "title": "Panathinaikos vs. Borac Banja Luka",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCESIyJEFRDCFIGCFk01IAMYLgU4DXVzdcyVuUnZmkSCwhx5CKDCCRTbPTCFgSXJpRDybk5HYVJ6Al1yZ2BHMgggA.webp"
+    },
+    {
+      "id": "ppv-rb-salzburg-vs-ac-milan",
+      "title": "RB Salzburg vs. AC Milan",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFKRAxxIEMAjZFiEiDI0IU8cERZNs+MCoyAxiCNZsIRNJRW9E-mEEimih4WBJcxiUKesFYVJ6Am1yJ3lgiCA.webp"
+    },
+    {
+      "id": "ppv-riga-fc-vs-kairat-almaty",
+      "title": "Riga FC vs. Kairat Almaty",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEKRAlxUyVhnSAxiERUQMEMJAoQi7MERZgNNcMnxgEGVcTi1ZLCnIRQYQSKb6nYQsCS5FJyE3VhczMicCA3I3S1JLIA.webp"
+    },
+    {
+      "id": "ppv-sparta-prague-vs-lillestrom",
+      "title": "Sparta Prague vs. Lillestrom",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCAggyVEIgDGwGjSmKswKVmnbEEiShDCQskCLO6QBo0fkgtWFOQigwgswWz0whYElzzHIVdWZ2FSeg94clcNcIggA.webp"
+    },
+    {
+      "id": "ppv-torreense-vs-sunderland",
+      "title": "Torreense vs. Sunderland",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52wRAGMQU4SAghhpBSESIUIMpuwaFpYBCUTsxknJ3qU2xCEv8wgkU2O3CwJLgmWh91gcVlLAnFye309CCA.webp"
+    },
+    {
+      "id": "ppv-union-st-gilloise-vs-real-sociedad",
+      "title": "Union St.-Gilloise vs. Real Sociedad",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGOOBUQEKdjlYQ8KSFWKUIkCS3BE2lKpABjbCGmJpB4SEUQbpJRv5hBIpvKeFgSXEY1CXVllhUnoCXXIXYFkyCCA.webp"
+    },
+    {
+      "id": "ppv-afc-bournemouth-vs-sk-sturm-graz",
+      "title": "AFC Bournemouth vs. SK Sturm Graz",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCADGIFMAggqCkPLITZNCfMSKYIRMJF6pR2cKnYFpGYYOjyEUGEEim2emELAkuSbKFPWBwMyWQJgeHInOVI5IA.webp"
+    },
+    {
+      "id": "ppv-atalanta-vs-pafos",
+      "title": "Atalanta vs. Pafos",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCJCIAxlJDySIFCGEgYkiHOWr5E1eqwhNNGhMOHN2+WuC9yEUGEEim2emELAkuaSiHluTgdhUnoCW3InYAcyCCA.webp"
+    },
+    {
+      "id": "ppv-benfica-vs-celtic",
+      "title": "Benfica vs. Celtic",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGohTjgEEGQgiQwkAGMQMEIixylOsiRAL4ilYpiKjIKdtlYRKcgoFCRTbPTCFgSXCodCwbk4FYVJ6AmBjMECZMIggA.webp"
+    },
+    {
+      "id": "ppv-brighton-hove-albion-vs-kauno-zalgiris",
+      "title": "Brighton & Hove Albion vs. Kauno Zalgiris",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiBDB407CCzSQJEMMVSIIAMYgZNGoklSyB2auWaROxTHnYU5CKDCCRTbPTCFgSXJvtDnVkczegJZMGdgRzIIIA.webp"
+    },
+    {
+      "id": "ppv-celta-vigo-vs-juventus",
+      "title": "Celta Vigo vs. Juventus",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMAjZgVEAGMQwkCBkgpZLOOCISi+duxrSIRMphqQKbXt0T40qlf5hBIptKeFgSXHKtCXVilhUnoCAzAXSVCIIA.webp"
+    },
+    {
+      "id": "ppv-dinamo-zagreb-vs-anderlecht",
+      "title": "Dinamo Zagreb vs. Anderlecht",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IccPEhJw0iHjYQMEBHnBV4hZKoqQAY0XKsIY6ppkaqo3JIgqKchFBhBIptnphCwJLj0OhF1YnWTIHAmAFMBd1UnUgA.webp"
+    },
+    {
+      "id": "ppv-f-c-k-benhavn-vs-braga",
+      "title": "F.C. København vs. Braga",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICMCogSIAMbYQKYPBHTx6mOOAQ5qnSnWIVWSdOUgVwycu0hhipfzCCRTbPTCFgSXLKVDnVgkrMiUCGzBnbVJtIA.webp"
+    },
+    {
+      "id": "ppv-fc-twente-vs-fc-thun",
+      "title": "FC Twente vs. FC Thun",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJECGAQQWEDBCJp0lApAqJiFMBpUQAYwkhh2GVO1my0jcEQHEa8hFBhBIptnphCwJLj1ahF1YnYzItAhtyFwspIA.webp"
+    },
+    {
+      "id": "ppv-ferencvaros-vs-viktoria-plzen",
+      "title": "Ferencvaros vs. Viktoria Plzen",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRFnGkQMqiGHAIICMAnYRM7CBgg5w8do0oNkklKVKAxjJApxx-mEEim6h4WBJcl40KesVBTJjAlVyJ0VSRSA.webp"
+    },
+    {
+      "id": "ppv-heart-of-midlothian-vs-fc-nordsj-lland",
+      "title": "Heart of Midlothian vs. FC Nordsjælland",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEMAjAqIeJOkgsI4ImEgUIGlJpKsINVKVqUI8ZpAkQAYwWJE4xFZP8wg5QWz0whYElxOhcm5OKWFSeg85MFd5MgggA.webp"
+    },
+    {
+      "id": "ppv-jagiellonia-bialystok-vs-ararat-armenia",
+      "title": "Jagiellonia Bialystok vs. Ararat-Armenia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCGEgqk4PGASsIZQGNskkIhrypUmSpAwRwGTHEaauwyDUlNmlOQigwg4wWz0whYElwrHIVdWZ2FSeg95MFcFcIggA.webp"
+    },
+    {
+      "id": "ppv-marseille-vs-olympiacos",
+      "title": "Marseille vs. Olympiacos",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBjAqIAMbSQEOeMWSQ8UsA0alNGVmxyFZRMJHqVwkNauIQKchFBhBIptnphCwJLlkOhF1YnMzIHAi1yF2AnMgggA.webp"
+    },
+    {
+      "id": "ppv-nec-nijmegen-vs-levski-sofia",
+      "title": "NEC Nijmegen vs. Levski Sofia",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkAGMQWUsCogI0kCBHZlamCBQh5MktOCKYpLWomHDIROKwKTJFOQigwg1QWz0whYElwTHIVdWZ2FZRw94clcLMgggA.webp"
+    },
+    {
+      "id": "ppv-sc-freiburg-vs-jablonec",
+      "title": "SC Freiburg vs. Jablonec",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw4PGA0IUkAGNgMrKRCIYIcRBDq1IGYhDbtikCVXzTsslhAps2u-zCCRTbPTCFgSXHLtDnVhlxMjsCCXJnRVJFIA.webp"
+    },
+    {
+      "id": "ppv-sint-truidense-vs-iberia-1999",
+      "title": "Sint-Truidense vs. Iberia 1999",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEAGMQMEFmnAaZYSAgh4IhaTWTZCtcFVk5UkttXjVKEBc0QU5CKDCCNBbPTCFgSXBPtDnVkdhUno3dTBnA1CIIA.webp"
+    },
+    {
+      "id": "ppv-sk-brann-vs-lincoln-red-imps",
+      "title": "SK Brann vs. Lincoln Red Imps",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRGXjAqIWSRAQQWbOOCJha4IsQwlIFCA0asCkUukgay4YcuHsKchFBhBIptnphCwJLgDGjkKurM4aZI4EmmCuWqRaQA.webp"
+    },
+    {
+      "id": "ppv-stade-rennais-vs-ofi-crete",
+      "title": "Stade Rennais vs. OFI Crete",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEBPjAaWYFIggAxiJAoJI4BFIhh2iTCUgsIGNj2GUKy8JMhxq8loFCNBM5bCFgSXIstCwbk4tXTJLNykwQM1STSA.webp"
+    },
+    {
+      "id": "ppv-tsg-hoffenheim-vs-besiktas",
+      "title": "TSG Hoffenheim vs. Besiktas",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792090800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBilx0gMYgqIJcJBZgiRSppYQKJcAilsM+NImKdlkCV2SDKcoYFCRTbPTCFgSXLIdCwbk5DYSMHAnVyQIMjCCA.webp"
+    },
+    {
+      "id": "ppv-if-brommapojkarna-vs-djurg-rden",
+      "title": "IF Brommapojkarna vs. Djurgården",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "16 Oct 2026, 11:00 PM (BD Time)",
+      "start_epoch_ms": 1792170000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEDBAkQiECAggswRIhTzFwGsOAKsiufrVzt48QGMQZnTOUGyEFOQigwgkU2z0whYElxnHIVdWZ20yRwJlclcdUh0gA.webp"
+    },
+    {
+      "id": "ppv-heerenveen-vs-excelsior",
+      "title": "Heerenveen vs. Excelsior",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1792173600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiCCEQhp2GYgDGwKtJAwRIZcpQq1WDSBTB4SkesUR1UkPI2H+YQaYLZ6YQsCS55hoQ9YXhUnpnYzAHYAsyCCA.webp"
+    },
+    {
+      "id": "ppv-eintracht-frankfurt-vs-fc-cologne",
+      "title": "Eintracht Frankfurt vs. FC Cologne",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 12:30 AM (BD Time)",
+      "start_epoch_ms": 1792175400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBTB4wGhBA0SIRDQlYQEacHmb1AY0mlss8aZgg92kNZhbEKDVP5hBIpsaeFgSXHqlCXVk1hIykCLTAXbSMIIA.webp"
+    },
+    {
+      "id": "ppv-frosinone-vs-sassuolo",
+      "title": "Frosinone vs. Sassuolo",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1792176300000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSAjAIk4FXEgYikbJIgsIeUo0BjECnXYQevfBGkQZLHLmTLm7CnJSBQ8wWz0whYElw6nITBuTilhUnoPMzBg6QiIIA.webp"
+    },
+    {
+      "id": "ppv-le-mans-vs-toulouse",
+      "title": "Le Mans vs. Toulouse",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1792176300000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEAGMQ8EZJAkQwxSHEwVpYBFLrEiLBvFZp8jVWUpgukChAhLF-mEEim2emELAkuCRaFPWLWENCwJLcidNAyA.webp"
+    },
+    {
+      "id": "ppv-deportivo-vs-levante",
+      "title": "Deportivo vs. Levante",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792177200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCJAoQNCCDJZJAY3mSsMkMOA1EKkMHjA5SyYi0TDVECsWIYIlOQkChIptnphCwJLiWOhMG5OCS0yRwIDciCjUiMgA.webp"
+    },
+    {
+      "id": "ppv-necaxa-vs-atlas",
+      "title": "Necaxa vs. Atlas",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1792198800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcTFLB42EJJIgZNBVRAQQKWVjkiQw4KvX6F4-cJA0lpccAgHN-MIJFNs9MIWBJcAY01CnVjtjegJpcidbKQggA.webp"
+    },
+    {
+      "id": "ppv-atlante-vs-pumas-unam",
+      "title": "Atlante vs. Pumas UNAM",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 09:00 AM (BD Time)",
+      "start_epoch_ms": 1792206000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCogSIAMYgIwCCBgq52YFJQiQ8JZrmSF0o3pqIQILCv1TV8ktv5hBIphqeFgSXLO1CXVkVhUnoCYD0wF30yCCA.webp"
+    },
+    {
+      "id": "ppv-tijuana-vs-puebla",
+      "title": "Tijuana vs. Puebla",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 09:00 AM (BD Time)",
+      "start_epoch_ms": 1792206000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMAjAaVECGDwFIGCEUQQMuUqyTSIEiCzLpG6aRF7ZcqxuUT+YQRYLZ6YQsCS4AxhKGPWKWFzCRdFMEddMgggA.webp"
+    },
+    {
+      "id": "ppv-everton-vs-chelsea",
+      "title": "Everton vs. Chelsea",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 05:30 PM (BD Time)",
+      "start_epoch_ms": 1792236600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBClSIFCOnDxwRIhjyqs4DQlkNEEFmXSsIGCERSNh69jn8wg+QWz0whYElwBjOUIesIeTI5Z3hyB2BAsgggA.webp"
+    },
+    {
+      "id": "ppv-espanyol-vs-atl-tico-madrid",
+      "title": "Espanyol vs. Atlético Madrid",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 06:00 PM (BD Time)",
+      "start_epoch_ms": 1792238400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw0iBjZsIFCGEgsikCBlLxC1VUXAIwbQsTis+kAGMJFpfH3AbvcnoFCRTaSnKFgSXGY9Cwbk49cTIPAjtyQN1SXSA.webp"
+    },
+    {
+      "id": "ppv-venezia-vs-napoli",
+      "title": "Venezia vs. Napoli",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1792242000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcYhIgAxiBTAqICCGEhF4sssTTg8YBF0KVIRHuXis+kJZqrZMEePn8wgkU2z0whYElzT5IVdWA2FSegJDMFd9cIggA.webp"
+    },
+    {
+      "id": "ppv-1-fc-union-berlin-vs-borussia-dortmund",
+      "title": "1. FC Union Berlin vs. Borussia Dortmund",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1792243800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IRAGMQWECRAQQUmNlIgYakChAhgVNarnxS2adt37h2q4jkRdKcnYFCRTFQ7CFgSXBIdCwbk47YWMHAmAjMEDgOzIIIA.webp"
+    },
+    {
+      "id": "ppv-hamburg-sv-vs-vf-b-stuttgart",
+      "title": "Hamburg SV vs. VfB Stuttgart",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1792243800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhA0qIcYgggQpbBJHAZMRepDD1wRIgDGO-VLVyQKEIZUp1d-mEFqC2emELAkuQ3aFPWCHN6V3hyJ2AgsgggA.webp"
+    },
+    {
+      "id": "ppv-schalke-04-vs-mainz",
+      "title": "Schalke 04 vs. Mainz",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1792243800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSGBUQKEcAhSQAYymkQEECWXbxZYasTTp4-fDVn90pSDMXZ-MILkFs9MIWBJcS2UMesFfTJZFzMwR3lSeSA.webp"
+    },
+    {
+      "id": "ppv-sv-elversberg-vs-fc-augsburg",
+      "title": "SV Elversberg vs. FC Augsburg",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1792243800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkaRAopweLJAQJNCAuzAVJEGUU0a4-auEgYIRNLlyjKmCnKKBQiQTW2whYElwBjW0LDdORXEyW2c5MH91UnUgA.webp"
+    },
+    {
+      "id": "ppv-werder-bremen-vs-sc-paderborn-07",
+      "title": "Werder Bremen vs. SC Paderborn 07",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1792243800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52ICCCyTgEqiERyswOcJBl4y+SBgz52YBrJHsIYTPNyY40yHzkIoMIJFN9KcoWBJcAY3dCnVgczMncCA3InczIIIA.webp"
+    },
+    {
+      "id": "ppv-brentford-vs-liverpool",
+      "title": "Brentford vs. Liverpool",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1792245600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjAqIAMZzJIYSAgqQiFCC0StNeCOD6aJLaRAoRIEzKkSJm5SQv8wggwWz0whYElyyLIVdWCAMyCw99MFdgULIIIA.webp"
+    },
+    {
+      "id": "ppv-fulham-vs-hull-city",
+      "title": "Fulham vs. Hull City",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1792245600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCCogIIEpPELhIeMBVyQ07CBQatIUiBjyYwGmTIypiKUqPbyEUGEEim2emELAkuAMYohcm5OR2FSegJVcmdgRwsgA.webp"
+    },
+    {
+      "id": "ppv-manchester-city-vs-ipswich-town",
+      "title": "Manchester City vs. Ipswich Town",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1792245600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYOIghEMEAGMQZJSClyRIWSg2lSILDv1kpJPSpDDgiRFqogU2e-zCCRTbPTCFgSXHPtDnVnELMnsCS3JnCR0IIA.webp"
+    },
+    {
+      "id": "ppv-villarreal-vs-elche",
+      "title": "Villarreal vs. Elche",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 08:15 PM (BD Time)",
+      "start_epoch_ms": 1792246500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZYaWBUQMEHOkkQEEImkBjEMJkhpIYIi1ZsIudojYQGlCBTBz8fSBK3+YQSKbGXhYElxrbITdWcwkyWwJ9cjc7SQggA.webp"
+    },
+    {
+      "id": "ppv-ado-den-haag-vs-psv-eindhoven",
+      "title": "ADO Den Haag vs. PSV Eindhoven",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 08:30 PM (BD Time)",
+      "start_epoch_ms": 1792247400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZLMBrxS2EFjkhpJEMNIgUITQGMZ4kDulUFiGMAgKQk-epDne5CKDCCRTbPTCFgSXFpRDybk5HVTJ-AmBpMGczGQggA.webp"
+    },
+    {
+      "id": "ppv-strasbourg-vs-paris-saint-germain",
+      "title": "Strasbourg vs. Paris Saint-Germain",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 09:15 PM (BD Time)",
+      "start_epoch_ms": 1792250100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYdhHB4wGohTTZSrCAggAxhpAoQIRWSpbdMUiBoRZZkSBggsk3uQsChUgpIVhCwJLnUKhMG5OCwkyBXcZMCDgCzIIIA.webp"
+    },
+    {
+      "id": "ppv-aik-vs-ifk-g-teborg",
+      "title": "AIK vs. IFK Göteborg",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 09:30 PM (BD Time)",
+      "start_epoch_ms": 1792251000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFKWDwR2cSJBYQMKSFXCQ65TUSKIS4HqogjAY0kQVF6WXUkQECfzCCZBbPTCFgSXCYlDnVgthSQk3aTBnA3MgA.webp"
+    },
+    {
+      "id": "ppv-bologna-vs-inter-milan",
+      "title": "Bologna vs. Inter Milan",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1792252800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBgiQKEGQmyYIRCXEh1qrMEQbgEbNhDDShrGrOyqIK4ikQU5fQKEimBh2ELAkuAMYOhMG5OfWMyBwJtciC9EwggA.webp"
+    },
+    {
+      "id": "ppv-bayern-munich-vs-rb-leipzig",
+      "title": "Bayern Munich vs. RB Leipzig",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1792254600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBQgQwCMHikQAY3kgqkkFmyKyWEIhV710iepghh42dhDnpciRBTk5AoSKbbnYQsCS4lZyEwbk45YVJ6AnlyEOsyCCA.webp"
+    },
+    {
+      "id": "ppv-newcastle-united-vs-aston-villa",
+      "title": "Newcastle United vs. Aston Villa",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1792254600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSGAQQAY2A1EKENKwgyC5VNmlSatSJApdMbYjLx543RKP8wgkU2z0whYElwyjQ+6wiOyIwJgCzB7KR0IIA.webp"
+    },
+    {
+      "id": "ppv-real-betis-vs-barcelona",
+      "title": "Real Betis vs. Barcelona",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1792254600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSCwgYIWSlLSR0xVRCrV8qbIDGIRIgggII7EqkwFKNcuGl5-MIJMFT9wsCS5t8oY9bHbMnkXeHJHYGMyCCA.webp"
+    },
+    {
+      "id": "ppv-telstar-vs-feyenoord-rotterdam",
+      "title": "Telstar vs. Feyenoord Rotterdam",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1792260000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiGCADGIkCRBVZIEMBoLpCxClIhx2UsETC9iGlnlSLWAyDMwt-MIJFM99wsCS5JWoY9YRnMi0CA3JHYACyCCA.webp"
+    },
+    {
+      "id": "ppv-philadelphia-union-vs-charlotte-fc",
+      "title": "Philadelphia Union vs. Charlotte FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 12:30 AM (BD Time)",
+      "start_epoch_ms": 1792261800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBAjxIFCNLYQAYxAxgEmlmCIaJEMJBZlIKqsnGje+MFNqyEG7Ln8wg+QWz0whYElxK5IVdWB2EFOQ9rMFd1BQggA.webp"
+    },
+    {
+      "id": "ppv-as-roma-vs-genoa",
+      "title": "AS Roma vs. Genoa",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1792262700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSEQpsICCCwgUkkcCrK1JeSG3xgushGxGFw4HKVlNmnaVXT+YQSoJH7hYElwBjaUMetDUzJpF10wRzNbCCA.webp"
+    },
+    {
+      "id": "ppv-lille-vs-brest",
+      "title": "Lille vs. Brest",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1792262700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHgiQMEBBAKsIYcHlqFqkDXkBjaYh1zgVLTJCHDCvSZDHNWFOQigwgkU2z0whYElw7HIVdWZxUyRwJJcldVUlUgA.webp"
+    },
+    {
+      "id": "ppv-troyes-vs-lens",
+      "title": "Troyes vs. Lens",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1792262700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgIwaYhAhhwRChGkQKxFRBYQiaSXXaQWxDGPAT8kGYOSz8qiv5hBqgtnphCwJLnEqhF1ZpRTIVd3hyFxlSGSA.webp"
+    },
+    {
+      "id": "ppv-sparta-rotterdam-vs-willem-ii",
+      "title": "Sparta Rotterdam vs. Willem II",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792263600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRFhDDgiFMAhT5IKiADGwFTBBzEWuZJAzFk6WRUKQ2kSBI3lIufzCCRTbPTCFgSXKrlDnVghXMjkCGXJneVJ5IA.webp"
+    },
+    {
+      "id": "ppv-valencia-vs-athletic-club",
+      "title": "Valencia vs. Athletic Club",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792263600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YFRAQQAYxCJpk8VhBKpU4NJQgUpEPqwjgiRLpIgV4yXOv6Lu-mEFGC2emELAkuGbqFPWCCMyXVdxMCdNUk0gA.webp"
+    },
+    {
+      "id": "ppv-minnesota-united-fc-vs-st-louis-city-sc",
+      "title": "Minnesota United FC vs. St. Louis CITY SC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 02:30 AM (BD Time)",
+      "start_epoch_ms": 1792269000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMvGCIAxsCriRIaSBo1EkxMMVkS4lcAggUIGCpDCzIOSES7TWEBBTkIoMIJFNs9MIWBJcaWchd1ZXLTJnAilydwNSAyA.webp"
+    },
+    {
+      "id": "ppv-santos-vs-quer-taro",
+      "title": "Santos vs. Querétaro",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 05:00 AM (BD Time)",
+      "start_epoch_ms": 1792278000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYhhwCCBDAqIGCETKawkChBksMmdpCLpiLAekkVU4PFKHS2S5vIRQYQSKbZ6YQsCS5xFCFybk4Xc3oCa3I3PTIIIA.webp"
+    },
+    {
+      "id": "ppv-guadalajara-vs-tigres-uanl",
+      "title": "Guadalajara vs. Tigres UANL",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 05:07 AM (BD Time)",
+      "start_epoch_ms": 1792278420000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YBAkgQIkFWkTgNeSRCThUmCBizpiLQGMQG4SBQjg4rLrWWz5-mEEWC2emELAkuA+aFPWdVJ6V3EwJ0UyCCA.webp"
+    },
+    {
+      "id": "ppv-atlanta-united-fc-vs-inter-miami-cf",
+      "title": "Atlanta United FC vs. Inter Miami CF",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1792279800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCwgYpbMAjAq44PFIgIIAMaL1uqRKlYVWkEo0gQJSTpQjxyrLf5hBIpnKeFgSXJttCXVgVhWVsCFXIXeVkIIA.webp"
+    },
+    {
+      "id": "ppv-new-england-revolution-vs-chicago-fire-fc",
+      "title": "New England Revolution vs. Chicago Fire FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1792279800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCBIgqIAMbAICkDBDDSwGmUSzxcudmkgjMxGsQwNGw1hGqlo8ooFCRTbPTCFgSXLJQuwbk5FNTJ-AmB4ckCFdQggA.webp"
+    },
+    {
+      "id": "ppv-new-york-city-fc-vs-lafc",
+      "title": "New York City FC vs. LAFC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1792279800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMlhAoQAYxDzJklNhCJlEEVNXzxwCDskxSeqcCohJZfdJIgYIKsv5hBIptnphCwJLhnKhF1YNYWNlAmB4chc9YwggA.webp"
+    },
+    {
+      "id": "ppv-orlando-city-sc-vs-d-c-united",
+      "title": "Orlando City SC vs. D.C. United",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1792279800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiGEgsICNlnB4wCOJBqYI5ZMmkQKbTBBKyVHcOCnTUqSGXy95OQKGaC2emELAkuAMYoXMG5OOXMyALclMCC7MgggA.webp"
+    },
+    {
+      "id": "ppv-red-bull-new-york-vs-toronto-fc",
+      "title": "Red Bull New York vs. Toronto FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1792279800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMCogAxpNIh4wCOJEgSKxDGySQIOcLllEi9cLXmpWmuom9yEUGEEim2lOULAkuae6FPWBwMydwJgRTAnJVIlIA.webp"
+    },
+    {
+      "id": "ppv-austin-fc-vs-vancouver-whitecaps",
+      "title": "Austin FC vs. Vancouver Whitecaps",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1792283400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMlhBUQKGcEQQQAYylzhwGsOUgQ2OVmzBFEeSHVlpEkCeMgDVFORMChIpocdhCwJLiWOhMG5OE3N6AnlyIKNSIyA.webp"
+    },
+    {
+      "id": "ppv-houston-dynamo-fc-vs-fc-dallas",
+      "title": "Houston Dynamo FC vs. FC Dallas",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1792283400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52wCMETCQMECmySQVECEUxSIpaRVKQEPVulZgyslhUmDylfnISBQkUwXywhYElwBjeULDdOCWENeQJJcn9xDQggA.webp"
+    },
+    {
+      "id": "ppv-sporting-kansas-city-vs-real-salt-lake",
+      "title": "Sporting Kansas City vs. Real Salt Lake",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1792283400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSDLwRMiMAggAxiKUgYayUvkgaWbBqohEMbMEPr1WHSBsh9o8nIFCZBUynKFgSXIo9Cwbk45YVJ6N2kwQPkwiCA.webp"
+    },
+    {
+      "id": "ppv-le-n-vs-am-rica",
+      "title": "León vs. América",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1792285200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKuJDCpIRDGAQRklCADGILMDkKQuzZohSlh6QZAolEkFsmjyigUJFNs9MIWBJcqi0LDdORWFSegItcn8FEIggA.webp"
+    },
+    {
+      "id": "ppv-toluca-vs-atl-tico-de-san-luis",
+      "title": "Toluca vs. Atlético de San Luis",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1792285200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCElYR4kDXjAaZCQGNFs4cAikR2EBDkhNVfYq0gYp7WWNyU5bQKG6C2emELAkuFfaFhuTm1NMntXBTAArR0IIA.webp"
+    },
+    {
+      "id": "ppv-la-galaxy-vs-san-diego-fc",
+      "title": "LA Galaxy vs. San Diego FC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 08:30 AM (BD Time)",
+      "start_epoch_ms": 1792290600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZKiHjApw6SBghFKSSAghx8kCjnCQsrPOARsWkAGM92I4umlgEreWMChIple1hCwJLjPahMG5OY1kybQJbMCCjOwggA.webp"
+    },
+    {
+      "id": "ppv-portland-timbers-vs-colorado-rapids",
+      "title": "Portland Timbers vs. Colorado Rapids",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 08:30 AM (BD Time)",
+      "start_epoch_ms": 1792290600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMHgjSIRFVniQS4SBoQQ6gMbZVurCBWIJWEbrJT1MbMAgz85WwKHSC1iWELAkuTRKFhuTlthUnpXKTAAm1CIIA.webp"
+    },
+    {
+      "id": "ppv-san-jose-earthquakes-vs-nashville-sc",
+      "title": "San Jose Earthquakes vs. Nashville SC",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 08:30 AM (BD Time)",
+      "start_epoch_ms": 1792290600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCBIgI0ySCwh4wRDOGzEKkGrIKJCpWokBjEFRBHgNNQpjAIlyynL2BQkU2z0whYElxGnITBuTnthUnoCZXJguwiIIA.webp"
+    },
+    {
+      "id": "ppv-seattle-sounders-fc-vs-cf-montr-al",
+      "title": "Seattle Sounders FC vs. CF Montréal",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 08:30 AM (BD Time)",
+      "start_epoch_ms": 1792290600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YIggiQiYRJABjEGWEgUwKiCmIaWEHLKS1IEPJjT1EEDBkbli9fzCCRTbPTCFgSXAvVDnVikDegIJcmdgKTIIIA.webp"
+    },
+    {
+      "id": "ppv-cruz-azul-vs-fc-ju-rez",
+      "title": "Cruz Azul vs. FC Juárez",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 09:00 AM (BD Time)",
+      "start_epoch_ms": 1792292400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNeMAikQKEFhABjEGRJyQVEJo2ypwySD0QQEsllLAJEs3okbNUiCnJSBQkU2z0whYElwKnITBuTl1zJwILcmDJcwggA.webp"
+    },
+    {
+      "id": "ppv-pec-zwolle-vs-go-ahead-eagles",
+      "title": "PEC Zwolle vs. Go Ahead Eagles",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 04:15 PM (BD Time)",
+      "start_epoch_ms": 1792318500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCADGIFCJniQEEFnEjsIGoiqKQJXesQh9iadOE6Q2YEstZgvchFBhBagldlhCwJLkmyhF1YnYVJ6d3hyF2swiCA.webp"
+    },
+    {
+      "id": "ppv-udinese-vs-lecce",
+      "title": "Udinese vs. Lecce",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 04:30 PM (BD Time)",
+      "start_epoch_ms": 1792319400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8ESJARg04cERYQMGSCohEiaSVXyQWXcKWkj2xeMNzDEECikpy0gUIkFs9MIWBJcAY3tCwbk5ZUnpXcTBAmVCIIA.webp"
+    },
+    {
+      "id": "ppv-ik-sirius-vs-if-elfsborg",
+      "title": "IK Sirius vs. IF Elfsborg",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 06:00 PM (BD Time)",
+      "start_epoch_ms": 1792324800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIUkFhBUQwkDHmr4M6RFUoQ6mohXjZMyXJ3qtWKTJC6U5aQKEim2emELAkucfaFhuTmlhUnoCYHUwAOsyCCA.webp"
+    },
+    {
+      "id": "ppv-osasuna-vs-racing-santander",
+      "title": "Osasuna vs. Racing Santander",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 06:00 PM (BD Time)",
+      "start_epoch_ms": 1792324800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiBSlgEEIhIhhimSAilJckAGMRmlJtk1EMEDGAT9WdVg1kaVKfzCCRTbPTCFgSXFqlDnVjVhaSkCYHhyZxlpCCA.webp"
+    },
+    {
+      "id": "ppv-v-ster-s-sk-vs-mj-llby-aif",
+      "title": "Västerås SK vs. Mjällby AIF",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 06:00 PM (BD Time)",
+      "start_epoch_ms": 1792324800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcTSzB4IkMJABjcdhAQQMWYhIgy2jTKyqj4kNOylgVZRAvDSKcjYFCRTcw7CFgSXAodCwbk4bOzIHAjMwQOAbMgggA.webp"
+    },
+    {
+      "id": "ppv-sc-cambuur-vs-az-alkmaar",
+      "title": "SC Cambuur vs. AZ Alkmaar",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 06:30 PM (BD Time)",
+      "start_epoch_ms": 1792326600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgpkqTBBUQJEBAnYQKEMLWStwxSCzrgENVMMqVkrMBqGFS8SnImBQkU2z0whYElyO3MG5OEy0yJwJgeHIg41JjIA.webp"
+    },
+    {
+      "id": "ppv-afc-bournemouth-vs-sunderland",
+      "title": "AFC Bournemouth vs. Sunderland",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1792328400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJAkQ8YDQkQRIKiBjBF0rCBAjgiNbOGlx2EAGMlWJZtUzdVFOUUChugtnphCwJLjOOhMG5ORSMyR3dZMCD1UnUgA.webp"
+    },
+    {
+      "id": "ppv-angers-vs-marseille",
+      "title": "Angers vs. Marseille",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1792328400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZYSAggUwRFRAxsC2SJASJIEDTmatIEpNUBjEFmmqQweSfkwtM-mEEim2emELAkuIzKFPWCBcyGQIVMCdgILIIIA.webp"
+    },
+    {
+      "id": "ppv-brighton-hove-albion-vs-crystal-palace",
+      "title": "Brighton & Hove Albion vs. Crystal Palace",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1792328400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IFCAjZJIYSBjAqILCBolVs7NKUBjZYo1ZgiKer1yQskIhDSdKclIFCRTLQ7CFgSXPZdhuTilhUnoCY3IA4FNooA.webp"
+    },
+    {
+      "id": "ppv-fiorentina-vs-como",
+      "title": "Fiorentina vs. Como",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1792328400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IAMakRIGRGBUQiOUpDDF0iCBSKtO8VuCIFMtVgnyZEq1RTk5AoSKbZ6YQsCS5xtoWG6c5YSlbAkNyP2A5MgggA.webp"
+    },
+    {
+      "id": "ppv-leeds-united-vs-manchester-united",
+      "title": "Leeds United vs. Manchester United",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 07:00 PM (BD Time)",
+      "start_epoch_ms": 1792328400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIUkIjLxgVCcEQQQS4SJDadW6SR1KsskAcTCQamMprGIKctIFCRTbPTCFgSXOIdCwbk5pTTIHAhVyQKlSKSA.webp"
+    },
+    {
+      "id": "ppv-bayer-leverkusen-vs-sc-freiburg",
+      "title": "Bayer Leverkusen vs. SC Freiburg",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 07:30 PM (BD Time)",
+      "start_epoch_ms": 1792330200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNLNhDCQ8YLIjZgVEFhAwQAYyly1IFCGVkJ0icvWm5ksyLXAIKcgoFCRTRQ7CFgSXBodCwbk4FYVJ6AkswQLswiCA.webp"
+    },
+    {
+      "id": "ppv-celta-vigo-vs-alav-s",
+      "title": "Celta Vigo vs. Alavés",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 08:15 PM (BD Time)",
+      "start_epoch_ms": 1792332900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBggIweNlKyRkkCGAyZcuViUpxpZbt0QQNGlhUhN4kNpIpyMgUJFN59sIWBJcAY3tCwbk4ZYQV7AkUwQLUFCCA.webp"
+    },
+    {
+      "id": "ppv-halmstads-bk-vs-hammarby-if",
+      "title": "Halmstads BK vs. Hammarby IF",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 08:30 PM (BD Time)",
+      "start_epoch_ms": 1792333800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEDTJYQZRNJrCJIcbOCJ4akMOwgAxiA3SNx4JJApswcWd0X+YQSKaW7hYEly2h5bpwhOyCwI1cgcrUisgA.webp"
+    },
+    {
+      "id": "ppv-malm-ff-vs-bk-h-cken",
+      "title": "Malmö FF vs. BK Häcken",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 08:30 PM (BD Time)",
+      "start_epoch_ms": 1792333800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBTAIwKiGHYRIRFIUy58aZMVyY84IgUbFWEMcRyJEmFP5hBIpotuFgSXAGMpQ+6xkKyKQIDcntpUmkgA.webp"
+    },
+    {
+      "id": "ppv-rgryte-is-vs-gais",
+      "title": "Örgryte IS vs. GAIS",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 08:30 PM (BD Time)",
+      "start_epoch_ms": 1792333800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiEQpSk4BBDyqIGHOwjlGgMYiZIYEu1YQ0xGUXr5hkDSrT+YQToJq7hYElybpQh6wg6yaWd4cgdVMyA.webp"
+    },
+    {
+      "id": "ppv-fc-groningen-vs-ajax-amsterdam",
+      "title": "FC Groningen vs. Ajax Amsterdam",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 08:45 PM (BD Time)",
+      "start_epoch_ms": 1792334700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSCogUIRIikBjYPGBSyWWZNUjl4kCFIglEPYhSrJIDYgWzsIGOf5hBOgtnphCwJLgXmhF1YIHTJzdxUwF2AQsgggA.webp"
+    },
+    {
+      "id": "ppv-le-havre-ac-vs-aj-auxerre",
+      "title": "Le Havre AC vs. AJ Auxerre",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 09:15 PM (BD Time)",
+      "start_epoch_ms": 1792336500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw4IggjgUrCAggqIGMCVkaCmjWEhx21RJkg5k3SBSqzIEeYv8wg6QWz0whYElwBjC0IespcTILZ3hyBxlSGSA.webp"
+    },
+    {
+      "id": "ppv-lorient-vs-as-monaco",
+      "title": "Lorient vs. AS Monaco",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 09:15 PM (BD Time)",
+      "start_epoch_ms": 1792336500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE522EPGBUQEUiBpYZIZcJDDxyiBOUiJU4IhTZ9JEIsTrVp1TCP8wgkU2N3CwJLgDGRoQ9az1MiMCA3IHYFkyCCA.webp"
+    },
+    {
+      "id": "ppv-paris-fc-vs-stade-rennais",
+      "title": "Paris FC vs. Stade Rennais",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 09:15 PM (BD Time)",
+      "start_epoch_ms": 1792336500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEBGzAqIAMbBJ42SBTYQWYPBHSQJEMJEgYIE1qW71C-WpMaZZEqv5hB2glKeFgSXLNVCXVkkDMlV3LTAXBVIFIA.webp"
+    },
+    {
+      "id": "ppv-borussia-m-nchengladbach-vs-tsg-hoffenheim",
+      "title": "Borussia Mönchengladbach vs. TSG Hoffenheim",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 09:30 PM (BD Time)",
+      "start_epoch_ms": 1792337400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmRokQMcdhEgUIYSFVZgiAMbAIpYFUUhEqmAohGjOkdfPrbKcroFDrBeQ7CFgSXJodCwbk5dYT0HN3hyQKsyCCA.webp"
+    },
+    {
+      "id": "ppv-nottingham-forest-vs-arsenal",
+      "title": "Nottingham Forest vs. Arsenal",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 09:30 PM (BD Time)",
+      "start_epoch_ms": 1792337400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRBBBkSIGsOCIspUiCwgAxiojAqIFCGEht2+SdXKZNMkpMiRKctoFC7BbPTCFgSXOodCwbk5bMgc3eHJA4G0yCCA.webp"
+    },
+    {
+      "id": "ppv-ac-milan-vs-atalanta",
+      "title": "AC Milan vs. Atalanta",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1792339200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiGNmDiQAY2wgqIJRKwgYICGoUgswGoiVlVmxcJBGtq5SBR7b-MIJFNJ9wsCS4ZtoY9YRnMlsCKXJHYACyCCA.webp"
+    },
+    {
+      "id": "ppv-m-laga-vs-real-sociedad",
+      "title": "Málaga vs. Real Sociedad",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "18 Oct 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1792341000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkAGMRkmVhAlJweEpDiYIENIUbhpaeqniqIORJA05KGRZC9yEUGEEim2emELAkuCSiHluTgddMj8CJXInYAcyCCA.webp"
+    },
+    {
+      "id": "ppv-fc-twente-vs-fc-utrecht",
+      "title": "FC Twente vs. FC Utrecht",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "19 Oct 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1792346400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEMJDiIIkFRABjEInkoQIbNjkgSIGItnz1+9WXFKUwcVhBZZakJf5hBIppqeFgSXAstCXVhlhUnoCYHhyFytQiCA.webp"
+    },
+    {
+      "id": "ppv-nec-nijmegen-vs-fortuna-sittard",
+      "title": "NEC Nijmegen vs. Fortuna Sittard",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "19 Oct 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1792346400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCElkS4kCjkjgVEDPnxFEYBBDKsILNkXrNesrpCIDB81RTlNAoYoKG7YQsCS4AxnaFhuTk1hUnoXdTAArVCIIA.webp"
+    },
+    {
+      "id": "ppv-juventus-vs-lazio",
+      "title": "Juventus vs. Lazio",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "19 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1792349100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOPHYQKEFhlyQJECoDGIVSJGSJVOduUSJIYBC1lhIS5eMiU5MwKFaC2emELAkuVfaFhuTjNhUnpXeHIA01CIIA.webp"
+    },
+    {
+      "id": "ppv-lyon-vs-nice",
+      "title": "Lyon vs. Nice",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "19 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1792349100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKuNIgI4kAGNSIkDBAgl8YDQ0SIIvbqwgUwGapSqQZGSpmJDJY-zCC9BbPTCFgSXHONDnVl1hRWM3DTBnE0UIIA.webp"
+    },
+    {
+      "id": "ppv-real-madrid-vs-sevilla",
+      "title": "Real Madrid vs. Sevilla",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "19 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792350000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCGHiQKYFRABjOXMUqU4lRIgjl8YHpLSQILCBjHl2gyEPnR5bQKE6C2emELAkuBbKFhuTm1hUnpXPTAA4G0yCCA.webp"
+    },
+    {
+      "id": "ppv-fc-cincinnati-vs-columbus-crew",
+      "title": "FC Cincinnati vs. Columbus Crew",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "19 Oct 2026, 03:00 AM (BD Time)",
+      "start_epoch_ms": 1792357200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBQgSIWcJCIZKYDXkyYpYIkSys2EFhDztC0kdmSD04BJkBjZfzCCRTbPTCFgSXA6HluTghXMmUCLXJnG00IIA.webp"
+    },
+    {
+      "id": "ppv-monterrey-vs-pachuca",
+      "title": "Monterrey vs. Pachuca",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "19 Oct 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1792371600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYDRIgAxqRDCZI4BBBSQIFOpAwQ4qiEQqUy3dmCIyUlVJgSzK3uXEChSgmeNhCwJLmnGhMG5OcWFSend4ciDlcIggA.webp"
+    },
+    {
+      "id": "ppv-monza-vs-cagliari",
+      "title": "Monza vs. Cagliari",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "19 Oct 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1792427400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiFKWwgUIMiRDxswRVmkhhIAMbTl6tRBEgswA8flUQMLQusSLVCfzCCRTJY8LAkuTRKHPWA2FJCQJlcmcTSQggA.webp"
+    },
+    {
+      "id": "ppv-degerfors-if-vs-kalmar-ff",
+      "title": "Degerfors IF vs. Kalmar FF",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "19 Oct 2026, 11:00 PM (BD Time)",
+      "start_epoch_ms": 1792429200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBggswRBLKIUIRbNIglEEJpDAq4kQfgGJILcAjmDmmnt7kLAoQYLZ6YQsCS4AxiidhuTgthUnoXIzAAyzIIIA.webp"
+    },
+    {
+      "id": "ppv-parma-vs-torino",
+      "title": "Parma vs. Torino",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "20 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1792435500000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCEnDxwCCGGl5IKiBQgIwRJLUpZerCM0iQMZYrWJEusio2jyGgUMMFs9MIWBJcAY11Cwbk47UnpXeHJAvTIIIA.webp"
+    },
+    {
+      "id": "ppv-getafe-vs-rayo-vallecano",
+      "title": "Getafe vs. Rayo Vallecano",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "20 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792436400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCETxgEEFhAoQw0uJAgZK2QGNgieVRBaFK5dOEgIumRbm3FiLSnKWBQkU2z0whYElyO3MG5OS2UyJwIrMCCNMgggA.webp"
+    },
+    {
+      "id": "ppv-tottenham-hotspur-vs-coventry-city",
+      "title": "Tottenham Hotspur vs. Coventry City",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "20 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792436400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRFmA1EwkeJABjYBBCSIy7CFkkQMLSCogde2ZJ0KQKRYo3wRpZSnLqBQ+wWz0whYElwKnITBuTnVteg87MGCNMgggA.webp"
     }
   ]
 }
