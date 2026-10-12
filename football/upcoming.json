@@ -1,49 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 29,
-  "total_matches": 29,
+  "total_items": 25,
+  "total_matches": 25,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-12 | 04:44:05",
-  "updated_at_bd": "2026-10-12T04:44:05+06:00",
+  "updated_time_bd": "2026-10-12 | 07:50:36",
+  "updated_at_bd": "2026-10-12T07:50:36+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "atl-tico-de-san-luis-vs-santos-laguna-2487549",
-      "title": "Atlético de San Luis vs Santos Laguna",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Oct 2026, 05:00 AM (BD Time)",
-      "start_epoch_ms": 1791759600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBrhZIIWnxDcQ+jRBCmYIEiAtSNBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "st--louis-city-sc-vs-la-galaxy-2407127",
-      "title": "St. Louis City SC vs LA Galaxy",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Oct 2026, 05:00 AM (BD Time)",
-      "start_epoch_ms": 1791759600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqxheogAyQQ3EH2OHTJEIgiWQUgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "pachuca-vs-necaxa-2487548",
-      "title": "Pachuca vs Necaxa",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Oct 2026, 05:15 AM (BD Time)",
-      "start_epoch_ms": 1791760500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLD2BIufEChDcQukCAimQMECQsgpRglop9hs+ijAqUXD+XobRXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "pumas-unam-vs-cruz-azul-2487550",
-      "title": "Pumas UNAM vs Cruz Azul",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "12 Oct 2026, 07:00 AM (BD Time)",
-      "start_epoch_ms": 1791766800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKNoow3EDDkhdfECYggzMDXpBSQKAsCQU+w2fW0qUXMGXhEssl5MtGA+YqIQQA.webp"
-    },
     {
       "id": "atalanta-vs-venezia-2482193",
       "title": "Atalanta vs Venezia",
@@ -99,58 +63,31 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCG4gpIEJ11a+ukBBAoQMEyBIWQfAsCQV7rEWJRgVKLp-L0sst5MtGCeYqIQQA.webp"
     },
     {
-      "id": "1859",
-      "title": "Lens - Sporting CP",
+      "id": "lens-vs-sporting-cp-2594564",
+      "title": "Lens vs Sporting CP",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "13 Oct 2026, 10:45 PM (BD Time)",
       "start_epoch_ms": 1791909900000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGD5gUuCju4g+IY0f0gSIKSBggJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
-      "id": "1860",
-      "title": "Sabah FK - Slavia Prague",
+      "id": "sabah-baku-vs-slavia-prague-2594678",
+      "title": "Sabah Baku vs Slavia Prague",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "13 Oct 2026, 10:45 PM (BD Time)",
       "start_epoch_ms": 1791909900000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAoiYMLyQhuIPiFMmUhkCWMgYhgsCQU+w2fW0qUXMGU30ssl5MtLqi9GFAA.webp"
     },
     {
-      "id": "ppv-wrexham-vs-west-bromwich-albion",
-      "title": "Wrexham vs. West Bromwich Albion",
+      "id": "wrexham-vs-west-bromwich-albion-2501364",
+      "title": "Wrexham vs West Bromwich Albion",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "14 Oct 2026, 12:45 AM (BD Time)",
       "start_epoch_ms": 1791917100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYTSIYcEQoQVEMohyQqxFmUgyiZZpApswJUdkkQWpRBkg9ho-zCCRTY48LAkucUaHPWVXN6AjlyZ2BVMgggA.webp"
-    },
-    {
-      "id": "1861",
-      "title": "Arsenal - Lille",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1791918000000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "1862",
-      "title": "Atletico Madrid - Manchester United",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1791918000000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "1863",
-      "title": "Galatasaray - Barcelona",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "14 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1791918000000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBgQZJAxAQQ3EHxBmchqSZAozGgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
     },
     {
       "id": "1864",
@@ -162,31 +99,58 @@
       "poster": "https://streamed.pk/favicon.ico"
     },
     {
-      "id": "1865",
-      "title": "RB Leipzig - PSV Eindhoven",
+      "id": "arsenal-vs-lille-2594543",
+      "title": "Arsenal vs Lille",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "14 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1791918000000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBCVO8SCG4gNmjSn0gS5wyCkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "1866",
-      "title": "Viking FK - Bayern Munich",
+      "id": "atl-tico-madrid-vs-manchester-united-2594619",
+      "title": "Atlético Madrid vs Manchester United",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "14 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1791918000000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEFyYAGMKJIhuIPiBPGUBkPqmXcBYEgp9hs+il1sUXXeXpZZnplowd3pRCCA.webp"
     },
     {
-      "id": "1867",
-      "title": "Villarreal - Napoli",
+      "id": "galatasaray-vs-barcelona-2594658",
+      "title": "Galatasaray vs Barcelona",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "14 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1791918000000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwheogQJRaQfEMaP7uIEiCnGLBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
+    },
+    {
+      "id": "rb-leipzig-vs-psv-eindhoven-2594581",
+      "title": "RB Leipzig vs PSV Eindhoven",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "14 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1791918000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVgAZQYXhBB8Q3fSBMGUhkCRBSLfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp"
+    },
+    {
+      "id": "viking-vs-bayern-munich-2594663",
+      "title": "Viking vs Bayern Munich",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "14 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1791918000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBB1cYDRu4gNmjShAGSIKZpAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "villarreal-vs-napoli-2594625",
+      "title": "Villarreal vs Napoli",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "14 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1791918000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHDLYAGYFLDcQBviBPGUhkCRBTLIPgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp"
     },
     {
       "id": "1868",
