@@ -1,31 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 160,
-  "total_matches": 160,
+  "total_items": 158,
+  "total_matches": 158,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-13 | 17:34:36",
-  "updated_at_bd": "2026-10-13T17:34:36+06:00",
+  "updated_time_bd": "2026-10-14 | 00:30:25",
+  "updated_at_bd": "2026-10-14T00:30:25+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "lens-vs-sporting-cp-2594564",
-      "title": "Lens vs Sporting CP",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Oct 2026, 10:45 PM (BD Time)",
-      "start_epoch_ms": 1791909900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGD5gUuCju4g+IY0f0gSIKSBggJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "sabah-baku-vs-slavia-prague-2594678",
-      "title": "Sabah Baku vs Slavia Prague",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "13 Oct 2026, 10:45 PM (BD Time)",
-      "start_epoch_ms": 1791909900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAoiYMLyQhuIPiFMmUhkCWMgYhgsCQU+w2fW0qUXMGU30ssl5MtLqi9GFAA.webp"
-    },
     {
       "id": "wrexham-vs-west-bromwich-albion-2501364",
       "title": "Wrexham vs West Bromwich Albion",
