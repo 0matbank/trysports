@@ -1,94 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 150,
-  "total_matches": 150,
+  "total_items": 141,
+  "total_matches": 141,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-14 | 23:32:10",
-  "updated_at_bd": "2026-10-14T23:32:10+06:00",
+  "updated_time_bd": "2026-10-15 | 02:56:35",
+  "updated_at_bd": "2026-10-15T02:56:35+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "goals-show-xtra-tnt-uefa-champions-league-1792000800",
-      "title": "Goals Show Xtra (TNT)",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Oct 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1792000800000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "aston-villa-vs-fenerbah-e-2594553",
-      "title": "Aston Villa vs Fenerbahçe",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792004400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCFEpxIRNxB8QRwyhD6SmkKYlMkFPsNn0UYFdravy9LLO1NaYK5iohBAA.webp"
-    },
-    {
-      "id": "bod--glimt-vs-borussia-dortmund-2594600",
-      "title": "Bodø/Glimt vs Borussia Dortmund",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792004400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCCkgyIYEjBIQ3EHxBnTKI9s0hE8Anop9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "manchester-city-vs-paris-saint-germain-2594547",
-      "title": "Manchester City vs Paris Saint-Germain",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792004400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgk2EDN7qQ3EHxCmTKQyBJXTuAsG0x+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "real-betis-vs-porto-2594633",
-      "title": "Real Betis vs Porto",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792004400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCDLcQKNiA3a+IY0ZQhtJEFKv6CwJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "roma-vs-real-madrid-2594609",
-      "title": "Roma vs Real Madrid",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792004400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWlLBJyApCG4g+IY0ZT6QJEFJAQbBYNpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "shakhtar-donetsk-vs-aek-athens-2594637",
-      "title": "Shakhtar Donetsk vs AEK Athens",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792004400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAyww4KSBk5uIPiBPGUIQyT3W+BYEgq3WIsSjAqUXd+XpZZnplowdzFRCCA.webp"
-    },
-    {
-      "id": "slovan-bratislava-vs-stuttgart-2594659",
-      "title": "Slovan Bratislava vs Stuttgart",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792004400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGBnhahRNxB8QRwyhD6SIKUZAkCwDTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "the-golazo-show-game-1262626",
-      "title": "The Golazo Show ⚽ ⚽ ⚽",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792004400000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
     {
       "id": "cf-montr-al-vs-atlanta-united-2407132",
       "title": "CF Montréal vs Atlanta United",
