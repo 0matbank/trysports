@@ -1,67 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 141,
-  "total_matches": 141,
+  "total_items": 135,
+  "total_matches": 135,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-15 | 02:56:35",
-  "updated_at_bd": "2026-10-15T02:56:35+06:00",
+  "updated_time_bd": "2026-10-15 | 05:47:06",
+  "updated_at_bd": "2026-10-15T05:47:06+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "cf-montr-al-vs-atlanta-united-2407132",
-      "title": "CF Montréal vs Atlanta United",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Oct 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1792020600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcwvNqwhaQfDSClHDiRJr4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "columbus-crew-vs-charlotte-fc-2407129",
-      "title": "Columbus Crew vs Charlotte FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Oct 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1792020600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXJTAoQJEAL4huekDBBTjRxIiMgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "dc-united-vs-new-york-red-bulls-2407133",
-      "title": "DC United vs New York Red Bulls",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Oct 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1792020600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGTJ8QMpPxDcQ2mDqMGQiHCcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "fc-cincinnati-vs-new-england-revolution-2407130",
-      "title": "FC Cincinnati vs New England Revolution",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Oct 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1792020600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFHNAIQIYGBDcQfIwZMkQiCBaMFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
-    },
-    {
-      "id": "inter-miami-vs-new-york-city-fc-2407128",
-      "title": "Inter Miami vs New York City FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Oct 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1792020600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDKmxsDbCG4g+GkCRAx9IS4giGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "toronto-fc-vs-orlando-city-2407131",
-      "title": "Toronto FC vs Orlando City",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "15 Oct 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1792020600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECAH1uuDSB18QMEFM36QiHCn0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "chicago-fire-vs-philadelphia-union-2407135",
       "title": "Chicago Fire vs Philadelphia Union",
