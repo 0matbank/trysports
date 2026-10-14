@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 149,
-  "total_matches": 149,
+  "total_items": 150,
+  "total_matches": 150,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-14 | 12:51:20",
-  "updated_at_bd": "2026-10-14T12:51:20+06:00",
+  "updated_time_bd": "2026-10-14 | 18:30:05",
+  "updated_at_bd": "2026-10-14T18:30:05+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -556,6 +556,15 @@
       "start_time_bd": "16 Oct 2026, 11:00 PM (BD Time)",
       "start_epoch_ms": 1792170000000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEDBAkQiECAggswRIhTzFwGsOAKsiufrVzt48QGMQZnTOUGyEFOQigwgkU2z0whYElxnHIVdWZ20yRwJlclcdUh0gA.webp"
+    },
+    {
+      "id": "ppv-fc-eindhoven-vs-vitesse",
+      "title": "FC Eindhoven vs. Vitesse",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1792173600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiFCEkxsIMsJmJ4IkBBA1VWYIlXTEAYxC7swKiBQyIpY5eGzz-MIJFNj9wsCS495oY9Y2rcwItckdgSzIIIA.webp"
     },
     {
       "id": "ppv-heerenveen-vs-excelsior",
