@@ -1,11 +1,776 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-10-15 | 18:38:42",
-  "updated_at_bd": "2026-10-15T18:38:42+06:00",
+  "total_items": 74,
+  "total_matches": 20,
+  "total_streams": 74,
+  "updated_time_bd": "2026-10-15 | 23:22:21",
+  "updated_at_bd": "2026-10-15T23:22:21+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "ppv-fc-lugano-vs-red-star-belgrade",
+      "title": "FC Lugano vs. Red Star Belgrade",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCGGTgEqcJkgyEkiBggsikChA0pGiTBGaAxiEQhgVEMcuq7V7fnIRQYQSKbZ6YQsCS5jFCFybk4XeTIggmB4cjcZUhkgA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCGGTgEqcJkgyEkiBggsikChA0pGiTBGaAxiEQhgVEMcuq7V7fnIRQYQSKbZ6YQsCS5jFCFybk4XeTIggmB4cjcZUhkgA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb20.strmd.st/secure/HupmSHHsqhjvLhhJZuoHacbONdCCRjZr/rtmp/stream/nDiZKYn4jdsavZU2fHTI0lWaugdRSzO9FDMmuN-I1W_QA_4S8Q8RQsejZGhZEG40mA6zy3Xm6DYjfQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCGGTgEqcJkgyEkiBggsikChA0pGiTBGaAxiEQhgVEMcuq7V7fnIRQYQSKbZ6YQsCS5jFCFybk4XeTIggmB4cjcZUhkgA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb20.strmd.st/secure/acXHUqEuFGAqxHPpErYqwAxtVYSXxjBr/rtmp/stream/TgmCeM11OG-tpaN8B01U5Pfv4fflEgbOKsiwvN63YCWmsQ95oqdi_qOBdz2MLtJ65RTUeaENQsdTtjHcWq4/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "FC Lugano vs. Red Star Belgrade (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCGGTgEqcJkgyEkiBggsikChA0pGiTBGaAxiEQhgVEMcuq7V7fnIRQYQSKbZ6YQsCS5jFCFybk4XeTIggmB4cjcZUhkgA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb20.strmd.st/secure/dJONPdLHmnFUyZogRIJqvOSQhBnPeVgW/hotel/stream/fc-lugano-vs-red-star-belgrade-uefa-europa-conference-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "torreense-vs-sunderland-2594954",
+      "title": "Torreense vs Sunderland",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCGlgBUPiG4g9IQyBQhEeqSBiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT Sports 2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCGlgBUPiG4g9IQyBQhEeqSBiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb23.strmd.st/secure/cMxQyvGAJKQmeBuVzZwjfSJZsCFDLLMB/rtmp/stream/-i17jetAzi_aneZ_Nzz7J3tL06XlDtOa8eBe90vAlJmRVOs9bsq7osr-80w1iwazLRh1Ffyq/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT Sports 2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCGlgBUPiG4g9IQyBQhEeqSBiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb23.strmd.st/secure/iBXjnjKRHoygFTJMqKUqCqxoevpqIWSU/rtmp/stream/s5ehv3kTok_0X5weYUNiJiETpY6QzVMxHcKWusHHjtWs-4ldmDc_otBTM4Dfzc1GpKYW29JbD8qzCQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Torreense vs Sunderland (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCGlgBUPiG4g9IQyBQhEeqSBiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb20.strmd.st/secure/mnhxHhJRAEIjWAGifqnoBxvwclFVFTQn/ingest/stream/streamedevent8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Torreense vs Sunderland (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCGlgBUPiG4g9IQyBQhEeqSBiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb23.strmd.st/secure/MydZDCDfZBQFhTBFimcMHiXLoKayoRSU/ingest/stream/streamedevent8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Torreense vs Sunderland (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCGlgBUPiG4g9IQyBQhEeqSBiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb20.strmd.st/secure/wAfzajkPTGzalOfLOQKvWQfDSHtkdJbJ/hotel/stream/torreense-vs-sunderland-uefa-europa-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "celje-vs-omonia-nicosia-2594951",
+      "title": "Celje vs Omonia Nicosia",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGQAZmPLmhDcQfEMaMoQiI1JAwQCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGQAZmPLmhDcQfEMaMoQiI1JAwQCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/rlvitmrtgWBluOuruAaPilUgpQbgsDyK/rtmp/stream/n00ojQObyLAyb2vRtEzmQOHMlIzBmQqNMXCvIbB4oX3fIlMtRJ4howgpDgjQN9fS5lHmAdjWvvpe/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGQAZmPLmhDcQfEMaMoQiI1JAwQCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb6.strmd.st/secure/IxHoPpmEAGUvYxOantOeqrsXZwKySbua/rtmp/stream/brd4VaOB6eHNrD5J3X-Lo4YkODixLouO7Ytc8P2uGaLkUhYsRnpbsEJlybW5lMADZaHsqjYM2IuVuvZE5w/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Celje vs Omonia Nicosia (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGQAZmPLmhDcQfEMaMoQiI1JAwQCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/tuUykHiRHhSNbobLMwEUKgXcYPregzDI/ingest/stream/streamedevent5/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Celje vs Omonia Nicosia (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGQAZmPLmhDcQfEMaMoQiI1JAwQCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb6.strmd.st/secure/SolPKEwvTegtiMagWTEphPtbGqnrbjOt/ingest/stream/streamedevent5/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Celje vs Omonia Nicosia (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGQAZmPLmhDcQfEMaMoQiI1JAwQCpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/DijsXCVfhkqVuOKSwTGAWovgtfDwIMcS/hotel/stream/nk-celje-vs-omonia-nicosia-uefa-europa-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "union-saint-gilloise-vs-real-sociedad-2594938",
+      "title": "Union Saint-Gilloise vs Real Sociedad",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBDMQvJMCQ6QfECeMoQiYyRDnG+in2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBDMQvJMCQ6QfECeMoQiYyRDnG+in2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb16.strmd.st/secure/XOBeNFAhFlCrolPFxPaDpisDRBETFBfw/rtmp/stream/v6i_kZq261GmXDiBLSCbSiS5lXdsShKf3orZWr_JuRRUPiBJyr1nwH5s_NFPH2yHIgufd3BWs7OK/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBDMQvJMCQ6QfECeMoQiYyRDnG+in2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb16.strmd.st/secure/lqgJmWfgtvbjzQdPuwBoivqWBQAXHyRM/rtmp/stream/Iv5R4TAhRgxwJHu0h0vnXIp2kTQ3W-ivePms_fN-HHIW980CwZgXJ0VdfvRqwM3M3Efed-vsfq-ogJYfqA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Union Saint-Gilloise vs Real Sociedad (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBDMQvJMCQ6QfECeMoQiYyRDnG+in2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb17.strmd.st/secure/UMOyBKVkSTiYyPMffKOHrcSVVueZmRSi/ingest/stream/streamedevent9/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Union Saint-Gilloise vs Real Sociedad (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBDMQvJMCQ6QfECeMoQiYyRDnG+in2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb17.strmd.st/secure/OprrYWmXxlhfNjcqfcgZkAJlOMeMsqej/ingest/stream/streamedevent9/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Union Saint-Gilloise vs Real Sociedad (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmBDMQvJMCQ6QfECeMoQiYyRDnG+in2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb17.strmd.st/secure/WSOEFcIgmsDCnyVsxEOUIZQFmEmjUokO/hotel/stream/union-st-gilloise-vs-real-sociedad-uefa-europa-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "sparta-prague-vs-lillestr-m-2594915",
+      "title": "Sparta Prague vs Lillestrøm",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFAhC8QwMGBJaQfECeMoQiYweMKmSCn2Gz6GlSi77y9LLPdNaeqL0QUA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFAhC8QwMGBJaQfECeMoQiYweMKmSCn2Gz6GlSi77y9LLPdNaeqL0QUA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/MamtANUOUdBBXvbWITRfJpfPNLdccpjr/rtmp/stream/6y-YAxTLfW-v5fGKEqMDEXdS9KLNy0t5hX0ymMPKDCeLqzaCYHsGvYm8BYKENx9GMOUzK5_KtDiI/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFAhC8QwMGBJaQfECeMoQiYweMKmSCn2Gz6GlSi77y9LLPdNaeqL0QUA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/wVCLpgiiHMtGbdynOMMrtWZVLmaDFzlD/rtmp/stream/QaV-tWLgHVZXY8XM7ybobIyg6mKz87SyeVFT1RwLeLwo_FUI_LGj9125n1MD5vb9bxTvX8e54ceZ1nkHjg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sparta Prague vs Lillestrøm (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFAhC8QwMGBJaQfECeMoQiYweMKmSCn2Gz6GlSi77y9LLPdNaeqL0QUA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/uWgxghhdskFbGOwMwLlybdtjFwmTLaox/ingest/stream/streamedevent7/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sparta Prague vs Lillestrøm (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFAhC8QwMGBJaQfECeMoQiYweMKmSCn2Gz6GlSi77y9LLPdNaeqL0QUA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb16.strmd.st/secure/FuZtUVptjlNwqCVmwmNkFQRHtZfmxXVs/ingest/stream/streamedevent7/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sparta Prague vs Lillestrøm (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFAhC8QwMGBJaQfECeMoQiYweMKmSCn2Gz6GlSi77y9LLPdNaeqL0QUA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb16.strmd.st/secure/KENMcqdcLpThWHRsUvSzARfNOCWVhxek/hotel/stream/sparta-prague-vs-lillestrom-uefa-europa-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "red-bull-salzburg-vs-ac-milan-2594905",
+      "title": "Red Bull Salzburg vs AC Milan",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWiHZgUIWju4g+IY0Z2IjJEFJAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWiHZgUIWju4g+IY0Z2IjJEFJAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb17.strmd.st/secure/RFaIZXrJsNQXIxwnjIOFdmyMZFophBCO/rtmp/stream/B6mNhcMkwgEHV4v5jf5TNPaKQ1MGU9wYy-hnsLy-er71hcLMLhWo010XF75P4bJYKXf5ggVX3NyK/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWiHZgUIWju4g+IY0Z2IjJEFJAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb17.strmd.st/secure/hKCPGKWMSvazBSqByUYwSAHjQgTMRAkM/rtmp/stream/c14z4YLMx5_jmRnIFaHp2Foqcc098jHwSsYsntZGpUDI2YIkdSPSJM1--YMjsQwsz6d54myJdEQsCwUSbg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Red Bull Salzburg vs AC Milan (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWiHZgUIWju4g+IY0Z2IjJEFJAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb17.strmd.st/secure/EXvBNGmTRaAzJjZuGesciHpgGtJEcoMO/ingest/stream/streamedevent6/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Red Bull Salzburg vs AC Milan (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWiHZgUIWju4g+IY0Z2IjJEFJAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb26.strmd.st/secure/bVwjEWEtNRKodnVRXPcYAEURawltJPGv/ingest/stream/streamedevent6/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Red Bull Salzburg vs AC Milan (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWiHZgUIWju4g+IY0Z2IjJEFJAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb17.strmd.st/secure/ISZAQeByTUEZInzzfinwukvNBMWLljMj/hotel/stream/rb-salzburg-vs-ac-milan-uefa-europa-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "lech-pozna--vs-bayer-leverkusen-2594860",
+      "title": "Lech Poznań vs Bayer Leverkusen",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELwggyA+GBAaQfA0ZAoQiYyVwGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELwggyA+GBAaQfA0ZAoQiYyVwGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb26.strmd.st/secure/XjMbNNxyUlRtmGwLrEEsSZlyZNKPibCp/rtmp/stream/DKNUnCzGUUM9JYDwEQZ47Q7oCjCPhhZttbF7f1Cmc-wtd-LYsWRZBEazw7WJjNMsyS2a22sEsK43cg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELwggyA+GBAaQfA0ZAoQiYyVwGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb26.strmd.st/secure/KGhsQKvUvYGcmEhMmWFaNsBDRXwsRjLT/rtmp/stream/ho8bEuVJyrBE1cqEs7xyBkHrG7tzHkRKxdAedlnBEcS4WgiLqEyHBWaMyHhhP5YPpSi0N9ANcKPPCzATNYM/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Lech Poznań vs Bayer Leverkusen (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELwggyA+GBAaQfA0ZAoQiYyVwGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/ywpvLnLprzKmISrqLnhGEHLhJRsMzkZc/ingest/stream/streamedevent2/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Lech Poznań vs Bayer Leverkusen (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELwggyA+GBAaQfA0ZAoQiYyVwGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb12.strmd.st/secure/pUWUMgrKkKFubMbCfGfuXwTZCgqTrXAk/ingest/stream/streamedevent2/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Lech Poznań vs Bayer Leverkusen (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELwggyA+GBAaQfA0ZAoQiYyVwGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/XMWZJbfnKDqNYMcJFkBQTSfAoJOGsHYM/hotel/stream/lech-poznan-vs-bayer-leverkusen-uefa-europa-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "az-alkmaar-vs-hapoel-be-er-sheva-2594841",
+      "title": "AZ Alkmaar vs Hapoel Be'er Sheva",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcLzIhmIKSG4g+IY0ZQhERkvtwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcLzIhmIKSG4g+IY0ZQhERkvtwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb12.strmd.st/secure/JsRLQquWrsckKxUHSLJoWFEhbmCzMfUy/rtmp/stream/dB5dfojpxKrGByTTAsB_U5yFczzMm1t7zKtMi_f95XHsa9DlpYwwFlOwA-hu78ArSPR0PZ_j3-g/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcLzIhmIKSG4g+IY0ZQhERkvtwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb12.strmd.st/secure/kgkgaGQBcbgEfxqErJpQVBQrgnIFNSlT/rtmp/stream/ONw5iz4BKZFNXIDx6HNPavVwjzb7aCBIqJileyZwtugsJ3yHH-G-xifGqU5M23e_fBNfZ3pWv4HO4GH9/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "AZ Alkmaar vs Hapoel Be'er Sheva (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcLzIhmIKSG4g+IY0ZQhERkvtwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/bsUUIFsSVKbjPiswrXavJsXqXrUoXVmq/ingest/stream/streamedevent1/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "AZ Alkmaar vs Hapoel Be'er Sheva (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcLzIhmIKSG4g+IY0ZQhERkvtwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/gpHNwZARcnKeYpTWEyaJFWsaIVdDfwIv/ingest/stream/streamedevent1/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "AZ Alkmaar vs Hapoel Be'er Sheva (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcLzIhmIKSG4g+IY0ZQhERkvtwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/CQKRvdHvBTfmhVCeYaPSPOVMkgyGVVke/hotel/stream/az-alkmaar-vs-hapoel-be-er-uefa-europa-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "lyon-vs-crystal-palace-2594820",
+      "title": "Lyon vs Crystal Palace",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPQi4wJEHu4g+ewyBQhERrWZIFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT Sports 1 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPQi4wJEHu4g+ewyBQhERrWZIFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/LjKLZaAfXRRDGfirGqXIPgtNosHWznmS/rtmp/stream/37e88Qok4FGx28WDaFJJp0P-GFj3gy6EHERI4g0316CiFQAhk3OMldjuM3LZDA_hphgAGJKh/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT Sports 1 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPQi4wJEHu4g+ewyBQhERrWZIFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb15.strmd.st/secure/WnjoULhrUQQrFMdaHLWQzlQfamrPFuwz/rtmp/stream/PHUVZHDTn_4OCyszp8St111m_a3-xFKlPSgOYYASKOFpMolsR4tpf8RFj3OYMdUHhZLx549eqE4IiQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Lyon vs Crystal Palace (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPQi4wJEHu4g+ewyBQhERrWZIFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/usDcWaTNcUBAyrJCWRlzqbkznkoBSjMx/ingest/stream/streamedevent4/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Lyon vs Crystal Palace (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPQi4wJEHu4g+ewyBQhERrWZIFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb21.strmd.st/secure/TaQXZLYSxYJHnjDZWinYPTpkaCahdZGj/ingest/stream/streamedevent4/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Lyon vs Crystal Palace (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPQi4wJEHu4g+ewyBQhERrWZIFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb21.strmd.st/secure/dZKMwSImuQwcTlTDYltZqClWoZYHnCDf/hotel/stream/lyon-vs-crystal-palace-uefa-europa-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "riga-fc-vs-kairat-almaty-2594810",
+      "title": "Riga FC vs Kairat Almaty",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKKxgBVFMCkhuIPiFMmUIRCYimQUgsCQU+w2fRRgVetp-L0ssnpMtGCeYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKKxgBVFMCkhuIPiFMmUIRCYimQUgsCQU+w2fRRgVetp-L0ssnpMtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/gncyBjIxNWOcHfaHgoYgQUqCGwwMlVHY/rtmp/stream/u0Udt1D0OkvT3Eil8Guf51xGs_1pSl61bTMu5zthrbYObDru1GPQ3LrblPYB7_36aSfnGj-TbXAOTQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKKxgBVFMCkhuIPiFMmUIRCYimQUgsCQU+w2fRRgVetp-L0ssnpMtGCeYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/dPFtxINincjWakSltVBsHXvtCtafLwvr/rtmp/stream/fTv0jSvwttQH6oxatc7YAmyqKOR66pg2lKaxRrhuzncHddwZrlzkwZ3BtRDWZlvm0uRLQjhq7yYtcbUYrO8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Riga FC vs Kairat Almaty (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKKxgBVFMCkhuIPiFMmUIRCYimQUgsCQU+w2fRRgVetp-L0ssnpMtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/fXFNXzxfsOPOMvBKmYDUpVAAWHNZJgUU/hotel/stream/riga-fc-vs-kairat-almaty-uefa-europa-conference-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "egnatia-vs-fc-midtjylland-2594791",
+      "title": "Egnatia vs FC Midtjylland",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfLhBb4YEJRDcQfLUZAoQiYxFMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfLhBb4YEJRDcQfLUZAoQiYxFMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/oOBFrfXNbcAkUgdLTgNGSfPgLGBJalMq/rtmp/stream/NRqx_YPO4rvwCgEoJfwbYGeoGtywHjq_P4sBtOZT_OblP-iRNO9wiE_9i8DOjWM1Av6jA6fm_NQbOw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfLhBb4YEJRDcQfLUZAoQiYxFMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb3.strmd.st/secure/NTEwcgayJAlvRXvVrbyLyOmWWhWvWvhY/rtmp/stream/le0mtRNNCJ-SFF7UDEqIb9MXT0SEoYXW9xr2TFzpLb8yGObJ6VBaFJBFLOB5EKmi_1wELkGmP41duR341wc/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Egnatia vs FC Midtjylland (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfLhBb4YEJRDcQfLUZAoQiYxFMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/SPPOmQrglieAqAARhBAJbSstSIltuISF/hotel/stream/egnatia-vs-fc-midtjylland-uefa-europa-conference-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "mj-llby-vs-inter-club-d-escaldes-2594788",
+      "title": "Mjällby vs Inter Club d'Escaldes",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgBfMChDct+kHxCmTexCYggppgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgBfMChDct+kHxCmTexCYggppgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/rikmvegCAVBEZKKCpwtwYldsTELCsZui/rtmp/stream/AFFJ64ogD5IMFRb_tMMeqaFy7nBUicFaEfWmVZ65kBUtPHJ05jMiAxqh7HWT1tXaDUB3bSKlF1IuJw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgBfMChDct+kHxCmTexCYggppgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb3.strmd.st/secure/PvfAzkAqMNYNQydYStPHJkhfeFOIzcNf/rtmp/stream/Iwb8D8iBQcLd9MTbHPaaAR5eChqQtXAPTrDagd5fDleQLU9la0H-U5u5lP20RxBoXVUGaBaT8W4ieJ4iGHo/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Mjällby vs Inter Club d'Escaldes (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgBfMChDct+kHxCmTexCYggppgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb15.strmd.st/secure/GGGAXYIUpGOITeikhbupErkjaEUFwUBC/hotel/stream/mj-llby-aif-vs-inter-d-escaldes-uefa-europa-conference-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "kups-vs-trabzonspor-2594787",
+      "title": "KuPS vs Trabzonspor",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDEoIQ3SCCk6QfECeMoQiYxH1GCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDEoIQ3SCCk6QfECeMoQiYxH1GCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/ooxQqkQIFfoWUJfDVSwGuINygLURHHVK/rtmp/stream/25jZnM6Vx-Eci8SBcJZnh8tvCw1YRT0ARil6kEVdvFU46Ex7b_UP9XISmfOu2LTxYGUvKGRNv6QoFck/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDEoIQ3SCCk6QfECeMoQiYxH1GCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb13.strmd.st/secure/KDBsNCdUDamOOYAHwHTzEMWUMGCEVzZq/rtmp/stream/qOC2SxHA-hWq4rq5TiEOo_7twRmjqlR0LfCDqgQVE6QdbO7kXa5ZXNqqEi_7gMFCvEJDDjR6x9z5s7qeazVB/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "KuPS vs Trabzonspor (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDEoIQ3SCCk6QfECeMoQiYxH1GCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/vJjXZsWPzMUrDwnhVvDtMjEOqzjKcmFM/hotel/stream/kups-kuopio-vs-trabzonspor-uefa-europa-conference-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "cska-sofia-vs-monaco-2594773",
+      "title": "CSKA Sofia vs Monaco",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEANFZKG4AAYQ3DSBN8QKEIjMQQJWwWBIKfYbPoowKlF0-l620W8mWjBPMVEIIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEANFZKG4AAYQ3DSBN8QKEIjMQQJWwWBIKfYbPoowKlF0-l620W8mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/fAPxyPuILaFXPxSCDRDYcuSrLWNboVyg/rtmp/stream/SYyGxb38YTefF3IMA2vtr9QzGn3xGdWExZF0sGipfOfFBARHZp1myj9vsDYS3WO4U_VN19rh24NHAMU/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEANFZKG4AAYQ3DSBN8QKEIjMQQJWwWBIKfYbPoowKlF0-l620W8mWjBPMVEIIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb25.strmd.st/secure/aDkzBAkzDERRCPvRSsGUSYMhVZjHZdZw/rtmp/stream/XLCF71ypIRyzjc1ojBsqrj2ClLqpg7Wk-W21X-2mjpqII6CsqrYsERaoKho2GX1qVclXmIRfpqBnr8w6jsQI/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "CSKA Sofia vs Monaco (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEANFZKG4AAYQ3DSBN8QKEIjMQQJWwWBIKfYbPoowKlF0-l620W8mWjBPMVEIIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb25.strmd.st/secure/OxfukRxVdjlKZAXXZWpMaKKyhxYCZcKZ/hotel/stream/cska-sofia-vs-as-monaco-uefa-europa-conference-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "universitatea-craiova-vs-getafe-2594762",
+      "title": "Universitatea Craiova vs Getafe",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPQFYxObiD4hDBlCEQGIIC-ALAkFPsNn0UYFSi6vy9baPdNaYK5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPQFYxObiD4hDBlCEQGIIC-ALAkFPsNn0UYFSi6vy9baPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb21.strmd.st/secure/cbDsyEBztBAOMgKTPiwwnGZtypIADVTW/rtmp/stream/NYUrfGenVMT-pyIqaVwJ_P3H7QfUb6jJvvtnClfaJlb_5gjutG7YWtT5khqgi7fyS8XfxLnvdrJb_Kg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPQFYxObiD4hDBlCEQGIIC-ALAkFPsNn0UYFSi6vy9baPdNaYK5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb21.strmd.st/secure/WUKFaunNsEPpcMOnhkJpEfJRMxcqaiGR/rtmp/stream/d4diQTwLeGOBB6MQeNw_PZ8ajqZxEtqulMu2CrkxzYru7alePyLK0AIZRYSXUt6DWXb5WSR_qZzi0lfoJXer/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Universitatea Craiova vs Getafe (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRPQFYxObiD4hDBlCEQGIIC-ALAkFPsNn0UYFSi6vy9baPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb13.strmd.st/secure/nGyNpLkKGSGZtEsolhUYKflKwXdVuIHZ/hotel/stream/csu-craiova-vs-getafe-uefa-europa-conference-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "gent-vs-agf-aarhus-2594759",
+      "title": "Gent vs AGF Aarhus",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiCghNDYGBAa+2kEZQhERiJoMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiCghNDYGBAa+2kEZQhERiJoMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb25.strmd.st/secure/HblAlUnaBwrSvfiMxECQlXgiFeIlccCt/rtmp/stream/ZiMNIGQNYV0TdgHASIRpXSlc_UGmvibW7xVnQj7ta56VtijCAaaiTOfA3Ss9zOiqQZxaESYmxwR8hdY/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiCghNDYGBAa+2kEZQhERiJoMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb25.strmd.st/secure/lULSgxYPSVpNxmiCxgXPNohqhYIIPkjG/rtmp/stream/_-9mzx-i0eit_VYFZ91uGu3Nzj3bDhUWMIzOR0UADIBFB65kwO4mTv9osVOpac3V9LjMJHr68zyvoLIRvmZ6/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Gent vs AGF Aarhus (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiCghNDYGBAa+2kEZQhERiJoMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb25.strmd.st/secure/MSeapVZmgGOqJhySaLrWmUkwywQsgglj/hotel/stream/kaa-gent-vs-agf-uefa-europa-conference-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "panathinaikos-vs-borac-banja-luka-2594757",
+      "title": "Panathinaikos vs Borac Banja Luka",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGerDgkIGCG4g+IY0ZQhERiOZAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGerDgkIGCG4g+IY0ZQhERiOZAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb29.strmd.st/secure/xEuuzAqloyGCjiYLdaddddpFWGmscOEX/rtmp/stream/Gb7hU9iMAcuZvLJIUotu4VqXvJlb_cNbneILvJr_UoFpa1i3bVKPU51_-t2au3N6Sv2xIQf_dGlK_w/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGerDgkIGCG4g+IY0ZQhERiOZAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb29.strmd.st/secure/ZvnaSrotVZDAZWBNhBuDrzXkYKAYDFUA/rtmp/stream/Xq5o6o0cCNqv5ThEYoy0AO6Fv8Yp1L1VQYcAJl0CFxdA_GO9s--QNBLOv_i23lL1BD1kGBzztNF_ulFtwvQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Panathinaikos vs Borac Banja Luka (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGerDgkIGCG4g+IY0ZQhERiOZAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb29.strmd.st/secure/QJQAAjjxsfkQxQRWhZNULSnQSQCTOjMV/hotel/stream/panathinaikos-vs-borac-banja-luka-uefa-europa-conference-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "hajduk-split-vs-ajax-2594752",
+      "title": "Hajduk Split vs Ajax",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792082700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSHBIQiKNu4g+mwyBQ6TEcwqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSHBIQiKNu4g+mwyBQ6TEcwqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb22.strmd.st/secure/QhJGKTkSPnFUqkosmTvoPThGXvWBNYqe/rtmp/stream/22Nkq6by1egGNBiMoQPcnm_ETV48WN2Du7r-4Gmwp9-cCmosFV5IKR4t6EPMZSui8l1PwWe6hbrF4Q/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSHBIQiKNu4g+mwyBQ6TEcwqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb22.strmd.st/secure/PxruLPkONhgiLWSeffPhClwqYhyHpTjM/rtmp/stream/jevJh3QCN5Yd7FEijbUdmvMVKZ7w8y4SosDNglS7Mv8tOV8DcVBzrD69E8rrnZ9qpDvKVEQpSUq_QWB4fSg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Hajduk Split vs Ajax (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSHBIQiKNu4g+mwyBQ6TEcwqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb22.strmd.st/secure/NulrDfYCzrZcgliQlixVoBWFnXhpawhs/hotel/stream/hajduk-split-vs-ajax-amsterdam-uefa-europa-conference-league-1792082700/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ppv-instant-highlights",
+      "title": "Instant Highlights",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:40 PM (BD Time)",
+      "start_epoch_ms": 1792082400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhDj4wKhJByIIAMYg1MiMERk54kMCVKssg1NIqRKkJpq6JKcpoFCRTbPTCFgSXModCwbk5NYVJ6Ai1yQIMwiCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhDj4wKhJByIIAMYg1MiMERk54kMCVKssg1NIqRKkJpq6JKcpoFCRTbPTCFgSXModCwbk5NYVJ6Ai1yQIMwiCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb29.strmd.st/secure/zHeIhPiINnpdZuPjbRZdArfBBeYZQlJu/rtmp/stream/3QJPTduZ5m8c2boLpQaeVHpmoLKKpCF7YyFblMZ8rwXMfWw9wN5BOteOsumHayy2_UwEDlgOTqYpj7_9_TIyZLEE7A/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhDj4wKhJByIIAMYg1MiMERk54kMCVKssg1NIqRKkJpq6JKcpoFCRTbPTCFgSXModCwbk5NYVJ6Ai1yQIMwiCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb29.strmd.st/secure/bvXttWsleQKPnZpAiJXedcGxAEmRwaPU/rtmp/stream/xw6ehUIYqvAT1PufTXRvTc_RUJXSsig3SBspzZJVX6zFcBZMrHJaEEUsGt6jw5HGqcsHOsPDFL4y-9x96ViK7H7KmSuJ9mE/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ppv-the-golazo-show",
+      "title": "The Golazo Show",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1792080000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNhFSsIAMbiQMUiCohhICCHgi5anZpnqUIGZpBqVwCNi2KN4ifzCCpBSY8LAkuWRKHPWa2FSejdtMGcrEIggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNhFSsIAMbiQMUiCohhICCHgi5anZpnqUIGZpBqVwCNi2KN4ifzCCpBSY8LAkuWRKHPWa2FSejdtMGcrEIggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb22.strmd.st/secure/EQHxpVSyKvfiGBvdBlqBXqiLnQcrygzt/rtmp/stream/wtz9duqWcjv66WPw_b4e3Xhg2IciJt--WNBVP6IuFs5tEel4EoJXj--UVlNfnvWZ4DfDK6n2z8A/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNhFSsIAMbiQMUiCohhICCHgi5anZpnqUIGZpBqVwCNi2KN4ifzCCpBSY8LAkuWRKHPWa2FSejdtMGcrEIggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb22.strmd.st/secure/XQWHTlfYiSPGQyVnUDJXDZfOfDmiXXKV/rtmp/stream/amGdm8r0gH6E9NWYTZ7T0nRTaHOtPfT6U5YzO8-ZUuf9GzFEFGrklesVNFEjurwD5Gi0IuGvCn6x1mmL/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
