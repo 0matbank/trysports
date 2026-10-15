@@ -1,13 +1,181 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 12,
-  "total_matches": 6,
-  "total_streams": 12,
-  "updated_time_bd": "2026-10-15 | 05:47:06",
-  "updated_at_bd": "2026-10-15T05:47:06+06:00",
+  "total_items": 24,
+  "total_matches": 12,
+  "total_streams": 24,
+  "updated_time_bd": "2026-10-15 | 07:54:32",
+  "updated_at_bd": "2026-10-15T07:54:32+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "real-salt-lake-vs-san-jose-earthquakes-2407139",
+      "title": "Real Salt Lake vs San Jose Earthquakes",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 07:30 AM (BD Time)",
+      "start_epoch_ms": 1792027800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFOxAxBiECG4g+WkFMP6QiRBBAKmSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFOxAxBiECG4g+WkFMP6QiRBBAKmSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb6.strmd.st/secure/mQYyhbMHrMJfCegRNKKFTOfAlwhZELPw/rtmp/stream/MFNBFUEL6QL9FtsSFlrhgAzSh0r7uFc0T1cdy09PSYnjhSqMItgC1anKF3QcvHleQvAlE0oAVKug/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFOxAxBiECG4g+WkFMP6QiRBBAKmSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb6.strmd.st/secure/SbCVqsqYzuQnoHMEwDkAIaLvuhFnvdLK/rtmp/stream/YUWv_pHODHMVf_x8HR9Xnjc22Olqy3wZ4vA_2xY0Kbhf-gjaIZfu9hHIB4x0aCHhWUtsWDaGL2dzcOGMiQ/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "colorado-rapids-vs-minnesota-united-2407138",
+      "title": "Colorado Rapids vs Minnesota United",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 07:30 AM (BD Time)",
+      "start_epoch_ms": 1792027800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLBShIQtAAwhuIPiBggpRgztzWSBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLBShIQtAAwhuIPiBggpRgztzWSBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/KBNRAFEQBUXufChLXjSWJmHRWsbGlAez/rtmp/stream/Ql1MsFgnVw6W9HHcCMqtO4d99H3rD9l2ktRUnVPejPG1ytQyujOd5x6Y-ST97IkJooSNSxlEtQ8K/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLBShIQtAAwhuIPiBggpRgztzWSBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/MNKOfZutNWTfrAYihFvuvlPTIkRsRAKx/rtmp/stream/V-WbU2iJZkolqafl07o_9MxVneveFLrjipqAzhI_09UEXEAzHnoV3fbRB66JoLHqVomSmRWBG9ypzVvBzg/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "nashville-sc-vs-sporting-kansas-city-2407137",
+      "title": "Nashville SC vs Sporting Kansas City",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1792024200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJBRQgUYbtpB6pICMZAlcpvVpgFgGmP2Gz6OlSi5gy8IllnumtGCeYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJBRQgUYbtpB6pICMZAlcpvVpgFgGmP2Gz6OlSi5gy8IllnumtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb23.strmd.st/secure/uNcjqgLuLLNDrHbQtJgYEIjqCWPRvXTI/rtmp/stream/qbYhzAS37pu_3E8IcSugCCHCvbAyNs2BhM6uy5b6pOvdeeMZjJVL641QKVkTFaEMyGpVQprI0wYw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJBRQgUYbtpB6pICMZAlcpvVpgFgGmP2Gz6OlSi5gy8IllnumtGCeYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb23.strmd.st/secure/IjokqUrhBJrLIBtrEMLSvvMabXuuenJf/rtmp/stream/tSadWfZ4hBnnxHtGqq0ey3ZqhoBGitPyATqgF9SMmzLh5N8JMGzLENdrVQhA1ViK0_Zr8_ErXf_s8xS_lA/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "st--louis-city-sc-vs-vancouver-whitecaps-2407136",
+      "title": "St. Louis City SC vs Vancouver Whitecaps",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1792024200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGRQhaLYFJDcQfIwZMltICBZQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGRQhaLYFJDcQfIwZMltICBZQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/UFdErnkjGxpqUOqIPtEMvaqUmIqPZXoc/rtmp/stream/4IfdTe4_7XUxqswNq4Uu3ASYk8vuiSEDZXtwk7XqxOYg1PwZNFMiS4rosUelNl_BntyC35sxTban/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGRQhaLYFJDcQfIwZMltICBZQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb3.strmd.st/secure/kFTRKsWBCKMzsJpSUZBWNuKlKfdVwWsf/rtmp/stream/WUHbKheYlwIom5BWDVGYY3qh-Y5O9iGKrybl_UYGK9hyQt3GY0AlYMLV7xKjCFNWzIMn3FQatYMrvHxEFQ/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "chicago-fire-vs-philadelphia-union-2407135",
+      "title": "Chicago Fire vs Philadelphia Union",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1792024200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRFJCIBMkCG4g+ITQYiGtIEsZAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRFJCIBMkCG4g+ITQYiGtIEsZAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/AkCOJOfsgwkdTdgoCPiGSpnXMVsoiXpp/rtmp/stream/8Di7RqoMlKCGsEdlvEIVlYwzyy7FDiP6_y0N_AVju3Ld_MGNZ6LWCMmi4JTvOXoTxuHKNpqhhySc/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRFJCIBMkCG4g+ITQYiGtIEsZAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb3.strmd.st/secure/wFTobLZWnFzFvZKiLvMkdBckNSuIqjgI/rtmp/stream/BwR3cpl7WvQ5I-h0H48lJIC8eXt7hPKcwtLXDj0tp1BOARNpXm8qmJvSbs6GwoneQde6WOlQcJ8oU9FM-Q/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "fc-dallas-vs-seattle-sounders-2407134",
+      "title": "FC Dallas vs Seattle Sounders",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "15 Oct 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1792024200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFEV4DRObiD76QegyRCIIZkCALAkFPsNn0NKlFzBl4RLLLdNaYB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFEV4DRObiD76QegyRCIIZkCALAkFPsNn0NKlFzBl4RLLLdNaYB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/pVYyzHbTyitLwlYxpyuIJmJTtVqXgPLg/rtmp/stream/EHQpvI3DgBEj9gKJey7oH1-8iTjdlQjDV0gF788dqlW9Ubsu0BUYWzSetwajg_njDPUOiwlff9KX/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFEV4DRObiD76QegyRCIIZkCALAkFPsNn0NKlFzBl4RLLLdNaYB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/ZXQkFANwlHuZbLZSvRxDgTFTKKkeiQoa/rtmp/stream/LQWpPnOjqagTc2orXAa7XaO6uhKfJwUWtqHliiCye7y3oaHZXXliDc7PV2ewimBlelWnqNDPVzeHluav4Q/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "dc-united-vs-new-york-red-bulls-2407133",
       "title": "DC United vs New York Red Bulls",
@@ -26,13 +194,13 @@
           "channel_name": "Apple TV (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGTJ8QMpPxDcQ2mDqMGQiHCcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb21.strmd.st/secure/NGfzFsqBYYqyLvXOVNOAhzwBJjMQSXgb/rtmp/stream/CObB1zn1bEEqyQESQVqEYNMspO2ZJ2qoqVAE5_tz1aCUP3it2naf1CBtrm4y66zl34n8A-TTzDk/1/playlist.m3u8"
+          "direct_stream_url": "https://lb23.strmd.st/secure/AtSOoGfBLwLTdeQXVxPvVWIPakzfrEFa/rtmp/stream/6XPKhC34H4W4hGMWq-RsnyhryK7J0tNDRQdnPip_ugDoBhT7Y6yxOQ5rLvMauk9ooTqpzVcHHMQ/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGTJ8QMpPxDcQ2mDqMGQiHCcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb21.strmd.st/secure/dcSNgsCcbqFzPmTkQdKyumehOfGTUBsS/rtmp/stream/M2zWS_A_rk4HHvCjQ5ddO705OwVmCTAL79bLxe3MwaStWL3JSmR1dVOnSxHTO7etA6hLKerL8t7WeFzq/1/playlist.m3u8"
+          "direct_stream_url": "https://lb23.strmd.st/secure/oPhqeTTqbEDTBUMgKTYRvtCcvxPrHJBW/rtmp/stream/hn96IggbOqQF4pMUJAjNwihU8SCOaiir7W_j-astswYYLBxHmmMDXRDw5t4RLSJIKybehTMwSP6oYrBA/1/playlist.m3u8"
         }
       ]
     },
@@ -54,13 +222,13 @@
           "channel_name": "Apple TV (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcwvNqwhaQfDSClHDiRJr4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb21.strmd.st/secure/MInFVCiVMRSrsWLMUEodvpgldbrvxyhO/rtmp/stream/e2OAgk1VAJkxecGmtoZt65EKyaIuZDtSTOpLlFPFrj_oyufPhB21AgMrle9RaEiOObmuORKMMYKY/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/obhgvKFnLmfcqAKFHgIKMyvFzOTrNNYG/rtmp/stream/1Lot6w5kaKSuMiU7kzcK9M9HafVIlS_IA_5534ktqJgKWVqTnI3BvjeFX7YQgxZ_lRMT_tHGuuLb/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcwvNqwhaQfDSClHDiRJr4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb22.strmd.st/secure/FoeIfxccqWZrQZtsBJjBsyzzSRWOSPjC/rtmp/stream/OsJ0CF98ZyD0SmxT5nHVnMUo4765AE1dDXg1BCgpjzyn07FUGSFIDWdKaWCyeEEe16jxxD551priWZOFJg/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/sVVVAzkvoEzulibmtpQJJrwjtnTiaUco/rtmp/stream/Jlhe_wBLDRs7BQ0xqNHR_DUUR1IaZJOUgNQyYfGeS0uBgE8bao_nZzwDS4TbSJrhBUEE0TU_VZYAdSYlag/1/playlist.m3u8"
         }
       ]
     },
@@ -82,13 +250,13 @@
           "channel_name": "Apple TV (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECAH1uuDSB18QMEFM36QiHCn0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb21.strmd.st/secure/fKUuzvVzMFzyAGaLvsHOBNauGQrWqtyL/rtmp/stream/ydvT5ZOHFC9sbU8S7B1Mbae__Yo4apTZ1Ojdd4zGDZvgtO0k46PVnatWkVf5hQUgeIHRHiO_KXJT/1/playlist.m3u8"
+          "direct_stream_url": "https://lb14.strmd.st/secure/yFUFJFEKVqmJTSmeyoaWjgYrPdCbgJJW/rtmp/stream/SmQ_-fuzxD6i0bI-7vs_BiRPVhKcIuYZUzUqCg2W46gNA8D1wwJIIOFu9NgUKQul8YWurFe29cNt/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECAH1uuDSB18QMEFM36QiHCn0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb21.strmd.st/secure/nrmvKVsZxjDJeHESawMdUsTirAkRNBUC/rtmp/stream/E4ytSAJXsal7MtBgR65df-k4od-ROdtc3S3sq9Aqxxk__mPYpl11ezbR-YIbuzh41aNFwbv5fta2P5uQcw/1/playlist.m3u8"
+          "direct_stream_url": "https://lb14.strmd.st/secure/kJJawdzThZbalkppfJFdWqszLJygmbdk/rtmp/stream/6ZZbZWuwGjjBbhwMvqsEx-0Q7c9-Rw5ZB76b1gl99Cm8cUxJ70mblQqW4o4uVRHEyYjl-XK7SsgxQbuzpw/1/playlist.m3u8"
         }
       ]
     },
@@ -110,13 +278,13 @@
           "channel_name": "Apple TV (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFHNAIQIYGBDcQfIwZMkQiCBaMFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb19.strmd.st/secure/FyQqAJLcYkAeHMsYOXZtOMmcHLGAXcaV/rtmp/stream/PJUrOiYM77NQ_e-Si7aSTCD75LfAUMfmd-3Ej28zSS9qDObAOXW7XQYuUKMBfN8wq7iagyr3pl8R/1/playlist.m3u8"
+          "direct_stream_url": "https://lb29.strmd.st/secure/vmPRIBPSXusQFRgguaaLGTxVfEbumkXw/rtmp/stream/HtoSeZ7wsSi8WvPH1C07jS095O3KpW2uDVF_Z_kr0s2eSL6f1S6VTadYn12t4xQNYPJSHL41PurS/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFHNAIQIYGBDcQfIwZMkQiCBaMFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb19.strmd.st/secure/YkpFmWvXqpMjWOavQeYTGnecIOsbqgCE/rtmp/stream/-eA1p4J8YcXmfJboE7Zeo3F0ArFrRWuUQxkY2-_qj47wYKankxFqd98c8QAwQzCjVu0zAabF--kc5JmH8w/1/playlist.m3u8"
+          "direct_stream_url": "https://lb29.strmd.st/secure/LEsqWRnkHXBVgGsIRRToKfDcsWYoZXKy/rtmp/stream/6wVSGADy7gsJJsk1eM-T9m67WW36fIOpCtyh8i58IKG1oC5FgihMRzcP8pBDJljMuitUR6UOcsMq820s0Q/1/playlist.m3u8"
         }
       ]
     },
@@ -138,13 +306,13 @@
           "channel_name": "Apple TV (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXJTAoQJEAL4huekDBBTjRxIiMgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb21.strmd.st/secure/ciPSNjYhhaFIqxXBkGYOaDSpWyYhcZBi/rtmp/stream/Y28vwL6rvFiOtywLzb7pbCo-JO0I-PQO7CMMkrreBQwP5DWEg4CE8Oeq1MGMZ_SZg0Bi89rx6oe9/1/playlist.m3u8"
+          "direct_stream_url": "https://lb14.strmd.st/secure/SBUYTBMEQUKqilsvuBEfagXpvqlhapGP/rtmp/stream/IU9IPzsvJRuufHR5iZ_-0IuXulJjDy_YSuJwOkowON0FC9Mp7kmriYrhM58Rsz42CqFrVdDAGq5B/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXJTAoQJEAL4huekDBBTjRxIiMgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb22.strmd.st/secure/DPxcOXUwngprTldnmiJxyPKaBdiYUhel/rtmp/stream/Z_mFI4jUcqHJvieS3fYvntgNaNrgJ_8ta0NCW4uveD5WYX-ouWrqpNfCXtqTxewBGhK-5S0Bk3NnSw_glg/1/playlist.m3u8"
+          "direct_stream_url": "https://lb14.strmd.st/secure/quXlNqOlfgvecSnzQPHhnURtpzqiDqNo/rtmp/stream/Dj7wVEU_mcz4eXKunLVvDswNeEIZrLMU2BMGd82CQtdCTAiuIL2vEfU5spPqTU-6BL8REVY_BXCbXkd4GQ/1/playlist.m3u8"
         }
       ]
     },
@@ -166,13 +334,13 @@
           "channel_name": "Apple TV (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDKmxsDbCG4g+GkCRAx9IS4giGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb19.strmd.st/secure/dtqZAavscovzpLkrsxOrjWAjjZAGIPaG/rtmp/stream/HEJZhtOk-G8uiCfgiOzA_ZiG-E6l8TtM6JARiMN06fkT0Pm9oxCY3pWYMoWc0d6Tu7dKFtv08TaQ/1/playlist.m3u8"
+          "direct_stream_url": "https://lb29.strmd.st/secure/skMYNterOQoTyShxMlwaUrQnRsBPIzGg/rtmp/stream/KiKDfdTpRYNhWwY7Lf1IaPdn9g2v8bE3vF7ZA0J7tg3JonAWTEbfPzlkPgpeywM_Z_KgWnDjnvbV/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDKmxsDbCG4g+GkCRAx9IS4giGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb19.strmd.st/secure/KbQmnBgIfOSjgnxYeJwNMhMOBljTZIAd/rtmp/stream/H-J-vnu_D0afyamvVbXT0lDywZmv1pYvgZUeXUMLxATlFqE8MnHhSQacOqgns8OeCbU3D7ngXVqVjMFV3w/1/playlist.m3u8"
+          "direct_stream_url": "https://lb29.strmd.st/secure/FVmtVgwQbOHCUVdUXHakIlFVRIEOaTWG/rtmp/stream/ew0s1Ph0g3wpFhmDzVkEar1DI8w2Wb-2bQyn-xa7HTrmLUYJtQHGFDJK1OJcZR9PcDwiWVk6NVDj-uL8yw/1/playlist.m3u8"
         }
       ]
     }
