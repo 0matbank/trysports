@@ -1,11 +1,130 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-10-16 | 21:20:29",
-  "updated_at_bd": "2026-10-16T21:20:29+06:00",
+  "total_items": 9,
+  "total_matches": 4,
+  "total_streams": 9,
+  "updated_time_bd": "2026-10-17 | 00:51:47",
+  "updated_at_bd": "2026-10-17T00:51:47+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "eintracht-frankfurt-vs-k-ln-2508382",
+      "title": "Eintracht Frankfurt vs Köln",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "17 Oct 2026, 12:30 AM (BD Time)",
+      "start_epoch_ms": 1792175400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGBRgQ-YNsTcQfECcQwjIKRZIgFTJBT7DZ9LSpRcwZeESyyPTLRgXmKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Fandango (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGBRgQ-YNsTcQfECcQwjIKRZIgFTJBT7DZ9LSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/EsEiTRcWwQdexPWsVignzmQJYesieTUV/rtmp/stream/2PDYzd1W_qsee7pA3NCY6UIpdM7K7gZn5XNcxkBB094TKCSpGAxFSLPPygGb4p990di2ivumlYE/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fandango (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGBRgQ-YNsTcQfECcQwjIKRZIgFTJBT7DZ9LSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/dBamSZCBaqumumGWGcfdYuZNZfcCxIeZ/rtmp/stream/wjUxiBoOHdkJcO20NXhq1P0aIw-0qBJVCXHQ2fO40hSt5KKcfRNypwYFXnOV2pnUE_BDdTpbB9JrwD6E/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Eintracht Frankfurt vs Köln (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGBRgQ-YNsTcQfECcQwjIKRZIgFTJBT7DZ9LSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb21.strmd.st/secure/tDvHgwuYPfqcztqTpFhoaGmxTIFLVNcg/hotel/stream/eintracht-frankfurt-vs-fc-cologne-bundesliga-1792175400/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "fc-eindhoven-vs-vitesse-2489869",
+      "title": "FC Eindhoven vs Vitesse",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "17 Oct 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1792173600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMijAhcYKSG76QfbblMGYIRBZgFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Dutch - ESPN Extra (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMijAhcYKSG76QfbblMGYIRBZgFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb26.strmd.st/secure/SzZODciHJPoQvXbMnhMEFzGPOFUCiXkr/rtmp/stream/1PBAvBHDWsQkXc8Vtidvy_VXOkL1eEw4jKixwbnT3I_ntnEcE_Rgk--Svhb8RGtUoN_bblxDlVK5/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Dutch - ESPN Extra (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMijAhcYKSG76QfbblMGYIRBZgFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb26.strmd.st/secure/ljhbChQbFyEylLWHXjhUngwtzUSSHxVA/rtmp/stream/jUKvg9qnajhMOZ___n2RJYOjIig2J_fgPsbjrIomDD7X-NiQ3vwYFneJ94_XPQuNSU8K3-wNVJDJs6AIGg/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "heerenveen-vs-excelsior-2489138",
+      "title": "Heerenveen vs Excelsior",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "17 Oct 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1792173600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBJqowlJDcQfECZw5DMDVZIEtFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Dutch - ESPN2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBJqowlJDcQfECZw5DMDVZIEtFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb26.strmd.st/secure/JoVPqiJlihBJYMYZBcbMeLsiAFmUQIMA/rtmp/stream/ZTD97wIFc86KR9kG7NDVzIN_qXCOuefLPdSRGOS_3m_aQ6FTvw_l_QW5QfEKT0QJ95bTO2AmW3OF/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Dutch - ESPN2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBJqowlJDcQfECZw5DMDVZIEtFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb26.strmd.st/secure/uEETyfiuXCVBBpmUoPuRSPUwDGkaJYkg/rtmp/stream/ZhJDW8EjlFEE7gTdfXM6Bk8STwXA740q66ejIhywdM6Qz7ZmtAF_FSQwGK28h2RKv59G4kXa8bBciZRMuQ/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "brommapojkarna-vs-djurg-rden-2398936",
+      "title": "Brommapojkarna vs Djurgården",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "16 Oct 2026, 11:00 PM (BD Time)",
+      "start_epoch_ms": 1792170000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiChSQMEIl0a+IYxD0gSII6cQoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Swedish - TV4 Fotboll (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiChSQMEIl0a+IYxD0gSII6cQoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb7.strmd.st/secure/VFODcwdqvGNLNVuzlHuzOMNguXkObLrq/rtmp/stream/pUXHmPsA04Ks8WGt-ci6EdmAqJ_DrbmMQxyKYZVaDRmGsaaZEZ6wbv2XMvUkf43e_a3CkTLrdAxieboS/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Swedish - TV4 Fotboll (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiChSQMEIl0a+IYxD0gSII6cQoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb7.strmd.st/secure/ARuJeyeMahJHXerrQSmJYmFmclYRqudV/rtmp/stream/09RmKT06xYz8rgtXXCXDAUbXRraOTIJP1yvJ2jz5iMs4QUqxPOZ0hAm0c2EE4p_OjasonOcXPe0gur4uWyuF9A/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
