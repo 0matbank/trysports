@@ -1,31 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 84,
-  "total_matches": 84,
+  "total_items": 83,
+  "total_matches": 83,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-17 | 00:51:47",
-  "updated_at_bd": "2026-10-17T00:51:47+06:00",
+  "updated_time_bd": "2026-10-17 | 03:47:29",
+  "updated_at_bd": "2026-10-17T03:47:29+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "burnley-vs-wolverhampton-wanderers-2501371",
-      "title": "Burnley vs Wolverhampton Wanderers",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "17 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792177200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKKRgQsrGBIhuIPiFM4IIKcZApTpgsC0x+w2fRT62KLvvL0sst5MtGCe9KIQQA.webp"
-    },
-    {
-      "id": "deportivo-de-a-coru-a-vs-levante-2506256",
-      "title": "Deportivo de A Coruña vs Levante",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "17 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792177200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJAhC18Ieom4g+IYxBAoQMXSBK4zBYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
     {
       "id": "necaxa-vs-atlas-2487551",
       "title": "Necaxa vs Atlas",
@@ -124,6 +106,15 @@
       "start_time_bd": "17 Oct 2026, 07:30 PM (BD Time)",
       "start_epoch_ms": 1792243800000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvCL0+YECG4g+ekIhiGQU8yRMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "114-vs-ipswich-town-premier-league-1792245600",
+      "title": "114 vs Ipswich Town",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1792245600000,
+      "poster": "https://streamed.pk/favicon.ico"
     },
     {
       "id": "brentford-vs-liverpool-2494067",
