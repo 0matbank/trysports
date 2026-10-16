@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 89,
-  "total_matches": 89,
+  "total_items": 90,
+  "total_matches": 90,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-16 | 17:02:07",
-  "updated_at_bd": "2026-10-16T17:02:07+06:00",
+  "updated_time_bd": "2026-10-16 | 21:20:29",
+  "updated_at_bd": "2026-10-16T21:20:29+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -169,6 +169,15 @@
       "start_time_bd": "17 Oct 2026, 07:30 PM (BD Time)",
       "start_epoch_ms": 1792243800000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvCL0+YECG4g+ekIhiGQU8yRMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "114-vs-ipswich-town-premier-league-1792245600",
+      "title": "114 vs Ipswich Town",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "17 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1792245600000,
+      "poster": "https://streamed.pk/favicon.ico"
     },
     {
       "id": "brentford-vs-liverpool-2494067",
