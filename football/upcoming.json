@@ -1,67 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 66,
-  "total_matches": 66,
+  "total_items": 60,
+  "total_matches": 60,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-17 | 21:30:43",
-  "updated_at_bd": "2026-10-17T21:30:43+06:00",
+  "updated_time_bd": "2026-10-17 | 23:55:07",
+  "updated_at_bd": "2026-10-17T23:55:07+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "aik-vs-ifk-g-teborg-2398935",
-      "title": "AIK vs IFK Göteborg",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "17 Oct 2026, 09:30 PM (BD Time)",
-      "start_epoch_ms": 1792251000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGFEzeYXCG4g+IYxBCIShkKcQgCwJBT7DZ9FJrYoum8vSyzPTLRg7vSiEEA.webp"
-    },
-    {
-      "id": "bologna-vs-inter-milan-2482202",
-      "title": "Bologna vs Inter Milan",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "17 Oct 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1792252800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENyKakIGCCkaQfECRMgUIRKe5GTBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "bologna-vs-internazionale-serie-a-1792252800",
-      "title": "Bologna vs Internazionale",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "17 Oct 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1792252800000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "bayern-munich-vs-rb-leipzig-2508378",
-      "title": "Bayern Munich vs RB Leipzig",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "17 Oct 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1792254600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMDBgUIGVmwhuIPiBIgIIGCEQhrx3QWBIKfYbPoowKlFy-l6WLI+TLRaovThQA.webp"
-    },
-    {
-      "id": "newcastle-united-vs-aston-villa-2494060",
-      "title": "Newcastle United vs Aston Villa",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "17 Oct 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1792254600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELzIhckEHw17th-RBAwjJPQWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "real-betis-vs-barcelona-2506255",
-      "title": "Real Betis vs Barcelona",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "17 Oct 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1792254600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEAwTAZYMChDcQfECYgh9MEGZK4TBYEgp9hs+ijAqUXD+XpZZXky0uqL0oUA.webp"
-    },
     {
       "id": "telstar-vs-feyenoord-2489141",
       "title": "Telstar vs Feyenoord",
