@@ -1,185 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 18,
-  "total_matches": 7,
-  "total_streams": 18,
-  "updated_time_bd": "2026-10-18 | 02:21:41",
-  "updated_at_bd": "2026-10-18T02:21:41+06:00",
+  "total_items": 2,
+  "total_matches": 1,
+  "total_streams": 2,
+  "updated_time_bd": "2026-10-18 | 04:27:44",
+  "updated_at_bd": "2026-10-18T04:27:44+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "valencia-vs-athletic-bilbao-2506249",
-      "title": "Valencia vs Athletic Bilbao",
+      "id": "minnesota-united-vs-st--louis-city-sc-2407144",
+      "title": "Minnesota United vs St. Louis City SC",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "18 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792263600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvWBgUzEBBDcQfECf0oQMPSBIGQKAsCQU+w2fRRgVOtp-L0ssjpMtGCeYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvWBgUzEBBDcQfECf0oQMPSBIGQKAsCQU+w2fRRgVOtp-L0ssjpMtGCeYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb22.strmd.st/secure/KwUUnuyUCXXIywNMKMkTfIGWBhzcjzUx/rtmp/stream/1Uo2s0oLgg01aYhXxYWyZpf7DhZadjw0j6AfnXblbDqbQyYWH9hZrIM3LpCnSxLj2ZnEY5r3v8I/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvWBgUzEBBDcQfECf0oQMPSBIGQKAsCQU+w2fRRgVOtp-L0ssjpMtGCeYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb22.strmd.st/secure/NfYJxiKqkKFsOUULoPIGzjpYsQfIMykL/rtmp/stream/g9KpZFLRm9eIFgdlKmOdhSbWkoJdP23VYGOr6St8yhIQbKOC8CeW-PFXKs4B-Ffm3yhWbjsUKqYaZAtu/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Valencia vs Athletic Bilbao (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvWBgUzEBBDcQfECf0oQMPSBIGQKAsCQU+w2fRRgVOtp-L0ssjpMtGCeYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb22.strmd.st/secure/OwXWtAflOcHEYboGyGyaDliyyOhTSxBx/hotel/stream/valencia-vs-athletic-club-laliga-ea-sports-1792263600/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "sparta-rotterdam-vs-willem-ii-2489142",
-      "title": "Sparta Rotterdam vs Willem II",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "18 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792263600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUGRA9gMlCG4g+IYzhwGYICxZQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Dutch - ESPN2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUGRA9gMlCG4g+IYzhwGYICxZQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb26.strmd.st/secure/YypsJATOweOjSifCvowclhGkPiTUdnwd/rtmp/stream/GFUOsGkG_lWSBfzbwFAzxXXGs2Iqm5cEncl3OInAk8i-8j6FptJYXpMcTXDohKDLWUJ-EV9VSppN/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Dutch - ESPN2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUGRA9gMlCG4g+IYzhwGYICxZQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb22.strmd.st/secure/aKElyVrIpQHhkBNfKqciPBYVXdhqeUpx/rtmp/stream/gEtwjY0gTwZAXI61L15wt8sBOzfgJlPp1gZfp4C_G941GMmxDX9xEGfKd5GpT56QfZpDk_5TaZ9qNcIRVw/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "troyes-vs-lens-2489521",
-      "title": "Troyes vs Lens",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "18 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1792262700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBgwSfiFr4Q3EHw1HcICCBTnEUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "French - Ligue 1+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBgwSfiFr4Q3EHw1HcICCBTnEUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb26.strmd.st/secure/COJVRsqWKrCrSnBYSNLttqfCWsgMEStm/rtmp/stream/OajpdeIhPtHOdFh8mc9KGdkCxQATms9BRfpChYBNrtkI9lCgVKVVPQdrp5rBuXlMXAWG17cWlVI/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "French - Ligue 1+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBgwSfiFr4Q3EHw1HcICCBTnEUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb26.strmd.st/secure/GlBNnqnsoXYZAQDLLzRrmUErUweWuGyn/rtmp/stream/ZCA6Po_5isNbl1fFy9njdkA7JsE1dhOWTeorjFbCZW-u66qNIc7r2wvkFx7Ajr97X-fX8nvKdVYEVSKS/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Troyes vs Lens (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBgwSfiFr4Q3EHw1HcICCBTnEUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb26.strmd.st/secure/ytEkcFeebvJiRfOfDGlSOLyPqrqlsfkt/hotel/stream/troyes-vs-lens-ligue-1-1792262700/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "lille-vs-brest-2489517",
-      "title": "Lille vs Brest",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "18 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1792262700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPrjDcwSEDFwhuIDSRAQQF-RakGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "French - Ligue 1+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPrjDcwSEDFwhuIDSRAQQF-RakGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/baAlgjIGRZaKMEVIyObiEhOzfdKQFKRj/rtmp/stream/h-lqJ1FDI5eTuWFHLD8evYjOiFfG1PhHhVyqeqWJmuGtqsuHCr3vz0Q0mlRj8obtJVfE3znVt3oo/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "French - Ligue 1+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPrjDcwSEDFwhuIDSRAQQF-RakGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb15.strmd.st/secure/DlYkVtdHHChzaqHjvRhtVtFKBFuWSyGG/rtmp/stream/Fb7e5Wi2Z0vsG_E3BZ724-l3_NiLnm46dYfkB-SbJDYN9UwZCSyIwIKUx8Jth5HYUS67NX8DzK4o4fIBzg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Lille vs Brest (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPrjDcwSEDFwhuIDSRAQQF-RakGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/UApcZOLybdOVZgJfXnnWMDdQRTYLIihy/hotel/stream/lille-vs-brest-ligue-1-1792262700/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "roma-vs-genoa-2482201",
-      "title": "Roma vs Genoa",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "18 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1792262700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJEW4h6tfCC18QUkCW1mcxmLgLANMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJEW4h6tfCC18QUkCW1mcxmLgLANMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb24.strmd.st/secure/nkdvYdowUQvElLZUjpixzFjnqIczBAeR/rtmp/stream/1pir4giwiCjkwa1oB_fPrQ30qO-xpUqd-a1m6us9wSDL2x9bsk8NEarqvIR-P3_QsCbyoUu8xR8J/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJEW4h6tfCC18QUkCW1mcxmLgLANMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb24.strmd.st/secure/XUWWpCfFKKmLHqvtsLIIvDxKCnroInEJ/rtmp/stream/9PL353Xn1uoEKjWS_q9N6Hnhdm9zhqX_qxBiWihqJWrv0cMQA4AOThwpZGr2yXTuwsurnvb32O4EI2NrhQ/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Roma vs Genoa (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJEW4h6tfCC18QUkCW1mcxmLgLANMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb24.strmd.st/secure/MCRSeRPEyJrQhrMVWghUAmnVnUxzpCwp/hotel/stream/as-roma-vs-genoa-serie-a-1792262700/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "philadelphia-union-vs-charlotte-fc-2407143",
-      "title": "Philadelphia Union vs Charlotte FC",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "18 Oct 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1792261800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELVFk+YcIm4g+IGCCmGQBxDiMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "start_time_bd": "18 Oct 2026, 02:30 AM (BD Time)",
+      "start_epoch_ms": 1792269000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8regAZqM3nxDcQevQb0kQiCCEuNgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -188,43 +24,15 @@
       "streams": [
         {
           "channel_name": "Apple TV (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELVFk+YcIm4g+IGCCmGQBxDiMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8regAZqM3nxDcQevQb0kQiCCEuNgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb24.strmd.st/secure/poLRwYfzTnISWxZlykJZHnPtnyKMHFyx/rtmp/stream/EqAlwmOy0-bMzKx9dcdhfv7rpyA8b9zAvMULROR1Kpi8ajHQucIFTv3znvZuO-v6_xaDx1G_-XZv/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/FdveOITKiCKJmaALuLAYqXXiKCgFSyjb/rtmp/stream/GjCg_3DMNPYNoYwphUxtNAvdunKt6Jdv0tsHS2ZclEA0YwNe9mQBbY4xsmKiRnRy1-OcGg-N6Rv3/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELVFk+YcIm4g+IGCCmGQBxDiMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8regAZqM3nxDcQevQb0kQiCCEuNgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb24.strmd.st/secure/GdTgWshpGEktvQFrqtgNPKsephHJHigk/rtmp/stream/eDaR6vWThpChrXIZuEg_Qgp1CyXRjqDggQhpROyb5fuEr_fhA-ZPyT09S5lA-WbC2l_tRu48t7clGizkbw/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "telstar-vs-feyenoord-2489141",
-      "title": "Telstar vs Feyenoord",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "18 Oct 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1792260000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCDhQs-YGBDcQfECZw5DMTVZAFgSCn2Gz6KMCpRc35ejtEemtGBuYqIQQA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Dutch - ESPN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCDhQs-YGBDcQfECZw5DMTVZAFgSCn2Gz6KMCpRc35ejtEemtGBuYqIQQA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb15.strmd.st/secure/enGHAeKvEVrQtbHbZCFRbpHVjufgcCqb/rtmp/stream/IFA6RU49pp_oti7SNRyZYDx9Ep-kywNo4Z25eJCjLCYMd4OmgkjQ8_pRZ5f6g-kp0ZpGmle9FjB0/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Dutch - ESPN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCDhQs-YGBDcQfECZw5DMTVZAFgSCn2Gz6KMCpRc35ejtEemtGBuYqIQQA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb24.strmd.st/secure/GWgdzBnFhNnQvAnnTCQdgktgmHGiaxrx/rtmp/stream/vwWFCVBjDDfqVF74HPJmjQZlo-xD3qvd7GkDuP6uD7SWe8vSBrrt01y52gOtGS1k6S6R68wPVpzrsrjHzA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb6.strmd.st/secure/XAQXtYcphBYQdRpluTuDgBFntwMxAEaf/rtmp/stream/ZE-bSXH03OkY98j3mcAOsACOIdAU-LGbwgmdYOUO3qlMf5IjR-bCisnv1UF9RJ_7oktSdlpvhUQCNFUWBQ/1/playlist.m3u8"
         }
       ]
     }
