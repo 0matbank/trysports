@@ -1,76 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 60,
-  "total_matches": 60,
+  "total_items": 53,
+  "total_matches": 53,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-17 | 23:55:07",
-  "updated_at_bd": "2026-10-17T23:55:07+06:00",
+  "updated_time_bd": "2026-10-18 | 02:21:41",
+  "updated_at_bd": "2026-10-18T02:21:41+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "telstar-vs-feyenoord-2489141",
-      "title": "Telstar vs Feyenoord",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1792260000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCDhQs-YGBDcQfECZw5DMTVZAFgSCn2Gz6KMCpRc35ejtEemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "philadelphia-union-vs-charlotte-fc-2407143",
-      "title": "Philadelphia Union vs Charlotte FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1792261800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELVFk+YcIm4g+IGCCmGQBxDiMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "lille-vs-brest-2489517",
-      "title": "Lille vs Brest",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1792262700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPrjDcwSEDFwhuIDSRAQQF-RakGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "roma-vs-genoa-2482201",
-      "title": "Roma vs Genoa",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1792262700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJEW4h6tfCC18QUkCW1mcxmLgLANMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "troyes-vs-lens-2489521",
-      "title": "Troyes vs Lens",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1792262700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBgwSfiFr4Q3EHw1HcICCBTnEUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp"
-    },
-    {
-      "id": "sparta-rotterdam-vs-willem-ii-2489142",
-      "title": "Sparta Rotterdam vs Willem II",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792263600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUGRA9gMlCG4g+IYzhwGYICxZQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "valencia-vs-athletic-bilbao-2506249",
-      "title": "Valencia vs Athletic Bilbao",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792263600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvWBgUzEBBDcQfECf0oQMPSBIGQKAsCQU+w2fRRgVOtp-L0ssjpMtGCeYqIQQA.webp"
-    },
     {
       "id": "minnesota-united-vs-st--louis-city-sc-2407144",
       "title": "Minnesota United vs St. Louis City SC",
