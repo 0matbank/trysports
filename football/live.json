@@ -1,11 +1,76 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-10-17 | 14:03:59",
-  "updated_at_bd": "2026-10-17T14:03:59+06:00",
+  "total_items": 8,
+  "total_matches": 1,
+  "total_streams": 8,
+  "updated_time_bd": "2026-10-17 | 18:09:29",
+  "updated_at_bd": "2026-10-17T18:09:29+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "everton-vs-chelsea-2494063",
+      "title": "Everton vs Chelsea",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "17 Oct 2026, 05:30 PM (BD Time)",
+      "start_epoch_ms": 1792236600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT Sports 1 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb30.strmd.st/secure/YjKzGoXBhlxmoTEofQYSAoSeDsysROdk/rtmp/stream/zygFF_Y7gZbu4Q1VjXE-0zHmV59G3cw_MW6ehZvxBQ5VATrL96EUaV6EvSLKPzJ-pG2JSx6v/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT Sports 1 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb30.strmd.st/secure/JoaXpxQgUTdFadZvBHQhQMuHujoivRDy/rtmp/stream/n4U0Bk3ukWU2QRrFwBYc7PmORjk2kp-5y-fAZ38FiPGqgf4imExvKs1oV1E78D4hCfJbNovK4jmopQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Everton vs Chelsea (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb30.strmd.st/secure/POGgruCkLhdfgjMyRseLStqzovzOLLuJ/ingest/stream/streamedeverton/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Everton vs Chelsea (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb30.strmd.st/secure/tvrWOHsBpzCjvoAVBJPCkVOEsACUiNNb/ingest/stream/streamedeverton/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Everton vs Chelsea (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb17.strmd.st/secure/GKwTdtIYPhHHwzqPqmNFMuSBJWrlLUfA/ingest/stream/streamedchelsea/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Everton vs Chelsea (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb17.strmd.st/secure/VUZGZYPAVuPBRfFJxCFbvcrkLBKftXMn/ingest/stream/streamedchelsea/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Everton vs Chelsea (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb17.strmd.st/secure/wDAYQFfPKXRMRGitHzPJhIfTuEdqoPhU/hotel/stream/everton-vs-chelsea-premier-league-1792236600/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "4K UHD (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb17.strmd.st/secure/ukEGwXDPNnYqKcQEpBIZPBMAbONJAOSC/hotel/stream/everton-vs-chelsea-premier-league-1792236600/2/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }

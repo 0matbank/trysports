@@ -1,6 +1,62 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-10-17 | 14:03:59
+# TOTAL-ITEMS: 8
+# UPDATED Time and date BD: 2026-10-17 | 18:09:29
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="TNT Sports 1 (HD)" tvg-name="TNT Sports 1 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", TNT Sports 1 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb30.strmd.st/secure/YjKzGoXBhlxmoTEofQYSAoSeDsysROdk/rtmp/stream/zygFF_Y7gZbu4Q1VjXE-0zHmV59G3cw_MW6ehZvxBQ5VATrL96EUaV6EvSLKPzJ-pG2JSx6v/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 1 (SD)" tvg-name="TNT Sports 1 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", TNT Sports 1 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb30.strmd.st/secure/JoaXpxQgUTdFadZvBHQhQMuHujoivRDy/rtmp/stream/n4U0Bk3ukWU2QRrFwBYc7PmORjk2kp-5y-fAZ38FiPGqgf4imExvKs1oV1E78D4hCfJbNovK4jmopQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Everton vs Chelsea (HD)" tvg-name="Everton vs Chelsea (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", Everton vs Chelsea (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb30.strmd.st/secure/POGgruCkLhdfgjMyRseLStqzovzOLLuJ/ingest/stream/streamedeverton/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Everton vs Chelsea (SD)" tvg-name="Everton vs Chelsea (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", Everton vs Chelsea (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb30.strmd.st/secure/tvrWOHsBpzCjvoAVBJPCkVOEsACUiNNb/ingest/stream/streamedeverton/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Everton vs Chelsea (HD)" tvg-name="Everton vs Chelsea (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", Everton vs Chelsea (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb17.strmd.st/secure/GKwTdtIYPhHHwzqPqmNFMuSBJWrlLUfA/ingest/stream/streamedchelsea/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Everton vs Chelsea (SD)" tvg-name="Everton vs Chelsea (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", Everton vs Chelsea (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb17.strmd.st/secure/VUZGZYPAVuPBRfFJxCFbvcrkLBKftXMn/ingest/stream/streamedchelsea/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Everton vs Chelsea (HD)" tvg-name="Everton vs Chelsea (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", Everton vs Chelsea (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb17.strmd.st/secure/wDAYQFfPKXRMRGitHzPJhIfTuEdqoPhU/hotel/stream/everton-vs-chelsea-premier-league-1792236600/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4K UHD (HD)" tvg-name="4K UHD (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", 4K UHD (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb17.strmd.st/secure/ukEGwXDPNnYqKcQEpBIZPBMAbONJAOSC/hotel/stream/everton-vs-chelsea-premier-league-1792236600/2/playlist.m3u8
 
