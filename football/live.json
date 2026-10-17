@@ -1,68 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 4,
-  "total_matches": 2,
-  "total_streams": 4,
-  "updated_time_bd": "2026-10-17 | 09:44:14",
-  "updated_at_bd": "2026-10-17T09:44:14+06:00",
+  "total_items": 0,
+  "total_matches": 0,
+  "total_streams": 0,
+  "updated_time_bd": "2026-10-17 | 14:03:59",
+  "updated_at_bd": "2026-10-17T14:03:59+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "atlante-vs-pumas-unam-2487553",
-      "title": "Atlante vs Pumas UNAM",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "17 Oct 2026, 09:00 AM (BD Time)",
-      "start_epoch_ms": 1792206000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGAF9cYEPxDcQ2kCAimQMECQtGDBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Spanish - ViX Premium Deportes 4 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGAF9cYEPxDcQ2kCAimQMECQtGDBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/CGgWbIfHptUCMpOZRIPFqgcFbhptkZGq/rtmp/stream/VfL6fN2k6MupDdzTfdYxXpGxJ5hM1cEzGpdJ-PlEklnAYayltFtpwSyFGqCm6PfAvmS-NRXTFnk/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - ViX Premium Deportes 4 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGAF9cYEPxDcQ2kCAimQMECQtGDBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/cFZPELPIqgDrzFXZkfvyPtvlmCkRPHIx/rtmp/stream/by2T5olK5RXbabiWeheADbEXI5nYXv7tnfImTZEF11C9XMY1QNGY46Y8Xkuqg3P0IyRFjoCDbRX-ZP-9/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "tijuana-vs-puebla-2487552",
-      "title": "Tijuana vs Puebla",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "17 Oct 2026, 09:00 AM (BD Time)",
-      "start_epoch_ms": 1792206000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFCWwwSENxB8QRiCBMwQJEOcMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Spanish - TUDN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFCWwwSENxB8QRiCBMwQJEOcMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb6.strmd.st/secure/tBJZArTajsHLmlSRSRKcUZssHoLJfAXq/rtmp/stream/EJzFIZKSUW347O8mTLn-cyuePLgfFm7EvOOYRdJ0NAK-lKYoYeBYEjkhu5i-EoCX763BfFDp/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Spanish - TUDN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFCWwwSENxB8QRiCBMwQJEOcMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb6.strmd.st/secure/zSvIrTtDuOGJhANBzOxxTWNPeiXqCScP/rtmp/stream/TjHT34cLReu_Sq6hK68kCNWzXG4JZwu2t2WY2odWA_wUhszXfO7dd3Fg1341RokAWnDb_tOOqegvVw/1/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
