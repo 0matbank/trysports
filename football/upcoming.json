@@ -1,112 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 36,
-  "total_matches": 36,
+  "total_items": 25,
+  "total_matches": 25,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-18 | 15:04:26",
-  "updated_at_bd": "2026-10-18T15:04:26+06:00",
+  "updated_time_bd": "2026-10-18 | 19:14:39",
+  "updated_at_bd": "2026-10-18T19:14:39+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "pec-zwolle-vs-go-ahead-eagles-2489143",
-      "title": "PEC Zwolle vs Go Ahead Eagles",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 04:15 PM (BD Time)",
-      "start_epoch_ms": 1792318500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBpl8QUovhDcQ2jThyGYIC+YLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "udinese-vs-lecce-2482199",
-      "title": "Udinese vs Lecce",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 04:30 PM (BD Time)",
-      "start_epoch_ms": 1792319400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFJRBSQcXhBDcQfECRMgUIRPpi4DBYEgp9hs+ijAqNbD+XpZZGky0YB5iohBAA.webp"
-    },
-    {
-      "id": "osasuna-vs-racing-de-santander-2506258",
-      "title": "Osasuna vs Racing de Santander",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 06:00 PM (BD Time)",
-      "start_epoch_ms": 1792324800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxhR3MFLDgpIbiD4gzEEChAwQFkiESNgSCn2Gz6KLWxRct5eixZXyZaMG96UQggA.webp"
-    },
-    {
-      "id": "sirius-vs-elfsborg-2398941",
-      "title": "Sirius vs Elfsborg",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 06:00 PM (BD Time)",
-      "start_epoch_ms": 1792324800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCDL18IPmBQhuIKbs3GQFxBZiaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "v-ster-s-vs-mj-llby-2398942",
-      "title": "Västerås vs Mjällby",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 06:00 PM (BD Time)",
-      "start_epoch_ms": 1792324800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHRB8QcOBBDctIY-sQkj+-Y2BIKfYbPoowKlFxfl6G0W6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "cambuur-vs-az-alkmaar-2489145",
-      "title": "Cambuur vs AZ Alkmaar",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 06:30 PM (BD Time)",
-      "start_epoch_ms": 1792326600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECgZheSBiH3cQffblOGYIC4YlMkFPsNn0UYFZravy9LLM1NaYK5iohBAA.webp"
-    },
-    {
-      "id": "angers-vs-marseille-2489516",
-      "title": "Angers vs Marseille",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1792328400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEANH0BSEBBDcNIY4Zz6Ue4xoLAkFPsNn0UYFSi6vy9LLPdNaYK5iWkA.webp"
-    },
-    {
-      "id": "bournemouth-vs-sunderland-2494061",
-      "title": "Bournemouth vs Sunderland",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1792328400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiG4hRYMAJKaQGkCAjbTIFCEQ2CwJBT7DZ9FGBUou78vSyzPTLS6ovQhQA.webp"
-    },
-    {
-      "id": "brighton-and-hove-albion-vs-crystal-palace-2494066",
-      "title": "Brighton and Hove Albion vs Crystal Palace",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1792328400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzAhgMsP2AAGENw0gzEECRAWUIRIj4FgSCo9YixKMCpRdv5eixZXyZaMG8xUQggA.webp"
-    },
-    {
-      "id": "fiorentina-vs-como-2482203",
-      "title": "Fiorentina vs Como",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1792328400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiCnZiORNxAaSIIyhCJEIEDFwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "leeds-united-vs-manchester-united-2494068",
-      "title": "Leeds United vs Manchester United",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1792328400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPpBC9gYcNy0g+IYxBAkQplCESIUBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
     {
       "id": "bayer-leverkusen-vs-freiburg-2508381",
       "title": "Bayer Leverkusen vs Freiburg",
