@@ -1,49 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 30,
-  "total_matches": 30,
+  "total_items": 26,
+  "total_matches": 26,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-18 | 22:36:49",
-  "updated_at_bd": "2026-10-18T22:36:49+06:00",
+  "updated_time_bd": "2026-10-19 | 00:55:38",
+  "updated_at_bd": "2026-10-19T00:55:38+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "nec-nijmegen-vs-fortuna-sittard-2489140",
-      "title": "NEC Nijmegen vs Fortuna Sittard",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Oct 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1792346400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiD4UkwMCCkgNfECZw4NMEJct8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "twente-vs-utrecht-2489144",
-      "title": "Twente vs Utrecht",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Oct 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1792346400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjDcQEEHzBSDIbXxBmcObTBDXtEpkgp9hs+ppUouYMvCJZZnky0YN5iohBAA.webp"
-    },
-    {
-      "id": "juventus-vs-lazio-2482200",
-      "title": "Juventus vs Lazio",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1792349100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJWAzwtPiG4g9JEMZQhEEEFJO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "lyon-vs-nice-2489518",
-      "title": "Lyon vs Nice",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1792349100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBn4QUWgAYQ3EHxAkdICzAsgpuCwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
-    },
     {
       "id": "real-madrid-vs-sevilla-2506254",
       "title": "Real Madrid vs Sevilla",
