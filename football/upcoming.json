@@ -1,94 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 45,
-  "total_matches": 45,
+  "total_items": 36,
+  "total_matches": 36,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-18 | 06:12:06",
-  "updated_at_bd": "2026-10-18T06:12:06+06:00",
+  "updated_time_bd": "2026-10-18 | 10:34:40",
+  "updated_at_bd": "2026-10-18T10:34:40+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "austin-fc-vs-vancouver-whitecaps-2407150",
-      "title": "Austin FC vs Vancouver Whitecaps",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1792283400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChC9WfEOG5aQumCClHDiRCRAwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "houston-dynamo-vs-fc-dallas-2407151",
-      "title": "Houston Dynamo vs FC Dallas",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1792283400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCAERcudiG6aQMEFMMHEOA1ILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "sporting-kansas-city-vs-real-salt-lake-2407152",
-      "title": "Sporting Kansas City vs Real Salt Lake",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1792283400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeivYgpYJCG4g+IGNsP6QiHFJAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "le-n-vs-am-rica-2487557",
-      "title": "León vs América",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 07:00 AM (BD Time)",
-      "start_epoch_ms": 1792285200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeinIoQopCG4g+IYxBCmYOkBaMKmSCn2GyNYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "toluca-vs-atl-tico-de-san-luis-2487556",
-      "title": "Toluca vs Atlético de San Luis",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 07:00 AM (BD Time)",
-      "start_epoch_ms": 1792285200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMrxIhevCNpB8QRvXpggtZw-ALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "portland-timbers-vs-colorado-rapids-2407156",
-      "title": "Portland Timbers vs Colorado Rapids",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1792290600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcChAz8uBiG4g+IGFsP6QiEyGsFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "san-jose-earthquakes-vs-nashville-sc-2407155",
-      "title": "San Jose Earthquakes vs Nashville SC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1792290600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwh6VGbwghuIKSD5azIXCbONgSCn2Gz6KMCpRdX5ellnumtMFcxUQggA.webp"
-    },
-    {
-      "id": "seattle-sounders-vs-cf-montr-al-2407154",
-      "title": "Seattle Sounders vs CF Montréal",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1792290600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxyGPMCkohuIPkYMmSIRBBBW+BYEgq3WIsSjAq9bd+XpZZeplowdzFRCCA.webp"
-    },
-    {
-      "id": "cruz-azul-vs-ju-rez-2487558",
-      "title": "Cruz Azul vs Juárez",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 09:00 AM (BD Time)",
-      "start_epoch_ms": 1792292400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8remWUgpYJCG4g+IYxBCmYIEiAtGSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
     {
       "id": "pec-zwolle-vs-go-ahead-eagles-2489143",
       "title": "PEC Zwolle vs Go Ahead Eagles",
