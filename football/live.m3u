@@ -1,90 +1,76 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 12
-# UPDATED Time and date BD: 2026-10-19 | 00:55:38
+# TOTAL-ITEMS: 10
+# UPDATED Time and date BD: 2026-10-19 | 03:20:36
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
-#EXTINF:-1 tvg-id="Dutch - ESPN2 (HD)" tvg-name="Dutch - ESPN2 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjDcQEEHzBSDIbXxBmcObTBDXtEpkgp9hs+ppUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", Dutch - ESPN2 (HD)
+#EXTINF:-1 tvg-id="Apple TV (HD)" tvg-name="Apple TV (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCDI44GviG4g9U-SAiGQiMxqkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Apple TV (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb29.strmd.st/secure/NoHUbcsCzhwNrmLRZcNnptTVRRUijcPG/rtmp/stream/K3E1C3llE51lqiAhVHh8l5vloV-dH_fUMs1UF4sFUb0MRZ3iD2EkV6O9gkKGlESqSeiIC_4r1WnK/1/playlist.m3u8
+https://lb2.strmd.st/secure/cenRpigJCpcjAdXDXJmhYNQPkwwxMrRF/rtmp/stream/XgvKwYWH-aIVnUdaeJdO7cQCZSoyQ_TV-vEwNHGb4ib0i21_UZ_RRnwnMSv7gdbHeJFj3h542GXu/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dutch - ESPN2 (SD)" tvg-name="Dutch - ESPN2 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjDcQEEHzBSDIbXxBmcObTBDXtEpkgp9hs+ppUouYMvCJZZnky0YN5iohBAA.webp" group-title="Football", Dutch - ESPN2 (SD)
+#EXTINF:-1 tvg-id="Apple TV (SD)" tvg-name="Apple TV (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCDI44GviG4g9U-SAiGQiMxqkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Apple TV (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb29.strmd.st/secure/EsiNwrDfKaVzRaBXJrErRYajqjVkOylD/rtmp/stream/cAoaRTbI5eaNGt1QUKTgcaXR-2qZjICkwvApOl0MAiL-0Sl4W4pMZ8zQ1FycdFLUCAF9WOt6DDCRNFF4Bw/1/playlist.m3u8
+https://lb2.strmd.st/secure/ArQBbJJLcEKGirmrSjZctYBryqKZlxqM/rtmp/stream/orkjiZ1GAa63nnJYA7pzh--Gvp8N-FIxhNBZ6uqOhJtahBYl00Nn_IX-73CJOklK-afeti5Ayt2HYYg8Xg/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dutch - ESPN (HD)" tvg-name="Dutch - ESPN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiD4UkwMCCkgNfECZw4NMEJct8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Dutch - ESPN (HD)
+#EXTINF:-1 tvg-id="ESPN+ (HD)" tvg-name="ESPN+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", ESPN+ (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb29.strmd.st/secure/NzcIYjlMsTlEdgXjtWSSfnEEVRgAuVlB/rtmp/stream/72y_cDrZQn4vPWBiBOiOINJxjdvCtU6RxI2uBBXqJcX-2pJZPsj101WWdTdNRxQPQ5Yb65NmZgNz/1/playlist.m3u8
+https://lb23.strmd.st/secure/DbwlbYJguUJFFBksTCiKjSQMNFObCHwM/rtmp/stream/6V8Dg_zy7LmH94ne8sT_HQiyzEnPT9XeukjXig7EUJKzASrH1MlFfWUxPa4fWPZr52JLmYyf0u4/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dutch - ESPN (SD)" tvg-name="Dutch - ESPN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiD4UkwMCCkgNfECZw4NMEJct8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Dutch - ESPN (SD)
+#EXTINF:-1 tvg-id="ESPN+ (SD)" tvg-name="ESPN+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", ESPN+ (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb29.strmd.st/secure/KTUgjcBaEkGnerdkusITyPvFHfmDBALC/rtmp/stream/oojaasgIQBFMQ72PV4rKIu9AzoatFZkmh0LVRiOSrF2RwycUyZ12uQz5nB5405nX79KP3JnNkMlCLK-ZlA/1/playlist.m3u8
+https://lb23.strmd.st/secure/YwssDhMUqDDwtYWhJSmSeelNUXJXDrMV/rtmp/stream/doeT4ed4AJEBai1eFyPSOfMoIBSzz7vj0A88e7fGX53dUgLI25jVhlAEtappW7GKcZiQqtlmtQExeqYc/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN+ (HD)" tvg-name="ESPN+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHNzAk1CCG4g+IY3pQgYIPSVy4C2in2Gz6KMCo1s35ellkamtGBuYqIQQA.webp" group-title="Football", ESPN+ (HD)
+#EXTINF:-1 tvg-id="Real Madrid vs Sevilla (HD)" tvg-name="Real Madrid vs Sevilla (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Real Madrid vs Sevilla (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb29.strmd.st/secure/VlroZFncVxuGccvGvdLzJwmJcaiFprgd/rtmp/stream/EIy-OKw63xC9ZbxA07hXl0EqJldi2zxTFhs5GKapCAvX42C0OsJz49n31iH7-ql9-b2_njiQ090/1/playlist.m3u8
+https://lb2.strmd.st/secure/PaeYXFiOamrHxQGvDQnfeyXIUTBSjwlz/ingest/stream/streamedrealmadrid/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN+ (SD)" tvg-name="ESPN+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHNzAk1CCG4g+IY3pQgYIPSVy4C2in2Gz6KMCo1s35ellkamtGBuYqIQQA.webp" group-title="Football", ESPN+ (SD)
+#EXTINF:-1 tvg-id="Real Madrid vs Sevilla (SD)" tvg-name="Real Madrid vs Sevilla (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="Football", Real Madrid vs Sevilla (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb29.strmd.st/secure/MpYPwZDSOMdeKTXlauODIkWmDmPQKnRZ/rtmp/stream/CJ6hkHFh6SNLMNX_4y5TpaHEVNDlBGn6pjQuMS1PeDyiAHC99XiNmE7LXwgyHGU2IfcPaK7i1_4Mb7Hy/1/playlist.m3u8
+https://lb2.strmd.st/secure/XASGkpdUqGKBRInCZkkwADbDKRYhtMot/ingest/stream/streamedrealmadrid/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="French - Ligue 1+ (HD)" tvg-name="French - Ligue 1+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBn4QUWgAYQ3EHxAkdICzAsgpuCwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Football", French - Ligue 1+ (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb29.strmd.st/secure/waeTbrogttTezpkhSMCcUazQJYDdCaNA/rtmp/stream/cYszXyJ05NzuHWD-fNGHoIgn6JktYI2e1edltJ3w9RRIzTaaOjnDJKuDSxVoETcd-RvkLq00ABj3/1/playlist.m3u8
+https://lb2.strmd.st/secure/BAGWrIdclyJpUXeaKkAvEDnjRgdpYcTI/rtmp/stream/_Num56CjY7CDuvfOQg0GFqBdi6p-h95Q9JSLK4coCKjDhsGkd9paaEjEO9M3y1SX8eXNcuOJmCNM/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="French - Ligue 1+ (SD)" tvg-name="French - Ligue 1+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBn4QUWgAYQ3EHxAkdICzAsgpuCwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Football", French - Ligue 1+ (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb29.strmd.st/secure/TsoJrAbjyDByhshqigMxvtgrfJgzCAoX/rtmp/stream/LYIRZ95kbLVv3tHZ_tql-wUGBHB5Nzx16tsQSXUsQAtakZyKbBOa3_WYivpLcWXJMcTaDjoFsJHg3yh9hQ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Lyon vs Nice (HD)" tvg-name="Lyon vs Nice (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBn4QUWgAYQ3EHxAkdICzAsgpuCwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="Football", Lyon vs Nice (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb28.strmd.st/secure/hkQNXLGcWxXzsEOOkEIaBaqIIVyeGbnt/hotel/stream/lyon-vs-nice-ligue-1-1792349100/1/playlist.m3u8
+https://lb2.strmd.st/secure/SjzcQSwOPqMyUJypCbGIFeCoaZGAlZXk/rtmp/stream/B2wrhixmB3w3CEjIjofzYLVdaoEtMeWCYh2a5J0Meg8Iu5XOMq9Kt3wfS-eMGB0jQ_4KCekjyQuWpjgKrA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+ (HD)" tvg-name="Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJWAzwtPiG4g9JEMZQhEEEFJO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Paramount+ (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb28.strmd.st/secure/xIhSJAseHjwuMwQLGryNflPlKUuoykuI/rtmp/stream/llzqFkQhn3GW1mT6s3Rp8GsOY7uQCWXHwrO9H86MdEqvWxI5aW7Vfl-B3-6JrxBRfm3_vLHs7Xg/1/playlist.m3u8
+https://lb17.strmd.st/secure/BukKOPpDrSjCZmnAbNuVMovjlDIIimLI/rtmp/stream/hf2OMIWr1CaOjIaW53qVt1gfZSgWIP_KdDXyofqrbPYgUJjdIGZIucuxNoHBFHmrxQtxr4AU_5c/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+ (SD)" tvg-name="Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJWAzwtPiG4g9JEMZQhEEEFJO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Paramount+ (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb28.strmd.st/secure/sHVZpatUKOlcGVYoGMbCTmpHPubnxalb/rtmp/stream/Af1ZoJ4Yx6dbA7CuFj6KRLUsj96NMxO6rd5RBCoGWJUPKWgN_Zo_K99nuPesXgkLzYVErnBG91hwajQp/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Juventus vs Lazio (HD)" tvg-name="Juventus vs Lazio (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJWAzwtPiG4g9JEMZQhEEEFJO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Football", Juventus vs Lazio (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb28.strmd.st/secure/IjAiPaHffAweiNYsKUJKFzewZEKvTPeD/hotel/stream/juventus-vs-lazio-serie-a-1792349100/1/playlist.m3u8
+https://lb17.strmd.st/secure/SrTyIlZPaARdmbwTUxHhGrsDioEgFsRe/rtmp/stream/6pmPUpo3OePIp7eZksEXusKXVAGzGC6YyPIGVGpEYQsHOSlLZZYN9qZi4eAiYZ880U43iMJByrF__W62/1/playlist.m3u8
 

@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 12,
-  "total_matches": 5,
-  "total_streams": 12,
-  "updated_time_bd": "2026-10-19 | 00:55:38",
-  "updated_at_bd": "2026-10-19T00:55:38+06:00",
+  "total_items": 10,
+  "total_matches": 4,
+  "total_streams": 10,
+  "updated_time_bd": "2026-10-19 | 03:20:36",
+  "updated_at_bd": "2026-10-19T03:20:36+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "twente-vs-utrecht-2489144",
-      "title": "Twente vs Utrecht",
+      "id": "fc-cincinnati-vs-columbus-crew-2407157",
+      "title": "FC Cincinnati vs Columbus Crew",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "19 Oct 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1792346400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjDcQEEHzBSDIbXxBmcObTBDXtEpkgp9hs+ppUouYMvCJZZnky0YN5iohBAA.webp",
+      "start_time_bd": "19 Oct 2026, 03:00 AM (BD Time)",
+      "start_epoch_ms": 1792357200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCDI44GviG4g9U-SAiGQiMxqkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -23,55 +23,27 @@
       },
       "streams": [
         {
-          "channel_name": "Dutch - ESPN2 (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjDcQEEHzBSDIbXxBmcObTBDXtEpkgp9hs+ppUouYMvCJZZnky0YN5iohBAA.webp",
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCDI44GviG4g9U-SAiGQiMxqkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb29.strmd.st/secure/NoHUbcsCzhwNrmLRZcNnptTVRRUijcPG/rtmp/stream/K3E1C3llE51lqiAhVHh8l5vloV-dH_fUMs1UF4sFUb0MRZ3iD2EkV6O9gkKGlESqSeiIC_4r1WnK/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/cenRpigJCpcjAdXDXJmhYNQPkwwxMrRF/rtmp/stream/XgvKwYWH-aIVnUdaeJdO7cQCZSoyQ_TV-vEwNHGb4ib0i21_UZ_RRnwnMSv7gdbHeJFj3h542GXu/1/playlist.m3u8"
         },
         {
-          "channel_name": "Dutch - ESPN2 (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjDcQEEHzBSDIbXxBmcObTBDXtEpkgp9hs+ppUouYMvCJZZnky0YN5iohBAA.webp",
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCDI44GviG4g9U-SAiGQiMxqkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb29.strmd.st/secure/EsiNwrDfKaVzRaBXJrErRYajqjVkOylD/rtmp/stream/cAoaRTbI5eaNGt1QUKTgcaXR-2qZjICkwvApOl0MAiL-0Sl4W4pMZ8zQ1FycdFLUCAF9WOt6DDCRNFF4Bw/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/ArQBbJJLcEKGirmrSjZctYBryqKZlxqM/rtmp/stream/orkjiZ1GAa63nnJYA7pzh--Gvp8N-FIxhNBZ6uqOhJtahBYl00Nn_IX-73CJOklK-afeti5Ayt2HYYg8Xg/1/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "nec-nijmegen-vs-fortuna-sittard-2489140",
-      "title": "NEC Nijmegen vs Fortuna Sittard",
+      "id": "real-madrid-vs-sevilla-2506254",
+      "title": "Real Madrid vs Sevilla",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "19 Oct 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1792346400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiD4UkwMCCkgNfECZw4NMEJct8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Dutch - ESPN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiD4UkwMCCkgNfECZw4NMEJct8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb29.strmd.st/secure/NzcIYjlMsTlEdgXjtWSSfnEEVRgAuVlB/rtmp/stream/72y_cDrZQn4vPWBiBOiOINJxjdvCtU6RxI2uBBXqJcX-2pJZPsj101WWdTdNRxQPQ5Yb65NmZgNz/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Dutch - ESPN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiD4UkwMCCkgNfECZw4NMEJct8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb29.strmd.st/secure/KTUgjcBaEkGnerdkusITyPvFHfmDBALC/rtmp/stream/oojaasgIQBFMQ72PV4rKIu9AzoatFZkmh0LVRiOSrF2RwycUyZ12uQz5nB5405nX79KP3JnNkMlCLK-ZlA/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "m-laga-vs-real-sociedad-2506251",
-      "title": "Málaga vs Real Sociedad",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "18 Oct 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1792341000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHNzAk1CCG4g+IY3pQgYIPSVy4C2in2Gz6KMCo1s35ellkamtGBuYqIQQA.webp",
+      "start_time_bd": "19 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792350000000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -80,15 +52,27 @@
       "streams": [
         {
           "channel_name": "ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHNzAk1CCG4g+IY3pQgYIPSVy4C2in2Gz6KMCo1s35ellkamtGBuYqIQQA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb29.strmd.st/secure/VlroZFncVxuGccvGvdLzJwmJcaiFprgd/rtmp/stream/EIy-OKw63xC9ZbxA07hXl0EqJldi2zxTFhs5GKapCAvX42C0OsJz49n31iH7-ql9-b2_njiQ090/1/playlist.m3u8"
+          "direct_stream_url": "https://lb23.strmd.st/secure/DbwlbYJguUJFFBksTCiKjSQMNFObCHwM/rtmp/stream/6V8Dg_zy7LmH94ne8sT_HQiyzEnPT9XeukjXig7EUJKzASrH1MlFfWUxPa4fWPZr52JLmYyf0u4/1/playlist.m3u8"
         },
         {
           "channel_name": "ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHNzAk1CCG4g+IY3pQgYIPSVy4C2in2Gz6KMCo1s35ellkamtGBuYqIQQA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb29.strmd.st/secure/MpYPwZDSOMdeKTXlauODIkWmDmPQKnRZ/rtmp/stream/CJ6hkHFh6SNLMNX_4y5TpaHEVNDlBGn6pjQuMS1PeDyiAHC99XiNmE7LXwgyHGU2IfcPaK7i1_4Mb7Hy/1/playlist.m3u8"
+          "direct_stream_url": "https://lb23.strmd.st/secure/YwssDhMUqDDwtYWhJSmSeelNUXJXDrMV/rtmp/stream/doeT4ed4AJEBai1eFyPSOfMoIBSzz7vj0A88e7fGX53dUgLI25jVhlAEtappW7GKcZiQqtlmtQExeqYc/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Real Madrid vs Sevilla (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/PaeYXFiOamrHxQGvDQnfeyXIUTBSjwlz/ingest/stream/streamedrealmadrid/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Real Madrid vs Sevilla (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/XASGkpdUqGKBRInCZkkwADbDKRYhtMot/ingest/stream/streamedrealmadrid/1/playlist.m3u8"
         }
       ]
     },
@@ -110,19 +94,13 @@
           "channel_name": "French - Ligue 1+ (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBn4QUWgAYQ3EHxAkdICzAsgpuCwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb29.strmd.st/secure/waeTbrogttTezpkhSMCcUazQJYDdCaNA/rtmp/stream/cYszXyJ05NzuHWD-fNGHoIgn6JktYI2e1edltJ3w9RRIzTaaOjnDJKuDSxVoETcd-RvkLq00ABj3/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/BAGWrIdclyJpUXeaKkAvEDnjRgdpYcTI/rtmp/stream/_Num56CjY7CDuvfOQg0GFqBdi6p-h95Q9JSLK4coCKjDhsGkd9paaEjEO9M3y1SX8eXNcuOJmCNM/1/playlist.m3u8"
         },
         {
           "channel_name": "French - Ligue 1+ (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBn4QUWgAYQ3EHxAkdICzAsgpuCwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb29.strmd.st/secure/TsoJrAbjyDByhshqigMxvtgrfJgzCAoX/rtmp/stream/LYIRZ95kbLVv3tHZ_tql-wUGBHB5Nzx16tsQSXUsQAtakZyKbBOa3_WYivpLcWXJMcTaDjoFsJHg3yh9hQ/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Lyon vs Nice (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBn4QUWgAYQ3EHxAkdICzAsgpuCwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb28.strmd.st/secure/hkQNXLGcWxXzsEOOkEIaBaqIIVyeGbnt/hotel/stream/lyon-vs-nice-ligue-1-1792349100/1/playlist.m3u8"
+          "direct_stream_url": "https://lb2.strmd.st/secure/SjzcQSwOPqMyUJypCbGIFeCoaZGAlZXk/rtmp/stream/B2wrhixmB3w3CEjIjofzYLVdaoEtMeWCYh2a5J0Meg8Iu5XOMq9Kt3wfS-eMGB0jQ_4KCekjyQuWpjgKrA/1/playlist.m3u8"
         }
       ]
     },
@@ -144,19 +122,13 @@
           "channel_name": "Paramount+ (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJWAzwtPiG4g9JEMZQhEEEFJO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb28.strmd.st/secure/xIhSJAseHjwuMwQLGryNflPlKUuoykuI/rtmp/stream/llzqFkQhn3GW1mT6s3Rp8GsOY7uQCWXHwrO9H86MdEqvWxI5aW7Vfl-B3-6JrxBRfm3_vLHs7Xg/1/playlist.m3u8"
+          "direct_stream_url": "https://lb17.strmd.st/secure/BukKOPpDrSjCZmnAbNuVMovjlDIIimLI/rtmp/stream/hf2OMIWr1CaOjIaW53qVt1gfZSgWIP_KdDXyofqrbPYgUJjdIGZIucuxNoHBFHmrxQtxr4AU_5c/1/playlist.m3u8"
         },
         {
           "channel_name": "Paramount+ (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJWAzwtPiG4g9JEMZQhEEEFJO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb28.strmd.st/secure/sHVZpatUKOlcGVYoGMbCTmpHPubnxalb/rtmp/stream/Af1ZoJ4Yx6dbA7CuFj6KRLUsj96NMxO6rd5RBCoGWJUPKWgN_Zo_K99nuPesXgkLzYVErnBG91hwajQp/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Juventus vs Lazio (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJWAzwtPiG4g9JEMZQhEEEFJO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb28.strmd.st/secure/IjAiPaHffAweiNYsKUJKFzewZEKvTPeD/hotel/stream/juventus-vs-lazio-serie-a-1792349100/1/playlist.m3u8"
+          "direct_stream_url": "https://lb17.strmd.st/secure/SrTyIlZPaARdmbwTUxHhGrsDioEgFsRe/rtmp/stream/6pmPUpo3OePIp7eZksEXusKXVAGzGC6YyPIGVGpEYQsHOSlLZZYN9qZi4eAiYZ880U43iMJByrF__W62/1/playlist.m3u8"
         }
       ]
     }

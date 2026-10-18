@@ -1,31 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 26,
-  "total_matches": 26,
+  "total_items": 24,
+  "total_matches": 24,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-19 | 00:55:38",
-  "updated_at_bd": "2026-10-19T00:55:38+06:00",
+  "updated_time_bd": "2026-10-19 | 03:20:36",
+  "updated_at_bd": "2026-10-19T03:20:36+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "real-madrid-vs-sevilla-2506254",
-      "title": "Real Madrid vs Sevilla",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792350000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "fc-cincinnati-vs-columbus-crew-2407157",
-      "title": "FC Cincinnati vs Columbus Crew",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Oct 2026, 03:00 AM (BD Time)",
-      "start_epoch_ms": 1792357200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCDI44GviG4g9U-SAiGQiMxqkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "monterrey-vs-pachuca-2487559",
       "title": "Monterrey vs Pachuca",
