@@ -1,76 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 52,
-  "total_matches": 52,
+  "total_items": 45,
+  "total_matches": 45,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-18 | 04:27:44",
-  "updated_at_bd": "2026-10-18T04:27:44+06:00",
+  "updated_time_bd": "2026-10-18 | 06:12:06",
+  "updated_at_bd": "2026-10-18T06:12:06+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "santos-laguna-vs-quer-taro-2487555",
-      "title": "Santos Laguna vs Querétaro",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 05:00 AM (BD Time)",
-      "start_epoch_ms": 1792278000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCHgIQfMBsTcdIYxBCmYRksZASmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "cd-guadalajara-vs-tigres-uanl-2487554",
-      "title": "CD Guadalajara vs Tigres UANL",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 05:07 AM (BD Time)",
-      "start_epoch_ms": 1792278420000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELSZ8QJEDAYhuIbSBAQzenZe2NgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "atlanta-united-vs-inter-miami-2407145",
-      "title": "Atlanta United vs Inter Miami",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1792279800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWF5gQ8BCCkhuIPiBj7jhnVYMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "new-england-revolution-vs-chicago-fire-2407149",
-      "title": "New England Revolution vs Chicago Fire",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1792279800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRFmgwGYKSG4g+h-cZIhEEEJZIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "new-york-city-fc-vs-los-angeles-fc-2407146",
-      "title": "New York City FC vs Los Angeles FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1792279800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEGNrcQ8MNu18QhgyBI6QECzoLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "new-york-red-bulls-vs-toronto-fc-2407147",
-      "title": "New York Red Bulls vs Toronto FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1792279800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXhBB9cwAAyUQ3LSBggpxo4hzmUBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-    },
-    {
-      "id": "orlando-city-vs-dc-united-2407148",
-      "title": "Orlando City vs DC United",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "18 Oct 2026, 05:30 AM (BD Time)",
-      "start_epoch_ms": 1792279800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiHooQtXqG4g+IGCCmGQBxDm0gCwJBT7DZWsCpRc35ellkemtGBuYqIQQA.webp"
-    },
     {
       "id": "austin-fc-vs-vancouver-whitecaps-2407150",
       "title": "Austin FC vs Vancouver Whitecaps",
@@ -423,58 +360,58 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCDI44GviG4g9U-SAiGQiMxqkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "ppv-monterrey-vs-pachuca",
-      "title": "Monterrey vs. Pachuca",
+      "id": "monterrey-vs-pachuca-2487559",
+      "title": "Monterrey vs Pachuca",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "19 Oct 2026, 07:00 AM (BD Time)",
       "start_epoch_ms": 1792371600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYDRIgAxqRDCZI4BBBSQIFOpAwQ4qiEQqUy3dmCIyUlVJgSzK3uXEChSgmeNhCwJLmnGhMG5OcWFSend4ciDlcIggA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmCkUsYFGBIhuIPiFMQQ5mCANWTUgsCQU+w2fT0qUXfeXpZZXky0YPpiohBAA.webp"
     },
     {
-      "id": "ppv-monza-vs-cagliari",
-      "title": "Monza vs. Cagliari",
+      "id": "monza-vs-cagliari-2482207",
+      "title": "Monza vs Cagliari",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "19 Oct 2026, 10:30 PM (BD Time)",
       "start_epoch_ms": 1792427400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiFKWwgUIMiRDxswRVmkhhIAMbTl6tRBEgswA8flUQMLQusSLVCfzCCRTJY8LAkuTRKHPWA2FJCQJlcmcTSQggA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VemDC9RIdiG4g+IYzGMgU5yxfgFgSCn2Gz6KMCpRc35ellkemtJqi9MFAA.webp"
     },
     {
-      "id": "ppv-degerfors-if-vs-kalmar-ff",
-      "title": "Degerfors IF vs. Kalmar FF",
+      "id": "degerfors-vs-kalmar-2398937",
+      "title": "Degerfors vs Kalmar",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "19 Oct 2026, 11:00 PM (BD Time)",
       "start_epoch_ms": 1792429200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBggswRBLKIUIRbNIglEEJpDAq4kQfgGJILcAjmDmmnt7kLAoQYLZ6YQsCS4AxiidhuTgthUnoXIzAAyzIIIA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGClhRKMBu4gDfECYghEJEMbNmYBYBpj9hs+rpUou28vSyzPTLRg2mKiEEA.webp"
     },
     {
-      "id": "ppv-parma-vs-torino",
-      "title": "Parma vs. Torino",
+      "id": "parma-vs-torino-2482206",
+      "title": "Parma vs Torino",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "20 Oct 2026, 12:45 AM (BD Time)",
       "start_epoch_ms": 1792435500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCEnDxwCCGGl5IKiBQgIwRJLUpZerCM0iQMZYrWJEusio2jyGgUMMFs9MIWBJcAY11Cwbk47UnpXeHJAvTIIIA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAMJIQogAxgUIbhp2nDiRCCtWCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
     },
     {
-      "id": "ppv-getafe-vs-rayo-vallecano",
-      "title": "Getafe vs. Rayo Vallecano",
+      "id": "getafe-vs-rayo-vallecano-2506257",
+      "title": "Getafe vs Rayo Vallecano",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "20 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792436400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCETxgEEFhAoQw0uJAgZK2QGNgieVRBaFK5dOEgIumRbm3FiLSnKWBQkU2z0whYElyO3MG5OS2UyJwIrMCCNMgggA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXoimwwIOiG4g+IYxBAoQMEKZIhEMAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
     },
     {
-      "id": "ppv-tottenham-hotspur-vs-coventry-city",
-      "title": "Tottenham Hotspur vs. Coventry City",
+      "id": "tottenham-hotspur-vs-coventry-city-2494064",
+      "title": "Tottenham Hotspur vs Coventry City",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "20 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792436400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRFmA1EwkeJABjYBBCSIy7CFkkQMLSCogde2ZJ0KQKRYo3wRpZSnLqBQ+wWz0whYElwKnITBuTnVteg87MGCNMgggA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekgZgUbMEhDcQfECYggSIMyhCJEUgsCQU+w2fRRgVO3WXhEssjpMtGCeYqIQQA.webp"
     }
   ]
 }
