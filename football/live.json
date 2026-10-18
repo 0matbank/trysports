@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 10,
-  "total_matches": 4,
-  "total_streams": 10,
-  "updated_time_bd": "2026-10-19 | 03:20:36",
-  "updated_at_bd": "2026-10-19T03:20:36+06:00",
+  "total_items": 2,
+  "total_matches": 1,
+  "total_streams": 2,
+  "updated_time_bd": "2026-10-19 | 05:23:01",
+  "updated_at_bd": "2026-10-19T05:23:01+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -26,109 +26,13 @@
           "channel_name": "Apple TV (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCDI44GviG4g9U-SAiGQiMxqkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/cenRpigJCpcjAdXDXJmhYNQPkwwxMrRF/rtmp/stream/XgvKwYWH-aIVnUdaeJdO7cQCZSoyQ_TV-vEwNHGb4ib0i21_UZ_RRnwnMSv7gdbHeJFj3h542GXu/1/playlist.m3u8"
+          "direct_stream_url": "https://lb19.strmd.st/secure/bGHzmPXkKyohFgjSYUqafyhSjCwISpKC/rtmp/stream/uWuSgpbHGL9RO54cZi91JNCX70Plt63NSvHR75ui6eNfzNzMDveS0RsXCgTvnWGqpQXiVM98h4F4/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCDI44GviG4g9U-SAiGQiMxqkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb2.strmd.st/secure/ArQBbJJLcEKGirmrSjZctYBryqKZlxqM/rtmp/stream/orkjiZ1GAa63nnJYA7pzh--Gvp8N-FIxhNBZ6uqOhJtahBYl00Nn_IX-73CJOklK-afeti5Ayt2HYYg8Xg/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "real-madrid-vs-sevilla-2506254",
-      "title": "Real Madrid vs Sevilla",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "19 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792350000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb23.strmd.st/secure/DbwlbYJguUJFFBksTCiKjSQMNFObCHwM/rtmp/stream/6V8Dg_zy7LmH94ne8sT_HQiyzEnPT9XeukjXig7EUJKzASrH1MlFfWUxPa4fWPZr52JLmYyf0u4/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb23.strmd.st/secure/YwssDhMUqDDwtYWhJSmSeelNUXJXDrMV/rtmp/stream/doeT4ed4AJEBai1eFyPSOfMoIBSzz7vj0A88e7fGX53dUgLI25jVhlAEtappW7GKcZiQqtlmtQExeqYc/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Real Madrid vs Sevilla (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/PaeYXFiOamrHxQGvDQnfeyXIUTBSjwlz/ingest/stream/streamedrealmadrid/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Real Madrid vs Sevilla (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb2.strmd.st/secure/XASGkpdUqGKBRInCZkkwADbDKRYhtMot/ingest/stream/streamedrealmadrid/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "lyon-vs-nice-2489518",
-      "title": "Lyon vs Nice",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "19 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1792349100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBn4QUWgAYQ3EHxAkdICzAsgpuCwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "French - Ligue 1+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBn4QUWgAYQ3EHxAkdICzAsgpuCwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb2.strmd.st/secure/BAGWrIdclyJpUXeaKkAvEDnjRgdpYcTI/rtmp/stream/_Num56CjY7CDuvfOQg0GFqBdi6p-h95Q9JSLK4coCKjDhsGkd9paaEjEO9M3y1SX8eXNcuOJmCNM/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "French - Ligue 1+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBn4QUWgAYQ3EHxAkdICzAsgpuCwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb2.strmd.st/secure/SjzcQSwOPqMyUJypCbGIFeCoaZGAlZXk/rtmp/stream/B2wrhixmB3w3CEjIjofzYLVdaoEtMeWCYh2a5J0Meg8Iu5XOMq9Kt3wfS-eMGB0jQ_4KCekjyQuWpjgKrA/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "juventus-vs-lazio-2482200",
-      "title": "Juventus vs Lazio",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "19 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1792349100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJWAzwtPiG4g9JEMZQhEEEFJO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Paramount+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJWAzwtPiG4g9JEMZQhEEEFJO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb17.strmd.st/secure/BukKOPpDrSjCZmnAbNuVMovjlDIIimLI/rtmp/stream/hf2OMIWr1CaOjIaW53qVt1gfZSgWIP_KdDXyofqrbPYgUJjdIGZIucuxNoHBFHmrxQtxr4AU_5c/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Paramount+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJWAzwtPiG4g9JEMZQhEEEFJO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb17.strmd.st/secure/SrTyIlZPaARdmbwTUxHhGrsDioEgFsRe/rtmp/stream/6pmPUpo3OePIp7eZksEXusKXVAGzGC6YyPIGVGpEYQsHOSlLZZYN9qZi4eAiYZ880U43iMJByrF__W62/1/playlist.m3u8"
+          "direct_stream_url": "https://lb19.strmd.st/secure/pdlBjrFeWFQfmFjhbZXtFplzjYZDoSkM/rtmp/stream/aTbE1vA4pr4OdNBJreIqipry095GGOE3L--oAMAkfy3tUTtYj9p4hVUeaRLhjAAIq8Bs2N12GCtGZVXCdw/1/playlist.m3u8"
         }
       ]
     }
