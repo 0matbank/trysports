@@ -1,58 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 160,
-  "total_matches": 160,
+  "total_items": 155,
+  "total_matches": 155,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-19 | 19:56:39",
-  "updated_at_bd": "2026-10-19T19:56:39+06:00",
+  "updated_time_bd": "2026-10-20 | 01:43:58",
+  "updated_at_bd": "2026-10-20T01:43:58+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "monza-vs-cagliari-2482207",
-      "title": "Monza vs Cagliari",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Oct 2026, 10:30 PM (BD Time)",
-      "start_epoch_ms": 1792427400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VemDC9RIdiG4g+IYzGMgU5yxfgFgSCn2Gz6KMCpRc35ellkemtJqi9MFAA.webp"
-    },
-    {
-      "id": "degerfors-vs-kalmar-2398937",
-      "title": "Degerfors vs Kalmar",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Oct 2026, 11:00 PM (BD Time)",
-      "start_epoch_ms": 1792429200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGClhRKMBu4gDfECYghEJEMbNmYBYBpj9hs+rpUou28vSyzPTLRg2mKiEEA.webp"
-    },
-    {
-      "id": "parma-vs-torino-2482206",
-      "title": "Parma vs Torino",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1792435500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAMJIQogAxgUIbhp2nDiRCCtWCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
-    },
-    {
-      "id": "getafe-vs-rayo-vallecano-2506257",
-      "title": "Getafe vs Rayo Vallecano",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792436400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXoimwwIOiG4g+IYxBAoQMEKZIhEMAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
-    {
-      "id": "tottenham-hotspur-vs-coventry-city-2494064",
-      "title": "Tottenham Hotspur vs Coventry City",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "20 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792436400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekgZgUbMEhDcQfECYggSIMyhCJEUgsCQU+w2fRRgVO3WXhEssjpMtGCeYqIQQA.webp"
-    },
     {
       "id": "fenerbah-e-vs-slavia-prague-2594654",
       "title": "Fenerbahçe vs Slavia Prague",
