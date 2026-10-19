@@ -1,22 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 24,
-  "total_matches": 24,
+  "total_items": 23,
+  "total_matches": 23,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-19 | 05:23:01",
-  "updated_at_bd": "2026-10-19T05:23:01+06:00",
+  "updated_time_bd": "2026-10-19 | 07:27:11",
+  "updated_at_bd": "2026-10-19T07:27:11+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "monterrey-vs-pachuca-2487559",
-      "title": "Monterrey vs Pachuca",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "19 Oct 2026, 07:00 AM (BD Time)",
-      "start_epoch_ms": 1792371600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmCkUsYFGBIhuIPiFMQQ5mCANWTUgsCQU+w2fT0qUXfeXpZZXky0YPpiohBAA.webp"
-    },
     {
       "id": "monza-vs-cagliari-2482207",
       "title": "Monza vs Cagliari",
@@ -63,85 +54,85 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekgZgUbMEhDcQfECYggSIMyhCJEUgsCQU+w2fRRgVO3WXhEssjpMtGCeYqIQQA.webp"
     },
     {
-      "id": "2391",
-      "title": "Fenerbahce - Slavia Prague",
+      "id": "fenerbah-e-vs-slavia-prague-2594654",
+      "title": "Fenerbahçe vs Slavia Prague",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "20 Oct 2026, 10:45 PM (BD Time)",
       "start_epoch_ms": 1792514700000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
     },
     {
-      "id": "2392",
-      "title": "Sabah FK - Borussia Dortmund",
+      "id": "sabah-baku-vs-borussia-dortmund-2594675",
+      "title": "Sabah Baku vs Borussia Dortmund",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "20 Oct 2026, 10:45 PM (BD Time)",
       "start_epoch_ms": 1792514700000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp"
     },
     {
-      "id": "2393",
-      "title": "AS Roma - Slovan Bratislava",
+      "id": "liverpool-vs-villarreal-2594542",
+      "title": "Liverpool vs Villarreal",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "21 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792522800000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCChwYwAAxgN3EHxCmTKEEZIhrJkgWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
     },
     {
-      "id": "2394",
-      "title": "FC Porto - PSV Eindhoven",
+      "id": "manchester-city-vs-aek-athens-2594550",
+      "title": "Manchester City vs AEK Athens",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "21 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792522800000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUCGBgGzWCG4g+IY0ZT6QJC8cMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "2395",
-      "title": "Liverpool - Villarreal",
+      "id": "napoli-vs-bod--glimt-2594604",
+      "title": "Napoli vs Bodø/Glimt",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "21 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792522800000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VaXLDh6ObiD4hDBlCD0kQUkIhAFgSCn2Gz6KMCpRc35HbI9NaYG5iohBAA.webp"
     },
     {
-      "id": "2396",
-      "title": "Manchester City - AEK Athens",
+      "id": "paris-saint-germain-vs-barcelona-2594560",
+      "title": "Paris Saint-Germain vs Barcelona",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "21 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792522800000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLKVwIQUsCBDcQffUZAoDIEpbNGCwJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp"
     },
     {
-      "id": "2397",
-      "title": "Napoli - Bodo/Glimt",
+      "id": "porto-vs-psv-eindhoven-2594592",
+      "title": "Porto vs PSV Eindhoven",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "21 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792522800000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGFF9oUkChDcQfECeP7DJELpxSCwJBT7DZ9FJrYoum8vSyzPTLRg7vSiEEA.webp"
     },
     {
-      "id": "2398",
-      "title": "Paris Saint-Germain - Barcelona",
+      "id": "roma-vs-slovan-bratislava-2594610",
+      "title": "Roma vs Slovan Bratislava",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "21 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792522800000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYNhCiwYXgAYQ3EHxCmTKQ1pBSQELQWBIKfYbPoowKlF0-l6WWW8mWh1RejCgA.webp"
     },
     {
-      "id": "2399",
-      "title": "VfB Stuttgart - Atletico Madrid",
+      "id": "stuttgart-vs-atl-tico-madrid-2594576",
+      "title": "Stuttgart vs Atlético Madrid",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "21 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792522800000,
-      "poster": "https://streamed.pk/favicon.ico"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDKlgk-YEhB8Q3AyFOGURkCQ2X4BPRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "2400",
