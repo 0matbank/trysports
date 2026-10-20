@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 146,
-  "total_matches": 146,
+  "total_items": 147,
+  "total_matches": 147,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-21 | 02:43:54",
-  "updated_at_bd": "2026-10-21T02:43:54+06:00",
+  "updated_time_bd": "2026-10-21 | 05:25:46",
+  "updated_at_bd": "2026-10-21T05:25:46+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -70,6 +70,15 @@
       "start_time_bd": "22 Oct 2026, 12:00 AM (BD Time)",
       "start_epoch_ms": 1792605600000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAVSRgBAnNxB8QRiCBQgYIEycMoCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "ppv-the-golazo-show",
+      "title": "The Golazo Show",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "22 Oct 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1792605600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp"
     },
     {
       "id": "2405",
