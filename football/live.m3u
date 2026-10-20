@@ -1,6 +1,104 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-10-20 | 18:19:04
+# TOTAL-ITEMS: 14
+# UPDATED Time and date BD: 2026-10-20 | 23:20:38
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="TNT Sports 2 (HD)" tvg-name="TNT Sports 2 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp" group-title="Football", TNT Sports 2 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/yINZIypVtRoPSkCFMViCxaszUNdfVFsO/rtmp/stream/-WXXGkwgWAOgM2K-qXojGEaZwwfeW8DUNG53F5HwBYqgSQ9a4rnofBN94tQRa3ykVgxDUf7b/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 2 (SD)" tvg-name="TNT Sports 2 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp" group-title="Football", TNT Sports 2 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/iGkHhZiEjupPNcFzOkrzXaBZcIUUKZBc/rtmp/stream/vmniRbUcBXM0d1krwIa0X5wrjjFYtLCjMsFedE3O29zz32N0cqmzzOxchZ7cD3ldyrEFdiI_JOjiXg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sabah Baku vs Borussia Dortmund (HD)" tvg-name="Sabah Baku vs Borussia Dortmund (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp" group-title="Football", Sabah Baku vs Borussia Dortmund (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb1.strmd.st/secure/nBKQOhEmuAyJSzffPUWlAWuSYTNlTubA/ingest/stream/streamedtntsport2hd/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sabah Baku vs Borussia Dortmund (SD)" tvg-name="Sabah Baku vs Borussia Dortmund (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp" group-title="Football", Sabah Baku vs Borussia Dortmund (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb1.strmd.st/secure/svnMjRbbMBtAuIlsnKZzVBSPexCPEXRH/ingest/stream/streamedtntsport2hd/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sabah Baku vs Borussia Dortmund (HD)" tvg-name="Sabah Baku vs Borussia Dortmund (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp" group-title="Football", Sabah Baku vs Borussia Dortmund (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb1.strmd.st/secure/VBwRuyMLhnfFdSlxkLGpZdWQQxjEfyKx/ingest/stream/streamedevent2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sabah Baku vs Borussia Dortmund (SD)" tvg-name="Sabah Baku vs Borussia Dortmund (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp" group-title="Football", Sabah Baku vs Borussia Dortmund (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb1.strmd.st/secure/EyQXyHIPGSDWXPFvXvBgecODCRBHKgUV/ingest/stream/streamedevent2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sabah Baku vs Borussia Dortmund (HD)" tvg-name="Sabah Baku vs Borussia Dortmund (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp" group-title="Football", Sabah Baku vs Borussia Dortmund (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb1.strmd.st/secure/gZknOgUfHLQTfrLCSElUPTfNLjtQmfvi/hotel/stream/sabah-fk-vs-borussia-dortmund-uefa-champions-league-1792512000/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 3 (HD)" tvg-name="TNT Sports 3 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", TNT Sports 3 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb2.strmd.st/secure/DlFXVEhbdBtkbeBhtMuIIErcSkjLJeQA/rtmp/stream/EWptS-bRxfA642xRt4KK5IAxcwUw3xHCLo2AP36hYPPE9cIQ6QcDLI-fkJWZOiG2UArXK8qR/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 3 (SD)" tvg-name="TNT Sports 3 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", TNT Sports 3 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb2.strmd.st/secure/YCuoNibMANNeXLwwlblFnYBenMcqzMcz/rtmp/stream/BRfvN2_jlrts2m2KMpWawUragRvcfuTgu-L4ruyuS3kZ57xiynYt5Yv7OK6PZ52Wsat0QLLSt2r5aQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fenerbahçe vs Slavia Prague (HD)" tvg-name="Fenerbahçe vs Slavia Prague (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", Fenerbahçe vs Slavia Prague (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb2.strmd.st/secure/dlMuGOgPtpMJtrVxoGKsbxRnGWGWGUKo/ingest/stream/streamedtntsport3hd/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fenerbahçe vs Slavia Prague (SD)" tvg-name="Fenerbahçe vs Slavia Prague (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", Fenerbahçe vs Slavia Prague (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb2.strmd.st/secure/hmjvzkAEGLXrsCsEOuugGgktNjbPLnPB/ingest/stream/streamedtntsport3hd/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fenerbahçe vs Slavia Prague (HD)" tvg-name="Fenerbahçe vs Slavia Prague (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", Fenerbahçe vs Slavia Prague (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/nNMdEoOmGuybRijkOLaYQZpglplMGSmi/ingest/stream/streamedevent1/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fenerbahçe vs Slavia Prague (SD)" tvg-name="Fenerbahçe vs Slavia Prague (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", Fenerbahçe vs Slavia Prague (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/SjSztcOXoQuDYpfAvgSCIRsRZhiRgYjJ/ingest/stream/streamedevent1/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fenerbahçe vs Slavia Prague (HD)" tvg-name="Fenerbahçe vs Slavia Prague (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", Fenerbahçe vs Slavia Prague (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb9.strmd.st/secure/YLNCZaJRpcpXmdORnhTqrFTYYFZNYsbG/hotel/stream/fenerbahce-vs-slavia-prague-uefa-champions-league-1792512000/1/playlist.m3u8
 

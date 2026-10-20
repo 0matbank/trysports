@@ -1,11 +1,128 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-10-20 | 18:19:04",
-  "updated_at_bd": "2026-10-20T18:19:04+06:00",
+  "total_items": 14,
+  "total_matches": 2,
+  "total_streams": 14,
+  "updated_time_bd": "2026-10-20 | 23:20:38",
+  "updated_at_bd": "2026-10-20T23:20:38+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "sabah-baku-vs-borussia-dortmund-2594675",
+      "title": "Sabah Baku vs Borussia Dortmund",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "20 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792514700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT Sports 2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/yINZIypVtRoPSkCFMViCxaszUNdfVFsO/rtmp/stream/-WXXGkwgWAOgM2K-qXojGEaZwwfeW8DUNG53F5HwBYqgSQ9a4rnofBN94tQRa3ykVgxDUf7b/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT Sports 2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/iGkHhZiEjupPNcFzOkrzXaBZcIUUKZBc/rtmp/stream/vmniRbUcBXM0d1krwIa0X5wrjjFYtLCjMsFedE3O29zz32N0cqmzzOxchZ7cD3ldyrEFdiI_JOjiXg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sabah Baku vs Borussia Dortmund (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/nBKQOhEmuAyJSzffPUWlAWuSYTNlTubA/ingest/stream/streamedtntsport2hd/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sabah Baku vs Borussia Dortmund (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb1.strmd.st/secure/svnMjRbbMBtAuIlsnKZzVBSPexCPEXRH/ingest/stream/streamedtntsport2hd/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sabah Baku vs Borussia Dortmund (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/VBwRuyMLhnfFdSlxkLGpZdWQQxjEfyKx/ingest/stream/streamedevent2/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sabah Baku vs Borussia Dortmund (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb1.strmd.st/secure/EyQXyHIPGSDWXPFvXvBgecODCRBHKgUV/ingest/stream/streamedevent2/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Sabah Baku vs Borussia Dortmund (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb1.strmd.st/secure/gZknOgUfHLQTfrLCSElUPTfNLjtQmfvi/hotel/stream/sabah-fk-vs-borussia-dortmund-uefa-champions-league-1792512000/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "fenerbah-e-vs-slavia-prague-2594654",
+      "title": "Fenerbahçe vs Slavia Prague",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "20 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792514700000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT Sports 3 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/DlFXVEhbdBtkbeBhtMuIIErcSkjLJeQA/rtmp/stream/EWptS-bRxfA642xRt4KK5IAxcwUw3xHCLo2AP36hYPPE9cIQ6QcDLI-fkJWZOiG2UArXK8qR/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT Sports 3 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/YCuoNibMANNeXLwwlblFnYBenMcqzMcz/rtmp/stream/BRfvN2_jlrts2m2KMpWawUragRvcfuTgu-L4ruyuS3kZ57xiynYt5Yv7OK6PZ52Wsat0QLLSt2r5aQ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fenerbahçe vs Slavia Prague (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/dlMuGOgPtpMJtrVxoGKsbxRnGWGWGUKo/ingest/stream/streamedtntsport3hd/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fenerbahçe vs Slavia Prague (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/hmjvzkAEGLXrsCsEOuugGgktNjbPLnPB/ingest/stream/streamedtntsport3hd/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fenerbahçe vs Slavia Prague (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/nNMdEoOmGuybRijkOLaYQZpglplMGSmi/ingest/stream/streamedevent1/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fenerbahçe vs Slavia Prague (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb9.strmd.st/secure/SjSztcOXoQuDYpfAvgSCIRsRZhiRgYjJ/ingest/stream/streamedevent1/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Fenerbahçe vs Slavia Prague (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb9.strmd.st/secure/YLNCZaJRpcpXmdORnhTqrFTYYFZNYsbG/hotel/stream/fenerbahce-vs-slavia-prague-uefa-champions-league-1792512000/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }

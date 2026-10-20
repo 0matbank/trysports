@@ -1,30 +1,57 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 155,
-  "total_matches": 155,
+  "total_items": 160,
+  "total_matches": 160,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-20 | 18:19:04",
-  "updated_at_bd": "2026-10-20T18:19:04+06:00",
+  "updated_time_bd": "2026-10-20 | 23:20:38",
+  "updated_at_bd": "2026-10-20T23:20:38+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "fenerbah-e-vs-slavia-prague-2594654",
-      "title": "Fenerbahçe vs Slavia Prague",
+      "id": "goals-show-xtra-tnt-uefa-champions-league-1792519200",
+      "title": "Goals Show Xtra (TNT)",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "20 Oct 2026, 10:45 PM (BD Time)",
-      "start_epoch_ms": 1792514700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
+      "start_time_bd": "21 Oct 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1792519200000,
+      "poster": "https://streamed.pk/favicon.ico"
     },
     {
-      "id": "sabah-baku-vs-borussia-dortmund-2594675",
-      "title": "Sabah Baku vs Borussia Dortmund",
+      "id": "ppv-the-golazo-show",
+      "title": "The Golazo Show",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "20 Oct 2026, 10:45 PM (BD Time)",
-      "start_epoch_ms": 1792514700000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp"
+      "start_time_bd": "21 Oct 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1792519200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp"
+    },
+    {
+      "id": "rochdale-vs-grimsby-town-2500280",
+      "title": "Rochdale vs Grimsby Town",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "21 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1792521900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMVBSQIYNu4g+O3CAghtZmIcMFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
+    },
+    {
+      "id": "walsall-vs-oldham-athletic-2500281",
+      "title": "Walsall vs Oldham Athletic",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "21 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1792521900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHChAC+YEHpDct+nBBBSQpmEZAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "wolverhampton-wanderers-vs-portsmouth-2501310",
+      "title": "Wolverhampton Wanderers vs Portsmouth",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "21 Oct 2026, 12:45 AM (BD Time)",
+      "start_epoch_ms": 1792521900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCHop+uMCRDcQfECZwQQUoyA2IpBYEgp9hsrXrba2e8vSyztTLRg7vSiEEA.webp"
     },
     {
       "id": "liverpool-vs-villarreal-2594542",
@@ -151,6 +178,15 @@
       "start_time_bd": "22 Oct 2026, 12:00 AM (BD Time)",
       "start_epoch_ms": 1792605600000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAVSRgBAnNxB8QRiCBQgYIEycMoCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "ppv-the-golazo-show",
+      "title": "The Golazo Show",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "22 Oct 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1792605600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp"
     },
     {
       "id": "2405",
@@ -286,6 +322,15 @@
       "start_time_bd": "22 Oct 2026, 08:30 PM (BD Time)",
       "start_epoch_ms": 1792679400000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCGGSQVEFmASS46fLLysk4LIk1ZKEIgDG40lpBKNOs-DMgU5CKDCCRTbPTCFgSXIftDnVkdhU3sCYBswZwVTCCA.webp"
+    },
+    {
+      "id": "ppv-the-golazo-show",
+      "title": "The Golazo Show",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "22 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1792684800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNhFSsIAMbiQMUiCohhICCHgi5anZpnqUIGZpBqVwCNi2KN4ifzCCpBSY8LAkuWRKHPWa2FSejdtMGcrEIggA.webp"
     },
     {
       "id": "ppv-ararat-armenia-vs-az-alkmaar",
