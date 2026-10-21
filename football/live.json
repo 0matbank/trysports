@@ -1,11 +1,96 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-10-21 | 05:25:46",
-  "updated_at_bd": "2026-10-21T05:25:46+06:00",
+  "total_items": 6,
+  "total_matches": 3,
+  "total_streams": 6,
+  "updated_time_bd": "2026-10-21 | 07:53:23",
+  "updated_at_bd": "2026-10-21T07:53:23+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "atl-tico-de-san-luis-vs-quer-taro-2487561",
+      "title": "Atlético de San Luis vs Querétaro",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "21 Oct 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1792544400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRMOAQQw8SJkgUIGMERkqixcBqTJWbSGkBjVfKPKt8VZo0wQW-mEEim2emELAkuIyiHluTggXMj8CUzAnKVIpIA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - ViX Premium Deportes 4 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRMOAQQw8SJkgUIGMERkqixcBqTJWbSGkBjVfKPKt8VZo0wQW-mEEim2emELAkuIyiHluTggXMj8CUzAnKVIpIA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb17.strmd.st/secure/GgfsgLSYGolqwiZumEvyMfWxYPWMBGgs/rtmp/stream/v-pyhDLAT3hdkhsaYpexFzf5cEZas_X621Ehf_kHSJo_cwrRGK_NLuYfqb-QdsWZewizTv4KvUk/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - ViX Premium Deportes 4 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRMOAQQw8SJkgUIGMERkqixcBqTJWbSGkBjVfKPKt8VZo0wQW-mEEim2emELAkuIyiHluTggXMj8CUzAnKVIpIA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb17.strmd.st/secure/iKMGJqvZkEobyyoHpyzsKmZSmTzWJXZO/rtmp/stream/dAZy_GY9zpfOVlhtWmZ-NPfOJb9k8TAl8PB2sF49D1cGiruU_H5-SHj0s5G9DoeDz8L2h1Ib_B_G6L05/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ju-rez-vs-atlante-2487560",
+      "title": "Juárez vs Atlante",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "21 Oct 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1792544400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMxAotYZSG4g+IYxBCmYIEiAtGpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - SportsGrid (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMxAotYZSG4g+IYxBCmYIEiAtGpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb17.strmd.st/secure/TYWNafhhyOakvqwObofjxOfiRsRHIJML/rtmp/stream/9qrFu1koTH3xaz9mLXAv7LJ6o_VaUzW3k1e6xHcJxkei5VkPJSgpythUonOvngMWpGXFWgIcw-w/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - SportsGrid (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMxAotYZSG4g+IYxBCmYIEiAtGpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb17.strmd.st/secure/cycvoZssyEaMeprnzNniERYvriKdvfLH/rtmp/stream/EQ6NXXieqYuyb0zhGv77VRvQYQDQdTSYGbyq81H902fY-5bDERu1vX-hf5Os7Y3SOhDpNQFIphJv1FIp/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "cd-guadalajara-vs-necaxa-2487562",
+      "title": "CD Guadalajara vs Necaxa",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "21 Oct 2026, 06:07 AM (BD Time)",
+      "start_epoch_ms": 1792541220000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECkpg+FKRpDcQfECYggzMECRCXjGpkgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - UNIVERSO (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECkpg+FKRpDcQfECYggzMECRCXjGpkgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb11.strmd.st/secure/QNGNiPWgCFjgiYUSQuQMhXYhDKvZPNCF/rtmp/stream/5C5q-t07UdCPApf9SGC_gIBQRdOBFd8kiY-JrxVcLQdGAK6q-KRrmgcdHbolTluSuPj9gn2FLpwpOA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - UNIVERSO (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECkpg+FKRpDcQfECYggzMECRCXjGpkgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb11.strmd.st/secure/ouJoCwfVleSmrCfpjXUyAamoxhEFGCjk/rtmp/stream/mnv_vnB6SdjZsD2dzpkkN36xVRJ9p8YylKvcDc0RfKUteBj7XIq6yaNWIgZ9Hgv6aTsYSrnh3L0V1aFaSL8/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
