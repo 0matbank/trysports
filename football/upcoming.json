@@ -1,22 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 144,
-  "total_matches": 144,
+  "total_items": 143,
+  "total_matches": 143,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-21 | 07:53:23",
-  "updated_at_bd": "2026-10-21T07:53:23+06:00",
+  "updated_time_bd": "2026-10-21 | 12:47:39",
+  "updated_at_bd": "2026-10-21T12:47:39+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "tigres-uanl-vs-le-n-2487563",
-      "title": "Tigres UANL vs León",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "21 Oct 2026, 09:00 AM (BD Time)",
-      "start_epoch_ms": 1792551600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMksggUYEiG4g+IYxBCmYIPRaMoCwJBT7DZ9HSpRdd5ellkemtGC6YqIQQA.webp"
-    },
     {
       "id": "como-vs-manchester-united-2594667",
       "title": "Como vs Manchester United",
@@ -43,6 +34,15 @@
       "start_time_bd": "22 Oct 2026, 12:00 AM (BD Time)",
       "start_epoch_ms": 1792605600000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAVSRgBAnNxB8QRiCBQgYIEycMoCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "ppv-the-golazo-show",
+      "title": "The Golazo Show",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "22 Oct 2026, 12:00 AM (BD Time)",
+      "start_epoch_ms": 1792605600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp"
     },
     {
       "id": "2405",
@@ -178,15 +178,6 @@
       "start_time_bd": "22 Oct 2026, 08:30 PM (BD Time)",
       "start_epoch_ms": 1792679400000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbUIpgYMChDcQfECeP7ExiCCtSCwJBT7DZ9FGBXa278vSyztTLS6ovQhQA.webp"
-    },
-    {
-      "id": "ppv-the-golazo-show",
-      "title": "The Golazo Show",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Oct 2026, 10:00 PM (BD Time)",
-      "start_epoch_ms": 1792684800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNhFSsIAMbiQMUiCohhICCHgi5anZpnqUIGZpBqVwCNi2KN4ifzCCpBSY8LAkuWRKHPWa2FSejdtMGcrEIggA.webp"
     },
     {
       "id": "ararat-armenia-vs-az-alkmaar-2594944",
