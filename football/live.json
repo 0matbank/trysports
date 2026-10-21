@@ -1,11 +1,128 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-10-21 | 18:28:51",
-  "updated_at_bd": "2026-10-21T18:28:51+06:00",
+  "total_items": 14,
+  "total_matches": 2,
+  "total_streams": 14,
+  "updated_time_bd": "2026-10-21 | 23:35:08",
+  "updated_at_bd": "2026-10-21T23:35:08+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "como-vs-manchester-united-2594667",
+      "title": "Como vs Manchester United",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "21 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792601100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLNBDAkIGCBIhuIPiFMmUh-SCkgLjbRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT Sports 2 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLNBDAkIGCBIhuIPiFMmUh-SCkgLjbRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/rEqlnxBMZxoiRDRulvpngYJZxiAGGOjC/rtmp/stream/kdNzb0BMuJQb6g_AgqBYZwUV0NkgVy3jIhoYKSH_5ui9n6v_NFswDg1NRnAJNlmYa0mAp7Ek/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT Sports 2 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLNBDAkIGCBIhuIPiFMmUh-SCkgLjbRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/tzcpdcybGitAVseRUGzTjhcoOgpdLGRF/rtmp/stream/Anf1VWsiSvLObljYaEyBN4JsHc2OIT6YcO_Ik6XIOrJC_Gu7du5qZE4jhkTX-j-rDHyvvKa3VTXeUw/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Como vs Manchester United (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLNBDAkIGCBIhuIPiFMmUh-SCkgLjbRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/SBDUYgmdfIUnUxQlYnGpDFTEmgxOeusd/ingest/stream/streamedtntsport2hd/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Como vs Manchester United (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLNBDAkIGCBIhuIPiFMmUh-SCkgLjbRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/mGSBYGngNRuOOzhBgEHnQvSVPmtcjpJp/ingest/stream/streamedtntsport2hd/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Como vs Manchester United (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLNBDAkIGCBIhuIPiFMmUh-SCkgLjbRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/GvMsvEmyCXIEAwBrlJTUSQTOedGdOSMo/ingest/stream/streamedevent1/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Como vs Manchester United (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLNBDAkIGCBIhuIPiFMmUh-SCkgLjbRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb3.strmd.st/secure/qeGfdmXSPuPTAnkAzXOHsHXMRBxYGRiO/ingest/stream/streamedevent1/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Como vs Manchester United (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLNBDAkIGCBIhuIPiFMmUh-SCkgLjbRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/RcPyBhnIDCziHDSqsdBXLyUYdlEkorjr/hotel/stream/como-vs-manchester-united-uefa-champions-league-1792598400/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "lille-vs-galatasaray-2594557",
+      "title": "Lille vs Galatasaray",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "21 Oct 2026, 10:45 PM (BD Time)",
+      "start_epoch_ms": 1792601100000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMzADRKSCG4g+IY0ZT6QJCyDMkCwJBT7DZ9XSpRcwZeESyyPTLRgXmKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT Sports 4 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMzADRKSCG4g+IY0ZT6QJCyDMkCwJBT7DZ9XSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb3.strmd.st/secure/NNZsOAvPbcGTwbTxnfCQGsDfWxZcphRJ/rtmp/stream/4OtY9idPuZHvJ7rU7ha6AHHugZPwuimjqS8_zEDeKTe6thowvdRIOL4esTUhs3KolK4Ct9wn/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT Sports 4 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMzADRKSCG4g+IY0ZT6QJCyDMkCwJBT7DZ9XSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb24.strmd.st/secure/NepSnrAeTzsfUUvRpQPFZhKSJhhMwxzY/rtmp/stream/RqDIYxurXfIJQh4AFdP20uWoETMsBxF1BFW5GE1hBDS1QbisOE0CsomdpxR5_4VtNTIFFq4RFKUGNg/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Lille vs Galatasaray (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMzADRKSCG4g+IY0ZT6QJCyDMkCwJBT7DZ9XSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb24.strmd.st/secure/dpFejqVqnbuZvhgFuXYGTjNQgCsLVgGq/ingest/stream/streamedtntsport4hd/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Lille vs Galatasaray (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMzADRKSCG4g+IY0ZT6QJCyDMkCwJBT7DZ9XSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb24.strmd.st/secure/tWBmiurtIUpBvtHnGpkyPMmvJDfmdUoT/ingest/stream/streamedtntsport4hd/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Lille vs Galatasaray (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMzADRKSCG4g+IY0ZT6QJCyDMkCwJBT7DZ9XSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb24.strmd.st/secure/lHipXUHoNXTaEukBFFFDmCmDLJoAkBZJ/ingest/stream/streamedevent2/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Lille vs Galatasaray (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMzADRKSCG4g+IY0ZT6QJCyDMkCwJBT7DZ9XSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb31.strmd.st/secure/yCpZAccAtBHNgucSyIvNQJSFWtDXtCgW/ingest/stream/streamedevent2/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Lille vs Galatasaray (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMzADRKSCG4g+IY0ZT6QJCyDMkCwJBT7DZ9XSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb31.strmd.st/secure/rxGddwSXDwKGBVmmULeGoMaSrDhCuEin/hotel/stream/lille-vs-galatasaray-uefa-champions-league-1792598400/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }

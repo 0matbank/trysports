@@ -1,31 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 143,
-  "total_matches": 143,
+  "total_items": 142,
+  "total_matches": 142,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-21 | 18:28:51",
-  "updated_at_bd": "2026-10-21T18:28:51+06:00",
+  "updated_time_bd": "2026-10-21 | 23:35:08",
+  "updated_at_bd": "2026-10-21T23:35:08+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "como-vs-manchester-united-2594667",
-      "title": "Como vs Manchester United",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "21 Oct 2026, 10:45 PM (BD Time)",
-      "start_epoch_ms": 1792601100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLNBDAkIGCBIhuIPiFMmUh-SCkgLjbRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "lille-vs-galatasaray-2594557",
-      "title": "Lille vs Galatasaray",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "21 Oct 2026, 10:45 PM (BD Time)",
-      "start_epoch_ms": 1792601100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMzADRKSCG4g+IY0ZT6QJCyDMkCwJBT7DZ9XSpRcwZeESyyPTLRgXmKiEEA.webp"
-    },
     {
       "id": "levante-vs-athletic-bilbao-2506222",
       "title": "Levante vs Athletic Bilbao",
@@ -79,6 +61,15 @@
       "start_time_bd": "22 Oct 2026, 01:00 AM (BD Time)",
       "start_epoch_ms": 1792609200000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPQAMDEOBS6Q3EHwMn9RkiCnGNBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
+    },
+    {
+      "id": "goals-show-xtra-tnt-uefa-champions-league-1792609200",
+      "title": "Goals Show Xtra (TNT)",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "22 Oct 2026, 01:00 AM (BD Time)",
+      "start_epoch_ms": 1792609200000,
+      "poster": "https://streamed.pk/favicon.ico"
     },
     {
       "id": "inter-milan-vs-shakhtar-donetsk-2594613",
