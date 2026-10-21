@@ -1,112 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 142,
-  "total_matches": 142,
+  "total_items": 131,
+  "total_matches": 131,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-21 | 23:35:08",
-  "updated_at_bd": "2026-10-21T23:35:08+06:00",
+  "updated_time_bd": "2026-10-22 | 02:54:12",
+  "updated_at_bd": "2026-10-22T02:54:12+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "levante-vs-athletic-bilbao-2506222",
-      "title": "Levante vs Athletic Bilbao",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Oct 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1792605600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAVSRgBAnNxB8QRiCBQgYIEycMoCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "ppv-the-golazo-show",
-      "title": "The Golazo Show",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Oct 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1792605600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjjswCOJBUQEGSRCJEw4IlWaJUzYpBLZIVShDm5E1TUT5yygUJFMZKcoWBJcAY3dCwbk5lTTJ3Ai1yQNlSWSA.webp"
-    },
-    {
-      "id": "2405",
-      "title": "Internazionale - Shakhtar Donetsk",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792609200000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "aston-villa-vs-viking-2594554",
-      "title": "Aston Villa vs Viking",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792609200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKPRwxgMqSG4g+IY0ZT6QJCyDONgSCn2Gz6KMCpRc35TbI9NaYG5iohBAA.webp"
-    },
-    {
-      "id": "bayern-munich-vs-arsenal-2594567",
-      "title": "Bayern Munich vs Arsenal",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792609200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzkQwGepAwQ3EHxCmTKQyBIgp+qwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
-    },
-    {
-      "id": "club-brugge-vs-lens-2594645",
-      "title": "Club Brugge vs Lens",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792609200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPQAMDEOBS6Q3EHwMn9RkiCnGNBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-    },
-    {
-      "id": "goals-show-xtra-tnt-uefa-champions-league-1792609200",
-      "title": "Goals Show Xtra (TNT)",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792609200000,
-      "poster": "https://streamed.pk/favicon.ico"
-    },
-    {
-      "id": "inter-milan-vs-shakhtar-donetsk-2594613",
-      "title": "Inter Milan vs Shakhtar Donetsk",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792609200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKPpSwSIkhDcQfECeMoDGkFJAQjBYLpj9hs+ijAqUXD+XpZZXky0YB5imkA.webp"
-    },
-    {
-      "id": "real-betis-vs-feyenoord-2594632",
-      "title": "Real Betis vs Feyenoord",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792609200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUNxD1uYMps18QRwyhCaSIKZZDwCwJBT7DZ9FLrYouu8vSyzPTLRg7vSiEEA.webp"
-    },
-    {
-      "id": "real-madrid-vs-rb-leipzig-2594627",
-      "title": "Real Madrid vs RB Leipzig",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792609200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcCmb9gUhCG4g+IY0ZT6QJEFIsgUBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp"
-    },
-    {
-      "id": "sporting-cp-vs-lask-2594598",
-      "title": "Sporting CP vs LASK",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792609200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKhBBStYJPxDcQfECeMoDIElpCIJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
     {
       "id": "fc-cincinnati-vs-dc-united-2407041",
       "title": "FC Cincinnati vs DC United",
