@@ -1,31 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 128,
-  "total_matches": 128,
+  "total_items": 126,
+  "total_matches": 126,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-22 | 07:58:40",
-  "updated_at_bd": "2026-10-22T07:58:40+06:00",
+  "updated_time_bd": "2026-10-22 | 13:20:49",
+  "updated_at_bd": "2026-10-22T13:20:49+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "pachuca-vs-cruz-azul-2487568",
-      "title": "Pachuca vs Cruz Azul",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Oct 2026, 09:00 AM (BD Time)",
-      "start_epoch_ms": 1792638000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGD4hRABk46Q3EFpAgIZkDG2XTIeAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
-    },
-    {
-      "id": "santos-laguna-vs-pumas-unam-2487567",
-      "title": "Santos Laguna vs Pumas UNAM",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "22 Oct 2026, 09:10 AM (BD Time)",
-      "start_epoch_ms": 1792638600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjCasYJCBggIIbiD4hzRowZL7zuAsCQU+w2fU0qUXMGXhEssl5MtGA+YqIQQA.webp"
-    },
     {
       "id": "kairat-almaty-vs-panathinaikos-2594764",
       "title": "Kairat Almaty vs Panathinaikos",
