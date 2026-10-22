@@ -1,13 +1,97 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 2,
-  "total_matches": 1,
-  "total_streams": 2,
-  "updated_time_bd": "2026-10-22 | 05:48:36",
-  "updated_at_bd": "2026-10-22T05:48:36+06:00",
+  "total_items": 8,
+  "total_matches": 4,
+  "total_streams": 8,
+  "updated_time_bd": "2026-10-22 | 07:58:40",
+  "updated_at_bd": "2026-10-22T07:58:40+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "puebla-vs-monterrey-2487566",
+      "title": "Puebla vs Monterrey",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Oct 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1792630800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLB8tzYGD0huIPiFMQQ5mCBIgrpiUyQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - Liga MX (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLB8tzYGD0huIPiFMQQ5mCBIgrpiUyQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/UDcVTKFXymSiqluhsNiPhYGRVfHtnBnC/rtmp/stream/9mYAR-BVouW700SjlRV1TCwwTndrJLWco3oxXX3AauvNpCJExrQZBsUq4Ja50prCW9s3CFntFK0/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - Liga MX (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLB8tzYGD0huIPiFMQQ5mCBIgrpiUyQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/tSYOqDofdvLwVNFgbIeLiNXSessRrkqI/rtmp/stream/DZh0ueMOv1v-ZotQttL4ZJJaGpJCT5PtVMF7PdnvmOwxa4ewz18DGEeiMyWfoJiy7nBOyYLAtymLlH1z/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "atlas-vs-am-rica-2487565",
+      "title": "Atlas vs América",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Oct 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1792630800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUTPAQQvHNxB8QR7dpggSIM0ZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - Liga MX (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUTPAQQvHNxB8QR7dpggSIM0ZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb2.strmd.st/secure/DoGpTbzxfYdgjEfOhPFouFQvYyhSNjQZ/rtmp/stream/oWSr8sP-4mr5yrO3KNUDNK1vAKAPZEF9ivMngT7cTjzqhJHkxIOZZCXUznEf-U6LihzXtpnXGD8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - Liga MX (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUTPAQQvHNxB8QR7dpggSIM0ZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb2.strmd.st/secure/muePwtvcNQpdGRhdzAgqpRQHGLLaaOVF/rtmp/stream/6qya33ielezB6dyGboVjz8qLKEecuLDtsg6GNw932OlYPEHDYnhcxFB6gxJWGKNJBMMFZVBv9DG1axb8/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "toluca-vs-tijuana-2487564",
+      "title": "Toluca vs Tijuana",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "22 Oct 2026, 07:00 AM (BD Time)",
+      "start_epoch_ms": 1792630800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmVF8aIbiD4hDEEMZggSIM4ZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - Liga MX (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmVF8aIbiD4hDEEMZggSIM4ZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb24.strmd.st/secure/AZCOimbsteAuWGCwoPOmkZAfmpmKlDyJ/rtmp/stream/fVbGc4uIHe6ydg8HUL-B8Pl0cB3WsWwhovgxEgLb4flCNCPnzToRtHj6ZfbPySmiGPPCkVB2ZvA/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - Liga MX (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmVF8aIbiD4hDEEMZggSIM4ZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb24.strmd.st/secure/nNaltoHMDYIevsXCqvrZosftFeOfnHeK/rtmp/stream/E1fKcWsjFl1p35H_QQgUP-w71qFy6uf1C_WbsgeMSLCpeTCyAivPpSKwOkfuYY5MbiYVaKj95aQrOJVl/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "fc-cincinnati-vs-dc-united-2407041",
       "title": "FC Cincinnati vs DC United",
@@ -26,13 +110,13 @@
           "channel_name": "Apple TV (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHLRkoQ9fCG4g+IGCCmH9IRAZMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb9.strmd.st/secure/wDKKRSivjMDspwsSVMAQIVaPthtYBynH/rtmp/stream/jplvKGeJl226mU29CYXzBaaz1cSbn96yMaFCDIgnbwQuq4juoGdi8hpTlG78QNWJaPSCbFF_Opsd/1/playlist.m3u8"
+          "direct_stream_url": "https://lb24.strmd.st/secure/FzXcfMwCorUSNvRiawChgYZBneYdvsoK/rtmp/stream/CKzKdbUcpZLdpqJPILEH5sqhLp5v5zAwtzxSD1EZKs224dbekLza_jtQpqH5xLtoX8HUqFIdCmru/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHLRkoQ9fCG4g+IGCCmH9IRAZMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb9.strmd.st/secure/tFfdMMlskZLDShZsXCZJmiNadRQmYEld/rtmp/stream/SjEeqvT08PCiovtoUMUiSsFpA2odi6yA5m5m7meB5XmuYkDmc_exVyyyP4QW8THha0Vl6mqLoae5r_yxTA/1/playlist.m3u8"
+          "direct_stream_url": "https://lb24.strmd.st/secure/wAclVzKKvllLxkSQuqfcjTJIWsxFIRFO/rtmp/stream/Uvm3JcK1jxlTOYdR9kxbwGzg8amLJdqvU_ygEauAPaUVpXT3UtAvt9sNQdyzY8nTuJ1ETCzp7vzpQ0m5bA/1/playlist.m3u8"
         }
       ]
     }
