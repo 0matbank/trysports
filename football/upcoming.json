@@ -1,49 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 89,
-  "total_matches": 89,
+  "total_items": 85,
+  "total_matches": 85,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-23 | 20:26:17",
-  "updated_at_bd": "2026-10-23T20:26:17+06:00",
+  "updated_time_bd": "2026-10-24 | 00:37:58",
+  "updated_at_bd": "2026-10-24T00:37:58+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "elfsborg-vs-malm--2477948",
-      "title": "Elfsborg vs Malmö",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "23 Oct 2026, 11:00 PM (BD Time)",
-      "start_epoch_ms": 1792774800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rELLDEtibiD4hDEEIhKGQUkGb4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "v-ster-s-vs-halmstad-2398950",
-      "title": "Västerås vs Halmstad",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "23 Oct 2026, 11:00 PM (BD Time)",
-      "start_epoch_ms": 1792774800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQjKjg+IHd10hDEEIhIHjxkgWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "go-ahead-eagles-vs-telstar-2489147",
-      "title": "Go Ahead Eagles vs Telstar",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Oct 2026, 12:00 AM (BD Time)",
-      "start_epoch_ms": 1792778400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCFEkQ4AfhDcQfHblOGYIC4fgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "stuttgart-vs-borussia-m-nchengladbach-2508392",
-      "title": "Stuttgart vs Borussia Mönchengladbach",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Oct 2026, 12:30 AM (BD Time)",
-      "start_epoch_ms": 1792780200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECHpsZrUNxB8QJTSBgmzGxCQLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
     {
       "id": "brest-vs-nice-2489530",
       "title": "Brest vs Nice",
