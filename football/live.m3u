@@ -1,48 +1,34 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 6
-# UPDATED Time and date BD: 2026-10-24 | 00:37:58
+# TOTAL-ITEMS: 4
+# UPDATED Time and date BD: 2026-10-24 | 03:40:20
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
-#EXTINF:-1 tvg-id="Dutch - ESPN2 (HD)" tvg-name="Dutch - ESPN2 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCFEkQ4AfhDcQfHblOGYIC4fgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Dutch - ESPN2 (HD)
+#EXTINF:-1 tvg-id="Ipswich Town vs Nottingham Forest (HD)" tvg-name="Ipswich Town vs Nottingham Forest (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiCkgYIRCGAAGENxAaQICCBIWQKXTYVMkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Football", Ipswich Town vs Nottingham Forest (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/cGGYunSoaLlijnmitoIjUytmnjiZFOrZ/rtmp/stream/xlm17KVtTb4Ho8VD2NUSxI-lkSivBp-iaVjgYw3uSBodXkjTDh7UYcsN66a74sSqfH1lRNRleKys/1/playlist.m3u8
+https://lb22.strmd.st/secure/OTdvfvcwtoqDMoNLMakeKvfusTdWevjP/ingest/stream/streamedwesthamunited/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dutch - ESPN2 (SD)" tvg-name="Dutch - ESPN2 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCFEkQ4AfhDcQfHblOGYIC4fgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Dutch - ESPN2 (SD)
+#EXTINF:-1 tvg-id="Ipswich Town vs Nottingham Forest (SD)" tvg-name="Ipswich Town vs Nottingham Forest (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiCkgYIRCGAAGENxAaQICCBIWQKXTYVMkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Football", Ipswich Town vs Nottingham Forest (SD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb13.strmd.st/secure/ttstEfNebnNzbyqKijcTzcsGLtfxheRm/rtmp/stream/bOYdbERBHbOU6JBWQ969N3SuBgHuBsMyP0jg_9fjMJjVCntohq7q6nSE8uIXtRwcBhod1kJOroLjs1i1AA/1/playlist.m3u8
+https://lb22.strmd.st/secure/dHOTixaECOvKWowCDrPQOAiwcWltgcwK/ingest/stream/streamedwesthamunited/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Swedish - TV4 Fotboll (HD)" tvg-name="Swedish - TV4 Fotboll (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rELLDEtibiD4hDEEIhKGQUkGb4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Swedish - TV4 Fotboll (HD)
+#EXTINF:-1 tvg-id="Ipswich Town vs Nottingham Forest (HD)" tvg-name="Ipswich Town vs Nottingham Forest (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiCkgYIRCGAAGENxAaQICCBIWQKXTYVMkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Football", Ipswich Town vs Nottingham Forest (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb21.strmd.st/secure/UHysgjIqbAdFmswAYGmBPSVHlJOaliPA/rtmp/stream/N7UYMPRMFpUOMbZ6EvPSvtx0tVaYw-ub2fc6KQhprD2Xhot896tWiZ-y9n81CvOY7V1DG4AcSL5MznHO/1/playlist.m3u8
+https://lb22.strmd.st/secure/RjKbDXQLkrwvDORfkdbddRdXsoOvEksR/hotel/stream/ipswich-town-vs-nottingham-forest-premier-league-1792780200/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Swedish - TV4 Fotboll (SD)" tvg-name="Swedish - TV4 Fotboll (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rELLDEtibiD4hDEEIhKGQUkGb4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp" group-title="Football", Swedish - TV4 Fotboll (SD)
+#EXTINF:-1 tvg-id="4K UHD (HD)" tvg-name="4K UHD (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiCkgYIRCGAAGENxAaQICCBIWQKXTYVMkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="Football", 4K UHD (HD)
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb21.strmd.st/secure/hfXuqIFlyIQfvuRIZOQIAfXnInrNeyIX/rtmp/stream/5CKG2tJjtaXTj2b5JlXPGBvGbqW_sjAcpTSgAAgf2CxhNnspRs0_g8aQts0B9C_0s9CPp1ac94VJXxODqBPgaQ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Swedish - TV4 Sport Live 1 (HD)" tvg-name="Swedish - TV4 Sport Live 1 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQjKjg+IHd10hDEEIhIHjxkgWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football", Swedish - TV4 Sport Live 1 (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb21.strmd.st/secure/OtuNYczqXzphohwwoxkLnckNLLYMYEye/rtmp/stream/DsAHGQL5SeDRR3_4qRIyR4qGWnrcOHjWYBSRaQ5W3GDYeCGsVqko7UcMQGzcs1zA0IQbYM0YOpUfo_4bEXjX/1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Swedish - TV4 Sport Live 1 (SD)" tvg-name="Swedish - TV4 Sport Live 1 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQjKjg+IHd10hDEEIhIHjxkgWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="Football", Swedish - TV4 Sport Live 1 (SD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://lb21.strmd.st/secure/AcuZRtzmiFLmJrPckJImlETNNElaJUNb/rtmp/stream/vksDywqnhp_CFUxQUh21qceoehw5l8dCRktvh7GVKv6hmi4EpWER5qu-rMJtjoi5NEQ1iY5KmPQPDdh0jsp8-4Q-Yw/1/playlist.m3u8
+https://lb22.strmd.st/secure/rpBaQHSdGWLMzVmWHOIDnIkXklNqonlr/hotel/stream/ipswich-town-vs-nottingham-forest-premier-league-1792780200/2/playlist.m3u8
 

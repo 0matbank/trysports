@@ -1,49 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 85,
-  "total_matches": 85,
+  "total_items": 81,
+  "total_matches": 81,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-24 | 00:37:58",
-  "updated_at_bd": "2026-10-24T00:37:58+06:00",
+  "updated_time_bd": "2026-10-24 | 03:40:20",
+  "updated_at_bd": "2026-10-24T03:40:20+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "brest-vs-nice-2489530",
-      "title": "Brest vs Nice",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1792781100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJBQAMIGfhB8Q3fSBIgIxnFJDWrEphpj9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-    },
-    {
-      "id": "torino-vs-monza-2482214",
-      "title": "Torino vs Monza",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Oct 2026, 12:45 AM (BD Time)",
-      "start_epoch_ms": 1792781100000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFGCkg+YECER8Q3bXpAxTKEJesgSBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp"
-    },
-    {
-      "id": "deportivo-alav-s-vs-m-laga-2506265",
-      "title": "Deportivo Alavés vs Málaga",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792782000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEBpC8mSMCS0g+miCBQgYIE-pONgumP2Gz6KPWxRc95ellkemtGBu9KIQQA.webp"
-    },
-    {
-      "id": "ipswich-town-vs-nottingham-forest-2494075",
-      "title": "Ipswich Town vs Nottingham Forest",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792782000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiCkgYIRCGAAGENxAaQICCBIWQKXTYVMkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
-    },
     {
       "id": "necaxa-vs-ju-rez-2487569",
       "title": "Necaxa vs Juárez",
