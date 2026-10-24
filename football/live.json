@@ -1,21 +1,49 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 6,
-  "total_matches": 3,
-  "total_streams": 6,
-  "updated_time_bd": "2026-10-25 | 03:31:26",
-  "updated_at_bd": "2026-10-25T03:31:26+06:00",
+  "total_items": 4,
+  "total_matches": 2,
+  "total_streams": 4,
+  "updated_time_bd": "2026-10-25 | 05:36:42",
+  "updated_at_bd": "2026-10-25T05:36:42+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
-      "id": "columbus-crew-vs-toronto-fc-2407158",
-      "title": "Columbus Crew vs Toronto FC",
+      "id": "le-n-vs-toluca-2487571",
+      "title": "León vs Toluca",
       "category": "football",
       "status": "LIVE_NOW",
-      "start_time_bd": "25 Oct 2026, 01:30 AM (BD Time)",
-      "start_epoch_ms": 1792870200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCQawAsKRDcQfDSClGDIRDhRGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+      "start_time_bd": "25 Oct 2026, 05:00 AM (BD Time)",
+      "start_epoch_ms": 1792882800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECgSgQA+iRDcdIYxBCmYIfReMkCwJBT7DZ9TSpRcwZeESyyPTLRgXmKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Spanish - Liga MX (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECgSgQA+iRDcdIYxBCmYIfReMkCwJBT7DZ9TSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb32.strmd.st/secure/ZtvyKUbmrBZxlwcOvGTBNmmjPxJBzjcy/rtmp/stream/lolQiMEnfVfxCR5qTWantHUeSbW4zHBOT9oLUwAC-PnX_BLrSb6MM-RWSsnRhRT7CTPFuAXvqfc/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Spanish - Liga MX (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECgSgQA+iRDcdIYxBCmYIfReMkCwJBT7DZ9TSpRcwZeESyyPTLRgXmKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb32.strmd.st/secure/xlySusChrBhOGDsNbSeLmacWInpeRZjX/rtmp/stream/RVsdJTxfPvayTgGQgn7S3MZovOOqQSBJakvFklJF_ROQuIqGCynohvlpYvofcvDoyma20vC7uE7OZins/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "new-york-red-bulls-vs-inter-miami-2407159",
+      "title": "New York Red Bulls vs Inter Miami",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Oct 2026, 03:30 AM (BD Time)",
+      "start_epoch_ms": 1792877400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMKBAlcwJCD4hu+kDBBTjRxEZyNdFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://embed.st/",
@@ -24,71 +52,15 @@
       "streams": [
         {
           "channel_name": "Apple TV (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCQawAsKRDcQfDSClGDIRDhRGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMKBAlcwJCD4hu+kDBBTjRxEZyNdFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb32.strmd.st/secure/twozmJDzWttnGevTyhgejsjeNwArDxXl/rtmp/stream/dAYvlzzKrpsogSg0vyvQ4YCgeoMDMxiBcqFkERVdjMFewWhc2pus34nlFhm0jei4oIS7_CkN_ucQ/1/playlist.m3u8"
+          "direct_stream_url": "https://lb32.strmd.st/secure/NNZKrAeHKANFABanWKzJGcWuasuTikAY/rtmp/stream/Za4yGYS_UdIb26pRH0s02ndBINokfKLW8SJerOzmuac-hg4PB9kzxqv1kTBFk2vMp84tf9syFP5aSQ/1/playlist.m3u8"
         },
         {
           "channel_name": "Apple TV (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCQawAsKRDcQfDSClGDIRDhRGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMKBAlcwJCD4hu+kDBBTjRxEZyNdFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb32.strmd.st/secure/SbutvbgbNgifsXMzPPaDdyxPgEBmhfgj/rtmp/stream/611OhMktiuaRBOBbxtDTCHW5rddEvqxDMlk5qtKZCIGmA48qHC5bfJptuy4a9nZbX2z-aZXPIYrgQ2FZsw/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "atl-tico-madrid-vs-deportivo-de-a-coru-a-2506260",
-      "title": "Atlético Madrid vs Deportivo de A Coruña",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "25 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792868400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUDC7cwA7iD18QRiCBQgYIEyRCISBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN+ (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUDC7cwA7iD18QRiCBQgYIEyRCISBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb32.strmd.st/secure/uvVcwNomQoJItvXaWPMCknzSPwTBlTcE/rtmp/stream/Imc0JBZxQtat7JolLkxw8851tCGISKss0Q8xEOjIKIeoftDUQO5fdHwMyYa3vuBBJKxT0CXlzAg/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "ESPN+ (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUDC7cwA7iD18QRiCBQgYIEyRCISBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb32.strmd.st/secure/pntvVgjDXCRSDCelupYWPJuQjLPpPKbd/rtmp/stream/Ranjr4KdiZx1LEHJwK7qVE8QerMGDyiiwMVRr0P29Kp_D0uttDGuhe1XuoAWDqhRIBJ13f9bpIO5j9EB/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "ado-den-haag-vs-heerenveen-2489150",
-      "title": "ADO Den Haag vs Heerenveen",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "25 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792868400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reqrlgQIKSG4g+O3CYMwQ5g1ILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Dutch - ESPN (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reqrlgQIKSG4g+O3CYMwQ5g1ILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb32.strmd.st/secure/FbjAkUEMECwMWQDKHUNeVpGTaCWoKBpi/rtmp/stream/dOfjt9KmPVdt9CxTGy-NKsHN4MeADeuLwuRIAaYpYMu5xZC_tFwFBmOUqoJKgUNSAyhBK9g9B4LC/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Dutch - ESPN (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reqrlgQIKSG4g+O3CYMwQ5g1ILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb32.strmd.st/secure/MpoogyWkAIoVOZLGsWexmLbJUvrIKbmX/rtmp/stream/6Q-jP1C1Ph5ufw_QzeOTMRM2YmjqnheZlKlB8X0Yw7TGSLmB5mkYfx1YHSMZzcqg_tUhqVDbMOsHDvOzMQ/1/playlist.m3u8"
+          "direct_stream_url": "https://lb32.strmd.st/secure/WjllsPthsCMSykVCFigsjXkZXLMjuqAN/rtmp/stream/eR2S_C2z1u73yqIARVJqMucbljk6QUYKdeS5zAJ0imMJIEeZqSUp-9dcbYhWOxgAazC3JkPgxOWfdqfJOc8/1/playlist.m3u8"
         }
       ]
     }
