@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 79,
-  "total_matches": 79,
+  "total_items": 84,
+  "total_matches": 84,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-24 | 10:25:05",
-  "updated_at_bd": "2026-10-24T10:25:05+06:00",
+  "updated_time_bd": "2026-10-24 | 15:02:02",
+  "updated_at_bd": "2026-10-24T15:02:02+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -126,6 +126,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDC8+IFER3cQOkCAggSp3Rsu6mSCn2Gz6elSi5gym+llnumtGCeYqIQQA.webp"
     },
     {
+      "id": "preston-north-end-vs-west-bromwich-albion-2501384",
+      "title": "Preston North End vs West Bromwich Albion",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "24 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1792850400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQAZgGkHzBkkIbrpCmcEEFJMoQNlAWBIKfYbPop9bFF33l6WWW8mWjBPelEIIA.webp"
+    },
+    {
+      "id": "scunthorpe-united-vs-woking-2528318",
+      "title": "Scunthorpe United vs Woking",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "24 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1792850400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMCm5oIEIm4g+IEoZAGDOE0akFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
+    },
+    {
+      "id": "stoke-city-vs-bristol-city-2501389",
+      "title": "Stoke City vs Bristol City",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "24 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1792850400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOHopcIbSRDcQfDToggpJmCCvwCwJBT7DZWsCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "wolverhampton-wanderers-vs-watford-2501381",
+      "title": "Wolverhampton Wanderers vs Watford",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "24 Oct 2026, 08:00 PM (BD Time)",
+      "start_epoch_ms": 1792850400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDkg+IErhAoQ3bRv0QQUk4cNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
       "id": "racing-de-santander-vs-espanyol-2506268",
       "title": "Racing de Santander vs Espanyol",
       "category": "football",
@@ -196,6 +232,15 @@
       "start_time_bd": "24 Oct 2026, 10:30 PM (BD Time)",
       "start_epoch_ms": 1792859400000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJNlyCkwKSG4g+IYyRAoQiA6YggYBYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "kidderminster-harriers-vs-worthing-2528326",
+      "title": "Kidderminster Harriers vs Worthing",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "24 Oct 2026, 10:30 PM (BD Time)",
+      "start_epoch_ms": 1792859400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEMHikQVEAGNJk8cBpThIGCtLAIILDJAlDyxIghKjiTbpgGrKcuYFCRTbPTCFgSXHIdCwbk5zYW0HAkUwQJ1tCCA.webp"
     },
     {
       "id": "valencia-vs-villarreal-2506262",
