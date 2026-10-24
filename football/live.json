@@ -1,52 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 4,
-  "total_matches": 1,
-  "total_streams": 4,
-  "updated_time_bd": "2026-10-24 | 03:40:20",
-  "updated_at_bd": "2026-10-24T03:40:20+06:00",
+  "total_items": 0,
+  "total_matches": 0,
+  "total_streams": 0,
+  "updated_time_bd": "2026-10-24 | 06:01:45",
+  "updated_at_bd": "2026-10-24T06:01:45+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": [
-    {
-      "id": "ipswich-town-vs-nottingham-forest-2494075",
-      "title": "Ipswich Town vs Nottingham Forest",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "24 Oct 2026, 01:00 AM (BD Time)",
-      "start_epoch_ms": 1792782000000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiCkgYIRCGAAGENxAaQICCBIWQKXTYVMkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Ipswich Town vs Nottingham Forest (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiCkgYIRCGAAGENxAaQICCBIWQKXTYVMkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb22.strmd.st/secure/OTdvfvcwtoqDMoNLMakeKvfusTdWevjP/ingest/stream/streamedwesthamunited/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Ipswich Town vs Nottingham Forest (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiCkgYIRCGAAGENxAaQICCBIWQKXTYVMkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb22.strmd.st/secure/dHOTixaECOvKWowCDrPQOAiwcWltgcwK/ingest/stream/streamedwesthamunited/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Ipswich Town vs Nottingham Forest (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiCkgYIRCGAAGENxAaQICCBIWQKXTYVMkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb22.strmd.st/secure/RjKbDXQLkrwvDORfkdbddRdXsoOvEksR/hotel/stream/ipswich-town-vs-nottingham-forest-premier-league-1792780200/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "4K UHD (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiCkgYIRCGAAGENxAaQICCBIWQKXTYVMkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb22.strmd.st/secure/rpBaQHSdGWLMzVmWHOIDnIkXklNqonlr/hotel/stream/ipswich-town-vs-nottingham-forest-premier-league-1792780200/2/playlist.m3u8"
-        }
-      ]
-    }
-  ]
+  "matches": []
 }
