@@ -1,67 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 84,
-  "total_matches": 84,
+  "total_items": 78,
+  "total_matches": 78,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-24 | 15:02:02",
-  "updated_at_bd": "2026-10-24T15:02:02+06:00",
+  "updated_time_bd": "2026-10-24 | 19:15:58",
+  "updated_at_bd": "2026-10-24T19:15:58+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "aston-villa-vs-manchester-city-2494077",
-      "title": "Aston Villa vs Manchester City",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Oct 2026, 05:30 PM (BD Time)",
-      "start_epoch_ms": 1792841400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxBQklBiBIhuGkCc2aIIGCf0mCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "rayo-vallecano-vs-elche-2506267",
-      "title": "Rayo Vallecano vs Elche",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Oct 2026, 06:00 PM (BD Time)",
-      "start_epoch_ms": 1792843200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCHpYxYbCG4g+IYxBAoQMTSBJWSBYEgp9hs+ijAqUXD+S2yvTLS6ovQhQA.webp"
-    },
-    {
-      "id": "cagliari-vs-bologna-2482209",
-      "title": "Cagliari vs Bologna",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1792846800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPGxyKonNxB8QJIyBQbzZiCAlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "como-vs-sassuolo-2482217",
-      "title": "Como vs Sassuolo",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1792846800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVgAYxGkDDohuIPiBImQKEIggGjIc0yQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "h-cken-vs-degerfors-2477949",
-      "title": "Häcken vs Degerfors",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1792846800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQAZgGsAKRhuIQ1JB8QJECZAhE1mCBQFg+mP2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp"
-    },
-    {
-      "id": "sirius-vs-aik-2398949",
-      "title": "Sirius vs AIK",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "24 Oct 2026, 07:00 PM (BD Time)",
-      "start_epoch_ms": 1792846800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWBQhuIeln7aQUkHxAkjIS4ksRLBYEgp9hs+ijAqUXD+T2yvTLRgHmKiEEA.webp"
-    },
     {
       "id": "augsburg-vs-union-berlin-2508391",
       "title": "Augsburg vs Union Berlin",
