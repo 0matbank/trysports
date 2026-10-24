@@ -1,31 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 51,
-  "total_matches": 51,
+  "total_items": 49,
+  "total_matches": 49,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-25 | 01:02:48",
-  "updated_at_bd": "2026-10-25T01:02:48+06:00",
+  "updated_time_bd": "2026-10-25 | 03:31:26",
+  "updated_at_bd": "2026-10-25T03:31:26+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "columbus-crew-vs-toronto-fc-2407158",
-      "title": "Columbus Crew vs Toronto FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "25 Oct 2026, 01:30 AM (BD Time)",
-      "start_epoch_ms": 1792870200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCQawAsKRDcQfDSClGDIRDhRGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "new-york-red-bulls-vs-inter-miami-2407159",
-      "title": "New York Red Bulls vs Inter Miami",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "25 Oct 2026, 03:30 AM (BD Time)",
-      "start_epoch_ms": 1792877400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMKBAlcwJCD4hu+kDBBTjRxEZyNdFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
     {
       "id": "le-n-vs-toluca-2487571",
       "title": "León vs Toluca",
