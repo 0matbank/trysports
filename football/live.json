@@ -1,13 +1,209 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 4,
-  "total_matches": 2,
-  "total_streams": 4,
-  "updated_time_bd": "2026-10-25 | 05:36:42",
-  "updated_at_bd": "2026-10-25T05:36:42+06:00",
+  "total_items": 16,
+  "total_matches": 8,
+  "total_streams": 16,
+  "updated_time_bd": "2026-10-25 | 07:37:39",
+  "updated_at_bd": "2026-10-25T07:37:39+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
+    {
+      "id": "sporting-kansas-city-vs-austin-fc-2407166",
+      "title": "Sporting Kansas City vs Austin FC",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Oct 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1792888200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiDiJaMjRr6aQUkAY2IcIEAqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiDiJaMjRr6aQUkAY2IcIEAqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb26.strmd.st/secure/MnpAhgVsqHzyMfxUjHtdlEQMdoLKinMk/rtmp/stream/YtQ42U4I5Z_lzUC_n-wYCklwNmNyLlhbvcR4NOqx2rKneL1ZPesKSV3Dre2s1zeMUCQMTcmTQmEK/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiDiJaMjRr6aQUkAY2IcIEAqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb26.strmd.st/secure/OTdxasNWVtbseBqQndrUjgeogTegqeCb/rtmp/stream/3C4l94pEaEWV-R5AfvU7OXV7yXPmpUR0kZjB0ETYkt657gFm732y2ucCi5ECZiaMs0-y-sULkK9e-f8nmA/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "fc-dallas-vs-san-jose-earthquakes-2407165",
+      "title": "FC Dallas vs San Jose Earthquakes",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Oct 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1792888200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGMQG0kYbiD18QMEFJCG9iYyBMFgOjX2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGMQG0kYbiD18QMEFJCG9iYyBMFgOjX2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/qxdBsQbZABaKrkGFVAMNzvzKwSHtchzI/rtmp/stream/jYZr4c0E4HA7turz9bTT-OqZjxD2jVUbtkgaSHaRVvQE5ZUIDnchcwVL0wSqJcGXZ7kNRwCq2LWZ/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGMQG0kYbiD18QMEFJCG9iYyBMFgOjX2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/iOsIjROLrDOuvtAFBhAxUTcMNRcLwfIE/rtmp/stream/b1366J6eNqc_VbeagbZ9_K88M28BFd5HT0KtzHAI_kdzfFhiNIY7Qn2zkfcl8L5zSMfBW5V0-9ZnbxBi6A/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "houston-dynamo-vs-minnesota-united-2407164",
+      "title": "Houston Dynamo vs Minnesota United",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Oct 2026, 06:30 AM (BD Time)",
+      "start_epoch_ms": 1792888200000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRCmKi+IKSG4gdMXYf0hEiA-ALAkFPsNn0UYFZravy9LLM1NaYK5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRCmKi+IKSG4gdMXYf0hEiA-ALAkFPsNn0UYFZravy9LLM1NaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb26.strmd.st/secure/HRVjSqoEpJOGzMDhiJjUPJApbwjfJdeY/rtmp/stream/p_pku2u6Nj9vw1SRB1D3BIvCNjpYftwXFGy1wq6TWtj_NeUd7h-2-k7wC8yh-75SjRqHO16Mzj0v/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRCmKi+IKSG4gdMXYf0hEiA-ALAkFPsNn0UYFZravy9LLM1NaYK5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb26.strmd.st/secure/JNRHLuJSGBDeeHWXRrbOBquAIkOrOsrH/rtmp/stream/02zeGI7JEwEl94Mu_ORdLpjBynPVW8xxWpAZSM1s6twjdTKEJUDZhKhj4-xRHIXiWVhNiVxWy93Nnv5-pQ/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "atlanta-united-vs-chicago-fire-2407163",
+      "title": "Atlanta United vs Chicago Fire",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Oct 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1792884600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGHDcKKdiG4g+IGCCmH9IRAcQgCwJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGHDcKKdiG4g+IGCCmH9IRAcQgCwJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb4.strmd.st/secure/DtvOvDYMoaYyZmPgnnUVfqniIZDdxQhn/rtmp/stream/LkOjVKCh80MSPHByoQ-PEKlDort_1RnrwCRvixZeBowGVurubE6cxZxDDWm4nMLgXzQXfVPFTsy2/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGHDcKKdiG4g+IGCCmH9IRAcQgCwJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb4.strmd.st/secure/BgAnmxddqALSaBQcgFwccPkFuVDxEHNS/rtmp/stream/yrC8AuMmxkwOwkO_CQS35Qvf8Dv43CpEFH1utojMRfkMH7HoKm67JDhDvuYTrrEK97iXx1cs9uwA4e_8hg/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "philadelphia-union-vs-new-england-revolution-2407162",
+      "title": "Philadelphia Union vs New England Revolution",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Oct 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1792884600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCFoCpIKDm4g+hkAaMlNuyyALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCFoCpIKDm4g+hkAaMlNuyyALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb10.strmd.st/secure/jNxQMVHDCbtIGrICSngXKfzgULCHzIkC/rtmp/stream/uBUl7aLsj3LtG8MLoVHc-zW3YO3JNvoq9ME4MLwOOv24p__8_c9cviVMKbYhMy80O4vUINgBWMMT/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCFoCpIKDm4g+hkAaMlNuyyALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb10.strmd.st/secure/IwNSNJrALEmAtJujPCKhnpUxCVFecOPU/rtmp/stream/c6VeIjFstj-Gj2SIa2Dn2CRBO7ps-DmVUkjtMnIpSdXzlKhgncF0pQQzJrRkoLv_QxXiiGEw2lbhHd4vjA/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "dc-united-vs-fc-cincinnati-2407161",
+      "title": "DC United vs FC Cincinnati",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Oct 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1792884600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHNwgBKLd20gYIKQf2IcISwWBIKfYbPoowKlFxfl6G0W6a0wLmKiEEA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHNwgBKLd20gYIKQf2IcISwWBIKfYbPoowKlFxfl6G0W6a0wLmKiEEA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb24.strmd.st/secure/JNXeOOVFlkfpjGmOOBoklDzelHyNWKaR/rtmp/stream/vj6EFBfB73UUOCA5Wxfm_lqdEFjUORl3fn1-LzOklzvLkuAgQAChsTI6V4jrerPFZwq_zhkXM30/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHNwgBKLd20gYIKQf2IcISwWBIKfYbPoowKlFxfl6G0W6a0wLmKiEEA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb24.strmd.st/secure/gqkcLgawgHMMdgZFiHBSOVqBzNETRZay/rtmp/stream/_G4_upR5rRZceSvrC9DgFKQxG3zwffJLSWUIINUlJTZISj5hp5htpgjG4DhwfrQRsUnBz_CtRi8Ys6fz/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "orlando-city-vs-new-york-city-fc-2407160",
+      "title": "Orlando City vs New York City FC",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Oct 2026, 05:30 AM (BD Time)",
+      "start_epoch_ms": 1792884600000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChBws-YAAYGIbiD5aQUk0ZCIbuAsCQU+w2fRRgVKLh-L0doryZaMA8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Apple TV (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChBws-YAAYGIbiD5aQUk0ZCIbuAsCQU+w2fRRgVKLh-L0doryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb24.strmd.st/secure/TAYmZmyJDVGslFCvSDietDhvpBdBZfQu/rtmp/stream/FJBKO6vV2aB5U5YgWZgvTGKOiobu3Nej3NsjZ8whBpUb9rs8_phFE202C2TgwtZ0UaOcdBj1fhvP/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Apple TV (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChBws-YAAYGIbiD5aQUk0ZCIbuAsCQU+w2fRRgVKLh-L0doryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb24.strmd.st/secure/hsoeBDknToqMjihUXnlUWalshuidjkgf/rtmp/stream/JTij_jJJqkAVXc3QMRPpepBv_ct4xBwHEhAVKXSjPDHollLSfNiEmN0-GrKo-dBk44ywJARmGOs5K5XCrw/1/playlist.m3u8"
+        }
+      ]
+    },
     {
       "id": "le-n-vs-toluca-2487571",
       "title": "León vs Toluca",
@@ -26,41 +222,13 @@
           "channel_name": "Spanish - Liga MX (HD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECgSgQA+iRDcdIYxBCmYIfReMkCwJBT7DZ9TSpRcwZeESyyPTLRgXmKiEEA.webp",
           "hd": true,
-          "direct_stream_url": "https://lb32.strmd.st/secure/ZtvyKUbmrBZxlwcOvGTBNmmjPxJBzjcy/rtmp/stream/lolQiMEnfVfxCR5qTWantHUeSbW4zHBOT9oLUwAC-PnX_BLrSb6MM-RWSsnRhRT7CTPFuAXvqfc/1/playlist.m3u8"
+          "direct_stream_url": "https://lb4.strmd.st/secure/KBcgGthJjtwtXEzcYJNVfnPQMliWPpHc/admin/stream/ppv-le-n-vs-toluca/1/playlist.m3u8"
         },
         {
           "channel_name": "Spanish - Liga MX (SD)",
           "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECgSgQA+iRDcdIYxBCmYIfReMkCwJBT7DZ9TSpRcwZeESyyPTLRgXmKiEEA.webp",
           "hd": false,
-          "direct_stream_url": "https://lb32.strmd.st/secure/xlySusChrBhOGDsNbSeLmacWInpeRZjX/rtmp/stream/RVsdJTxfPvayTgGQgn7S3MZovOOqQSBJakvFklJF_ROQuIqGCynohvlpYvofcvDoyma20vC7uE7OZins/1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "new-york-red-bulls-vs-inter-miami-2407159",
-      "title": "New York Red Bulls vs Inter Miami",
-      "category": "football",
-      "status": "LIVE_NOW",
-      "start_time_bd": "25 Oct 2026, 03:30 AM (BD Time)",
-      "start_epoch_ms": 1792877400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMKBAlcwJCD4hu+kDBBTjRxEZyNdFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://embed.st/",
-        "Origin": "https://embed.st"
-      },
-      "streams": [
-        {
-          "channel_name": "Apple TV (HD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMKBAlcwJCD4hu+kDBBTjRxEZyNdFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": true,
-          "direct_stream_url": "https://lb32.strmd.st/secure/NNZKrAeHKANFABanWKzJGcWuasuTikAY/rtmp/stream/Za4yGYS_UdIb26pRH0s02ndBINokfKLW8SJerOzmuac-hg4PB9kzxqv1kTBFk2vMp84tf9syFP5aSQ/1/playlist.m3u8"
-        },
-        {
-          "channel_name": "Apple TV (SD)",
-          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMKBAlcwJCD4hu+kDBBTjRxEZyNdFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-          "hd": false,
-          "direct_stream_url": "https://lb32.strmd.st/secure/WjllsPthsCMSykVCFigsjXkZXLMjuqAN/rtmp/stream/eR2S_C2z1u73yqIARVJqMucbljk6QUYKdeS5zAJ0imMJIEeZqSUp-9dcbYhWOxgAazC3JkPgxOWfdqfJOc8/1/playlist.m3u8"
+          "direct_stream_url": "https://lb4.strmd.st/secure/eIvVrhNeSgQngyhUhFwNDePLLxJxcZud/admin/stream/ppv-le-n-vs-toluca/2/playlist.m3u8"
         }
       ]
     }

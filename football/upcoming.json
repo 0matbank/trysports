@@ -1,67 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 44,
-  "total_matches": 44,
+  "total_items": 38,
+  "total_matches": 38,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-25 | 05:36:42",
-  "updated_at_bd": "2026-10-25T05:36:42+06:00",
+  "updated_time_bd": "2026-10-25 | 07:37:39",
+  "updated_at_bd": "2026-10-25T07:37:39+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "monterrey-vs-cd-guadalajara-2487572",
-      "title": "Monterrey vs CD Guadalajara",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "25 Oct 2026, 06:00 AM (BD Time)",
-      "start_epoch_ms": 1792886400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELRDE29HNxB8QRiCBMwQJEOaNSCwJBT7DZ9FGBUou78rtmemtGDuYqIQQA.webp"
-    },
-    {
-      "id": "colorado-rapids-vs-vancouver-whitecaps-2407167",
-      "title": "Colorado Rapids vs Vancouver Whitecaps",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "25 Oct 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1792888200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJmDpgBIfiG4g+IGCCmH9IRDhN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "fc-dallas-vs-san-jose-earthquakes-2407165",
-      "title": "FC Dallas vs San Jose Earthquakes",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "25 Oct 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1792888200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGMQG0kYbiD18QMEFJCG9iYyBMFgOjX2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "houston-dynamo-vs-minnesota-united-2407164",
-      "title": "Houston Dynamo vs Minnesota United",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "25 Oct 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1792888200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRCmKi+IKSG4gdMXYf0hEiA-ALAkFPsNn0UYFZravy9LLM1NaYK5iohBAA.webp"
-    },
-    {
-      "id": "real-salt-lake-vs-st--louis-city-sc-2407168",
-      "title": "Real Salt Lake vs St. Louis City SC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "25 Oct 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1792888200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCBhsKSbCG4g+h-cZIhEEEJZQFgurX2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "sporting-kansas-city-vs-austin-fc-2407166",
-      "title": "Sporting Kansas City vs Austin FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "25 Oct 2026, 06:30 AM (BD Time)",
-      "start_epoch_ms": 1792888200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiDiJaMjRr6aQUkAY2IcIEAqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
     {
       "id": "portland-timbers-vs-charlotte-fc-2407170",
       "title": "Portland Timbers vs Charlotte FC",
@@ -324,13 +270,13 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGBkpc-HiG4g+IYzhwGYICzhgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "paris-saint-germain-vs-lyon-2489533",
-      "title": "Paris Saint-Germain vs Lyon",
+      "id": "ppv-paris-saint-germain-vs-lyon",
+      "title": "Paris Saint-Germain vs. Lyon",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "26 Oct 2026, 01:45 AM (BD Time)",
       "start_epoch_ms": 1792957500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWAECm8MChDcQfECcM4IIfYYswCwJBT7DZ9FGBUou78vSyzPOsBg7mKiEEA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBAjJwRFUkgI2EAGNxweShDDgSiWRrCQMWQslL5ZHRJQbVk2-zCCRTbPTCFgSXCttDnViUdMlsCWXJnXVJdIA.webp"
     },
     {
       "id": "udinese-vs-ac-milan-2482211",
@@ -360,13 +306,13 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAKR0EckCRDcNIYxBCmYekBeN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
-      "id": "ppv-am-rica-vs-pachuca",
-      "title": "América vs. Pachuca",
+      "id": "am-rica-vs-pachuca-2487575",
+      "title": "América vs Pachuca",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "26 Oct 2026, 07:00 AM (BD Time)",
       "start_epoch_ms": 1792976400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkGSwgpEECmCJhI0iBgq142RGw7tU8Wu3j5SmcFniQwKvP5hBygjtuFgSXAGN5Q+6yOl6J3hye3MAiCA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAeF4AGYjm4g+IIxBAmYIEiHNGQBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
     },
     {
       "id": "ppv-lafc-vs-la-galaxy",
@@ -378,31 +324,31 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNGhGBUQMYIgDGILMAghFJEGXEhJwuTrU6R2EDQ01hIK4pQh4UpSnKSBQ4wWz0whYElzynITBuTl1Seg97MGCVcIggA.webp"
     },
     {
-      "id": "ppv-quer-taro-vs-cruz-azul",
-      "title": "Querétaro vs. Cruz Azul",
+      "id": "quer-taro-vs-cruz-azul-2487576",
+      "title": "Querétaro vs Cruz Azul",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "26 Oct 2026, 07:00 AM (BD Time)",
       "start_epoch_ms": 1792976400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcAggYIFCCziQIYIhIgyESSqWz1pEFXnSRWxDWEgphi4gUBjSynKaBQkwWz0whYElx2nITBuTk0JMicPeHJgrQ0gA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbhRQgSIKWCQhuIPiFMQQ5mMe2mQ8AsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
     },
     {
-      "id": "ppv-tijuana-vs-santos",
-      "title": "Tijuana vs. Santos",
+      "id": "tijuana-vs-santos-laguna-2487577",
+      "title": "Tijuana vs Santos Laguna",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "26 Oct 2026, 09:00 AM (BD Time)",
       "start_epoch_ms": 1792983600000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGKXEgyw6SCzYpEEMpoL4ikipABjXSPn6NVEMMUaNEYFdkgU5KwKEim2emELAkuHfaFhuThtSegJgDTAA6xCIIA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRFIQgU2kIm4g+IYxBCmYIEiAs6YBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
-      "id": "ppv-sevilla-vs-osasuna",
-      "title": "Sevilla vs. Osasuna",
+      "id": "sevilla-vs-osasuna-2506263",
+      "title": "Sevilla vs Osasuna",
       "category": "football",
       "status": "UPCOMING",
       "start_time_bd": "27 Oct 2026, 02:00 AM (BD Time)",
       "start_epoch_ms": 1793044800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZCNhAoQZYcAggYICVmUhhagMYgdSrMHjAqITdgPrSUkPsQ1D+hb3ISBQkUzMpyhYElyavITBuTgk5Mi8CA3Jg+VJ5IA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDEAGEANr4Q3XRpAQQKEDFMgSIRCgLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
     }
   ]
 }
