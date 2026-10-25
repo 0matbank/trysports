@@ -1,31 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 36,
-  "total_matches": 36,
+  "total_items": 34,
+  "total_matches": 34,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-25 | 12:50:22",
-  "updated_at_bd": "2026-10-25T12:50:22+06:00",
+  "updated_time_bd": "2026-10-25 | 18:07:53",
+  "updated_at_bd": "2026-10-25T18:07:53+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "fortuna-sittard-vs-excelsior-2489151",
-      "title": "Fortuna Sittard vs Excelsior",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "25 Oct 2026, 05:15 PM (BD Time)",
-      "start_epoch_ms": 1792926900000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLACADMx5aQ3EHxCmcOIzBBWjfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "inter-milan-vs-fiorentina-2482215",
-      "title": "Inter Milan vs Fiorentina",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "25 Oct 2026, 05:30 PM (BD Time)",
-      "start_epoch_ms": 1792927800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp"
-    },
     {
       "id": "athletic-bilbao-vs-getafe-2506261",
       "title": "Athletic Bilbao vs Getafe",

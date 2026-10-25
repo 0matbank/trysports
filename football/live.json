@@ -1,11 +1,86 @@
 {
   "schema_version": 2,
   "category_name": "Football Live",
-  "total_items": 0,
-  "total_matches": 0,
-  "total_streams": 0,
-  "updated_time_bd": "2026-10-25 | 12:50:22",
-  "updated_at_bd": "2026-10-25T12:50:22+06:00",
+  "total_items": 7,
+  "total_matches": 2,
+  "total_streams": 7,
+  "updated_time_bd": "2026-10-25 | 18:07:53",
+  "updated_at_bd": "2026-10-25T18:07:53+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
-  "matches": []
+  "matches": [
+    {
+      "id": "inter-milan-vs-fiorentina-2482215",
+      "title": "Inter Milan vs Fiorentina",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Oct 2026, 05:30 PM (BD Time)",
+      "start_epoch_ms": 1792927800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Paramount+ (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb18.strmd.st/secure/lTdXjXfEhgacCEAGQTcgiDbiohfKOTvf/rtmp/stream/jOcz69RKrm3gr7MZVaLrI9KbpB1-g37lRwYA4YW0uKL4E0C2b8ZhARfuxYoxPx5QsYnmvozBFJ0/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Paramount+ (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb18.strmd.st/secure/xFREeFGdEBkjtHLRtLEGKdkcDdZQQgXy/rtmp/stream/TlatKe-kaXyI3wKHO1iIF5Cgk2-EV4MgmtEi1c9mMp8ywnhgQyi5CekzmmLGplGiz7tOtVdJ4RcidGqG/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Italian - DAZN 1 (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/EuqkMMoehHBAHlTyatnesbAKjhjUPEyP/rtmp/stream/WT2ztRjDmpj2KMPH3-BTwczNqKpHtTwM6_AB9OWh8XedaUKOMmWN6adXKDRNk_9vM-q9o-9Ny77g/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Italian - DAZN 1 (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb8.strmd.st/secure/WGOMseTwkLOCwjEptWTwAmhTUCiwCYKA/rtmp/stream/GzbQXea6LezymuCFEC7pWKhbeOBEkn1xaQADySMjI_5Nyui35_W1zLDlHzqZY6AB0yg8DYExbqe28I8G7w/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Inter Milan vs Fiorentina (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb8.strmd.st/secure/cwrZoYtvCXDRLjxsyowCZrOLvwdEscDI/hotel/stream/internazionale-vs-fiorentina-serie-a-1792927500/1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "fortuna-sittard-vs-excelsior-2489151",
+      "title": "Fortuna Sittard vs Excelsior",
+      "category": "football",
+      "status": "LIVE_NOW",
+      "start_time_bd": "25 Oct 2026, 05:15 PM (BD Time)",
+      "start_epoch_ms": 1792926900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLACADMx5aQ3EHxCmcOIzBBWjfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://embed.st/",
+        "Origin": "https://embed.st"
+      },
+      "streams": [
+        {
+          "channel_name": "Dutch - ESPN (HD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLACADMx5aQ3EHxCmcOIzBBWjfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": true,
+          "direct_stream_url": "https://lb18.strmd.st/secure/yplNWTuLklNkTtZKvPXAnJPIDZYCEbbP/rtmp/stream/rhZq1XJo4-k8Dn5nDrEdlnsQstHRohTUh_zRFsgd4Ty_dvLsGvxYOIp9PW5GebP5lpRDkuLHfy8/1/playlist.m3u8"
+        },
+        {
+          "channel_name": "Dutch - ESPN (SD)",
+          "channel_poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLACADMx5aQ3EHxCmcOIzBBWjfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp",
+          "hd": false,
+          "direct_stream_url": "https://lb18.strmd.st/secure/SadeVWrqivadlhqtbCContXLEZlUWsYG/rtmp/stream/K4Wi-4i5ipf7ihvmodPHJnKUqbtSWTDmnGDeosOmSsFuxuUx42HC7g4XEQq4w-GZN3ymAf__p1WW4rUr/1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }

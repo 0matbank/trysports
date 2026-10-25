@@ -1,6 +1,55 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-10-25 | 12:50:22
+# TOTAL-ITEMS: 7
+# UPDATED Time and date BD: 2026-10-25 | 18:07:53
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="Paramount+ (HD)" tvg-name="Paramount+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp" group-title="Football", Paramount+ (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb18.strmd.st/secure/lTdXjXfEhgacCEAGQTcgiDbiohfKOTvf/rtmp/stream/jOcz69RKrm3gr7MZVaLrI9KbpB1-g37lRwYA4YW0uKL4E0C2b8ZhARfuxYoxPx5QsYnmvozBFJ0/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+ (SD)" tvg-name="Paramount+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp" group-title="Football", Paramount+ (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb18.strmd.st/secure/xFREeFGdEBkjtHLRtLEGKdkcDdZQQgXy/rtmp/stream/TlatKe-kaXyI3wKHO1iIF5Cgk2-EV4MgmtEi1c9mMp8ywnhgQyi5CekzmmLGplGiz7tOtVdJ4RcidGqG/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Italian - DAZN 1 (HD)" tvg-name="Italian - DAZN 1 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp" group-title="Football", Italian - DAZN 1 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/EuqkMMoehHBAHlTyatnesbAKjhjUPEyP/rtmp/stream/WT2ztRjDmpj2KMPH3-BTwczNqKpHtTwM6_AB9OWh8XedaUKOMmWN6adXKDRNk_9vM-q9o-9Ny77g/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Italian - DAZN 1 (SD)" tvg-name="Italian - DAZN 1 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp" group-title="Football", Italian - DAZN 1 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/WGOMseTwkLOCwjEptWTwAmhTUCiwCYKA/rtmp/stream/GzbQXea6LezymuCFEC7pWKhbeOBEkn1xaQADySMjI_5Nyui35_W1zLDlHzqZY6AB0yg8DYExbqe28I8G7w/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Inter Milan vs Fiorentina (HD)" tvg-name="Inter Milan vs Fiorentina (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp" group-title="Football", Inter Milan vs Fiorentina (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb8.strmd.st/secure/cwrZoYtvCXDRLjxsyowCZrOLvwdEscDI/hotel/stream/internazionale-vs-fiorentina-serie-a-1792927500/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dutch - ESPN (HD)" tvg-name="Dutch - ESPN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLACADMx5aQ3EHxCmcOIzBBWjfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", Dutch - ESPN (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb18.strmd.st/secure/yplNWTuLklNkTtZKvPXAnJPIDZYCEbbP/rtmp/stream/rhZq1XJo4-k8Dn5nDrEdlnsQstHRohTUh_zRFsgd4Ty_dvLsGvxYOIp9PW5GebP5lpRDkuLHfy8/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dutch - ESPN (SD)" tvg-name="Dutch - ESPN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLACADMx5aQ3EHxCmcOIzBBWjfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="Football", Dutch - ESPN (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb18.strmd.st/secure/SadeVWrqivadlhqtbCContXLEZlUWsYG/rtmp/stream/K4Wi-4i5ipf7ihvmodPHJnKUqbtSWTDmnGDeosOmSsFuxuUx42HC7g4XEQq4w-GZN3ymAf__p1WW4rUr/1/playlist.m3u8
 
