@@ -1,22 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 9,
-  "total_matches": 9,
+  "total_items": 8,
+  "total_matches": 8,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-26 | 03:39:46",
-  "updated_at_bd": "2026-10-26T03:39:46+06:00",
+  "updated_time_bd": "2026-10-26 | 05:32:50",
+  "updated_at_bd": "2026-10-26T05:32:50+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "atlas-vs-puebla-2487574",
-      "title": "Atlas vs Puebla",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "26 Oct 2026, 05:00 AM (BD Time)",
-      "start_epoch_ms": 1792969200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAKR0EckCRDcNIYxBCmYekBeN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
     {
       "id": "am-rica-vs-pachuca-2487575",
       "title": "América vs Pachuca",
