@@ -1,40 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 11,
-  "total_matches": 11,
+  "total_items": 9,
+  "total_matches": 9,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-26 | 01:01:52",
-  "updated_at_bd": "2026-10-26T01:01:52+06:00",
+  "updated_time_bd": "2026-10-26 | 03:39:46",
+  "updated_at_bd": "2026-10-26T03:39:46+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "ppv-paris-saint-germain-vs-lyon",
-      "title": "Paris Saint-Germain vs. Lyon",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "26 Oct 2026, 01:45 AM (BD Time)",
-      "start_epoch_ms": 1792957500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBAjJwRFUkgI2EAGNxweShDDgSiWRrCQMWQslL5ZHRJQbVk2-zCCRTbPTCFgSXCttDnViUdMlsCWXJnXVJdIA.webp"
-    },
-    {
-      "id": "udinese-vs-ac-milan-2482211",
-      "title": "Udinese vs AC Milan",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "26 Oct 2026, 01:45 AM (BD Time)",
-      "start_epoch_ms": 1792957500000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGTIAMYGSDkhuIPiBImQKEIkQgQEXAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
-    },
-    {
-      "id": "barcelona-vs-real-madrid-2506259",
-      "title": "Barcelona vs Real Madrid",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "26 Oct 2026, 02:00 AM (BD Time)",
-      "start_epoch_ms": 1792958400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELzCgwIWUg0g+IYxBAoQMEKZIhE8AsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
     {
       "id": "atlas-vs-puebla-2487574",
       "title": "Atlas vs Puebla",
@@ -88,6 +61,15 @@
       "start_time_bd": "26 Oct 2026, 09:15 PM (BD Time)",
       "start_epoch_ms": 1793027700000,
       "poster": "https://streamed.pk/favicon.ico"
+    },
+    {
+      "id": "paris-saint-germain-vs-lyon-2489533",
+      "title": "Paris Saint-Germain vs Lyon",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Oct 2026, 01:45 AM (BD Time)",
+      "start_epoch_ms": 1793043900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWAECm8MChDcQfECcM4IIfYYswCwJBT7DZ9FGBUou78vSyzPOsBg7mKiEEA.webp"
     },
     {
       "id": "sevilla-vs-osasuna-2506263",
