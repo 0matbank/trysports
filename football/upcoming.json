@@ -1,40 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 38,
-  "total_matches": 38,
+  "total_items": 36,
+  "total_matches": 36,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-25 | 07:37:39",
-  "updated_at_bd": "2026-10-25T07:37:39+06:00",
+  "updated_time_bd": "2026-10-25 | 12:50:22",
+  "updated_at_bd": "2026-10-25T12:50:22+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "portland-timbers-vs-charlotte-fc-2407170",
-      "title": "Portland Timbers vs Charlotte FC",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "25 Oct 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1792895400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBQUwIPiBghuu40b0kQiCCHMSmSCn2Gz6WlSi5gy8IllnumtGCeYqIQQA.webp"
-    },
-    {
-      "id": "san-diego-fc-vs-seattle-sounders-2407169",
-      "title": "San Diego FC vs Seattle Sounders",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "25 Oct 2026, 08:30 AM (BD Time)",
-      "start_epoch_ms": 1792895400000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMjg1gQoENxB8DeoyRCIIIUzALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "pumas-unam-vs-tigres-uanl-2487573",
-      "title": "Pumas UNAM vs Tigres UANL",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "25 Oct 2026, 09:00 AM (BD Time)",
-      "start_epoch_ms": 1792897200000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBIgUsnUhDcQfECYggzMEFssm+BYEgp3WIsSk1sdbTeXpZdcszAGqL0oUA.webp"
-    },
     {
       "id": "fortuna-sittard-vs-excelsior-2489151",
       "title": "Fortuna Sittard vs Excelsior",
@@ -223,6 +196,15 @@
       "start_time_bd": "25 Oct 2026, 10:15 PM (BD Time)",
       "start_epoch_ms": 1792944900000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgaw4BBARZ80ovGzl8YDURzViSZJCKyWEKcPCJU4BrkgU5BQKEim2emELAkucfaFhuTgUZMnsCa3IAtTIIIA.webp"
+    },
+    {
+      "id": "toulouse-vs-troyes-2489529",
+      "title": "Toulouse vs Troyes",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "25 Oct 2026, 10:15 PM (BD Time)",
+      "start_epoch_ms": 1792944900000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMryhYwKYFJDcQfECcM4IIFAZCJLTJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp"
     },
     {
       "id": "freiburg-vs-bayern-munich-2508387",
