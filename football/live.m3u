@@ -1,6 +1,62 @@
 #EXTM3U
 # CATEGORY NAME: Football Live
-# TOTAL-ITEMS: 0
-# UPDATED Time and date BD: 2026-10-26 | 20:02:11
+# TOTAL-ITEMS: 8
+# UPDATED Time and date BD: 2026-10-27 | 01:51:40
 # NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
+
+#EXTINF:-1 tvg-id="French - Ligue 1+ (HD)" tvg-name="French - Ligue 1+ (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWAECm8MChDcQfECcM4IIfYYswCwJBT7DZ9FGBUou78vSyzPOsBg7mKiEEA.webp" group-title="Football", French - Ligue 1+ (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb17.strmd.st/secure/YSGQBFaNtwLzKyiPSSjqNvwrQRUOniRo/rtmp/stream/AYUbsmMaXRaUBx6hyWz0YXBq0PjSamLA3yFHE8Y_zrM9mbk9KrZqkn9p4QgIbAR_oUhXayJ0jtM/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="French - Ligue 1+ (SD)" tvg-name="French - Ligue 1+ (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWAECm8MChDcQfECcM4IIfYYswCwJBT7DZ9FGBUou78vSyzPOsBg7mKiEEA.webp" group-title="Football", French - Ligue 1+ (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb17.strmd.st/secure/IlcIPDKThcreqlxNQmivpEAuFlKjdbbm/rtmp/stream/u7PWwQhy6tccR9m7cvS7f8KNHR1oCnuWa41Zis5rN7Sn9cdfMAYfSYCQla59IM1eRMoPPPpm_3IYya96/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paris Saint-Germain vs Lyon (HD)" tvg-name="Paris Saint-Germain vs Lyon (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWAECm8MChDcQfECcM4IIfYYswCwJBT7DZ9FGBUou78vSyzPOsBg7mKiEEA.webp" group-title="Football", Paris Saint-Germain vs Lyon (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb17.strmd.st/secure/GqPynMgdiJcwXEURjqoMGwXIumpcnUJH/hotel/stream/paris-saint-germain-vs-lyon-ligue-1-1793043000/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN (HD)" tvg-name="DAZN (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw0sEQkQEEDBEgUIMogDGIKcFlYFELSBBbSiucpnAasqiB01pMFOT0ChIptnphCwJLlWOhMG5OPXEyRwJJciCjMgggA.webp" group-title="Football", DAZN (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb2.strmd.st/secure/mWbYNiLwJfPBjzXeiSsRsYSyPVJiLNFg/rtmp/stream/cnIEX8o5Thl0Xab0Sheyhvus5icKoVSrjp8fvvJ41L4rhOky-RUPJr5RUJb0H1G7pcHwAfJw1zGd_B0/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN (SD)" tvg-name="DAZN (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw0sEQkQEEDBEgUIMogDGIKcFlYFELSBBbSiucpnAasqiB01pMFOT0ChIptnphCwJLlWOhMG5OPXEyRwJJciCjMgggA.webp" group-title="Football", DAZN (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb2.strmd.st/secure/LseUxJlgvFKsKGQRdTOBtamJsFKOgFPD/rtmp/stream/iSjZrp8Ype3UXZhD1ifawK_2QEjk5SX2FkUTVq1l6Jw-nC0auCkaQxjzv7SKZiuG-kw-fvGAT-tYiFQO7Ulf/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2026 Ballon d'Or Ceremony (HD)" tvg-name="2026 Ballon d'Or Ceremony (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw0sEQkQEEDBEgUIMogDGIKcFlYFELSBBbSiucpnAasqiB01pMFOT0ChIptnphCwJLlWOhMG5OPXEyRwJJciCjMgggA.webp" group-title="Football", 2026 Ballon d'Or Ceremony (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb17.strmd.st/secure/uIvIlYtTEoAqUPxQMehxPtYmgBkbTLmx/hotel/stream/2026-ballon-d-or-premier-league-1793041200/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS CONNECT 4 (HD)" tvg-name="beIN SPORTS CONNECT 4 (HD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKkhBk4WYAAYQ3EHxCmpxkDBDmIhkPALAkFPsNn0UYFSi5fy9XVEfJlowLzFRCCA.webp" group-title="Football", beIN SPORTS CONNECT 4 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb2.strmd.st/secure/lDjfQcilfOhPvLDqhwIHroaKtAfkRdYI/rtmp/stream/7Ls928xCrxGGGFwN0_59L6j8Nb8CxeTfFIlq1wrrp96s3Jcvp0aSvHFg2Lwsf1kaM6pFzAFM9b4W/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS CONNECT 4 (SD)" tvg-name="beIN SPORTS CONNECT 4 (SD)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKkhBk4WYAAYQ3EHxCmpxkDBDmIhkPALAkFPsNn0UYFSi5fy9XVEfJlowLzFRCCA.webp" group-title="Football", beIN SPORTS CONNECT 4 (SD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTHTTP:{"Referer":"https://embed.st/","Origin":"https://embed.st","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://lb2.strmd.st/secure/nRKjRfRZTRWUjuOWDHsYVoVqfNgCrBdk/rtmp/stream/_XF3Sjy7MNj4-QfUQtJkVKWOZMurq4SCdkQVFO2zrql3u6jIOx5bnUjztX6ZnS1jknzGDoihG53f_FSAVQ/1/playlist.m3u8
 
