@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 125,
-  "total_matches": 125,
+  "total_items": 129,
+  "total_matches": 129,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-26 | 12:57:03",
-  "updated_at_bd": "2026-10-26T12:57:03+06:00",
+  "updated_time_bd": "2026-10-26 | 20:02:11",
+  "updated_at_bd": "2026-10-26T20:02:11+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
     {
@@ -18,13 +18,49 @@
       "poster": "https://streamed.pk/favicon.ico"
     },
     {
+      "id": "be-ikta--vs--stanbul-ba-ak-ehir-2527796",
+      "title": "Beşiktaş vs İstanbul Başakşehir",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "26 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1793030400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiD6RNsEIm6aQRqYZggTEEAYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+    },
+    {
+      "id": "rizespor-vs-trabzonspor-2527801",
+      "title": "Rizespor vs Trabzonspor",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "26 Oct 2026, 10:00 PM (BD Time)",
+      "start_epoch_ms": 1793030400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAYggg+uMChDdtIY1KMwQprYakFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "galatasaray-vs-fenerbah-e-2527798",
+      "title": "Galatasaray vs Fenerbahçe",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Oct 2026, 12:30 AM (BD Time)",
+      "start_epoch_ms": 1793039400000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKkhBk4WYAAYQ3EHxCmpxkDBDmIhkPALAkFPsNn0UYFSi5fy9XVEfJlowLzFRCCA.webp"
+    },
+    {
       "id": "paris-saint-germain-vs-lyon-2489533",
       "title": "Paris Saint-Germain vs Lyon",
       "category": "football",
       "status": "UPCOMING",
-      "start_time_bd": "27 Oct 2026, 01:45 AM (BD Time)",
-      "start_epoch_ms": 1793043900000,
+      "start_time_bd": "27 Oct 2026, 01:30 AM (BD Time)",
+      "start_epoch_ms": 1793043000000,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWAECm8MChDcQfECcM4IIfYYswCwJBT7DZ9FGBUou78vSyzPOsBg7mKiEEA.webp"
+    },
+    {
+      "id": "ppv-2026-ballon-d-or-ceremony",
+      "title": "2026 Ballon d'Or Ceremony",
+      "category": "football",
+      "status": "UPCOMING",
+      "start_time_bd": "27 Oct 2026, 02:00 AM (BD Time)",
+      "start_epoch_ms": 1793044800000,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw0sEQkQEEDBEgUIMogDGIKcFlYFELSBBbSiucpnAasqiB01pMFOT0ChIptnphCwJLlWOhMG5OPXEyRwJJciCjMgggA.webp"
     },
     {
       "id": "sevilla-vs-osasuna-2506263",
