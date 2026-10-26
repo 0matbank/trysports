@@ -1,22 +1,13 @@
 {
   "schema_version": 2,
   "category_name": "Football Upcoming",
-  "total_items": 123,
-  "total_matches": 123,
+  "total_items": 122,
+  "total_matches": 122,
   "total_streams": 0,
-  "updated_time_bd": "2026-10-27 | 01:51:40",
-  "updated_at_bd": "2026-10-27T01:51:40+06:00",
+  "updated_time_bd": "2026-10-27 | 05:24:23",
+  "updated_at_bd": "2026-10-27T05:24:23+06:00",
   "notice": "Strictly for EDUCATIONAL PURPOSES only, not for commercial use.",
   "matches": [
-    {
-      "id": "sevilla-vs-osasuna-2506263",
-      "title": "Sevilla vs Osasuna",
-      "category": "football",
-      "status": "UPCOMING",
-      "start_time_bd": "27 Oct 2026, 02:00 AM (BD Time)",
-      "start_epoch_ms": 1793044800000,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDEAGEANr4Q3XRpAQQKEDFMgSIRCgLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
-    },
     {
       "id": "sassuolo-vs-lazio-2482218",
       "title": "Sassuolo vs Lazio",
